@@ -1,0 +1,274 @@
+<title>Laboratório Bola de Ouro</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: cabeçalho + faixa de anos; quatro colunas de ranking lado a lado (Real, Histórico, Justo, Meu); detalhe do jogador por baixo. */
+:root{
+  --bg:#f3f5f7; --panel:#ffffff; --fg:#14202b; --muted:#5d6b78; --line:#d9e0e6;
+  --real:#14202b; --hist:#2b5fd9; --fair:#0f8a7e; --mine:#b4690e;
+  --ok:#1b8a4b; --bad:#c23b3b; --chip:#e6ebf0;
+  --f-display:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif;
+  --f-body:'IBM Plex Sans','Helvetica Neue',Arial,sans-serif;
+  --f-mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e151c; --panel:#16202a; --fg:#e7edf2; --muted:#94a3b0; --line:#273543;
+  --real:#e7edf2; --hist:#7ea4ff; --fair:#3fcfbf; --mine:#f0a24a;
+  --ok:#4cc884; --bad:#ef7676; --chip:#1f2c38; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e151c; --panel:#16202a; --fg:#e7edf2; --muted:#94a3b0; --line:#273543;
+  --real:#e7edf2; --hist:#7ea4ff; --fair:#3fcfbf; --mine:#f0a24a;
+  --ok:#4cc884; --bad:#ef7676; --chip:#1f2c38; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--f-body);padding-block:20px 48px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1240px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+h1{font:700 clamp(1.7rem,4vw,2.5rem)/1.05 var(--f-display);margin:0;letter-spacing:-.02em;text-wrap:balance}
+h2{font:700 1.15rem/1.2 var(--f-display);margin:0}
+h3{font:600 .95rem/1.3 var(--f-body);margin:0}
+p{margin:0}
+.top{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:end;justify-content:space-between}
+.top p{color:var(--muted);max-width:60ch;margin-top:6px}
+.tabs{display:flex;gap:4px;background:var(--chip);padding:4px;border-radius:10px}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--hist);outline-offset:2px}
+.tab{border:0;background:transparent;padding:7px 14px;border-radius:7px;font-weight:500;color:var(--muted)}
+.tab[aria-selected="true"]{background:var(--panel);color:var(--fg);box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.years{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px}
+.yr{flex:0 0 auto;border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px 11px;font:500 .85rem var(--f-mono);display:flex;flex-direction:column;align-items:center;gap:2px}
+.yr small{font:500 .62rem var(--f-mono);color:var(--muted);letter-spacing:.04em}
+.yr[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.yr[aria-pressed="true"] small{color:var(--bg);opacity:.75}
+.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:.85rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,225px),1fr));gap:12px}
+.col{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:10px;min-width:0;border-top:4px solid var(--c)}
+.col header{display:flex;flex-direction:column;gap:2px}
+.col header h2{color:var(--c)}
+.col header span{font-size:.78rem;color:var(--muted)}
+.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.row{width:100%;text-align:left;border:1px solid transparent;background:transparent;border-radius:8px;padding:7px 8px;display:grid;grid-template-columns:22px minmax(0,1fr) auto;gap:2px 8px;align-items:center}
+.row:hover{background:var(--chip)}
+.row[aria-pressed="true"]{border-color:var(--c);background:var(--chip)}
+.pos{font:500 .8rem var(--f-mono);color:var(--muted)}
+.nm{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sub{grid-column:2/4;font-size:.76rem;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.sc{font:500 .85rem var(--f-mono);font-variant-numeric:tabular-nums}
+.bar{grid-column:2/4;height:4px;border-radius:2px;background:var(--line);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--c);border-radius:2px}
+.tag{font:500 .68rem var(--f-mono);padding:1px 6px;border-radius:99px;background:var(--chip);color:var(--muted)}
+.tag.win{background:var(--ok);color:#fff}
+.tag.hit{background:var(--ok);color:#fff}
+.faded{opacity:.55}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.cols2{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:500 .72rem var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
+td.n{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.scroll{overflow-x:auto}
+.good{color:var(--ok);font-weight:600}
+.miss{color:var(--muted)}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.stat{border:1px solid var(--line);border-radius:12px;padding:14px;background:var(--panel);border-top:4px solid var(--c);display:flex;flex-direction:column;gap:4px}
+.stat b{font:700 2rem/1 var(--f-display);color:var(--c)}
+.stat span{font-size:.8rem;color:var(--muted)}
+.brk{display:flex;flex-direction:column;gap:5px}
+.brk div{display:grid;grid-template-columns:minmax(0,1fr) 54px;gap:8px;font-size:.8rem;align-items:center}
+.brk em{font-style:normal;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.brk .bb{grid-column:1/3;height:5px;background:var(--line);border-radius:3px;overflow:hidden}
+.brk .bb i{display:block;height:100%;background:var(--c)}
+.sl{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px 22px}
+.sl label{display:flex;flex-direction:column;gap:3px;font-size:.82rem;color:var(--muted)}
+.sl label b{color:var(--fg);font-weight:600;display:flex;justify-content:space-between}
+input[type=range]{width:100%;accent-color:var(--mine)}
+.btn{border:1px solid var(--line);background:var(--chip);border-radius:8px;padding:6px 12px;font-size:.82rem}
+.note{font-size:.82rem;color:var(--muted);border-left:3px solid var(--line);padding-left:10px}
+.prose{display:flex;flex-direction:column;gap:12px;max-width:78ch}
+.prose ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
+.conf{font:600 .7rem var(--f-mono);padding:1px 7px;border-radius:99px;border:1px solid var(--line)}
+.conf-A{color:var(--ok)} .conf-B{color:var(--mine)} .conf-C{color:var(--bad)}
+</style>
+
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>Laboratório Bola de Ouro</h1>
+      <p>Três algoritmos para decidir o vencedor, comparados com o resultado real de cada ano entre 2010 e 2026.</p>
+    </div>
+    <div class="tabs" role="tablist" id="tabs"></div>
+  </div>
+  <div id="view"></div>
+</div>
+
+<script>
+/*DATA*/
+</script>
+<script>
+/*MODELS*/
+</script>
+<script>
+(function(){
+const {YEARS,LEAGUE}=window.BDO_DATA, M=window.BDO_MODELS;
+const HW=/*WEIGHTS*/[];
+const HIST_STATS=/*STATS*/{};
+const ALGS=[{k:'real',n:'Resultado real',c:'var(--real)',d:'Votação oficial'},
+ {k:'hist',n:'Histórico',c:'var(--hist)',d:'Regras ajustadas aos vencedores'},
+ {k:'fair',n:'Justo',c:'var(--fair)',d:'Só desempenho individual'},
+ {k:'mine',n:'O meu',c:'var(--mine)',d:'Individual + crédito de equipa proporcional'}];
+const VIDEO26=['Harry Kane','Michael Olise','Ousmane Dembélé','Kylian Mbappé','Lamine Yamal','Rodri','Erling Haaland','Khvicha Kvaratskhelia','Luis Díaz','Vitinha'];
+const VID={k:'video',n:'Lista do vídeo',c:'var(--muted)',d:'Ranking que o vídeo mostra para 2026'};
+const STAGE=['grupos/fora','oitavos','quartos','meias','final perdida','vencedor'];
+const POS={FW:'Avançado',W:'Extremo',AM:'Médio ofensivo',CM:'Médio',DM:'Médio defensivo',DF:'Defesa',GK:'Guarda-redes'};
+const years=Object.keys(YEARS).map(Number);
+const MINE0=Object.assign({},M.MINE_DEFAULT);
+let st={tab:'ano',year:2026,sel:null,mine:Object.assign({},MINE0)};
+try{const h=location.hash.slice(1);if(h==='resumo'||h==='metodo')st.tab=h;else if(/^a\d{4}$/.test(h)&&YEARS[h.slice(1)]){st.year=+h.slice(1)}}catch(e){}
+
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const $=s=>document.querySelector(s);
+
+function compute(y){
+  const rows=YEARS[y].rows, ctx=M.histCtx(rows);
+  return {
+    hist:M.rankYear(rows,r=>M.hist(r,HW,ctx)),
+    fair:M.rankYear(rows,r=>M.fair(r)),
+    mine:M.rankYear(rows,r=>M.mine(r,st.mine))
+  };
+}
+const cache={};
+function all(y){return compute(y)}
+
+function tabs(){
+  const T=[['ano','Por ano'],['resumo','Resumo'],['metodo','Método']];
+  $('#tabs').innerHTML=T.map(([k,l])=>`<button class="tab" role="tab" data-t="${k}" aria-selected="${st.tab===k}">${l}</button>`).join('');
+  $('#tabs').querySelectorAll('button').forEach(b=>b.onclick=()=>{st.tab=b.dataset.t;try{location.hash=st.tab==='ano'?'a'+st.year:st.tab}catch(e){}render()});
+}
+
+function yearStrip(){
+  return `<div class="years">${years.map(y=>`<button class="yr" data-y="${y}" aria-pressed="${y===st.year}">${y}<small>${YEARS[y].real?'':'sem prémio'}</small></button>`).join('')}</div>`;
+}
+
+function colHtml(a,res,y){
+  const Y=YEARS[y];
+  let items;
+  if(a.k==='video'){
+    items=VIDEO26.map((n,i)=>({r:Y.rows.find(r=>r.name===n),pos:i+1,score:null})).filter(x=>x.r);
+  } else if(a.k==='real'){
+    const rk=Y.rows.filter(r=>r.rank).sort((p,q)=>p.rank-q.rank).map(r=>({r,pos:r.rank,score:null}));
+    const rest=Y.rows.filter(r=>!r.rank).map(r=>({r,pos:'–',score:null,faded:1}));
+    items=rk.concat(rest);
+  } else {
+    const mx=Math.max(...res[a.k].map(x=>x.score));
+    items=res[a.k].map((x,i)=>({r:x.r,pos:i+1,score:x.score,w:Math.max(0,x.score)/mx*100}));
+  }
+  const li=items.map(it=>{
+    const r=it.r, isW=Y.real&&r.name===Y.real;
+    const tag=a.k==='video'?(r.rank?`<span class="tag">real #${r.rank}</span>`:''):a.k==='real'?(it.pos===1?'<span class="tag win">vencedor</span>':(it.faded?'':'<span class="tag">#'+it.pos+'</span>')):(r.rank?`<span class="tag ${isW&&it.pos===1?'hit':''}">real #${r.rank}</span>`:'');
+    return `<li><button class="row ${it.faded?'faded':''}" style="--c:${a.c}" data-n="${esc(r.name)}" aria-pressed="${st.sel===r.name}">
+      <span class="pos">${it.pos}</span><span class="nm">${esc(r.name)}</span>
+      <span class="sc">${it.score==null?'':(a.k==='hist'?it.score.toFixed(2):it.score.toFixed(0))}</span>
+      <span class="sub"><span>${esc(r.club)} · ${POS[r.pos]}</span>${tag}</span>
+      ${it.score==null?'':`<span class="bar"><i style="width:${it.w}%"></i></span>`}
+    </button></li>`;
+  }).join('');
+  return `<section class="col" style="--c:${a.c}"><header><h2>${a.n}</h2><span>${a.d}</span></header><ul class="list">${li}</ul></section>`;
+}
+
+function detail(y,res){
+  if(!st.sel)return `<div class="note">Escolhe um jogador numa das colunas para ver os números e a decomposição da pontuação em cada algoritmo.</div>`;
+  const r=YEARS[y].rows.find(x=>x.name===st.sel); if(!r)return '';
+  const ctx=M.histCtx(YEARS[y].rows);
+  const pos=k=>res[k].findIndex(x=>x.r===r)+1;
+  const parts={hist:M.hist(r,HW,ctx).parts,fair:M.fair(r).parts,mine:M.mine(r,st.mine).parts};
+  const brk=k=>{const a=ALGS.find(z=>z.k===k);const e=Object.entries(parts[k]).filter(([,v])=>v>0.0001).sort((p,q)=>q[1]-p[1]);
+    const mx=Math.max(...e.map(x=>x[1]),1e-9);
+    return `<div style="--c:${a.c}"><h3 style="color:${a.c}">${a.n} · ${pos(k)}.º lugar</h3><div class="brk">${e.map(([n,v])=>`<div><em title="${esc(n)}">${esc(n)}</em><span class="sc">${v.toFixed(k==='hist'?2:0)}</span><span class="bb"><i style="width:${v/mx*100}%"></i></span></div>`).join('')}</div></div>`};
+  const nt=r.ntT?`${r.ntT}: ${r.ntGP} j, ${r.ntG} g, ${r.ntA} a, ${STAGE[r.ntS]}`:'sem torneio de seleções';
+  return `<div class="panel"><div><h2>${esc(r.name)} <span class="conf conf-${r.conf}" title="A verificado, B conhecimento aproximado, C estimativa/parcial">dados ${r.conf}</span></h2>
+    <p class="note" style="margin-top:6px">${esc(r.club)} · ${POS[r.pos]} · liga ${r.lg} (força ${LEAGUE[r.lg]}) · ${r.title?'campeão nacional':'não campeão nacional'}${r.rank?' · classificado em '+r.rank+'.º na votação':''}</p></div>
+    <div class="scroll"><table><tr><th>Liga + Europa</th><th>Europa</th><th>Seleção</th>${r.cont!=null?'<th>Contributo não ofensivo*</th>':''}</tr>
+    <tr><td class="n">${r.gp} j · ${r.g} g · ${r.a} a</td><td class="n">${r.uG} g · ${r.uA} a · ${STAGE[r.uS]}</td><td class="n">${esc(nt)}</td>${r.cont!=null?`<td class="n">${r.cont}/10</td>`:''}</tr></table></div>
+    ${r.cont!=null?'<p class="note">*Estimativa subjetiva minha para médios, defesas e guarda-redes, porque golos e assistências não medem o seu impacto.</p>':''}
+    <div class="cols2">${brk('hist')}${brk('fair')}${brk('mine')}</div></div>`;
+}
+
+function minePanel(){
+  const m=st.mine;
+  const S=(k,l,min,max,step,f)=>`<label>${l}<b><span></span><span id="v_${k}">${(f||(x=>x))(m[k])}</span></b><input type="range" id="s_${k}" data-k="${k}" min="${min}" max="${max}" step="${step}" value="${m[k]}"></label>`;
+  return `<div class="panel" style="border-top:4px solid var(--mine)"><div><h2 style="color:var(--mine)">Ajusta o meu algoritmo</h2><p class="note" style="margin-top:6px">Mexe nos pesos e vê a coluna “O meu” mudar em todos os anos, incluindo no Resumo.</p></div>
+  <div class="sl">${S('wTeam','Peso do crédito de equipa',0,0.6,0.01,x=>Math.round(x*100)+'%')}${S('euBonus','Bónus Europa (oposição de topo)',0,0.8,0.05,x=>'+'+Math.round(x*100)+'%')}${S('ntBoost','Peso da seleção (torneio)',0.6,1.6,0.05,x=>'×'+(+x).toFixed(2))}${S('assistW','Valor de uma assistência vs golo',0.3,1,0.05,x=>(+x).toFixed(2))}${S('wCont','Peso do contributo não ofensivo',0,0.6,0.02,x=>Math.round(x*100)+'%')}</div>
+  <div><button class="btn" id="reset">Repor valores por defeito</button></div></div>`;
+}
+
+function viewYear(){
+  const y=st.year, Y=YEARS[y], res=all(y);
+  const winTxt=Y.real?`Vencedor real: <b>${esc(Y.real)}</b>`:'Prémio não atribuído (COVID-19)';
+  const picks=['hist','fair','mine'].map(k=>{const n=res[k][0].r.name;const ok=Y.real&&n===Y.real;
+    return `<span>${ALGS.find(a=>a.k===k).n}: <b class="${ok?'good':''}">${esc(n)}${ok?' ✓':''}</b></span>`}).join('');
+  $('#view').innerHTML=`<div style="display:flex;flex-direction:column;gap:14px">${yearStrip()}
+   <div class="meta"><span>Época ${esc(Y.label)}</span><span>${winTxt}</span>${picks}</div>
+   ${y===2026?'<div class="note">2026 é o teste a sério: o Histórico foi calibrado só com 2010–2025 e não viu estes dados. A última coluna é a ordem que o vídeo mostra para o seu modelo histórico. O meu Histórico não a reproduz: ordenei os candidatos sem as taças nacionais e sem a contagem fina de troféus que o vídeo parece usar, por isso Olise e Dembélé ficam mais abaixo.</div>':''}
+   <div class="grid">${ALGS.concat(y===2026?[VID]:[]).map(a=>colHtml(a,res,y)).join('')}</div>
+   ${detail(y,res)}${minePanel()}</div>`;
+  $('#view').querySelectorAll('.yr').forEach(b=>b.onclick=()=>{st.year=+b.dataset.y;st.sel=null;try{location.hash='a'+st.year}catch(e){}viewYear()});
+  $('#view').querySelectorAll('.row').forEach(b=>b.onclick=()=>{st.sel=st.sel===b.dataset.n?null:b.dataset.n;viewYear()});
+  bindMine(viewYear);
+  const s=$('#view .yr[aria-pressed="true"]');if(s&&s.scrollIntoView)try{s.scrollIntoView({inline:'center',block:'nearest'})}catch(e){}
+}
+
+function bindMine(redo){
+  $('#view').querySelectorAll('input[type=range]').forEach(i=>i.oninput=()=>{st.mine[i.dataset.k]=+i.value;redo()});
+  const r=$('#reset');if(r)r.onclick=()=>{st.mine=Object.assign({},MINE0);redo()};
+}
+
+function summary(){
+  const algK=['hist','fair','mine'];
+  const stats={hist:{w:0,t3:0,n:0},fair:{w:0,t3:0,n:0},mine:{w:0,t3:0,n:0}};
+  const out=[];
+  years.forEach(y=>{const res=all(y), real=YEARS[y].real; const row={y,real,p:{}};
+    algK.forEach(k=>{const top=res[k].map(x=>x.r.name);row.p[k]=top[0];
+      if(real&&y<=2025){stats[k].n++;if(top[0]===real)stats[k].w++;if(top.slice(0,3).includes(real))stats[k].t3++;}});
+    out.push(row)});
+  const l26=(k)=>out.find(o=>o.y===2026).p[k]===YEARS[2026].real;
+  const cards=algK.map(k=>{const a=ALGS.find(z=>z.k===k);
+    return `<div class="stat" style="--c:${a.c}"><b>${stats[k].w}/${stats[k].n}</b><h3>${a.n}</h3><span>vencedores certos em 2010–2025 · ${stats[k].t3}/${stats[k].n} no top 3 · 2026: ${l26(k)?'acerta':'falha'}</span></div>`}).join('');
+  const rowsH=out.map(o=>{
+    const cell=k=>{const ok=o.real&&o.p[k]===o.real;return `<td class="${ok?'good':(o.real?'miss':'miss')}">${esc(o.p[k])}${ok?' ✓':''}</td>`};
+    return `<tr><td class="n"><a href="#a${o.y}" data-y="${o.y}" style="color:inherit">${o.y}</a></td><td><b>${o.real?esc(o.real):'não atribuído'}</b></td>${cell('hist')}${cell('fair')}${cell('mine')}</tr>`}).join('');
+  $('#view').innerHTML=`<div style="display:flex;flex-direction:column;gap:16px">
+   <div class="cards">${cards}</div>
+   <div class="note">O Histórico foi ajustado aos 15 vencedores de 2010–2025, por isso o seu resultado nesse período é “dentro da amostra”. Deixando um ano de fora de cada vez, acertou ${HIST_STATS.loo} de ${HIST_STATS.n}. O Justo e o Meu não foram ajustados aos vencedores. O Meu muda com os controlos na vista “Por ano”.</div>
+   <div class="panel"><div class="scroll"><table><tr><th>Ano</th><th>Vencedor real</th><th style="color:var(--hist)">Histórico</th><th style="color:var(--fair)">Justo</th><th style="color:var(--mine)">O meu</th></tr>${rowsH}</table></div></div></div>`;
+  $('#view').querySelectorAll('a[data-y]').forEach(a=>a.onclick=e=>{e.preventDefault();st.year=+a.dataset.y;st.tab='ano';st.sel=null;try{location.hash='a'+st.year}catch(x){}render()});
+}
+
+function method(){
+  const hw=M.HIST_FEATURES.map((f,i)=>[f[1],HW[i]]).filter(x=>x[1]>0.001).sort((a,b)=>b[1]-a[1]);
+  $('#view').innerHTML=`<div class="panel"><div class="prose">
+  <h2>Como funciona</h2>
+  <p>O vídeo que serviu de base descreve dois modelos: um “histórico”, com regras ajustadas para os vencedores de 2010 a 2025, e um “justo”, sem troféus de equipa e corrigido por posição, força da liga e minutos. Os pesos não são divulgados, por isso recriei-os por aproximação. O que está aqui não é o modelo do vídeo, é uma reconstrução minha.</p>
+  <h3 style="color:var(--hist)">Histórico</h3>
+  <p>Pontuação linear sobre ${M.HIST_FEATURES.length} critérios (produção ofensiva, fase europeia, seleção, título, posição, contributo não ofensivo e versões relativas aos rivais do ano). Os pesos saem de um programa linear que tenta pôr cada vencedor à frente de todos os outros candidatos. Resultado: ${HIST_STATS.inSample} de ${HIST_STATS.n} dentro da amostra e ${HIST_STATS.loo} de ${HIST_STATS.n} deixando um ano de fora. Falha Messi 2010 e Messi 2023. Em 2026 previu Yamal e ganhou Kane. Tentei também ajustar os pesos à ordem do top 10 que o vídeo mostra para 2026, mas com os meus critérios isso fazia o modelo perder vencedores reais (de 13 para 10 ou 12 em 15), por isso não a usei. Mostro essa lista como referência.</p>
+  <div class="scroll"><table><tr><th>Critério</th><th>Peso</th></tr>${hw.map(x=>`<tr><td>${esc(x[0])}</td><td class="n">${x[1].toFixed(2)}</td></tr>`).join('')}</table></div>
+  <h3 style="color:var(--fair)">Justo</h3>
+  <p>Só desempenho individual. Golos e assistências ajustados à força da liga (Premier League 1,00 até MLS 0,62), com bónus pequeno para a Europa, comparados com o que se espera de um candidato de elite na posição e encolhidos para a média quando há poucos jogos. Para médios, defesas e guarda-redes entra uma estimativa subjetiva do contributo não ofensivo.</p>
+  <h3 style="color:var(--mine)">O meu</h3>
+  <p>Cerca de 80% de desempenho individual e 20% de crédito de equipa. O crédito de equipa só conta na proporção do que o próprio jogador produziu na Europa, na seleção e no campeonato, para que ganhar sem contribuir não dê pontos. Dou mais peso à produção contra adversários de topo (Europa e torneios de seleções). Podes alterar todos estes pesos na vista “Por ano”.</p>
+  <h2>Limites dos dados</h2>
+  <ul>
+   <li>Âmbito igual para todos: liga, competições europeias e fase final de torneios de seleções. Taças nacionais e qualificação ficam de fora.</li>
+   <li>Cada ano tem só 5 a 11 candidatos, os que costumam aparecer no topo da votação.</li>
+   <li>Nível de confiança dos números: A verificado em fontes, B conhecimento próprio aproximado (quase todos de 2010 a 2025), C estimativa ou parcial (vários candidatos de 2026).</li>
+   <li>O contributo não ofensivo é uma estimativa minha e pesa bastante nos médios e defesas. A força das ligas é constante no tempo.</li>
+   <li>Os modelos medem desempenho, não a narrativa que influencia os votantes, e com uma amostra tão pequena o Histórico pode estar sobreajustado.</li>
+  </ul>
+  <h2>Fontes</h2>
+  <p>Resultados das votações: Wikipedia, RSSSF e FIFA/France Football. 2026: Yahoo Sports e Foot Africa. Estatísticas: Bundesliga.com, Sofascore, FotMob, UEFA, Goal e conhecimento próprio. Vídeo: “I know who wins the Ballon d’Or 2026” (Pogorabona).</p>
+  </div></div>`;
+}
+
+function render(){tabs();if(st.tab==='ano')viewYear();else if(st.tab==='resumo')summary();else method();}
+window.addEventListener('hashchange',()=>{try{const h=location.hash.slice(1);if(h==='resumo'||h==='metodo'){st.tab=h}else if(/^a\d{4}$/.test(h)&&YEARS[h.slice(1)]){st.tab='ano';st.year=+h.slice(1)}else return;render()}catch(e){}});
+render();
+})();
+</script>
