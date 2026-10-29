@@ -15,6 +15,13 @@ Língua com o utilizador: português de Portugal.
 - Quase tudo de 2010–2025 vem de memória (confiança B). 2026 fora do top 3 é estimado (C).
 - Força das ligas constante no tempo.
 
+## Passo 1 (em curso) — dados 1956–2025
+Decisões do utilizador: top 10 oficial por ano + inelegíveis fortes (`elig:0`, lista "Todos"); alvo da lista "Todos" = vencedor retroativo da France Football (2016); janela = ano civil até 2021 (recurso `win:'S'` → conf C), época desde 2022; 2010–2021 refeitos em ano civil; assistências estimadas com `aConf`; força das ligas e peso das taças por década (eras.js); fontes em sources.json; reajuste reportando dentro da amostra e LOO (2010–2025 e período completo).
+- Fluxo: data-src/*.json (formato em data-src/SPEC.md) + eras.js → `node gen-data.js` → data.js + sources.json → `node dump.js > feats.json && python3 lp3.py` → `node check.js` → `node build.js` (index.html).
+- Feito: 1.ª passagem de todos os blocos 1956–2025 (794 linhas). Votações/pontos/retroativos confirmados por pesquisa; estatísticas quase todas de memória (A 14 / B 40 / C 740). data.js AINDA é o antigo: falta correr gen-data.js (o models.js novo precisa do data.js gerado).
+- Teste provisório com a 1.ª passagem: ajuste 2010–2025 → 14/15 dentro, 9/15 LOO; ajuste 1956–2025 → 28/69 dentro, 26/69 LOO (8/15 em 2010–2025). Pesos fixos não explicam 70 anos de votos.
+- Próximo: 2.ª passagem de verificação bloco a bloco seguindo "Método de verificação" do SPEC (Wikipédia via `action=raw`, RSSSF, eu-football.info; NÃO transfermarkt/fbref/worldfootball nem falsear user-agent). Faltam ainda 1984 (9.º–10.º) e 1985 (4.º–10.º). Depois: gen-data, reajuste, atualizar site e este ficheiro.
+
 ## Próximos passos pedidos pelo utilizador
 1. Estender os dados o mais atrás possível (mínimo 1992; idealmente desde 1956), marcando confiança.
 2. Acrescentar critérios de troféus/prémios individuais e tentar 15/15 sem sobreajustar (reportar sempre dentro da amostra vs leave-one-out).
