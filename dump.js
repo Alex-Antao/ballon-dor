@@ -1,3 +1,7 @@
+// Exporta as features do Histórico (calculadas em models.js) para o ajuste em lp3.py, por ano e por lista.
 const {YEARS}=require('./data.js');const M=require('./models.js');
-const o={};for(const y of Object.keys(YEARS))o[y]={real:YEARS[y].real,rows:YEARS[y].rows.map(r=>({n:r.name,pos:r.pos,g:r.g,a:r.a,uS:r.uS,ntS:r.ntS,title:r.title,f:M.histFeatures(r,M.histCtx(YEARS[y].rows)).slice(0,10)}))};
+const o={};
+for(const y of Object.keys(YEARS)){const Y=YEARS[y];o[y]={};
+ for(const L of ['elig','all']){const rows=M.listRows(Y,L),c=M.histCtx(rows);
+  o[y][L]={real:M.target(Y,L),rows:rows.map(r=>({n:r.name,f:M.histFeatures(r,c)}))};}}
 console.log(JSON.stringify(o));
