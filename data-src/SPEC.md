@@ -57,3 +57,20 @@ Com `window: CY`, conta-se o que foi jogado entre 1 jan e 31 dez de Y (2.ª meta
 - `conf` (números sem ser assistências): A = verificado em ≥1 fonte fiável para essa janela; B = parcialmente verificado (p.ex. totais por época verificados, divisão do ano civil estimada a partir de jogos conhecidos); C = estimativa, ou `win: "S"` em ano CY.
 - `aConf`: confiança de a/uA/ntA (antes de ~2005 normalmente C = estimado).
 - `sources`: URLs efetivamente consultados para essa linha. `note`: dúvidas, divergências entre fontes, etc.
+
+## Regras decididas depois da primeira passagem
+- **Europa sem edição a terminar em Y:** `uT` = prova jogada no outono de Y, `uS` = 0. Em `g`/`uG` (e `gp`) entram TODOS os jogos continentais do ano civil (das duas edições); `uT`/`uS` referem-se à edição que termina em Y quando existe.
+- **Títulos retirados:** conta o que se sabia na altura da votação (dezembro de Y). Juventus 2004/05 conta em 2005 (retirado só em 2006); Juventus 2005/06 não conta em 2006; Marselha 1992/93 não conta em 1993.
+- **Dois torneios de seleções no mesmo ano** (p.ex. CAN + Mundial): fica o de maior `ntS` × NTMULT (empate → maior produção); o outro vai para `note`.
+- **Brasil antes de 1971:** campeonato estadual + torneio nacional como `lg: "BRA"`.
+- Ligas extra aceites: EN2 (2.º escalão inglês), ITB (Serie B), CZE, PER, CHN.
+
+## Método de verificação (2.ª passagem)
+- Ler a Wikipédia por wikitext: `curl -s "https://en.wikipedia.org/w/index.php?title=TÍTULO&action=raw"` (outras línguas: trocar `en`). Encontrar títulos com `https://en.wikipedia.org/w/api.php?action=opensearch&search=...&format=json`.
+- Fontes úteis: páginas de época dos clubes (`2012–13 FC Barcelona season`, com marcadores jogo a jogo → permitem contar o ano civil), páginas dos torneios de seleções e de cada edição europeia, estatísticas de carreira do jogador, RSSSF (`www.rsssf.org`), eu-football.info (jogos de seleção).
+- NÃO usar transfermarkt, fbref nem worldfootball (protecção anti-bots) e nunca falsear o user-agent. Evitar WebSearch (quota partilhada).
+- Confiança por linha = componente mais fraca de (gp/g, uG/uS, nt*, title):
+  - A: números do ano civil (ou da época, se window P) contados a partir de dados jogo a jogo ou de totais oficiais para essa janela exata.
+  - B: totais por época verificados e divisão do ano civil estimada com dados parciais.
+  - C: estimativa.
+- `aConf`: A/B só quando há registo de assistências numa fonte; senão C.
