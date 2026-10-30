@@ -44,7 +44,7 @@ Only the national LEAGUE + CONTINENTAL CLUB COMPETITION + FINAL TOURNAMENT of a 
 With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second half of season Y-1/Y + first half of Y/Y+1; calendar-year leagues, such as Brazil/USSR/Scandinavia, count the year). If the split cannot be obtained, use the season ending in Y (`win: "S"`, and `conf` becomes "C"). With `window: P`, `win: "P"`.
 
 - `name`: as in the current data.js when the player already exists (e.g. "Lionel Messi", "Cristiano Ronaldo", "Andrés Iniesta").
-- `club`: main club in the window (if they moved, "Club A / Club B"). `lg` = league of the club where they played most games.
+- `club`: main club in the window (if they moved, "Club A / Club B"), under its usual English name and spelt the same way in every row (a club's former name, such as "CDNA Sofia" or "Újpesti Dózsa", stays for the years it was used). `lg` = league of the club where they played most games.
 - `lg` (codes): EPL (English top flight, incl. First Division), LL, BL (West German Bundesliga; before 1963 Oberliga = GER), SA, L1, ERE, POR, SCO, BEL, AUT, SUI, SWE, DEN, NOR, TUR, GRE, URS, RUS, UKR, YUG, TCH, HUN, POL, ROU, BUL, DDR, BRA, ARG, URU, MEX, MLS, KSA. Other → 3-letter code, explained in `note`.
 - `pos`: FW (centre-forward), W (winger/wide forward), AM (attacking midfielder/10), CM, DM, DF, GK.
 - `gp/g/a`: games/goals/assists in the league + continental competition.

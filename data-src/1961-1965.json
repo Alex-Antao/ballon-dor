@@ -144,7 +144,7 @@
       },
       {
         "name": "Lev Yashin",
-        "club": "Dynamo Moscovo",
+        "club": "Dynamo Moscow",
         "lg": "URS",
         "pos": "GK",
         "gp": 19,
@@ -463,7 +463,7 @@
       },
       {
         "name": "Bobby Charlton",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "W",
         "gp": 36,
@@ -642,7 +642,7 @@
     "rows": [
       {
         "name": "Josef Masopust",
-        "club": "Dukla Praga",
+        "club": "Dukla Prague",
         "lg": "TCH",
         "pos": "CM",
         "gp": 32,
@@ -776,7 +776,7 @@
       },
       {
         "name": "Dragoslav Šekularac",
-        "club": "Crvena Zvezda",
+        "club": "Red Star Belgrade",
         "lg": "YUG",
         "pos": "AM",
         "gp": 26,
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "John Charles",
-        "club": "Juventus / Leeds / Roma",
+        "club": "Juventus / Leeds United / Roma",
         "lg": "SA",
         "pos": "FW",
         "gp": 27,
@@ -1197,7 +1197,7 @@
     "rows": [
       {
         "name": "Lev Yashin",
-        "club": "Dynamo Moscovo",
+        "club": "Dynamo Moscow",
         "lg": "URS",
         "pos": "GK",
         "gp": 27,
@@ -1333,7 +1333,7 @@
       },
       {
         "name": "Denis Law",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "FW",
         "gp": 38,
@@ -1516,7 +1516,7 @@
       },
       {
         "name": "Bobby Charlton",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "W",
         "gp": 40,
@@ -1705,7 +1705,7 @@
     "rows": [
       {
         "name": "Denis Law",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "FW",
         "gp": 39,
@@ -2028,7 +2028,7 @@
       },
       {
         "name": "Lev Yashin",
-        "club": "Dynamo Moscovo",
+        "club": "Dynamo Moscow",
         "lg": "URS",
         "pos": "GK",
         "gp": 28,
@@ -2117,7 +2117,7 @@
       },
       {
         "name": "Valery Voronin",
-        "club": "Torpedo Moscovo",
+        "club": "Torpedo Moscow",
         "lg": "URS",
         "pos": "CM",
         "gp": 32,
@@ -2396,7 +2396,7 @@
       },
       {
         "name": "Bobby Charlton",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "AM",
         "gp": 48,
@@ -2627,7 +2627,7 @@
       },
       {
         "name": "Valery Voronin",
-        "club": "Torpedo Moscovo",
+        "club": "Torpedo Moscow",
         "lg": "URS",
         "pos": "CM",
         "gp": 30,

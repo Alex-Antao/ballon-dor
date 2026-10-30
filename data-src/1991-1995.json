@@ -58,7 +58,7 @@
    },
    {
     "name": "Dejan Savićević",
-    "club": "Red Star",
+    "club": "Red Star Belgrade",
     "lg": "YUG",
     "pos": "AM",
     "gp": 32,
@@ -106,7 +106,7 @@
    },
    {
     "name": "Darko Pančev",
-    "club": "Red Star",
+    "club": "Red Star Belgrade",
     "lg": "YUG",
     "pos": "FW",
     "gp": 41,
@@ -202,7 +202,7 @@
    },
    {
     "name": "Robert Prosinečki",
-    "club": "Red Star / Real Madrid",
+    "club": "Red Star Belgrade / Real Madrid",
     "lg": "YUG",
     "pos": "CM",
     "gp": 21,
@@ -348,7 +348,7 @@
    },
    {
     "name": "Miodrag Belodedici",
-    "club": "Red Star",
+    "club": "Red Star Belgrade",
     "lg": "YUG",
     "pos": "DF",
     "gp": 39,
@@ -391,7 +391,7 @@
    },
    {
     "name": "Mark Hughes",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "FW",
     "gp": 43,
@@ -778,7 +778,7 @@
    },
    {
     "name": "Peter Schmeichel",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "GK",
     "gp": 43,
@@ -969,7 +969,7 @@
    },
    {
     "name": "Stéphane Chapuisat",
-    "club": "Dortmund",
+    "club": "Borussia Dortmund",
     "lg": "BL",
     "pos": "FW",
     "gp": 41,
@@ -1306,7 +1306,7 @@
    },
    {
     "name": "Eric Cantona",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "FW",
     "gp": 39,
@@ -1590,7 +1590,7 @@
    },
    {
     "name": "Stéphane Chapuisat",
-    "club": "Dortmund",
+    "club": "Borussia Dortmund",
     "lg": "BL",
     "pos": "FW",
     "gp": 43,
@@ -1636,7 +1636,7 @@
    },
    {
     "name": "Ryan Giggs",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "W",
     "gp": 41,
@@ -2364,7 +2364,7 @@
   "rows": [
    {
     "name": "George Weah",
-    "club": "PSG / Milan",
+    "club": "Paris Saint-Germain / Milan",
     "lg": "L1",
     "pos": "FW",
     "gp": 35,
@@ -2747,7 +2747,7 @@
    },
    {
     "name": "Matthias Sammer",
-    "club": "Dortmund",
+    "club": "Borussia Dortmund",
     "lg": "BL",
     "pos": "DF",
     "gp": 35,

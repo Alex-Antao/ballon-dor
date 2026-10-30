@@ -55,12 +55,9 @@ function samePlayer(link, title) {
   return linkCache[link] === title;
 }
 
-// Short or non-English club names in the data → name in the match boxes
+// Club names in the data that differ from the name in the match boxes
 const CLUB = {
-  'Man United': 'Manchester United', 'Man City': 'Manchester City', Dortmund: 'Borussia Dortmund', Lyon: 'Olympique Lyonnais',
-  'Stade de Reims': 'Reims', Verona: 'Hellas Verona', 'Dínamo Kiev': 'Dynamo Kyiv', 'Dinamo Bucareste': 'Dinamo București',
-  'CSKA Sófia': 'CSKA Sofia', 'CDNA Sofia': 'CDNA Sofia', 'Dukla Praga': 'Dukla Prague', 'Dukla Praha': 'Dukla Prague',
-  'Legia Varsóvia': 'Legia Warsaw', 'Slavia Praga': 'Slavia Prague', 'Spartak Moscovo': 'Spartak Moscow', 'AEK Atenas': 'AEK Athens',
+  'Man City': 'Manchester City', Lyon: 'Olympique Lyonnais', 'Stade de Reims': 'Reims', Verona: 'Hellas Verona',
 };
 function rowOpponents(r, y, win) {
   const title = A.titleOf(r.name, y), clubs = r.club.split(' / ').flatMap(c => CLUB[c] ? [c, CLUB[c]] : [c]);
