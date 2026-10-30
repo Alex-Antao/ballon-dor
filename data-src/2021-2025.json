@@ -10,7 +10,7 @@
     "rows": [
       {
         "name": "Lionel Messi",
-        "club": "Barcelona / PSG",
+        "club": "Barcelona / Paris Saint-Germain",
         "lg": "LL",
         "pos": "FW",
         "gp": 41,
@@ -255,7 +255,7 @@
       },
       {
         "name": "Cristiano Ronaldo",
-        "club": "Juventus / Man United",
+        "club": "Juventus / Manchester United",
         "lg": "SA",
         "pos": "FW",
         "gp": 43,
@@ -404,7 +404,7 @@
       },
       {
         "name": "Kylian Mbappé",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "FW",
         "gp": 46,
@@ -456,7 +456,7 @@
       },
       {
         "name": "Gianluigi Donnarumma",
-        "club": "Milan / PSG",
+        "club": "Milan / Paris Saint-Germain",
         "lg": "SA",
         "pos": "GK",
         "gp": 39,
@@ -758,7 +758,7 @@
       },
       {
         "name": "Kylian Mbappé",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "FW",
         "gp": 43,
@@ -945,7 +945,7 @@
       },
       {
         "name": "Erling Haaland",
-        "club": "Dortmund",
+        "club": "Borussia Dortmund",
         "lg": "BL",
         "pos": "FW",
         "gp": 27,
@@ -1004,7 +1004,7 @@
     "rows": [
       {
         "name": "Lionel Messi",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "FW",
         "gp": 39,
@@ -1097,7 +1097,7 @@
       },
       {
         "name": "Kylian Mbappé",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "FW",
         "gp": 42,
@@ -1720,7 +1720,7 @@
       },
       {
         "name": "Kylian Mbappé",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "FW",
         "gp": 41,
@@ -1961,7 +1961,7 @@
     "rows": [
       {
         "name": "Ousmane Dembélé",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "W",
         "gp": 44,
@@ -2061,7 +2061,7 @@
       },
       {
         "name": "Vitinha",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "CM",
         "gp": 46,
@@ -2203,7 +2203,7 @@
       },
       {
         "name": "Achraf Hakimi",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "DF",
         "gp": 42,
@@ -2346,7 +2346,7 @@
       },
       {
         "name": "Gianluigi Donnarumma",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "GK",
         "gp": 39,
@@ -2390,7 +2390,7 @@
       },
       {
         "name": "Nuno Mendes",
-        "club": "PSG",
+        "club": "Paris Saint-Germain",
         "lg": "L1",
         "pos": "DF",
         "gp": 40,

@@ -10,7 +10,7 @@
   "rows": [
    {
     "name": "Bobby Charlton",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "AM",
     "gp": 46,
@@ -285,7 +285,7 @@
    },
    {
     "name": "Lev Yashin",
-    "club": "Dynamo Moscovo",
+    "club": "Dynamo Moscow",
     "lg": "URS",
     "pos": "GK",
     "gp": 8,
@@ -550,7 +550,7 @@
    },
    {
     "name": "Bobby Charlton",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "AM",
     "gp": 45,
@@ -820,7 +820,7 @@
    },
    {
     "name": "George Best",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "W",
     "gp": 45,
@@ -865,7 +865,7 @@
    },
    {
     "name": "Igor Chislenko",
-    "club": "Dynamo Moscovo",
+    "club": "Dynamo Moscow",
     "lg": "URS",
     "pos": "W",
     "gp": 30,
@@ -1085,7 +1085,7 @@
   "rows": [
    {
     "name": "George Best",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "W",
     "gp": 49,
@@ -1131,7 +1131,7 @@
    },
    {
     "name": "Bobby Charlton",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "AM",
     "gp": 45,
@@ -1178,7 +1178,7 @@
    },
    {
     "name": "Dragan Džajić",
-    "club": "Crvena Zvezda",
+    "club": "Red Star Belgrade",
     "lg": "YUG",
     "pos": "W",
     "gp": 32,
@@ -1880,7 +1880,7 @@
    },
    {
     "name": "George Best",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "W",
     "gp": 43,
@@ -2015,7 +2015,7 @@
    },
    {
     "name": "Petar Zhekov",
-    "club": "CSKA Sófia",
+    "club": "CSKA Sofia",
     "lg": "BUL",
     "pos": "FW",
     "gp": 29,
@@ -2057,7 +2057,7 @@
    },
    {
     "name": "Jack Charlton",
-    "club": "Leeds",
+    "club": "Leeds United",
     "lg": "EPL",
     "pos": "DF",
     "gp": 46,
@@ -2379,7 +2379,7 @@
    },
    {
     "name": "Dragan Džajić",
-    "club": "Crvena Zvezda",
+    "club": "Red Star Belgrade",
     "lg": "YUG",
     "pos": "W",
     "gp": 34,
@@ -2683,7 +2683,7 @@
    },
    {
     "name": "Albert Shesternyov",
-    "club": "CSKA Moscovo",
+    "club": "CSKA Moscow",
     "lg": "URS",
     "pos": "DF",
     "gp": 30,
