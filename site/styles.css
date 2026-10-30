@@ -8,7 +8,7 @@
   --gold: #e6bf66; --gold-ink: #1a1408;
   --good: #6cc98f; --bad: #e98a7a;
   /* model marks (validated for the dark surface: dataviz validate_palette.js) */
-  --c-real: #b78a2e; --c-pred: #5b8def; --c-fair: #22a38c; --c-mine: #c45fc0; --c-video: #81765f;
+  --c-real: #b78a2e; --c-pred: #5b8def; --c-fair: #22a38c; --c-mine: #c45fc0;
   --f-display: 'Fraunces', Georgia, 'Times New Roman', serif;
   --f-body: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
   --f-mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;

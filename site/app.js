@@ -17,8 +17,6 @@
     { k: 'fair', n: 'Fair', short: 'Fair', c: 'var(--c-fair)', d: 'Individual performance only' },
     { k: 'mine', n: 'My model', short: 'Mine', c: 'var(--c-mine)', d: 'Individual + proportional team credit' },
   ];
-  const VIDEO = { k: 'video', n: "Video's list", short: 'Video', c: 'var(--c-video)', d: 'Ranking the video shows for 2026' };
-  const VIDEO26 = ['Harry Kane', 'Michael Olise', 'Ousmane Dembélé', 'Kylian Mbappé', 'Lamine Yamal', 'Rodri', 'Erling Haaland', 'Khvicha Kvaratskhelia', 'Luis Díaz', 'Vitinha'];
   const MODELS = ['pred', 'fair', 'mine'];
   const LISTS = [['elig', 'Eligible only'], ['all', 'Everyone']];
   const CUPN = { UCL: 'European Cup/UCL', CWC: "Cup Winners' Cup", UEL: 'UEFA Cup/Europa League', ECL: 'Conference League', LIB: 'Libertadores', SUD: 'Sudamericana' };
@@ -49,7 +47,7 @@
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const ord = n => n + (n % 100 >= 11 && n % 100 <= 13 ? 'th' : ['th', 'st', 'nd', 'rd'][n % 10] || 'th');
   const fmt = (x, d = 2) => (+x).toFixed(d);
-  const alg = k => ALGS.find(a => a.k === k) || VIDEO;
+  const alg = k => ALGS.find(a => a.k === k);
   const ICON = {
     prev: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>',
     next: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>',
@@ -140,8 +138,7 @@
   function colHtml(a, res, y) {
     const Y = YEARS[y], rows = rowsOf(y), t = targetOf(y);
     let items;
-    if (a.k === 'video') items = VIDEO26.map((n, i) => ({ r: Y.rows.find(r => r.name === n), pos: i + 1, score: null })).filter(x => x.r);
-    else if (a.k === 'real') {
+    if (a.k === 'real') {
       const ranked = rows.filter(r => r.rank).sort((p, q) => p.rank - q.rank).map(r => ({ r, pos: r.rank, score: null }));
       const rest = rows.filter(r => !r.rank).sort((p, q) => (q.name === t) - (p.name === t)).map(r => ({ r, pos: '–', score: null, faded: r.name !== t, retro: r.name === t }));
       items = ranked.concat(rest);
@@ -152,8 +149,7 @@
     const li = items.map(it => {
       const r = it.r, isW = t && r.name === t;
       let tag = '';
-      if (a.k === 'video') tag = r.rank ? `<span class="tag">actual #${r.rank}</span>` : '';
-      else if (a.k === 'real') tag = it.retro ? '<span class="tag win">retroactive winner</span>' : (it.pos === 1 && r.name === Y.winner ? '<span class="tag win">winner</span>' : '');
+      if (a.k === 'real') tag = it.retro ? '<span class="tag win">retroactive winner</span>' : (it.pos === 1 && r.name === Y.winner ? '<span class="tag win">winner</span>' : '');
       else tag = r.rank ? `<span class="tag ${isW && it.pos === 1 ? 'hit' : ''}">actual #${r.rank}</span>` : (isW && it.pos === 1 ? '<span class="tag hit">retroactive</span>' : '');
       if (r.elig === 0) tag += '<span class="tag">ineligible</span>';
       const score = it.score == null ? '' : (a.k === 'pred' ? fmt(it.score) : fmt(it.score, 0));
@@ -167,7 +163,7 @@
     return `<section class="col${st.tab === a.k ? ' active' : ''}" style="--c:${a.c}" data-k="${a.k}" id="col-${a.k}" role="tabpanel" aria-labelledby="tab-${a.k}">
       <header><h2><span class="swatch" aria-hidden="true"></span>${a.n}</h2><span>${esc(desc)}</span></header><ol class="list">${li}</ol></section>`;
   }
-  const algsOf = y => ALGS.concat(y === 2026 ? [VIDEO] : []);
+  const algsOf = () => ALGS;
   function boardHtml(y, res) {
     const as = algsOf(y);
     if (!as.some(a => a.k === st.tab)) st.tab = 'real';
@@ -189,7 +185,6 @@
     const y = st.year, Y = YEARS[y], res = compute(y);
     const i = years.indexOf(y), nIn = Y.rows.filter(r => r.elig === 0).length;
     const notes = [Y.notes, nIn ? `${nIn} ineligible candidate${nIn > 1 ? 's' : ''} this year: shown only in the “Everyone” list.` : '', Y.winnerAllNote].filter(Boolean).join(' ');
-    const v26 = y === 2026 ? `<p class="note">In 2026 the Prediction only uses ${SEL.temporal && SEL.temporal['2026'] ? SEL.temporal['2026'].train.join('–') : 'earlier years'} and never saw this data. “Video's list” is the order the video shows for its historical model. My Prediction does not reproduce it: I ranked the candidates without domestic cups and without the detailed trophy count the video seems to use, so Olise and Dembélé sit lower.</p>` : '';
     $('#main').innerHTML = `<div class="year-view">
       <section class="hero" aria-label="${y}">
         <div class="year-nav">
@@ -203,7 +198,7 @@
       </section>
       <div class="timeline" id="timeline" aria-label="Years">${timelineHtml()}</div>
       <div class="timeline-legend" aria-hidden="true">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n} right</span>`).join('')}</div>
-      <div class="toolbar">${listToggle()}${notes || v26 ? `<details class="about"${y === 2026 ? ' open' : ''}><summary>About ${y}</summary>${notes ? `<p class="note">${esc(notes)}</p>` : ''}${v26}</details>` : ''}</div>
+      <div class="toolbar">${listToggle()}${notes ? `<details class="about"><summary>About ${y}</summary><p class="note">${esc(notes)}</p></details>` : ''}</div>
       <div class="year-layout">
         <div class="board" id="board">${boardHtml(y, res)}</div>
         <aside class="side" aria-label="Player detail and tuning">
@@ -436,24 +431,24 @@
     const W27 = SEL.temporal && SEL.temporal['2027'] ? SEL.temporal['2027'].weights : CFG.weights;
     const hw = M.PRED_FEATURES.map((f, i) => [f[1], W27[i]]).filter(x => Math.abs(x[1]) > 0.001).sort((a, b) => b[1] - a[1]);
     const mxw = Math.max(...hw.map(x => x[1]));
-    const V = SEL.videoStyle || [], base = V.find(v => !v.extra), full = V.filter(v => v.extra && v.inSample === n);
+    const V = SEL.memorisedFit || [], base = V.find(v => !v.extra), full = V.filter(v => v.extra && v.inSample === n);
     $('#main').innerHTML = `<div class="page-head"><span class="kicker">Method</span><h1>How it works</h1>
-      <p>The video describes two models: a “historical” one, with rules fitted to the 2010–2025 winners, and a “fair” one, without team trophies and corrected for position, league strength and minutes. Its weights are not published, so I rebuilt them by approximation. What is here is my reconstruction, not the video's model.</p></div>
+      <p>Three ways to pick the winner from the same numbers: one learnt from past votes, one that looks only at individual performance, and one of my own that mixes the two. Every year since 1956 has the official top 10 plus a few strong players who were not eligible at the time.</p></div>
       <div class="method"><div class="panel prose">
       <h3><span class="swatch" style="--c:var(--c-pred)"></span>Prediction</h3>
       <p>A linear score over ${M.PRED_FEATURES.length} criteria (attacking output, European stage, national team, league title, position, non-attacking contribution, and versions relative to the year's rivals). The weights come from a linear program that tries to put each winner ahead of every other candidate of their year. For years already awarded the answer is the real vote; what matters is predicting the next year. So the Prediction is judged the way it would be used: to predict year Y it is trained only on years before Y.</p>
       ${SEL.temporal ? `<p>How the training is chosen: for each year, among several windows (from 1956, 1970, 1980, 1990, 2000 or 2005, or only the last 10–25 years), recency weights and regularisation, the combination that would best have predicted the previous 12 years is kept. With this rule it calls ${SEL.nestedWindow.hits} of ${n} in 2010–2026 (real winner ranked ${fmt(SEL.nestedWindow.meanRank)} on average), against ${SEL.baseline.hits} of ${n} when always training on every year since 1956. Old votes hurt the forecast of recent ones: from 2013 on, the rule always picks “train from 2000”. For the next Ballon d'Or the model is: ${esc(SEL.final.label)}, training ${SEL.final.train[0]}–${SEL.final.train[1]} (weights alongside).</p>` : ''}
       ${SEL.nested ? `<p>I also tried keeping only some criteria. Looking at the same years it seemed much better (${SEL.selection.res[0]} of ${n} with ${SEL.selection.chosen.length} criteria), but making that choice only with each year's past drops it to ${SEL.nested.hits} of ${n}, with the real winner ranked ${fmt(SEL.nested.meanRank)} on average: it was overfitting. All ${M.PRED_FEATURES.length} criteria stay.</p>` : ''}
-      ${base ? `<p>The video claims to call every winner from 2010 to 2026, fitting the weights to those same years. I did the same: with the ${M.PRED_FEATURES.length} criteria, the fit to 2010–2026 calls ${base.inSample} of ${n}; adding a single reputation or “star of the tournament” criterion gets ${n} of ${n} (any of: ${full.map(v => esc(v.desc)).join('; ')}). But calling years the model has already seen is memorising them. Predicting each year without seeing it, none of these criteria improves the Prediction: with them it gets between ${Math.min(...full.map(v => v.temporal))} and ${Math.max(...full.map(v => v.temporal))} of ${n}, against ${base.temporal} of ${n} without. So the Prediction does without them.</p>
-      <div class="scroll"><table><thead><tr><th>Criteria</th><th>Fitted to 2010–2026 (in-sample)</th><th>Predicting unseen years</th></tr></thead><tbody>${V.map(v => `<tr><td>${v.extra ? '19 + ' + esc(v.desc) : 'The 19 criteria only'}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.temporal}/${n}</td></tr>`).join('')}</tbody></table></div>` : ''}
-      <p>The “Everyone” list has a separate single fit to the retroactive winners: ${FA.inSample}/${FA.n} in-sample and ${FA.loo}/${FA.n} leaving one year out. I also tried fitting the weights to the top-10 order the video shows for 2026, but with my criteria that made the model lose real winners, so I did not use it. That list is shown for reference.</p>
+      ${base ? `<p>Fitting the weights to the very years they are judged on makes any model look good. With the ${M.PRED_FEATURES.length} criteria, a fit to 2010–2026 calls ${base.inSample} of ${n} of those same years; adding a single reputation or “star of the tournament” criterion gets ${n} of ${n} (any of: ${full.map(v => esc(v.desc)).join('; ')}). But calling years the model has already seen is memorising them. Predicting each year without seeing it, none of these criteria improves the Prediction: with them it gets between ${Math.min(...full.map(v => v.temporal))} and ${Math.max(...full.map(v => v.temporal))} of ${n}, against ${base.temporal} of ${n} without. So the Prediction does without them.</p>
+      <div class="scroll"><table><thead><tr><th>Criteria</th><th>Fitted to 2010–2026 (in-sample)</th><th>Predicting unseen years</th></tr></thead><tbody>${V.map(v => `<tr><td>${v.extra ? `${M.PRED_FEATURES.length} + ` + esc(v.desc) : `The ${M.PRED_FEATURES.length} criteria only`}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.temporal}/${n}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      <p>The “Everyone” list has a separate single fit to the retroactive winners: ${FA.inSample}/${FA.n} in-sample and ${FA.loo}/${FA.n} leaving one year out.</p>
       <h3><span class="swatch" style="--c:var(--c-fair)"></span>Fair</h3>
-      <p>Individual performance only. Goals and assists adjusted for league strength in each decade, with a small bonus for Europe, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
+      <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for Europe, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
       <h3><span class="swatch" style="--c:var(--c-mine)"></span>My model</h3>
       <p>About 80% individual performance and 20% team credit. Team credit only counts in proportion to what the player produced in Europe, for the national team and in the league, so winning without contributing earns nothing. Output against top opposition (Europe and national-team tournaments) weighs more. Every weight can be changed in the Years view.</p>
       <h2>Data limits</h2>
       <ul>
-        <li>The same scope for everyone: league, European competition and national-team final tournaments. Domestic cups and qualifiers are left out.</li>
+        <li>The same scope for everyone: league, European competition and national-team final tournaments. Domestic cups and qualifiers are left out of the match numbers.</li>
         <li>Each year has the official top 10 and, where it makes sense, a few strong ineligible players (only in the “Everyone” list). Eligibility: until 1994 Europeans only; 1995–2006 only players at European clubs; since 2007 everyone.</li>
         <li>Window: until 2021 voters judged the calendar year, so the numbers run January to December. When the season could not be split, the season ending that year is used, marked with confidence C. Since 2022 the season counts.</li>
         <li>Confidence: A verified in sources, B partly verified, C estimate. Assists have their own confidence: before about 2005 they are almost always estimated.</li>
@@ -462,7 +457,7 @@
         <li>The models measure performance, not the narrative that sways voters, and with such a small sample any fit to the winners can overfit.</li>
       </ul>
       <h2>Sources</h2>
-      <p>Vote results: Wikipedia, RSSSF and FIFA/France Football. Statistics: the sources consulted for each player appear in their detail in the Years view (sources.json in the repository). Video: “I know who wins the Ballon d'Or 2026” (Pogorabona).</p>
+      <p>Vote results: Wikipedia, RSSSF and FIFA/France Football. Statistics: the sources consulted for each player appear in their detail in the Years view (sources.json in the repository).</p>
       </div>
       <aside class="side panel"><h2 style="margin-bottom:4px">Prediction weights for ${SEL.final ? SEL.final.train[1] + 1 : 'the next award'}</h2><p class="meta" style="margin-bottom:12px">${SEL.final ? esc(SEL.final.label) : ''}. Criteria with zero weight are hidden.</p>
         <div class="wbars">${hw.map(([l, v]) => `<div class="wbar"><em>${esc(l)}</em><span class="num">${fmt(v)}</span><span class="bb" aria-hidden="true"><i style="width:${(Math.max(0, v) / mxw * 100).toFixed(1)}%"></i></span></div>`).join('')}</div></aside></div>`;

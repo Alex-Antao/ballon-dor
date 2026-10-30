@@ -16,7 +16,7 @@ YS = [int(y) for y in sorted(D, key=int) if D[y][L]['winner']]
 TARGETS = [y for y in YS if 2010 <= y <= 2026]
 F = {y: np.array([r['f'] for r in D[str(y)][L]['rows']], dtype=float) for y in YS}
 # extra criteria from extra_criteria.py (reputation, top scorers, titles of midfielders…) go in columns 19+;
-# they only enter the selection with --extra (otherwise they are only used for the "video style" comparison)
+# they only enter the selection with --extra (otherwise they are only used for the memorised-fit comparison)
 import extra_criteria
 H = extra_criteria.history(D, L)
 F = {y: np.hstack([F[y], extra_criteria.extra_matrix(D, L, y, H)]) for y in YS}
@@ -193,7 +193,7 @@ out['final'] = {'features': FN, 'cfg': f27['cfg'], 'label': f27['label'], 'train
 print(f"  model for 2027: {f27['label']} (train {f27['train'][0]}–{f27['train'][1]})")
 print('  weights:', out['final']['weights'])
 
-# 5) "video style": fit 2010–2026 until every year is right in-sample, and see what it is worth predicting unseen years.
+# 5) memorised fit: fit 2010–2026 until every year is right in-sample, and see what it is worth predicting unseen years.
 #    Each extra criterion is tested on its own on top of the 19 (official procedure = window chosen only with the past).
 def procedure(idx):
     rk = []
@@ -205,7 +205,7 @@ def choose_idx(Y, idx):
     val = [y for y in YS if Y - 12 <= y < Y and y >= 1990]
     g = {k: rolling(k, idx, val) for k in GRID if k[0] < val[0]}
     return max(g.items(), key=lambda kv: score(kv[1]))[0]
-print('\nVideo style (fit to 2010–2026, in-sample) vs prediction without seeing the year:')
+print('\nMemorised fit (fit to 2010–2026, in-sample) vs prediction without seeing the year:')
 vs = []
 for extra in [None] + [k for k, _ in extra_criteria.EXTRA]:
     idx = BASE + ([NAMES.index(extra)] if extra else [])
@@ -215,7 +215,7 @@ for extra in [None] + [k for k, _ in extra_criteria.EXTRA]:
     desc = dict(extra_criteria.EXTRA).get(extra, 'the 19 criteria only')
     vs.append({'extra': extra, 'desc': desc, 'inSample': ins, 'temporal': h, 'temporalRank': m})
     print(f"  {('+ ' + extra) if extra else '19 criteria':16s} in-sample {ins}/{len(TARGETS)} | unseen {h}/{len(TARGETS)} (rank {m:.2f})")
-out['videoStyle'] = vs
+out["memorisedFit"] = vs
 
 json.dump(out, open(OUTF, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 print(f'\n({time.time() - t0:.0f}s)')

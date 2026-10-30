@@ -6,8 +6,6 @@ Three algorithms that pick the Ballon d'Or winner, compared with the real vote e
 - **Fair** — individual performance only, adjusted for position, league strength and games played.
 - **My model** — individual performance plus team credit in proportion to the player's own contribution; every weight can be tuned on the site.
 
-It started as a reconstruction of the models in the video “I know who wins the Ballon d'Or 2026” (Pogorabona). It is not the video's model.
-
 ## Run it
 
 ```bash
