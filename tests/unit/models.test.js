@@ -25,11 +25,11 @@ function hits(L, last, w = FIT.fits[L].weights) {
 }
 
 test('reference results, eligible list (single fit)', () => {
-  assert.deepEqual(hits('elig', 2025), { pred: 30, fair: 20, mine: 24, years: 69 });
+  assert.deepEqual(hits('elig', 2025), { pred: 30, fair: 20, mine: 23, years: 69 });
 });
 
 test('reference results, "all" list (single fit)', () => {
-  assert.deepEqual(hits('all', 2025), { pred: 30, fair: 20, mine: 24, years: 69 });
+  assert.deepEqual(hits('all', 2025), { pred: 30, fair: 20, mine: 23, years: 69 });
 });
 
 test('2026: every model picks Harry Kane, the real winner', () => {
@@ -56,6 +56,18 @@ test('the models count the Nations League Finals only if the study adopted them'
   const r = YEARS[2025].rows.find(x => x.name === 'Lamine Yamal'), rows = M.listRows(YEARS[2025], 'elig');
   assert.equal(r.nlS, 4, 'the data keeps them');
   assert.ok(M.predFeatures(r, M.predCtx(rows, 0.4), 0.4)[7] > M.predFeatures(r, M.predCtx(rows))[7], 'the study variant counts his Finals goals');
+});
+
+test('Fair and Custom weight European goals by the opponents; the Prediction does not', () => {
+  const r = YEARS[2025].rows.find(x => x.name === 'Raphinha'), rows = M.listRows(YEARS[2025], 'elig');
+  assert.ok(r.uOpp > 0 && r.uOppN > 0, 'the data has his opponents');
+  const weak = { ...r, uOpp: 0.3 };
+  for (const f of [M.fair, M.mine]) {
+    assert.ok(f(r).score > f(weak).score, `${f.name}: goals against stronger clubs count more`);
+    assert.equal(f(r, { oppW: 0 }).score, f(weak, { oppW: 0 }).score, `${f.name}: oppW 0 = the competition weight`);
+  }
+  const ctx = M.predCtx(rows);
+  assert.deepEqual(M.predFeatures(r, ctx), M.predFeatures(weak, ctx));
 });
 
 test('temporal weights never train on the year they predict', () => {

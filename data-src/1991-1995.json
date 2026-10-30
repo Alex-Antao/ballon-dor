@@ -20,6 +20,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.61,
+    "uOppN": 9,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -49,7 +51,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_French_Division_1",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "D1 top scorer in 1990/91 and 1991/92 (from memory). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: g 31→29, uG 5→6."
    },
@@ -65,6 +68,8 @@
     "uG": 3,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.9,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -94,7 +99,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_First_League",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 39→32, g 14→11, uG 4→3."
    },
@@ -110,6 +116,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.9,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -139,7 +147,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_First_League",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "Golden Shoe 1990/91 (34 league goals, from memory); autumn 1991 includes goals in the 1991/92 European Cup. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 42→41, g 40→39, uG 9→5."
    },
@@ -155,6 +164,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.78,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -184,7 +195,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Serie_A",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup"
     ],
     "note": "UEFA Cup 1990/91 won (penalty in the first leg of the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 UEFA Cup: Final). Changed: gp 39→35, uG 2→3."
    },
@@ -200,6 +212,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.74,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -229,7 +243,9 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_First_League",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup"
     ],
     "note": "Moved to Real Madrid in summer 1991; 1st season in Madrid heavily affected by injuries. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Red Star Belgrade: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 23→21, g 6→10, uG 1→3."
    },
@@ -245,6 +261,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1.22,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -275,7 +293,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup_Winners'_Cup"
     ],
     "note": "Tottenham did not play in Europe in 1990/91; uT = Cup Winners' Cup 1991/92 (autumn rounds in the window), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1991–92 UEFA Cup Winners' Cup). Changed: gp 43→39, g 26→24, uG 3→2."
    },
@@ -291,6 +310,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.91,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -320,7 +341,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Serie_A",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "Capocannoniere 1990/91; Sampdoria champions. uG includes the 1991/92 European Cup (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 European Cup Winners' Cup: Quarter-finals). Changed: g 22→24, uG 6→5."
    },
@@ -379,6 +401,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.83,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -408,7 +432,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup_Winners'_Cup"
     ],
     "note": "Brace in the 1991 Cup Winners' Cup final (Barcelona). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 European Cup Winners' Cup: Final). Changed: gp 44→43, g 15→13, uG 4→5."
    },
@@ -424,6 +449,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 4,
+    "uOpp": 0.96,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -453,7 +480,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_French_Division_1",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 42→44, uG 1→2."
    },
@@ -469,6 +497,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.01,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -493,7 +523,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_French_Division_1",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Coupe_de_France",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "Ghanaian: ineligible (Europeans only until 1994). AFCON 1992 was in January 1992 (outside the window). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -509,6 +540,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1.03,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -533,7 +566,8 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Eredivisie",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_KNVB_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup",
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
     "note": "Brazilian: ineligible. Top scorer of the 1990/91 Eredivisie (from memory). Did not play the 1991 Copa América (from memory). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
@@ -560,6 +594,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.75,
+    "uOppN": 6,
     "ntGP": 4,
     "ntG": 0,
     "ntA": 0,
@@ -607,6 +643,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.08,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -636,7 +674,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_La_Liga",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
     "note": "Bulgaria were not at Euro 1992. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1991–92 European Cup: Final). Changed: gp 45→43, g 23→26."
    },
@@ -652,6 +691,8 @@
     "uG": 6,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.5,
+    "uOppN": 5,
     "ntGP": 4,
     "ntG": 3,
     "ntA": 0,
@@ -680,7 +721,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
     "note": "UEFA Cup 1991/92 won; 3 goals at Euro 1992 (from memory). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup: Final). Changed: gp 43→41, g 31→30. Awards: not found on Wikipedia: tournament best player."
    },
@@ -696,6 +738,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.64,
+    "uOppN": 2,
     "ntGP": 5,
     "ntG": 2,
     "ntA": 1,
@@ -727,7 +771,8 @@
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
     "note": "Juventus out of Europe in 1991/92; uT = UEFA Cup 1992/93 (autumn, Roma), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 38→36, uG 1→2, uT UEL→CWC, uS 0→2. Awards: not found on Wikipedia: tournament best player."
    },
@@ -837,6 +882,8 @@
     "uG": 0,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.72,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -866,7 +913,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_La_Liga",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
     "note": "Did not play Euro 1992 (left out of the national team). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1991–92 European Cup: Final). Changed: g 7→11, uG 1→0."
    },
@@ -882,6 +930,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 0.72,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 0,
     "ntA": 0,
@@ -912,7 +962,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
     "note": "Winning goal in the 1992 European Cup final (free kick). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 European Cup: Final). Changed: g 11→15, uG 3→1. Awards: not found on Wikipedia: tournament best player."
    },
@@ -928,6 +979,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.74,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -955,7 +1008,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Bundesliga",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_DFB-Pokal",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup"
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
     "note": "Dortmund out of Europe in 1991/92; uT = UEFA Cup 1992/93 (autumn), uS 0. Switzerland were not at Euro 1992. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -971,6 +1025,8 @@
     "uG": 3,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.66,
+    "uOppN": 3,
     "ntGP": 4,
     "ntG": 2,
     "ntA": 0,
@@ -1018,6 +1074,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 4,
+    "uOpp": 0.8,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1046,7 +1104,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Serie_A",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
     "note": "1992 UEFA Cup final lost (Ajax). Belgium were not at Euro 1992. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup: Final). Changed: gp 36→41, g 9→11."
    },
@@ -1062,6 +1121,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 1,
+    "uOpp": 0.67,
+    "uOppN": 1,
     "ntGP": 4,
     "ntG": 3,
     "ntA": 1,
@@ -1087,7 +1148,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_French_Division_1",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Coupe_de_France",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
     "note": "Ghanaian: ineligible. AFCON 1992: player of the tournament, suspended for the final (from memory). Marseille knocked out in the round of 16 (16 teams) of the 1991/92 European Cup in Nov 1991. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup winner."
    },
@@ -1103,6 +1165,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.93,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1127,7 +1191,8 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Eredivisie",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_KNVB_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
+     "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
     "note": "Brazilian: ineligible. uS 0 refers to the 1991/92 edition; scored in the 1992/93 Champions League group stage (autumn). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
@@ -1154,6 +1219,8 @@
     "uG": 8,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.51,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1183,7 +1250,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Serie_A",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup"
     ],
     "note": "UEFA Cup 1992/93 won (goals against PSG in the semi-finals and against Dortmund in the final, from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Cup: Final). Changed: gp 42→41, g 29→31."
    },
@@ -1199,6 +1267,8 @@
     "uG": 9,
     "uA": 2,
     "uS": 2,
+    "uOpp": 0.37,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1228,7 +1298,9 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Serie_A",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup"
     ],
     "note": "lg = SA (more games at Inter, Aug–Dec). uS = Ajax 1992/93 (quarter-finals, Auxerre); uG includes the 1993/94 UEFA Cup (autumn, Inter). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Cup: Quarter-finals). Changed: gp 36→38, g 24→27, uG 7→9."
    },
@@ -1244,6 +1316,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.89,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1274,7 +1348,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
     "note": "Champion of the first Premier League. Leeds/Man United out of Europe in 1992/93 before 1993; uT = Champions League 1993/94 (autumn: Honvéd, Galatasaray), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Cup: First round). Changed: gp 43→39, g 19→20, uT UCL→UEL."
    },
@@ -1290,6 +1365,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.14,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1319,7 +1396,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_French_Division_1",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup"
     ],
     "note": "Top scorer of the 1992/93 D1 (from memory). title 0: the 1992/93 title was stripped from Marseille. Exact date of the transfer to Lazio (autumn 1993) not verified. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 Marseille, 1993–94 Marseille: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Final). Changed: gp 39→38, g 17→19."
    },
@@ -1335,6 +1413,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 2,
+    "uOpp": 0.33,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1364,7 +1444,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_La_Liga",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
     "note": "Barcelona knocked out by CSKA in the 2nd round (16 teams) of the 1992/93 Champions League, in Nov 1992. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Second round). Changed: gp 41→42, g 6→9, uS 1→2."
    },
@@ -1425,6 +1506,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 4,
+    "uOpp": 0.84,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1454,7 +1537,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Serie_A",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
     "note": "Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Final). Changed: gp 42→39, uG 0→1."
    },
@@ -1470,6 +1554,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.47,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1497,7 +1583,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Primeira_Divis%C3%A3o",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Ta%C3%A7a_de_Portugal",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
     "note": "1992/93 Champions League group stage (8 teams) = equivalent to the quarter-finals. Goals in Paris (World Cup qualifier) do not count. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1513,6 +1600,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 4,
+    "uOpp": 0.52,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1540,7 +1629,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Bundesliga",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_DFB-Pokal",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup"
     ],
     "note": "1993 UEFA Cup final lost (Juventus). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1556,6 +1646,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.89,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1583,7 +1675,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
     "note": "uT = Champions League 1993/94 (autumn), uS 0. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1599,6 +1692,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.47,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1639,6 +1734,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.91,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1663,7 +1760,8 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_La_Liga",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Copa_del_Rey",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
+     "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
     "note": "Brazilian: ineligible. uS = PSV in the 1992/93 Champions League group stage. Did not play the 1993 Copa América (from memory). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
@@ -1690,6 +1788,8 @@
     "uG": 7,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.13,
+    "uOppN": 8,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 0,
@@ -1720,7 +1820,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Top scorer of the 1994 World Cup (shared with Salenko) — from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 45→42, g 21→23, uG 6→7."
    },
@@ -1736,6 +1837,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.97,
+    "uOppN": 2,
     "ntGP": 7,
     "ntG": 5,
     "ntA": 1,
@@ -1766,7 +1869,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
     "note": "Injury in Dec 1994 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup: Quarter-finals). Changed: g 15→12."
    },
@@ -1782,6 +1886,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 1.08,
+    "uOppN": 1,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 0,
@@ -1812,7 +1918,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Played the 1994 Champions League final (Baresi and Costacurta suspended). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 42→38, g 2→3, uG 0→1."
    },
@@ -1828,6 +1935,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1.06,
+    "uOppN": 0,
     "ntGP": 5,
     "ntG": 3,
     "ntA": 2,
@@ -1874,6 +1983,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.92,
+    "uOppN": 2,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 1,
@@ -1905,7 +2016,8 @@
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1993%E2%80%9394_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
     "note": "1994 Cup Winners' Cup final lost (Arsenal). Broken foot in Nov 1994 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup Winners' Cup: Final). Changed: gp 31→25, g 5→2, uG 1→0."
    },
@@ -1921,6 +2033,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 3,
+    "uOpp": 0.99,
+    "uOppN": 1,
     "ntGP": 5,
     "ntG": 5,
     "ntA": 0,
@@ -2012,6 +2126,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.01,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2041,7 +2157,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_KNVB_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1993%E2%80%9394_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Top scorer of the 1993/94 Eredivisie (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 39→35, uG 2→6."
    },
@@ -2057,6 +2174,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 1.18,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2087,7 +2206,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Serie_A",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Goal in the 1994 Champions League final. France were not at the World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Marseille, 1993–94 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 42→35."
    },
@@ -2103,6 +2223,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.08,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2132,7 +2254,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Serie_A",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Chipped goal in the 1994 Champions League final. Yugoslavia suspended (UN sanctions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 31→24, g 9→3."
    },
@@ -2148,6 +2271,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.12,
+    "uOppN": 5,
     "ntGP": 7,
     "ntG": 5,
     "ntA": 2,
@@ -2175,7 +2300,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_La_Liga",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Copa_del_Rey",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
+     "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Brazilian: ineligible in 1994. World champion and Golden Ball of the World Cup; FF retroactive winner (2016). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
@@ -2191,6 +2317,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.96,
+    "uOppN": 4,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 2,
@@ -2218,7 +2346,8 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
     "note": "Brazilian: ineligible. Deportivo out of the 1993/94 UEFA Cup before 1994 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Deportivo La Coruña: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup: Third round). Changed: gp 37→32, uG 2→6, uS 0→1."
    }
@@ -2245,6 +2374,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 3,
+    "uOpp": 0.61,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2274,7 +2405,9 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_French_Division_1",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup"
     ],
     "note": "Liberian, eligible under the new rule. PSG (Jan–May) vs Milan (Aug–Dec) split estimated; lg L1 by the narrowest margin. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Semi-finals). Changed: gp 39→35, g 15→11."
    },
@@ -2290,6 +2423,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.8,
+    "uOppN": 11,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2320,7 +2455,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
     "note": "Tottenham out of Europe in 1994/95; uT = UEFA Cup 1995/96 (autumn, Bayern), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1995–96 UEFA Cup). Changed: gp 44→42, g 24→26."
    },
@@ -2336,6 +2472,8 @@
     "uG": 7,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.99,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2365,7 +2503,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Eredivisie",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: g 23→25, uG 6→7."
    },
@@ -2381,6 +2520,8 @@
     "uG": 6,
     "uA": 3,
     "uS": 4,
+    "uOpp": 1.08,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2410,7 +2551,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Serie_A",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "1995 UEFA Cup final lost (Parma); uG includes the 1995/96 Champions League (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Final). Changed: gp 43→42, g 15→12, uG 7→6."
    },
@@ -2426,6 +2568,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.94,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2455,7 +2599,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Eredivisie",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "Winning goal in the 1995 Champions League final. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: gp 37→35, uG 4→2."
    },
@@ -2471,6 +2616,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.57,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2500,7 +2647,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Serie_A",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup_Winners'_Cup"
     ],
     "note": "UEFA Cup 1994/95 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Final). Changed: gp 39→41, g 17→23."
    },
@@ -2561,6 +2709,8 @@
     "uG": 2,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.1,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2590,7 +2740,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Eredivisie",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "Serious knee injury in Dec 1995 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: gp 37→31, g 10→12."
    },
@@ -2606,6 +2757,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1.05,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2635,7 +2788,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Bundesliga",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "Libero; Dortmund champions 1994/95. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Semi-finals). Changed: gp 41→35, g 5→4, uG 1→0."
    },
@@ -2651,6 +2805,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 1,
+    "uOpp": 0.97,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2680,7 +2836,8 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_La_Liga",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "Real Madrid knocked out by Odense in the 3rd round (16 teams) of the 1994/95 UEFA Cup, before 1995. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Third round). Changed: gp 43→38, g 8→6, uG 1→2."
    },

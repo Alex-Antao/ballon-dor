@@ -20,6 +20,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.09,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -52,7 +54,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "11v11/StatMuse: PL 2000/01 16 goals (20–28 gp), UEFA Cup 2000/01 10 gp/4 g; PL 2001/02 19 goals (25–29 gp), UCL 2001/02 10 gp/5 g. Reference: 36 goals in 54 games in 2001 in all competitions (club + national team). uG includes UCL Oct–Dec 2001. Season totals partly verified via search; calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Cup: Final). Changed: gp 42→40, g 22→26, uG 5→8."
    },
@@ -68,6 +71,8 @@
     "uG": 7,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.05,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -99,7 +104,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_La_Liga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Search: Liga 2000/01 36 gp/24 g, UCL 2000/01 11 gp/7 g; League 2001/02 34 gp/14 g. (11v11 only), UCL 2001/02 12 gp/~6 g. Name as \"Raúl\" (check whether data.js uses another spelling). Season totals partly verified via search; calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Semi-finals). Changed: gp 50→48, g 27→31."
    },
@@ -160,6 +166,8 @@
     "uG": 2,
     "uA": 4,
     "uS": 2,
+    "uOpp": 0.61,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -189,7 +197,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Right winger/right midfielder. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Quarter-finals). Changed: gp 44→40, g 14→8, uG 4→2."
    },
@@ -205,6 +214,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.29,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -234,7 +245,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Serie_A",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Roma knocked out by Liverpool in the 4th round of the 2000/01 UEFA Cup (16 teams → uS 1); uG includes UCL 2001/02 Oct–Dec. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Cup: Fourth round). Changed: gp 41→39, g 14→15, uG 1→3."
    },
@@ -250,6 +262,8 @@
     "uG": 6,
     "uA": 4,
     "uS": 3,
+    "uOpp": 1.15,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -279,7 +293,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_La_Liga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Won FIFA World Player 2001. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Semi-finals). Changed: gp 45→46, g 10→15, uG 2→6."
    },
@@ -295,6 +310,8 @@
     "uG": 9,
     "uA": 1,
     "uS": 3,
+    "uOpp": 0.96,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -324,7 +341,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_La_Liga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Barça went out in the first group stage of the UCL 2000/01 and reached the semi-finals of the 2000/01 UEFA Cup; uG includes UCL 2001/02 Oct–Dec. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Cup: Semi-finals). Changed: gp 44→43, uG 7→9."
    },
@@ -340,6 +358,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.62,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -369,7 +389,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Serie_A",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Cup"
     ],
     "note": "Milan knocked out in the second group stage of the UCL 2000/01 (16 teams → uS 1); uG includes the 2001/02 UEFA Cup Oct–Dec. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Second group stage). Changed: gp 42→43, g 25→29."
    },
@@ -385,6 +406,8 @@
     "uG": 8,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.05,
+    "uOppN": 9,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -414,7 +437,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Quarter-finals). Changed: gp 48→46, g 26→28, uG 6→8."
    },
@@ -430,6 +454,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 0,
+    "uOpp": 0.82,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -459,7 +485,8 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Serie_A",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
     "note": "Juventus knocked out in the first group stage of the UCL 2000/01 (in 2000), so uS 0; uG = UCL 2001/02 Oct–Dec with Real Madrid. lg: SA (Juve Jan–Jun) ~ LL (Real Aug–Dec), similar games. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: First group stage). Changed: gp 41→40, g 9→8."
    },
@@ -575,6 +602,8 @@
     "uG": 0,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.07,
+    "uOppN": 0,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 2,
@@ -605,7 +634,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final). Changed: gp 48→44, g 5→2, uG 1→0, ntGP 7→6."
    },
@@ -667,6 +697,8 @@
     "uG": 4,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.1,
+    "uOppN": 3,
     "ntGP": 1,
     "ntG": 0,
     "ntA": 0,
@@ -697,7 +729,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Goal in the UCL 2002 final. Injured at the World Cup (1 game, France knocked out in the group stage). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final). Changed: gp 44→39, g 11→10."
    },
@@ -713,6 +746,8 @@
     "uG": 5,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.2,
+    "uOppN": 4,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 1,
@@ -743,7 +778,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "UCL 2002 final lost with Leverkusen; missed the World Cup final through suspension. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2002–03 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final). Changed: gp 43→38, g 19→18."
    },
@@ -759,6 +795,8 @@
     "uG": 6,
     "uA": 3,
     "uS": 1,
+    "uOpp": 1.1,
+    "uOppN": 7,
     "ntGP": 2,
     "ntG": 0,
     "ntA": 0,
@@ -789,7 +827,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Arsenal knocked out in the second group stage of the UCL 2001/02 (uS 1). Champion 2001/02. Sent off at the World Cup. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2002–03 Arsenal: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Second group stage). Changed: gp 47→44, g 30→26, uG 7→6."
    },
@@ -805,6 +844,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.07,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 3,
     "ntA": 0,
@@ -835,7 +876,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_Copa_del_Rey",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Goal in the UCL 2002 final. Missed the World Cup quarter-final through injury. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final); to verify: national team. Changed: gp 48→47."
    },
@@ -851,6 +893,8 @@
     "uG": 0,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.05,
+    "uOppN": 0,
     "ntGP": 7,
     "ntG": 5,
     "ntA": 2,
@@ -881,7 +925,9 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Milan since Jul 2002. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Semi-finals). Changed: gp 39→33, g 14→7, uG 5→0."
    },
@@ -897,6 +943,8 @@
     "uG": 1,
     "uA": 3,
     "uS": 4,
+    "uOpp": 1.16,
+    "uOppN": 0,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 2,
@@ -925,7 +973,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_Bundesliga",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_DFB-Pokal",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
+     "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Turkey 3rd at the World Cup (semi-final lost → 3). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 6→7."
    },
@@ -941,6 +990,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.82,
+    "uOppN": 4,
     "ntGP": 3,
     "ntG": 1,
     "ntA": 0,
@@ -971,7 +1022,8 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
     "note": "Juve knocked out in the second group stage of the UCL 2001/02 (uS 1). Champion 2001/02. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Second group stage). Changed: gp 38→37, g 18→21, ntGP 4→3, ntS 1→0."
    }
@@ -998,6 +1050,8 @@
     "uG": 5,
     "uA": 3,
     "uS": 4,
+    "uOpp": 1.29,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1027,7 +1081,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Serie_A",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "Suspended for the UCL 2003 final (lost). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Final). Changed: gp 42→41, g 13→14."
    },
@@ -1043,6 +1098,8 @@
     "uG": 7,
     "uA": 4,
     "uS": 1,
+    "uOpp": 1.22,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1072,7 +1129,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "Arsenal knocked out in the second group stage of the UCL 2002/03 (uS 1). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2002–03 Arsenal: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Second group stage). Changed: gp 45→49, g 30→31, uG 5→7."
    },
@@ -1133,6 +1191,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.04,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1162,7 +1222,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Serie_A",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "Decisive penalty in the UCL 2003 final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Final). Changed: gp 42→36, g 20→17, uG 6→3."
    },
@@ -1178,6 +1239,8 @@
     "uG": 2,
     "uA": 3,
     "uS": 3,
+    "uOpp": 1.25,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1207,7 +1270,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "FIFA World Player 2003. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Semi-finals). Changed: gp 45→49, g 12→11, uG 3→2."
    },
@@ -1223,6 +1287,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.18,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1252,7 +1318,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Quarter-finals). Changed: gp 42→41, g 34→38."
    },
@@ -1268,6 +1335,8 @@
     "uG": 9,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.1,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1297,7 +1366,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Semi-finals). Changed: gp 45→43, g 21→25, uG 7→9."
    },
@@ -1313,6 +1383,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.1,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1342,7 +1414,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Semi-finals). Changed: gp 47→50, g 6→8, uG 1→2."
    },
@@ -1403,6 +1476,8 @@
     "uG": 3,
     "uA": 3,
     "uS": 2,
+    "uOpp": 1.38,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1433,7 +1508,8 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
     "note": "English champion 2002/03 with United (≥1/3 of the games); Real Madrid since Jul 2003, as a central midfielder there. lg LL because of more games at Real in the window (estimated). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Quarter-finals). Changed: gp 39→37."
    },
@@ -1503,6 +1579,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.24,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1532,7 +1610,8 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Serie_A",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Capocannoniere 2003/04. Ukraine did not go to Euro 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Quarter-finals). Changed: gp 41→40, g 27→29, uG 4→6."
    },
@@ -1548,6 +1627,8 @@
     "uG": 4,
     "uA": 4,
     "uS": 5,
+    "uOpp": 0.94,
+    "uOppN": 3,
     "ntGP": 6,
     "ntG": 0,
     "ntA": 1,
@@ -1578,7 +1659,9 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Ta%C3%A7a_de_Portugal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Barcelona since Jul 2004. Goal in the UCL 2004 final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Final). Changed: g 11→9, uG 3→4."
    },
@@ -1594,6 +1677,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 1,
+    "uOpp": 0.86,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1623,7 +1708,8 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_La_Liga",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Barça knocked out by Celtic in the 4th round of the 2003/04 UEFA Cup (uS 1); uG includes UCL 2004/05 Sep–Dec. FIFA World Player 2004. Did not play the 2004 Copa América. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Cup: Fourth round). Changed: gp 43→42, g 18→17, uG 2→3."
    },
@@ -1639,6 +1725,8 @@
     "uG": 6,
     "uA": 3,
     "uS": 2,
+    "uOpp": 1.12,
+    "uOppN": 6,
     "ntGP": 4,
     "ntG": 2,
     "ntA": 0,
@@ -1669,7 +1757,8 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Invincibles 2003/04; European Golden Shoe 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Quarter-finals). Changed: g 34→40, uG 4→6."
    },
@@ -1730,6 +1819,8 @@
     "uG": 7,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.07,
+    "uOppN": 4,
     "ntGP": 6,
     "ntG": 7,
     "ntA": 1,
@@ -1761,7 +1852,9 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/2004_Copa_Am%C3%A9rica"
+     "https://en.wikipedia.org/wiki/2004_Copa_Am%C3%A9rica",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Cup"
     ],
     "note": "Inter since Jan 2004. Inter in the 2003/04 UEFA Cup (quarter-finals). Copa América 2004: top scorer (7) and best player; Brazil champions. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Cup: Quarter-finals); to verify: national team. Changed: gp 39→34, g 25→31, uG 6→7."
    },
@@ -1777,6 +1870,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 1,
+    "uOpp": 1.19,
+    "uOppN": 2,
     "ntGP": 4,
     "ntG": 0,
     "ntA": 2,
@@ -1807,7 +1902,8 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Injured in the Euro 2004 semi-final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Round of 16). Changed: gp 36→37, g 7→9, uG 1→3."
    },
@@ -1823,6 +1919,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.56,
+    "uOppN": 3,
     "ntGP": 4,
     "ntG": 4,
     "ntA": 1,
@@ -1870,6 +1968,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 1.16,
+    "uOppN": 1,
     "ntGP": 5,
     "ntG": 0,
     "ntA": 0,
@@ -1900,7 +2000,8 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Ta%C3%A7a_de_Portugal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Chelsea since Jul 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2003–04 Porto: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Final). Changed: gp 36→38, g 1→2, uG 0→1."
    },
@@ -1916,6 +2017,8 @@
     "uG": 8,
     "uA": 0,
     "uS": 1,
+    "uOpp": 1.02,
+    "uOppN": 8,
     "ntGP": 4,
     "ntG": 4,
     "ntA": 0,
@@ -1946,7 +2049,8 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
     "note": "Injured from Dec 2004; 4 goals against Sparta Prague in the UCL (Nov 2004). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Round of 16). Changed: gp 30→32, g 20→19, uG 6→8, ntGP 5→4."
    },
@@ -2016,6 +2120,8 @@
     "uG": 7,
     "uA": 3,
     "uS": 1,
+    "uOpp": 0.89,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2045,7 +2151,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_La_Liga",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Barça knocked out by Chelsea in the round of 16 2004/05. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Round of 16). Changed: g 20→22, uG 5→7."
    },
@@ -2061,6 +2168,8 @@
     "uG": 4,
     "uA": 3,
     "uS": 3,
+    "uOpp": 1.36,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2090,7 +2199,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Semi-finals). Changed: g 22→24, uG 5→4."
    },
@@ -2106,6 +2216,8 @@
     "uG": 9,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.06,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2135,7 +2247,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Goal and captain in the Istanbul final. Goals in the UCL 2005/06 qualifying rounds excluded. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2004–05 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 41→45, g 12→18, uG 4→9."
    },
@@ -2151,6 +2264,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.03,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2180,7 +2295,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "European Golden Shoe 2004/05. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Round of 16). Changed: gp 34→38, g 27→23."
    },
@@ -2196,6 +2312,8 @@
     "uG": 9,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.88,
+    "uOppN": 9,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2225,7 +2343,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "4 goals against Fenerbahçe (Nov 2005). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 39→41, g 27→24."
    },
@@ -2241,6 +2360,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 4,
+    "uOpp": 1.12,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2270,7 +2391,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Goal in the 1st minute of the 2005 final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 40→37, g 1→3."
    },
@@ -2286,6 +2408,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.25,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2315,7 +2439,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Quarter-finals). Changed: gp 35→41, uG 5→8."
    },
@@ -2331,6 +2456,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.81,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2362,7 +2489,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Juventus's 2004/05 title later revoked (Calciopoli); title=1 on the result on the pitch. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; continental competition/stage from the edition page (2004–05 UEFA Champions League: Quarter-finals); Juventus's 2004/05 title counts in 2005 (only revoked in 2006). Changed: gp 41→46, g 16→15."
    },
@@ -2378,6 +2506,8 @@
     "uG": 4,
     "uA": 4,
     "uS": 4,
+    "uOpp": 0.79,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2407,7 +2537,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 45→50, g 15→12, uG 3→4."
    },
@@ -2423,6 +2554,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.15,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2452,7 +2585,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_La_Liga",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "Name with a typographic apostrophe; match data.js if it exists. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Round of 16). Changed: gp 40→42, g 27→32, uG 2→4."
    },
@@ -2468,6 +2602,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 3,
+    "uOpp": 1.6,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2497,7 +2633,8 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League"
     ],
     "note": "18 points, level with Eto’o; Topendsports lists him 11th. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Semi-finals). Changed: gp 47→48, g 5→4."
    },
