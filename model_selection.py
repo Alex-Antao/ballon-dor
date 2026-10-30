@@ -10,7 +10,7 @@ import numpy as np
 from scipy.optimize import linprog
 
 D = json.load(open('feats.json', encoding='utf8'))
-NAMES = ['prod', 'uStage', 'uWin', 'uProd', 'ntStage', 'ntWin', 'wcFinal', 'ntProd', 'title', 'cont', 'prodRel', 'uProdRel',
+NAMES = ['prod', 'uStage', 'uWin', 'uProd', 'ntStage', 'ntWin', 'wcFinal', 'ntProd', 'title', 'contTeam', 'prodRel', 'uProdRel',
          'isAtt', 'goalsRel', 'uFinal', 'uWinXprod', 'ntWinXatt', 'ntFinal', 'prodXtitle']
 FREE = {12}  # isAtt may be negative
 L = 'elig'
@@ -254,18 +254,20 @@ if '--awards' in sys.argv:
         print(f"  {desc[:58]:58s} in-sample {ins}/{len(TARGETS)} | 2010–2026 {p['hits']}/{len(TARGETS)} (rank {p['meanRank']:.2f}) | 1961–2009 {p['old'][0]}/{p['old'][1]} ({time.time() - t0:.0f}s)")
     out['awardStudy'] = st
 
-# 7) the subjective non-attacking rating (cont). The 2027 weights are almost only isAtt and cont, so a ±0.5 change
-#    in one rating can move a midfielder from 1st to 33rd. Variants that lean less on the rating, judged with the
+# 7) the subjective non-attacking rating (cont). The 2027 weights were almost only isAtt and cont, so a ±0.5 change
+#    in one rating could move a midfielder from 1st to 33rd. Variants that lean less on the rating, judged with the
 #    official procedure on every year from 1961. Rule written down BEFORE the first run (30/10/2026):
 #    adopt a variant only if (1) 1961–2009 hits >= V0 (decides), (2) 2010–2026 hits >= V0 (confirms) and
 #    (3) fewer fragile years than V0 (a year is fragile when moving any single player's cont by ±0.5 changes the
 #    pick); among those, fewest fragile years, then more 1961–2009 hits, then the one without cont.
-CONT, ISATT, USTAGE, NTSTAGE = NAMES.index('cont'), NAMES.index('isAtt'), NAMES.index('uStage'), NAMES.index('ntStage')
-for y in YS:   # derived columns: how far a non-attacker's team went (continental cup or national team), and cont × that
+#    V3 was adopted, so criterion 9 is now contTeam (cont × team stage) and V0 rebuilds the raw cont from feats.json.
+CONTTEAM, ISATT, USTAGE, NTSTAGE = NAMES.index('contTeam'), NAMES.index('isAtt'), NAMES.index('uStage'), NAMES.index('ntStage')
+for y in YS:   # derived columns: how far a non-attacker's team went (continental cup or national team), and the raw cont
     f = F[y]; team = (1 - f[:, ISATT]) * np.maximum(f[:, USTAGE], f[:, NTSTAGE])
-    F[y] = np.c_[f, team, f[:, CONT] * np.maximum(f[:, USTAGE], f[:, NTSTAGE])]
-NAMES = NAMES + ['naTeam', 'contXteam']
-NATEAM, CONTXTEAM = NAMES.index('naTeam'), NAMES.index('contXteam')
+    raw = [(r['x']['cont'] or 0) / 10 if not f[i, ISATT] else 0 for i, r in enumerate(D[str(y)][L]['rows'])]
+    F[y] = np.c_[f, team, raw]
+NAMES = NAMES + ['naTeam', 'cont']
+NATEAM, CONT = NAMES.index('naTeam'), NAMES.index('cont')
 CONT_RULE = ('adopt only if 1961–2009 hits >= V0, 2010–2026 hits >= V0 and fewer fragile years (±0.5 cont on any one '
              'player changes the pick); then fewest fragile years, more 1961–2009 hits, no cont')
 def procedure_weights(idx):
@@ -285,27 +287,28 @@ def fragile(Y, w, idx):
     for i in np.where(f0[:, CONT] > 0)[0]:
         for d in (-0.05, 0.05):
             f = f0.copy(); f[i, CONT] = min(1, max(0, f[i, CONT] + d))
-            f[i, CONTXTEAM] = f[i, CONT] * max(f[i, USTAGE], f[i, NTSTAGE])
+            f[i, CONTTEAM] = f[i, CONT] * max(f[i, USTAGE], f[i, NTSTAGE])
             if int(np.argmax(f[:, idx] @ w)) != pick: return True
     return False
 if '--cont' in sys.argv:
     print(f'\nThe subjective rating (cont): rule fixed beforehand — {CONT_RULE}')
-    noC = [k for k in BASE if k != CONT]
-    VARIANTS = [('V0', 'the 19 criteria (current)', BASE), ('V1', 'without cont', noC),
-                ('V2', 'without cont, + non-attacker × team stage', noC + [NATEAM]),
-                ('V3', 'cont only × team stage', noC + [CONTXTEAM]),
-                ('V4', 'the 19 + non-attacker × team stage', BASE + [NATEAM])]
+    noC = [k for k in BASE if k != CONTTEAM]
+    VARIANTS = [('V0', 'The 19 criteria with the rating as it is (before)', [CONT if k == CONTTEAM else k for k in BASE]),
+                ('V1', 'Without the rating', noC),
+                ('V2', 'Without the rating, + non-attacker × team stage', noC + [NATEAM]),
+                ('V3', 'Rating × team stage (adopted)', noC + [CONTTEAM]),
+                ('V4', 'The 19 with the rating as it is + non-attacker × team stage', [CONT if k == CONTTEAM else k for k in BASE] + [NATEAM])]
     cs = []
     for key, desc, idx in VARIANTS:
         R = procedure_weights(idx)
         old = [r for Y, (w, r) in R.items() if Y < 2010]; new = [r for Y, (w, r) in R.items() if Y in TARGETS]
-        fr = [Y for Y, (w, r) in R.items() if CONT in idx or CONTXTEAM in idx if fragile(Y, w, idx)]
+        fr = [Y for Y, (w, r) in R.items() if CONT in idx or CONTTEAM in idx if fragile(Y, w, idx)]
         e = {'key': key, 'desc': desc, 'features': [NAMES[k] for k in idx],
              'old': [int(sum(r == 1 for r in old)), len(old)], 'oldRank': float(np.mean(old)),
              'hits': int(sum(r == 1 for r in new)), 'meanRank': float(np.mean(new)),
              'fragile': len(fr), 'fragileYears': fr, 'ranks': {str(Y): r for Y, (w, r) in R.items() if Y in TARGETS}}
         cs.append(e)
-        print(f"  {key} {desc:44s} 1961–2009 {e['old'][0]}/{e['old'][1]} (rank {e['oldRank']:.2f}) | 2010–2026 {e['hits']}/{len(TARGETS)} (rank {e['meanRank']:.2f}) | fragile years {e['fragile']} ({time.time() - t0:.0f}s)")
+        print(f"  {key} {desc:52s} 1961–2009 {e['old'][0]}/{e['old'][1]} (rank {e['oldRank']:.2f}) | 2010–2026 {e['hits']}/{len(TARGETS)} (rank {e['meanRank']:.2f}) | fragile years {e['fragile']} ({time.time() - t0:.0f}s)")
     v0 = cs[0]
     ok = [e for e in cs[1:] if e['old'][0] >= v0['old'][0] and e['hits'] >= v0['hits'] and e['fragile'] < v0['fragile']]
     ok.sort(key=lambda e: (e['fragile'], -e['old'][0], 'cont' in e['features']))

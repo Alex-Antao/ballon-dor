@@ -29,7 +29,7 @@ test('reference results, eligible list (single fit)', () => {
 });
 
 test('reference results, "all" list (single fit)', () => {
-  assert.deepEqual(hits('all', 2025), { pred: 28, fair: 20, mine: 24, years: 69 });
+  assert.deepEqual(hits('all', 2025), { pred: 30, fair: 20, mine: 24, years: 69 });
 });
 
 test('2026: every model picks Harry Kane, the real winner', () => {

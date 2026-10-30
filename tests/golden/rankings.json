@@ -4,47 +4,47 @@
    "pred": [
     [
      "Alfredo Di Stéfano",
-     1.110031
-    ],
-    [
-     "Raymond Kopa",
-     0.987617
-    ],
-    [
-     "Sándor Kocsis",
-     0.984782
-    ],
-    [
-     "Thadée Cisowski",
-     0.983054
+     0.205202
     ],
     [
      "Ivan Kolev",
-     0.98271
+     0.106736
+    ],
+    [
+     "Raymond Kopa",
+     0.101385
+    ],
+    [
+     "Sándor Kocsis",
+     0.099828
+    ],
+    [
+     "Thadée Cisowski",
+     0.093375
     ],
     [
      "Ferenc Puskás",
-     0.973171
+     0.090145
     ],
     [
      "Stanley Matthews",
-     0.963438
-    ],
-    [
-     "Lev Yashin",
-     0.923695
+     0.08159
     ],
     [
      "József Bozsik",
-     0.874994
+     0.003385
     ],
     [
      "Ernst Ocwirk",
-     0.874663
+     0.003186
     ],
     [
      "Billy Wright",
-     0.869986
+     0.000376
+    ],
+    [
+     "Lev Yashin",
+     0
     ]
    ],
    "fair": [
@@ -144,47 +144,47 @@
    "pred": [
     [
      "Alfredo Di Stéfano",
-     1.277676
-    ],
-    [
-     "Raymond Kopa",
-     1.149544
+     1.405591
     ],
     [
      "Thadée Cisowski",
-     1.145999
+     1.279417
+    ],
+    [
+     "Raymond Kopa",
+     1.275727
     ],
     [
      "Sándor Kocsis",
-     1.122257
+     1.255869
     ],
     [
      "Ivan Kolev",
-     1.113186
+     1.25382
     ],
     [
      "Ferenc Puskás",
-     1.109811
+     1.243435
     ],
     [
      "Stanley Matthews",
-     1.101615
-    ],
-    [
-     "Lev Yashin",
-     1.044735
+     1.235232
     ],
     [
      "József Bozsik",
-     0.996029
+     0.012691
     ],
     [
      "Ernst Ocwirk",
-     0.995279
+     0.011945
     ],
     [
      "Billy Wright",
-     0.984697
+     0.00141
+    ],
+    [
+     "Lev Yashin",
+     0
     ]
    ],
    "fair": [
@@ -286,43 +286,43 @@
    "pred": [
     [
      "Alfredo Di Stéfano",
-     1.162704
+     0.271518
     ],
     [
      "Tommy Taylor",
-     1.066325
+     0.184778
     ],
     [
      "Raymond Kopa",
-     1.037953
-    ],
-    [
-     "John Charles",
-     0.987227
-    ],
-    [
-     "László Kubala",
-     0.968557
-    ],
-    [
-     "Eduard Streltsov",
-     0.966348
+     0.156581
     ],
     [
      "Duncan Edwards",
-     0.958228
+     0.098548
+    ],
+    [
+     "John Charles",
+     0.095882
+    ],
+    [
+     "László Kubala",
+     0.084665
+    ],
+    [
+     "Eduard Streltsov",
+     0.083338
     ],
     [
      "József Bozsik",
-     0.873534
+     0.002508
     ],
     [
      "Igor Netto",
-     0.873043
+     0.002212
     ],
     [
      "Billy Wright",
-     0.869986
+     0.000376
     ]
    ],
    "fair": [
@@ -414,43 +414,43 @@
    "pred": [
     [
      "Alfredo Di Stéfano",
-     1.341044
+     1.463586
     ],
     [
      "Tommy Taylor",
-     1.2238
+     1.346709
     ],
     [
      "Raymond Kopa",
-     1.201916
+     1.330723
     ],
     [
      "John Charles",
-     1.155443
+     1.288818
     ],
     [
      "László Kubala",
-     1.113197
+     1.246762
     ],
     [
      "Eduard Streltsov",
-     1.108198
+     1.241785
     ],
     [
      "Duncan Edwards",
-     1.100074
+     0.76009
     ],
     [
      "József Bozsik",
-     0.992724
+     0.009401
     ],
     [
      "Igor Netto",
-     0.991613
+     0.008295
     ],
     [
      "Billy Wright",
-     0.984697
+     0.00141
     ]
    ],
    "fair": [
@@ -544,43 +544,43 @@
    "pred": [
     [
      "Just Fontaine",
-     1.134899
+     0.225538
     ],
     [
      "Raymond Kopa",
-     1.121052
-    ],
-    [
-     "Kurt Hamrin",
-     1.085192
-    ],
-    [
-     "Helmut Rahn",
-     1.011597
+     0.216093
     ],
     [
      "Nils Liedholm",
-     1.008449
+     0.177797
+    ],
+    [
+     "Kurt Hamrin",
+     0.166098
     ],
     [
      "John Charles",
-     1.004323
+     0.122182
+    ],
+    [
+     "Helmut Rahn",
+     0.117562
     ],
     [
      "Johnny Haynes",
-     0.980525
+     0.09368
     ],
     [
      "Harry Gregg",
-     0.87764
-    ],
-    [
-     "Billy Wright",
-     0.870573
+     0.065016
     ],
     [
      "Horst Szymaniak",
-     0.825642
+     0.062601
+    ],
+    [
+     "Billy Wright",
+     0.006496
     ]
    ],
    "fair": [
@@ -672,55 +672,55 @@
    "pred": [
     [
      "Pelé",
-     1.473494
+     1.594476
     ],
     [
      "Just Fontaine",
-     1.304202
+     1.436233
     ],
     [
      "Kurt Hamrin",
-     1.275515
-    ],
-    [
-     "Garrincha",
-     1.262599
+     1.404659
     ],
     [
      "Raymond Kopa",
-     1.262443
+     1.389232
     ],
     [
-     "Nils Liedholm",
-     1.174175
-    ],
-    [
-     "Helmut Rahn",
-     1.161983
+     "Garrincha",
+     1.387249
     ],
     [
      "John Charles",
-     1.158191
+     1.293647
+    ],
+    [
+     "Helmut Rahn",
+     1.292013
     ],
     [
      "Johnny Haynes",
-     1.126416
+     1.260316
     ],
     [
      "Didi",
-     1.038204
+     1.141737
+    ],
+    [
+     "Nils Liedholm",
+     1.068726
     ],
     [
      "Harry Gregg",
-     1.0101
-    ],
-    [
-     "Billy Wright",
-     0.985143
+     0.679968
     ],
     [
      "Horst Szymaniak",
-     0.944768
+     0.643491
+    ],
+    [
+     "Billy Wright",
+     0.011036
     ]
    ],
    "fair": [
@@ -838,43 +838,43 @@
    "pred": [
     [
      "Alfredo Di Stéfano",
-     1.092795
+     0.190355
     ],
     [
      "Luis Suárez",
-     1.061347
+     0.176422
     ],
     [
      "Ferenc Puskás",
-     1.058335
+     0.159376
     ],
     [
      "Raymond Kopa",
-     1.033188
+     0.139393
     ],
     [
      "Francisco Gento",
-     1.030355
+     0.137963
     ],
     [
      "John Charles",
-     0.97386
+     0.087851
     ],
     [
      "Lajos Tichy",
-     0.970951
+     0.086103
     ],
     [
      "Agne Simonsson",
-     0.966789
+     0.083603
     ],
     [
      "Helmut Rahn",
-     0.965066
+     0.082568
     ],
     [
      "Horst Szymaniak",
-     0.820387
+     0.003221
     ]
    ],
    "fair": [
@@ -966,47 +966,47 @@
    "pred": [
     [
      "Pelé",
-     1.275859
+     1.401219
     ],
     [
      "Alfredo Di Stéfano",
-     1.22934
+     1.355363
     ],
     [
      "Ferenc Puskás",
-     1.215017
-    ],
-    [
-     "Raymond Kopa",
-     1.187444
-    ],
-    [
-     "Francisco Gento",
-     1.178979
+     1.340468
     ],
     [
      "Luis Suárez",
-     1.177465
+     1.31457
+    ],
+    [
+     "Raymond Kopa",
+     1.312024
+    ],
+    [
+     "Francisco Gento",
+     1.303319
     ],
     [
      "John Charles",
-     1.125196
+     1.258707
     ],
     [
      "Lajos Tichy",
-     1.118613
+     1.252154
     ],
     [
      "Agne Simonsson",
-     1.109197
+     1.24278
     ],
     [
      "Helmut Rahn",
-     1.105298
+     1.238898
     ],
     [
      "Horst Szymaniak",
-     0.933957
+     0.012078
     ]
    ],
    "fair": [
@@ -1108,43 +1108,43 @@
    "pred": [
     [
      "Uwe Seeler",
-     1.10971
+     0.234108
     ],
     [
      "Ferenc Puskás",
-     1.075981
+     0.18242
     ],
     [
      "Alfredo Di Stéfano",
-     1.06631
+     0.178964
     ],
     [
      "Luis Suárez",
-     1.052949
+     0.175503
     ],
     [
      "Lev Yashin",
-     1.01833
+     0.14448
     ],
     [
      "Omar Sívori",
-     1.012826
+     0.131824
     ],
     [
      "John Charles",
-     1.002925
+     0.121782
     ],
     [
      "Raymond Kopa",
-     0.997893
+     0.12032
     ],
     [
      "Bobby Charlton",
-     0.979384
+     0.09117
     ],
     [
      "Horst Szymaniak",
-     0.820524
+     0.003304
     ]
    ],
    "fair": [
@@ -1236,47 +1236,47 @@
    "pred": [
     [
      "Uwe Seeler",
-     1.260158
+     1.387396
     ],
     [
      "Ferenc Puskás",
-     1.251815
+     1.377814
     ],
     [
      "Alfredo Di Stéfano",
-     1.227614
-    ],
-    [
-     "Luis Suárez",
-     1.211069
+     1.352231
     ],
     [
      "Pelé",
-     1.208048
+     1.338897
+    ],
+    [
+     "Luis Suárez",
+     1.334113
     ],
     [
      "Omar Sívori",
-     1.175346
+     1.30949
     ],
     [
      "John Charles",
-     1.165135
+     1.30016
     ],
     [
      "Lev Yashin",
-     1.15799
+     1.28894
     ],
     [
      "Raymond Kopa",
-     1.146244
+     1.283277
     ],
     [
      "Bobby Charlton",
-     1.137695
+     1.271149
     ],
     [
      "Horst Szymaniak",
-     0.934268
+     0.012387
     ]
    ],
    "fair": [
@@ -1378,51 +1378,51 @@
    "pred": [
     [
      "José Águas",
-     1.147556
+     0.259441
     ],
     [
      "Alfredo Di Stéfano",
-     1.064182
+     0.184459
     ],
     [
      "Ferenc Puskás",
-     1.056246
+     0.174135
     ],
     [
      "Uwe Seeler",
-     1.051467
+     0.160665
     ],
     [
      "Omar Sívori",
-     1.042536
+     0.158954
     ],
     [
      "Francisco Gento",
-     1.007418
+     0.129535
     ],
     [
      "Luis Suárez",
-     1.005246
+     0.118028
     ],
     [
      "John Charles",
-     0.995368
+     0.117384
     ],
     [
      "Bobby Charlton",
-     0.972092
+     0.086789
     ],
     [
      "Johnny Haynes",
-     0.969883
+     0.085462
     ],
     [
      "Lev Yashin",
-     0.923695
+     0
     ],
     [
      "Gyula Grosics",
-     0.815025
+     0
     ]
    ],
    "fair": [
@@ -1580,59 +1580,59 @@
    "pred": [
     [
      "José Águas",
-     1.284164
+     1.409873
     ],
     [
      "Pelé",
-     1.247977
-    ],
-    [
-     "Uwe Seeler",
-     1.202688
+     1.376862
     ],
     [
      "Ferenc Puskás",
-     1.201826
+     1.332581
     ],
     [
      "Omar Sívori",
-     1.19797
+     1.331427
     ],
     [
      "Alfredo Di Stéfano",
-     1.19511
+     1.326894
+    ],
+    [
+     "Uwe Seeler",
+     1.324983
     ],
     [
      "Luis Suárez",
-     1.168991
+     1.294879
     ],
     [
      "Francisco Gento",
-     1.145999
+     1.281166
     ],
     [
      "John Charles",
-     1.136271
-    ],
-    [
-     "Bobby Charlton",
-     1.121196
+     1.274848
     ],
     [
      "Garrincha",
-     1.118509
+     1.258485
+    ],
+    [
+     "Bobby Charlton",
+     1.254725
     ],
     [
      "Johnny Haynes",
-     1.116197
+     1.249748
     ],
     [
      "Lev Yashin",
-     1.044735
+     0
     ],
     [
      "Gyula Grosics",
-     0.921825
+     0
     ]
    ],
    "fair": [
@@ -1758,43 +1758,43 @@
    "pred": [
     [
      "Josef Masopust",
-     1.082887
+     0.170378
     ],
     [
      "Eusébio",
-     1.061697
-    ],
-    [
-     "Jimmy Greaves",
-     1.034254
+     0.168753
     ],
     [
      "Milan Galić",
-     1.021517
+     0.136831
+    ],
+    [
+     "Jimmy Greaves",
+     0.134207
     ],
     [
      "Gianni Rivera",
-     0.999274
+     0.120175
     ],
     [
      "János Göröcs",
-     0.990226
+     0.104198
     ],
     [
      "Dragoslav Šekularac",
-     0.98038
+     0.095937
     ],
     [
      "John Charles",
-     0.970886
+     0.086668
     ],
     [
      "Karl-Heinz Schnellinger",
-     0.927593
+     0.050611
     ],
     [
      "Jef Jurion",
-     0.841356
+     0.029153
     ]
    ],
    "fair": [
@@ -1928,51 +1928,51 @@
    "pred": [
     [
      "Pelé",
-     1.464237
+     1.579424
     ],
     [
      "Garrincha",
-     1.312897
-    ],
-    [
-     "Josef Masopust",
-     1.256681
+     1.442222
     ],
     [
      "Jimmy Greaves",
-     1.220535
+     1.340236
     ],
     [
      "Eusébio",
-     1.203953
+     1.32892
     ],
     [
      "Milan Galić",
-     1.181452
+     1.310463
     ],
     [
      "Gianni Rivera",
-     1.14321
+     1.281103
     ],
     [
      "János Göröcs",
-     1.13959
+     1.261705
     ],
     [
      "Dragoslav Šekularac",
-     1.127258
+     1.249829
     ],
     [
      "John Charles",
-     1.121696
+     1.248213
+    ],
+    [
+     "Josef Masopust",
+     1.14609
     ],
     [
      "Karl-Heinz Schnellinger",
-     1.054589
+     0.487771
     ],
     [
      "Jef Jurion",
-     0.949466
+     0.034869
     ]
    ],
    "fair": [
@@ -2081,44 +2081,44 @@
   "elig": {
    "pred": [
     [
-     "Lev Yashin",
-     1.0867
-    ],
-    [
      "Eusébio",
-     1.079648
+     0.1897
     ],
     [
      "Jimmy Greaves",
-     1.073289
+     0.170497
     ],
     [
      "Gianni Rivera",
-     1.038529
-    ],
-    [
-     "Denis Law",
-     1.009079
-    ],
-    [
-     "Uwe Seeler",
-     1.002462
-    ],
-    [
-     "Bobby Charlton",
-     0.998006
+     0.144945
     ],
     [
      "Giovanni Trapattoni",
-     0.94053
+     0.116832
+    ],
+    [
+     "Denis Law",
+     0.116547
+    ],
+    [
+     "Bobby Charlton",
+     0.111401
+    ],
+    [
+     "Uwe Seeler",
+     0.110561
     ],
     [
      "Luis Suárez",
-     0.909657
+     0.04048
+    ],
+    [
+     "Lev Yashin",
+     0.0055
     ],
     [
      "Karl-Heinz Schnellinger",
-     0.871324
+     0.00118
     ]
    ],
    "fair": [
@@ -2208,43 +2208,43 @@
    "temporal": [
     [
      "Eusébio",
-     0.42626
-    ],
-    [
-     "Gianni Rivera",
-     0.346
-    ],
-    [
-     "Jimmy Greaves",
-     0.32873
+     0.316391
     ],
     [
      "Giovanni Trapattoni",
-     0.296015
+     0.303485
     ],
     [
-     "Lev Yashin",
-     0.2751
+     "Gianni Rivera",
+     0.2376
+    ],
+    [
+     "Jimmy Greaves",
+     0.22022
     ],
     [
      "Denis Law",
-     0.2675
+     0.1586
     ],
     [
      "Uwe Seeler",
-     0.2675
+     0.1586
     ],
     [
      "Bobby Charlton",
-     0.2675
+     0.1586
     ],
     [
      "Luis Suárez",
-     0.257775
+     0.056252
+    ],
+    [
+     "Lev Yashin",
+     0.026
     ],
     [
      "Karl-Heinz Schnellinger",
-     0.20472
+     0
     ]
    ]
   },
@@ -2252,47 +2252,47 @@
    "pred": [
     [
      "Jimmy Greaves",
-     1.243676
+     1.37303
     ],
     [
      "Eusébio",
-     1.241729
-    ],
-    [
-     "Lev Yashin",
-     1.2291
+     1.367601
     ],
     [
      "Pelé",
-     1.228253
+     1.355983
     ],
     [
      "Gianni Rivera",
-     1.193622
+     1.318937
     ],
     [
      "Denis Law",
-     1.160093
+     1.293756
     ],
     [
      "Uwe Seeler",
-     1.157064
+     1.290658
     ],
     [
      "Bobby Charlton",
-     1.126077
+     1.259954
     ],
     [
      "Giovanni Trapattoni",
-     1.096003
+     1.221615
     ],
     [
      "Luis Suárez",
-     1.032921
+     0.054561
+    ],
+    [
+     "Lev Yashin",
+     0.0093
     ],
     [
      "Karl-Heinz Schnellinger",
-     0.987724
+     0.004424
     ]
    ],
    "fair": [
@@ -2394,43 +2394,43 @@
    "pred": [
     [
      "Amancio",
-     1.119079
-    ],
-    [
-     "Eusébio",
-     1.080107
-    ],
-    [
-     "Denis Law",
-     1.044051
+     0.240975
     ],
     [
      "Luis Suárez",
-     1.037661
+     0.19961
+    ],
+    [
+     "Eusébio",
+     0.192791
+    ],
+    [
+     "Denis Law",
+     0.149506
     ],
     [
      "Mario Corso",
-     1.015615
+     0.126085
     ],
     [
      "Paul Van Himst",
-     1.003106
+     0.12296
     ],
     [
      "Jimmy Greaves",
-     0.988165
+     0.096681
     ],
     [
      "Gianni Rivera",
-     0.978459
+     0.094004
     ],
     [
      "Lev Yashin",
-     0.97803
+     0.090404
     ],
     [
      "Valery Voronin",
-     0.880963
+     0.088562
     ]
    ],
    "fair": [
@@ -2519,44 +2519,44 @@
    ],
    "temporal": [
     [
-     "Eusébio",
-     1.40914
+     "Amancio",
+     0.2871
     ],
     [
-     "Amancio",
-     1.394601
+     "Eusébio",
+     0.1704
     ],
     [
      "Paul Van Himst",
-     1.34715
-    ],
-    [
-     "Mario Corso",
-     1.342
-    ],
-    [
-     "Lev Yashin",
-     1.31481
-    ],
-    [
-     "Gianni Rivera",
-     1.31188
-    ],
-    [
-     "Denis Law",
-     1.307462
-    ],
-    [
-     "Jimmy Greaves",
-     1.299631
+     0.1704
     ],
     [
      "Luis Suárez",
-     1.291965
+     0.139311
+    ],
+    [
+     "Lev Yashin",
+     0.096312
     ],
     [
      "Valery Voronin",
-     1.16872
+     0.095984
+    ],
+    [
+     "Mario Corso",
+     0.067911
+    ],
+    [
+     "Denis Law",
+     0.05
+    ],
+    [
+     "Jimmy Greaves",
+     0.05
+    ],
+    [
+     "Gianni Rivera",
+     0.05
     ]
    ]
   },
@@ -2564,47 +2564,47 @@
    "pred": [
     [
      "Amancio",
-     1.283933
+     1.397963
     ],
     [
      "Eusébio",
-     1.247398
+     1.372826
     ],
     [
      "Pelé",
-     1.243052
-    ],
-    [
-     "Luis Suárez",
-     1.203061
+     1.363183
     ],
     [
      "Denis Law",
-     1.19822
+     1.325989
+    ],
+    [
+     "Luis Suárez",
+     1.317032
     ],
     [
      "Mario Corso",
-     1.179954
-    ],
-    [
-     "Jimmy Greaves",
-     1.158824
+     1.304432
     ],
     [
      "Paul Van Himst",
-     1.15824
+     1.294009
+    ],
+    [
+     "Jimmy Greaves",
+     1.28945
     ],
     [
      "Gianni Rivera",
-     1.125892
+     1.252398
     ],
     [
      "Lev Yashin",
-     1.12017
+     1.004812
     ],
     [
      "Valery Voronin",
-     1.015593
+     0.912121
     ]
    ],
    "fair": [
@@ -2706,43 +2706,43 @@
    "pred": [
     [
      "Eusébio",
-     1.118267
-    ],
-    [
-     "Sandro Mazzola",
-     1.064597
-    ],
-    [
-     "Paul Van Himst",
-     1.032273
-    ],
-    [
-     "Giacinto Facchetti",
-     1.02024
-    ],
-    [
-     "Bobby Charlton",
-     1.019395
-    ],
-    [
-     "Flórián Albert",
-     1.01609
+     0.242253
     ],
     [
      "Luis Suárez",
-     1.003055
+     0.182675
+    ],
+    [
+     "Sandro Mazzola",
+     0.18102
+    ],
+    [
+     "Paul Van Himst",
+     0.1552
+    ],
+    [
+     "Giacinto Facchetti",
+     0.15372
+    ],
+    [
+     "Bobby Charlton",
+     0.139302
+    ],
+    [
+     "Flórián Albert",
+     0.124322
     ],
     [
      "Georgi Asparuhov",
-     1.000644
+     0.12174
     ],
     [
      "Gianni Rivera",
-     0.969305
+     0.086965
     ],
     [
      "Valery Voronin",
-     0.931838
+     0.012359
     ]
    ],
    "fair": [
@@ -2832,43 +2832,43 @@
    "temporal": [
     [
      "Eusébio",
-     1.54272
-    ],
-    [
-     "Sandro Mazzola",
-     1.471697
+     0.15981
     ],
     [
      "Paul Van Himst",
-     1.470267
+     0.116368
     ],
     [
-     "Bobby Charlton",
-     1.460095
-    ],
-    [
-     "Giacinto Facchetti",
-     1.458413
-    ],
-    [
-     "Georgi Asparuhov",
-     1.445366
-    ],
-    [
-     "Flórián Albert",
-     1.420051
+     "Sandro Mazzola",
+     0.116089
     ],
     [
      "Luis Suárez",
-     1.40785
+     0.108694
     ],
     [
-     "Gianni Rivera",
-     1.392897
+     "Bobby Charlton",
+     0.105846
+    ],
+    [
+     "Georgi Asparuhov",
+     0.098584
+    ],
+    [
+     "Giacinto Facchetti",
+     0.095008
     ],
     [
      "Valery Voronin",
-     1.362724
+     0.086039
+    ],
+    [
+     "Flórián Albert",
+     0.025101
+    ],
+    [
+     "Gianni Rivera",
+     0.008777
     ]
    ]
   },
@@ -2876,47 +2876,47 @@
    "pred": [
     [
      "Pelé",
-     1.311273
+     1.429286
     ],
     [
      "Eusébio",
-     1.272973
+     1.397633
     ],
     [
      "Sandro Mazzola",
-     1.223786
-    ],
-    [
-     "Flórián Albert",
-     1.183657
+     1.351805
     ],
     [
      "Giacinto Facchetti",
-     1.178714
+     1.320343
+    ],
+    [
+     "Flórián Albert",
+     1.311722
     ],
     [
      "Paul Van Himst",
-     1.174457
+     1.307763
     ],
     [
      "Bobby Charlton",
-     1.172668
+     1.303625
     ],
     [
      "Luis Suárez",
-     1.152744
+     1.284829
     ],
     [
      "Georgi Asparuhov",
-     1.145495
+     1.283755
     ],
     [
      "Gianni Rivera",
-     1.10916
+     1.242664
     ],
     [
      "Valery Voronin",
-     1.056632
+     0.020284
     ]
    ],
    "fair": [
@@ -3017,44 +3017,44 @@
   "elig": {
    "pred": [
     [
-     "Bobby Moore",
-     1.161543
-    ],
-    [
      "Bobby Charlton",
-     1.140935
+     0.22244
     ],
     [
-     "Eusébio",
-     1.090967
-    ],
-    [
-     "János Farkas",
-     1.05736
-    ],
-    [
-     "José Torres",
-     1.024284
-    ],
-    [
-     "Flórián Albert",
-     1.015105
-    ],
-    [
-     "Ferenc Bene",
-     1.010906
-    ],
-    [
-     "Franz Beckenbauer",
-     0.975682
+     "Bobby Moore",
+     0.210233
     ],
     [
      "Alan Ball",
-     0.948398
+     0.186625
+    ],
+    [
+     "Eusébio",
+     0.172371
+    ],
+    [
+     "János Farkas",
+     0.161209
+    ],
+    [
+     "Franz Beckenbauer",
+     0.153303
+    ],
+    [
+     "José Torres",
+     0.124746
+    ],
+    [
+     "Flórián Albert",
+     0.116756
+    ],
+    [
+     "Ferenc Bene",
+     0.115424
     ],
     [
      "Lev Yashin",
-     0.86936
+     0.059136
     ]
    ],
    "fair": [
@@ -3143,44 +3143,44 @@
    ],
    "temporal": [
     [
-     "Bobby Moore",
-     1.544502
-    ],
-    [
      "János Farkas",
-     1.506533
+     0.137287
     ],
     [
      "Bobby Charlton",
-     1.478798
-    ],
-    [
-     "Eusébio",
-     1.461093
-    ],
-    [
-     "Flórián Albert",
-     1.434321
-    ],
-    [
-     "José Torres",
-     1.423654
-    ],
-    [
-     "Ferenc Bene",
-     1.41294
-    ],
-    [
-     "Franz Beckenbauer",
-     1.311696
-    ],
-    [
-     "Lev Yashin",
-     1.25728
+     0.093144
     ],
     [
      "Alan Ball",
-     1.246831
+     0.068634
+    ],
+    [
+     "Franz Beckenbauer",
+     0.063205
+    ],
+    [
+     "Bobby Moore",
+     0.061043
+    ],
+    [
+     "Eusébio",
+     0.046707
+    ],
+    [
+     "Flórián Albert",
+     0.032495
+    ],
+    [
+     "José Torres",
+     0.024659
+    ],
+    [
+     "Ferenc Bene",
+     0.017869
+    ],
+    [
+     "Lev Yashin",
+     0
     ]
    ]
   },
@@ -3188,47 +3188,47 @@
    "pred": [
     [
      "Bobby Moore",
-     1.340439
+     1.475693
     ],
     [
      "Bobby Charlton",
-     1.314958
+     1.430588
     ],
     [
      "Eusébio",
-     1.255646
+     1.380488
     ],
     [
      "János Farkas",
-     1.190282
+     1.323064
     ],
     [
      "José Torres",
-     1.182011
+     1.305133
     ],
     [
      "Flórián Albert",
-     1.168518
+     1.292985
     ],
     [
      "Ferenc Bene",
-     1.16468
+     1.291904
     ],
     [
      "Pelé",
-     1.154506
-    ],
-    [
-     "Franz Beckenbauer",
-     1.128204
+     1.288111
     ],
     [
      "Alan Ball",
-     1.106272
+     1.217405
+    ],
+    [
+     "Franz Beckenbauer",
+     1.029756
     ],
     [
      "Lev Yashin",
-     0.98814
+     0.667008
     ]
    ],
    "fair": [
@@ -3330,51 +3330,51 @@
    "pred": [
     [
      "Gerd Müller",
-     1.067419
+     0.176944
     ],
     [
      "Eusébio",
-     1.061088
+     0.173758
     ],
     [
      "Jimmy Johnstone",
-     1.046183
+     0.162148
     ],
     [
      "Flórián Albert",
-     1.03538
-    ],
-    [
-     "Sandro Mazzola",
-     1.021726
-    ],
-    [
-     "George Best",
-     1.008338
-    ],
-    [
-     "Bobby Charlton",
-     0.997772
-    ],
-    [
-     "János Farkas",
-     0.994188
-    ],
-    [
-     "Igor Chislenko",
-     0.964875
+     0.152243
     ],
     [
      "Tommy Gemmell",
-     0.920497
+     0.147902
+    ],
+    [
+     "Sandro Mazzola",
+     0.131327
+    ],
+    [
+     "George Best",
+     0.128535
+    ],
+    [
+     "Bobby Charlton",
+     0.117411
+    ],
+    [
+     "János Farkas",
+     0.108899
     ],
     [
      "Franz Beckenbauer",
-     0.90051
+     0.102212
+    ],
+    [
+     "Igor Chislenko",
+     0.082453
     ],
     [
      "Pirri",
-     0.849504
+     0.071739
     ]
    ],
    "fair": [
@@ -3479,52 +3479,52 @@
    ],
    "temporal": [
     [
-     "Eusébio",
-     1.321276
+     "Jimmy Johnstone",
+     0.146529
     ],
     [
-     "Gerd Müller",
-     1.298116
+     "Eusébio",
+     0.132401
     ],
     [
      "Flórián Albert",
-     1.295992
-    ],
-    [
-     "Jimmy Johnstone",
-     1.281762
-    ],
-    [
-     "Sandro Mazzola",
-     1.275158
+     0.130293
     ],
     [
      "George Best",
-     1.271229
+     0.121781
     ],
     [
      "Bobby Charlton",
-     1.262519
-    ],
-    [
-     "János Farkas",
-     1.25264
-    ],
-    [
-     "Igor Chislenko",
-     1.226798
+     0.109509
     ],
     [
      "Tommy Gemmell",
-     1.143773
+     0.107098
     ],
     [
-     "Franz Beckenbauer",
-     1.125786
+     "Gerd Müller",
+     0.098901
     ],
     [
      "Pirri",
-     1.071859
+     0.095989
+    ],
+    [
+     "Sandro Mazzola",
+     0.055184
+    ],
+    [
+     "János Farkas",
+     0.042209
+    ],
+    [
+     "Igor Chislenko",
+     0.020517
+    ],
+    [
+     "Franz Beckenbauer",
+     0.01368
     ]
    ]
   },
@@ -3532,55 +3532,55 @@
    "pred": [
     [
      "Eusébio",
-     1.241296
+     1.36805
     ],
     [
      "Jimmy Johnstone",
-     1.214454
+     1.342641
     ],
     [
      "Gerd Müller",
-     1.208864
+     1.335796
     ],
     [
      "Flórián Albert",
-     1.198257
+     1.329121
     ],
     [
      "Sandro Mazzola",
-     1.189152
+     1.314998
     ],
     [
      "George Best",
-     1.159378
-    ],
-    [
-     "Pelé",
-     1.156793
+     1.295419
     ],
     [
      "Bobby Charlton",
-     1.156477
+     1.292425
+    ],
+    [
+     "Pelé",
+     1.290161
     ],
     [
      "János Farkas",
-     1.13598
+     1.265879
     ],
     [
      "Igor Chislenko",
-     1.104865
+     1.238467
     ],
     [
      "Tommy Gemmell",
-     1.070627
+     1.195503
     ],
     [
      "Franz Beckenbauer",
-     1.041498
+     0.917286
     ],
     [
      "Pirri",
-     0.978749
+     0.472271
     ]
    ],
    "fair": [
@@ -3698,47 +3698,47 @@
    "pred": [
     [
      "Eusébio",
-     1.107609
+     0.211592
     ],
     [
      "Gianni Rivera",
-     1.073841
+     0.196046
     ],
     [
      "George Best",
-     1.054993
-    ],
-    [
-     "Bobby Charlton",
-     1.035299
+     0.15582
     ],
     [
      "Amancio",
-     1.03426
+     0.15006
     ],
     [
      "Giacinto Facchetti",
-     1.027414
+     0.149938
+    ],
+    [
+     "Bobby Charlton",
+     0.141543
     ],
     [
      "Gigi Riva",
-     1.017583
+     0.13835
     ],
     [
      "Dragan Džajić",
-     0.996837
-    ],
-    [
-     "Jimmy Greaves",
-     0.983083
-    ],
-    [
-     "Franz Beckenbauer",
-     0.934118
+     0.117401
     ],
     [
      "Pirri",
-     0.862422
+     0.100588
+    ],
+    [
+     "Jimmy Greaves",
+     0.093628
+    ],
+    [
+     "Franz Beckenbauer",
+     0.055977
     ]
    ],
    "fair": [
@@ -3836,47 +3836,47 @@
    "temporal": [
     [
      "Eusébio",
-     1.4449
-    ],
-    [
-     "Gianni Rivera",
-     1.43695
-    ],
-    [
-     "Gigi Riva",
-     1.372377
+     0.19437
     ],
     [
      "Amancio",
-     1.368506
+     0.178231
     ],
     [
-     "George Best",
-     1.330004
+     "Gianni Rivera",
+     0.166538
     ],
     [
      "Dragan Džajić",
-     1.326256
-    ],
-    [
-     "Bobby Charlton",
-     1.318235
-    ],
-    [
-     "Giacinto Facchetti",
-     1.312109
-    ],
-    [
-     "Jimmy Greaves",
-     1.297277
-    ],
-    [
-     "Franz Beckenbauer",
-     1.234826
+     0.1399
     ],
     [
      "Pirri",
-     1.148879
+     0.119739
+    ],
+    [
+     "George Best",
+     0.074877
+    ],
+    [
+     "Bobby Charlton",
+     0.071986
+    ],
+    [
+     "Gigi Riva",
+     0.0363
+    ],
+    [
+     "Jimmy Greaves",
+     0.0363
+    ],
+    [
+     "Franz Beckenbauer",
+     0
+    ],
+    [
+     "Giacinto Facchetti",
+     0
     ]
    ]
   },
@@ -3884,55 +3884,55 @@
    "pred": [
     [
      "Eusébio",
-     1.293007
+     1.415116
     ],
     [
      "Gianni Rivera",
-     1.246028
+     1.36345
     ],
     [
      "George Best",
-     1.228048
+     1.354367
     ],
     [
      "Pelé",
-     1.212307
+     1.343499
     ],
     [
      "Bobby Charlton",
-     1.196883
-    ],
-    [
-     "Juan Ramón Verón",
-     1.182373
+     1.317002
     ],
     [
      "Giacinto Facchetti",
-     1.178544
+     1.309401
+    ],
+    [
+     "Juan Ramón Verón",
+     1.308144
     ],
     [
      "Amancio",
-     1.17683
+     1.304349
     ],
     [
      "Gigi Riva",
-     1.17682
+     1.297058
     ],
     [
      "Dragan Džajić",
-     1.160116
+     1.289125
     ],
     [
      "Jimmy Greaves",
-     1.147325
-    ],
-    [
-     "Franz Beckenbauer",
-     1.072099
+     1.278003
     ],
     [
      "Pirri",
-     0.991244
+     0.689878
+    ],
+    [
+     "Franz Beckenbauer",
+     0.571823
     ]
    ],
    "fair": [
@@ -4049,44 +4049,44 @@
   "elig": {
    "pred": [
     [
+     "Ove Kindvall",
+     0.169551
+    ],
+    [
      "Pierino Prati",
-     1.061196
+     0.16686
     ],
     [
      "Johan Cruyff",
-     1.056311
-    ],
-    [
-     "Ove Kindvall",
-     1.051696
+     0.161376
     ],
     [
      "Gianni Rivera",
-     1.030038
+     0.140357
     ],
     [
      "Gerd Müller",
-     1.012879
+     0.13163
     ],
     [
      "Petar Zhekov",
-     1.012304
+     0.131135
     ],
     [
      "George Best",
-     1.01078
-    ],
-    [
-     "Franz Beckenbauer",
-     0.994824
+     0.118532
     ],
     [
      "Gigi Riva",
-     0.97715
+     0.089828
     ],
     [
      "Jack Charlton",
-     0.944392
+     0.04849
+    ],
+    [
+     "Franz Beckenbauer",
+     0.019917
     ]
    ],
    "fair": [
@@ -4175,44 +4175,44 @@
    ],
    "temporal": [
     [
-     "Johan Cruyff",
-     1.36594
-    ],
-    [
      "Ove Kindvall",
-     1.35202
+     0.141924
     ],
     [
      "Pierino Prati",
-     1.345118
-    ],
-    [
-     "George Best",
-     1.328194
+     0.118296
     ],
     [
      "Gerd Müller",
-     1.324008
+     0.117077
     ],
     [
      "Petar Zhekov",
-     1.323245
+     0.116826
+    ],
+    [
+     "Johan Cruyff",
+     0.109
     ],
     [
      "Gianni Rivera",
-     1.310973
+     0.089896
     ],
     [
-     "Franz Beckenbauer",
-     1.298806
-    ],
-    [
-     "Gigi Riva",
-     1.292373
+     "George Best",
+     0.078634
     ],
     [
      "Jack Charlton",
-     1.229617
+     0.062975
+    ],
+    [
+     "Franz Beckenbauer",
+     0.061714
+    ],
+    [
+     "Gigi Riva",
+     0.059481
     ]
    ]
   },
@@ -4220,47 +4220,47 @@
    "pred": [
     [
      "Johan Cruyff",
-     1.216672
+     1.342645
     ],
     [
      "Pierino Prati",
-     1.214226
+     1.33995
     ],
     [
      "Ove Kindvall",
-     1.193629
+     1.32663
     ],
     [
      "Gianni Rivera",
-     1.18271
-    ],
-    [
-     "George Best",
-     1.177231
+     1.307237
     ],
     [
      "Gerd Müller",
-     1.172665
+     1.306541
     ],
     [
      "Petar Zhekov",
-     1.171771
+     1.305737
     ],
     [
      "Pelé",
-     1.17008
+     1.303389
+    ],
+    [
+     "George Best",
+     1.300047
     ],
     [
      "Gigi Riva",
-     1.13264
-    ],
-    [
-     "Franz Beckenbauer",
-     1.132284
+     1.266117
     ],
     [
      "Jack Charlton",
-     1.076209
+     0.317916
+    ],
+    [
+     "Franz Beckenbauer",
+     0.032733
     ]
    ],
    "fair": [
@@ -4362,55 +4362,55 @@
    "pred": [
     [
      "Gerd Müller",
-     1.12691
+     0.211997
     ],
     [
      "Gigi Riva",
-     1.097945
+     0.188736
     ],
     [
      "Gianni Rivera",
-     1.075313
-    ],
-    [
-     "Sandro Mazzola",
-     1.05267
+     0.163013
     ],
     [
      "Johan Cruyff",
-     1.048862
+     0.162001
     ],
     [
-     "Gordon Banks",
-     1.032365
-    ],
-    [
-     "Uwe Seeler",
-     1.007208
-    ],
-    [
-     "Franz Beckenbauer",
-     1.005131
-    ],
-    [
-     "Dragan Džajić",
-     0.996741
-    ],
-    [
-     "Wolfgang Overath",
-     0.988539
-    ],
-    [
-     "Bobby Moore",
-     0.979429
+     "Sandro Mazzola",
+     0.14567
     ],
     [
      "Rinus Israël",
-     0.954065
+     0.1285
+    ],
+    [
+     "Dragan Džajić",
+     0.117799
+    ],
+    [
+     "Uwe Seeler",
+     0.112579
+    ],
+    [
+     "Wolfgang Overath",
+     0.101203
+    ],
+    [
+     "Franz Beckenbauer",
+     0.087343
     ],
     [
      "Albert Shesternyov",
-     0.924748
+     0.048238
+    ],
+    [
+     "Gordon Banks",
+     0.046816
+    ],
+    [
+     "Bobby Moore",
+     0.045193
     ]
    ],
    "fair": [
@@ -4524,55 +4524,55 @@
    "temporal": [
     [
      "Gigi Riva",
-     1.514752
+     0.215224
     ],
     [
      "Gianni Rivera",
-     1.494229
-    ],
-    [
-     "Gerd Müller",
-     1.479978
+     0.168683
     ],
     [
      "Sandro Mazzola",
-     1.477835
-    ],
-    [
-     "Gordon Banks",
-     1.457775
+     0.162157
     ],
     [
      "Johan Cruyff",
-     1.452722
-    ],
-    [
-     "Franz Beckenbauer",
-     1.401831
+     0.125312
     ],
     [
      "Dragan Džajić",
-     1.397656
+     0.112693
     ],
     [
-     "Uwe Seeler",
-     1.385654
-    ],
-    [
-     "Bobby Moore",
-     1.383068
+     "Gerd Müller",
+     0.106615
     ],
     [
      "Wolfgang Overath",
-     1.379531
+     0.057723
     ],
     [
-     "Rinus Israël",
-     1.370653
+     "Uwe Seeler",
+     0.055175
     ],
     [
      "Albert Shesternyov",
-     1.305602
+     0.0527
+    ],
+    [
+     "Rinus Israël",
+     0.012858
+    ],
+    [
+     "Franz Beckenbauer",
+     0.007723
+    ],
+    [
+     "Bobby Moore",
+     0
+    ],
+    [
+     "Gordon Banks",
+     0
     ]
    ]
   },
@@ -4580,67 +4580,67 @@
    "pred": [
     [
      "Pelé",
-     1.334005
+     1.459914
     ],
     [
      "Jairzinho",
-     1.325406
+     1.451353
     ],
     [
      "Tostão",
-     1.293595
+     1.418727
     ],
     [
      "Gigi Riva",
-     1.28626
+     1.41781
     ],
     [
      "Gerd Müller",
-     1.284065
+     1.414793
     ],
     [
      "Gianni Rivera",
-     1.248906
+     1.374133
     ],
     [
      "Sandro Mazzola",
-     1.225617
+     1.3464
     ],
     [
      "Johan Cruyff",
-     1.214879
-    ],
-    [
-     "Gordon Banks",
-     1.170885
+     1.341422
     ],
     [
      "Uwe Seeler",
-     1.169872
-    ],
-    [
-     "Franz Beckenbauer",
-     1.144686
+     1.299359
     ],
     [
      "Dragan Džajić",
-     1.138731
+     1.277424
     ],
     [
      "Wolfgang Overath",
-     1.135583
-    ],
-    [
-     "Bobby Moore",
-     1.112596
+     1.264649
     ],
     [
      "Rinus Israël",
-     1.108734
+     1.234685
+    ],
+    [
+     "Franz Beckenbauer",
+     0.784308
+    ],
+    [
+     "Gordon Banks",
+     0.528048
+    ],
+    [
+     "Bobby Moore",
+     0.503408
     ],
     [
      "Albert Shesternyov",
-     1.049843
+     0.483473
     ]
    ],
    "fair": [
@@ -4782,47 +4782,47 @@
    "pred": [
     [
      "Johan Cruyff",
-     1.073175
+     0.172649
     ],
     [
      "Piet Keizer",
-     1.066687
+     0.168471
     ],
     [
      "Josip Skoblar",
-     1.031518
+     0.146922
     ],
     [
      "Günter Netzer",
-     1.023219
+     0.141013
     ],
     [
      "Gerd Müller",
-     1.022992
+     0.126337
     ],
     [
      "Ferenc Bene",
-     1.002474
-    ],
-    [
-     "Franz Beckenbauer",
-     0.99704
+     0.122694
     ],
     [
      "Sandro Mazzola",
-     0.990693
+     0.112568
     ],
     [
      "George Best",
-     0.984453
+     0.094216
     ],
     [
      "Martin Chivers",
-     0.979089
+     0.090993
+    ],
+    [
+     "Franz Beckenbauer",
+     0.045136
     ],
     [
      "Bobby Moore",
-     0.872625
+     0.001962
     ]
    ],
    "fair": [
@@ -4920,47 +4920,47 @@
    "temporal": [
     [
      "Johan Cruyff",
-     1.539616
+     0.135721
     ],
     [
      "Piet Keizer",
-     1.53946
-    ],
-    [
-     "Gerd Müller",
-     1.481252
+     0.130118
     ],
     [
      "Günter Netzer",
-     1.464486
-    ],
-    [
-     "Josip Skoblar",
-     1.464412
-    ],
-    [
-     "Franz Beckenbauer",
-     1.447577
+     0.121611
     ],
     [
      "Ferenc Bene",
-     1.437362
-    ],
-    [
-     "George Best",
-     1.430478
+     0.10353
     ],
     [
      "Sandro Mazzola",
-     1.42411
+     0.101188
+    ],
+    [
+     "Josip Skoblar",
+     0.097473
+    ],
+    [
+     "Gerd Müller",
+     0.072277
+    ],
+    [
+     "George Best",
+     0.046978
     ],
     [
      "Martin Chivers",
-     1.422055
+     0.046596
+    ],
+    [
+     "Franz Beckenbauer",
+     0.004677
     ],
     [
      "Bobby Moore",
-     1.271367
+     0.000233
     ]
    ]
   },
@@ -4968,51 +4968,51 @@
    "pred": [
     [
      "Johan Cruyff",
-     1.227591
-    ],
-    [
-     "Piet Keizer",
-     1.211298
+     1.354841
     ],
     [
      "Josip Skoblar",
-     1.211085
+     1.340383
+    ],
+    [
+     "Piet Keizer",
+     1.337816
     ],
     [
      "Gerd Müller",
-     1.183163
+     1.311857
     ],
     [
      "Günter Netzer",
-     1.160537
+     1.293964
     ],
     [
      "Ferenc Bene",
-     1.150966
+     1.287109
     ],
     [
      "George Best",
-     1.149166
-    ],
-    [
-     "Franz Beckenbauer",
-     1.142761
-    ],
-    [
-     "Martin Chivers",
-     1.137028
+     1.282569
     ],
     [
      "Sandro Mazzola",
-     1.134388
+     1.272194
+    ],
+    [
+     "Martin Chivers",
+     1.270486
     ],
     [
      "Tostão",
-     1.102309
+     1.235923
+    ],
+    [
+     "Franz Beckenbauer",
+     0.391622
     ],
     [
      "Bobby Moore",
-     0.990668
+     0.007355
     ]
    ],
    "fair": [
@@ -5122,43 +5122,43 @@
    "pred": [
     [
      "Gerd Müller",
-     1.186117
-    ],
-    [
-     "Franz Beckenbauer",
-     1.111158
+     0.293002
     ],
     [
      "Johan Cruyff",
-     1.093531
+     0.203034
+    ],
+    [
+     "Franz Beckenbauer",
+     0.188038
     ],
     [
      "Günter Netzer",
-     1.043771
+     0.161944
     ],
     [
      "Piet Keizer",
-     1.041769
-    ],
-    [
-     "Włodzimierz Lubański",
-     0.984135
-    ],
-    [
-     "Gordon Banks",
-     0.97803
+     0.156326
     ],
     [
      "Barry Hulshoff",
-     0.965591
+     0.145857
+    ],
+    [
+     "Włodzimierz Lubański",
+     0.106558
     ],
     [
      "Kazimierz Deyna",
-     0.965267
+     0.082689
     ],
     [
      "Bobby Moore",
-     0.873558
+     0.002522
+    ],
+    [
+     "Gordon Banks",
+     0
     ]
    ],
    "fair": [
@@ -5248,43 +5248,43 @@
    "temporal": [
     [
      "Gerd Müller",
-     1.66529
+     0.197891
     ],
     [
      "Johan Cruyff",
-     1.61048
-    ],
-    [
-     "Franz Beckenbauer",
-     1.592356
+     0.18585
     ],
     [
      "Piet Keizer",
-     1.556934
-    ],
-    [
-     "Günter Netzer",
-     1.507352
-    ],
-    [
-     "Gordon Banks",
-     1.47267
-    ],
-    [
-     "Barry Hulshoff",
-     1.472176
+     0.140562
     ],
     [
      "Włodzimierz Lubański",
-     1.468969
+     0.090165
+    ],
+    [
+     "Günter Netzer",
+     0.074469
+    ],
+    [
+     "Barry Hulshoff",
+     0.073346
+    ],
+    [
+     "Franz Beckenbauer",
+     0.066399
     ],
     [
      "Kazimierz Deyna",
-     1.448897
+     0.034092
     ],
     [
      "Bobby Moore",
-     1.316367
+     0.001471
+    ],
+    [
+     "Gordon Banks",
+     0
     ]
    ]
   },
@@ -5292,47 +5292,47 @@
    "pred": [
     [
      "Gerd Müller",
-     1.381451
+     1.489437
     ],
     [
      "Franz Beckenbauer",
-     1.279164
+     1.416939
     ],
     [
      "Johan Cruyff",
-     1.26944
+     1.396249
     ],
     [
      "Piet Keizer",
-     1.214432
+     1.343242
     ],
     [
      "Günter Netzer",
-     1.202194
+     1.318912
     ],
     [
      "Włodzimierz Lubański",
-     1.125897
-    ],
-    [
-     "Teófilo Cubillas",
-     1.124115
+     1.265774
     ],
     [
      "Barry Hulshoff",
-     1.118611
+     1.252397
     ],
     [
-     "Gordon Banks",
-     1.10619
+     "Teófilo Cubillas",
+     1.251673
     ],
     [
      "Kazimierz Deyna",
-     1.105753
+     1.239352
     ],
     [
      "Bobby Moore",
-     0.992779
+     0.009456
+    ],
+    [
+     "Gordon Banks",
+     0
     ]
    ],
    "fair": [
@@ -5434,43 +5434,43 @@
    "pred": [
     [
      "Johan Cruyff",
-     1.093478
+     0.199865
     ],
     [
      "Gerd Müller",
-     1.092843
-    ],
-    [
-     "Dino Zoff",
-     1.043405
+     0.198523
     ],
     [
      "Eusébio",
-     1.018636
+     0.135201
     ],
     [
      "Günter Netzer",
-     1.015558
+     0.122842
     ],
     [
      "Gianni Rivera",
-     1.01111
+     0.119663
     ],
     [
-     "Franz Beckenbauer",
-     1.007465
+     "Dino Zoff",
+     0.106972
     ],
     [
      "Kazimierz Deyna",
-     0.987763
+     0.101829
     ],
     [
      "Ralf Edström",
-     0.96668
+     0.091728
     ],
     [
      "Billy Bremner",
-     0.945539
+     0.078211
+    ],
+    [
+     "Franz Beckenbauer",
+     0.074038
     ]
    ],
    "fair": [
@@ -5560,91 +5560,91 @@
    "temporal": [
     [
      "Johan Cruyff",
-     1.798189
+     0.174503
     ],
     [
      "Gerd Müller",
-     1.79192
-    ],
-    [
-     "Dino Zoff",
-     1.77837
-    ],
-    [
-     "Gianni Rivera",
-     1.720991
-    ],
-    [
-     "Günter Netzer",
-     1.720509
-    ],
-    [
-     "Franz Beckenbauer",
-     1.708001
+     0.128972
     ],
     [
      "Eusébio",
-     1.704124
-    ],
-    [
-     "Kazimierz Deyna",
-     1.685094
+     0.0906
     ],
     [
      "Ralf Edström",
-     1.650874
+     0.07553
+    ],
+    [
+     "Gianni Rivera",
+     0.074444
+    ],
+    [
+     "Dino Zoff",
+     0.063712
+    ],
+    [
+     "Franz Beckenbauer",
+     0.062877
+    ],
+    [
+     "Günter Netzer",
+     0.061327
+    ],
+    [
+     "Kazimierz Deyna",
+     0.047319
     ],
     [
      "Billy Bremner",
-     1.61097
+     0.019578
     ]
    ]
   },
   "all": {
    "pred": [
     [
-     "Gerd Müller",
-     1.252648
-    ],
-    [
      "Johan Cruyff",
-     1.250955
+     1.378418
     ],
     [
-     "Dino Zoff",
-     1.206585
+     "Gerd Müller",
+     1.375583
     ],
     [
      "Eusébio",
-     1.181969
+     1.312716
     ],
     [
      "Gianni Rivera",
-     1.171062
+     1.298396
     ],
     [
      "Günter Netzer",
-     1.164129
-    ],
-    [
-     "Franz Beckenbauer",
-     1.153383
+     1.29293
     ],
     [
      "Pelé",
-     1.130973
+     1.264458
     ],
     [
      "Kazimierz Deyna",
-     1.118896
+     1.25023
     ],
     [
      "Ralf Edström",
-     1.102616
+     1.243663
+    ],
+    [
+     "Dino Zoff",
+     1.096876
     ],
     [
      "Billy Bremner",
-     1.094889
+     0.753266
+    ],
+    [
+     "Franz Beckenbauer",
+     0.546827
     ]
    ],
    "fair": [
@@ -5746,51 +5746,51 @@
    "pred": [
     [
      "Gerd Müller",
-     1.284311
-    ],
-    [
-     "Franz Beckenbauer",
-     1.265794
+     0.369573
     ],
     [
      "Paul Breitner",
-     1.130457
+     0.27094
+    ],
+    [
+     "Franz Beckenbauer",
+     0.26672
     ],
     [
      "Berti Vogts",
-     1.116697
+     0.213178
     ],
     [
      "Johan Cruyff",
-     1.114579
+     0.20286
     ],
     [
      "Johan Neeskens",
-     1.11378
-    ],
-    [
-     "Grzegorz Lato",
-     1.025514
+     0.184291
     ],
     [
      "Jürgen Sparwasser",
-     1.023911
+     0.142158
+    ],
+    [
+     "Grzegorz Lato",
+     0.127748
     ],
     [
      "Kazimierz Deyna",
-     1.019454
+     0.125713
     ],
     [
      "Ralf Edström",
-     1.009107
+     0.11398
     ],
     [
      "Robert Gadocha",
-     0.98931
+     0.101043
     ],
     [
      "Billy Bremner",
-     0.95415
+     0.045906
     ]
    ],
    "fair": [
@@ -5895,52 +5895,52 @@
    ],
    "temporal": [
     [
-     "Franz Beckenbauer",
-     1.846565
-    ],
-    [
      "Gerd Müller",
-     1.7748
-    ],
-    [
-     "Johan Neeskens",
-     1.650756
-    ],
-    [
-     "Johan Cruyff",
-     1.62572
+     0.39615
     ],
     [
      "Paul Breitner",
-     1.617841
+     0.276381
+    ],
+    [
+     "Franz Beckenbauer",
+     0.246825
+    ],
+    [
+     "Johan Cruyff",
+     0.2086
     ],
     [
      "Berti Vogts",
-     1.614189
+     0.163005
+    ],
+    [
+     "Johan Neeskens",
+     0.160254
     ],
     [
      "Jürgen Sparwasser",
-     1.547528
+     0.126206
     ],
     [
      "Grzegorz Lato",
-     1.526197
+     0.113682
     ],
     [
      "Kazimierz Deyna",
-     1.525622
+     0.100102
     ],
     [
      "Ralf Edström",
-     1.519951
+     0.080836
     ],
     [
      "Robert Gadocha",
-     1.491788
+     0.066319
     ],
     [
      "Billy Bremner",
-     1.441649
+     0.054391
     ]
    ]
   },
@@ -5948,59 +5948,59 @@
    "pred": [
     [
      "Franz Beckenbauer",
-     1.470807
+     1.61854
     ],
     [
      "Gerd Müller",
-     1.469943
+     1.585825
     ],
     [
      "Paul Breitner",
-     1.317463
+     1.440695
     ],
     [
      "Johan Cruyff",
-     1.306942
-    ],
-    [
-     "Johan Neeskens",
-     1.301886
+     1.436742
     ],
     [
      "Berti Vogts",
-     1.28723
+     1.414564
     ],
     [
      "Héctor Yazalde",
-     1.272097
+     1.390205
     ],
     [
      "Grzegorz Lato",
-     1.179612
+     1.309958
     ],
     [
      "Jürgen Sparwasser",
-     1.179299
+     1.308354
     ],
     [
      "Ralf Edström",
-     1.170569
+     1.301722
     ],
     [
      "Kazimierz Deyna",
-     1.166682
+     1.296518
     ],
     [
      "Robert Gadocha",
-     1.135313
+     1.264786
     ],
     [
-     "Elías Figueroa",
-     1.111445
+     "Johan Neeskens",
+     1.188187
     ],
     [
      "Billy Bremner",
-     1.096608
+     0.224354
+    ],
+    [
+     "Elías Figueroa",
+     0.005231
     ]
    ],
    "fair": [
@@ -6126,43 +6126,43 @@
    "pred": [
     [
      "Jupp Heynckes",
-     1.125905
+     0.23218
     ],
     [
      "Oleg Blokhin",
-     1.069289
+     0.182007
     ],
     [
      "Franz Beckenbauer",
-     1.066924
+     0.144107
     ],
     [
      "Dudu Georgescu",
-     1.015616
-    ],
-    [
-     "Berti Vogts",
-     1.005673
-    ],
-    [
-     "Ruud Geels",
-     0.994636
-    ],
-    [
-     "Johan Cruyff",
-     0.993419
+     0.133972
     ],
     [
      "Sepp Maier",
-     0.99183
+     0.12068
     ],
     [
-     "Colin Todd",
-     0.930844
+     "Berti Vogts",
+     0.108124
+    ],
+    [
+     "Johan Cruyff",
+     0.106334
+    ],
+    [
+     "Ruud Geels",
+     0.102415
     ],
     [
      "Paul Breitner",
-     0.891918
+     0.054034
+    ],
+    [
+     "Colin Todd",
+     0.026383
     ]
    ],
    "fair": [
@@ -6252,43 +6252,43 @@
    "temporal": [
     [
      "Jupp Heynckes",
-     1.405124
-    ],
-    [
-     "Franz Beckenbauer",
-     1.382821
+     0.176196
     ],
     [
      "Oleg Blokhin",
-     1.363931
+     0.13915
     ],
     [
      "Dudu Georgescu",
-     1.308825
+     0.08147
     ],
     [
      "Berti Vogts",
-     1.302727
-    ],
-    [
-     "Sepp Maier",
-     1.29674
-    ],
-    [
-     "Ruud Geels",
-     1.295119
+     0.05792
     ],
     [
      "Johan Cruyff",
-     1.292217
-    ],
-    [
-     "Colin Todd",
-     1.203533
+     0.048034
     ],
     [
      "Paul Breitner",
-     1.143876
+     0.046876
+    ],
+    [
+     "Ruud Geels",
+     0.046025
+    ],
+    [
+     "Colin Todd",
+     0.040476
+    ],
+    [
+     "Franz Beckenbauer",
+     0.032477
+    ],
+    [
+     "Sepp Maier",
+     0.01098
     ]
    ]
   },
@@ -6296,47 +6296,47 @@
    "pred": [
     [
      "Jupp Heynckes",
-     1.285198
+     1.410812
     ],
     [
      "Franz Beckenbauer",
-     1.235428
+     1.377844
     ],
     [
      "Oleg Blokhin",
-     1.222419
-    ],
-    [
-     "Elías Figueroa",
-     1.18251
+     1.351613
     ],
     [
      "Dudu Georgescu",
-     1.176576
+     1.309749
     ],
     [
      "Ruud Geels",
-     1.162451
-    ],
-    [
-     "Berti Vogts",
-     1.158721
+     1.293343
     ],
     [
      "Sepp Maier",
-     1.15299
+     1.28644
     ],
     [
      "Johan Cruyff",
-     1.140181
+     1.263334
     ],
     [
-     "Colin Todd",
-     1.059037
+     "Berti Vogts",
+     0.953301
     ],
     [
      "Paul Breitner",
-     1.019964
+     0.371692
+    ],
+    [
+     "Colin Todd",
+     0.190206
+    ],
+    [
+     "Elías Figueroa",
+     0.022559
     ]
    ],
    "fair": [
@@ -6438,47 +6438,47 @@
    "pred": [
     [
      "Gerd Müller",
-     1.122574
-    ],
-    [
-     "Franz Beckenbauer",
-     1.074648
+     0.22352
     ],
     [
      "Rob Rensenbrink",
-     1.057789
+     0.166614
     ],
     [
      "Kevin Keegan",
-     1.0467
+     0.163736
     ],
     [
-     "Ivo Viktor",
-     1.01833
-    ],
-    [
-     "Marián Masný",
-     1.003731
-    ],
-    [
-     "Johan Cruyff",
-     0.98818
-    ],
-    [
-     "Michel Platini",
-     0.975647
+     "Franz Beckenbauer",
+     0.15346
     ],
     [
      "Anton Ondruš",
-     0.975067
+     0.146015
     ],
     [
-     "Ivan Ćurković",
-     0.934735
+     "Ivo Viktor",
+     0.14448
+    ],
+    [
+     "Marián Masný",
+     0.128985
     ],
     [
      "Rainer Bonhof",
-     0.902943
+     0.113924
+    ],
+    [
+     "Johan Cruyff",
+     0.104553
+    ],
+    [
+     "Ivan Ćurković",
+     0.097116
+    ],
+    [
+     "Michel Platini",
+     0.088925
     ]
    ],
    "fair": [
@@ -6576,47 +6576,47 @@
    "temporal": [
     [
      "Gerd Müller",
-     1.374
-    ],
-    [
-     "Franz Beckenbauer",
-     1.367821
-    ],
-    [
-     "Rob Rensenbrink",
-     1.330198
+     0.173708
     ],
     [
      "Kevin Keegan",
-     1.320847
+     0.122045
     ],
     [
-     "Johan Cruyff",
-     1.269357
-    ],
-    [
-     "Michel Platini",
-     1.26088
-    ],
-    [
-     "Ivo Viktor",
-     1.25505
-    ],
-    [
-     "Marián Masný",
-     1.254048
-    ],
-    [
-     "Anton Ondruš",
-     1.196148
-    ],
-    [
-     "Ivan Ćurković",
-     1.186825
+     "Rob Rensenbrink",
+     0.111251
     ],
     [
      "Rainer Bonhof",
-     1.138152
+     0.069494
+    ],
+    [
+     "Ivan Ćurković",
+     0.049028
+    ],
+    [
+     "Johan Cruyff",
+     0.047345
+    ],
+    [
+     "Franz Beckenbauer",
+     0.046383
+    ],
+    [
+     "Marián Masný",
+     0.043604
+    ],
+    [
+     "Anton Ondruš",
+     0.036507
+    ],
+    [
+     "Michel Platini",
+     0.034364
+    ],
+    [
+     "Ivo Viktor",
+     0.02434
     ]
    ]
   },
@@ -6624,51 +6624,51 @@
    "pred": [
     [
      "Gerd Müller",
-     1.294709
+     1.421442
     ],
     [
      "Franz Beckenbauer",
-     1.26064
+     1.393284
     ],
     [
      "Rob Rensenbrink",
-     1.222891
+     1.345138
     ],
     [
      "Kevin Keegan",
-     1.213419
+     1.343256
     ],
     [
      "Ivo Viktor",
-     1.15799
+     1.28894
     ],
     [
      "Marián Masný",
-     1.153398
-    ],
-    [
-     "Johan Cruyff",
-     1.138166
+     1.273515
     ],
     [
      "Michel Platini",
-     1.12924
+     1.262733
     ],
     [
-     "Elías Figueroa",
-     1.116718
+     "Johan Cruyff",
+     1.259032
     ],
     [
      "Anton Ondruš",
-     1.113669
+     1.236742
     ],
     [
      "Ivan Ćurković",
-     1.083675
+     0.985708
     ],
     [
      "Rainer Bonhof",
-     1.052623
+     0.948324
+    ],
+    [
+     "Elías Figueroa",
+     0.018887
     ]
    ],
    "fair": [
@@ -6778,51 +6778,51 @@
    "pred": [
     [
      "Allan Simonsen",
-     1.072757
+     0.184288
     ],
     [
      "Roberto Bettega",
-     1.071958
+     0.18385
     ],
     [
      "Kevin Keegan",
-     1.064324
-    ],
-    [
-     "Rob Rensenbrink",
-     1.038457
+     0.176908
     ],
     [
      "Steve Heighway",
-     1.034068
+     0.149758
     ],
     [
      "Dudu Georgescu",
-     1.030487
+     0.146659
+    ],
+    [
+     "Rob Rensenbrink",
+     0.143741
     ],
     [
      "Johan Cruyff",
-     1.018846
-    ],
-    [
-     "Klaus Fischer",
-     0.982819
-    ],
-    [
-     "Michel Platini",
-     0.977827
-    ],
-    [
-     "Tibor Nyilasi",
-     0.970767
-    ],
-    [
-     "Berti Vogts",
-     0.940348
+     0.127188
     ],
     [
      "Emlyn Hughes",
-     0.893936
+     0.123315
+    ],
+    [
+     "Berti Vogts",
+     0.101928
+    ],
+    [
+     "Klaus Fischer",
+     0.093451
+    ],
+    [
+     "Michel Platini",
+     0.090235
+    ],
+    [
+     "Tibor Nyilasi",
+     0.085993
     ]
    ],
    "fair": [
@@ -6928,51 +6928,51 @@
    "temporal": [
     [
      "Kevin Keegan",
-     1.373811
+     0.166795
     ],
     [
      "Roberto Bettega",
-     1.373479
+     0.161241
     ],
     [
      "Allan Simonsen",
-     1.367976
+     0.160779
     ],
     [
      "Steve Heighway",
-     1.348285
+     0.14587
     ],
     [
      "Rob Rensenbrink",
-     1.346431
-    ],
-    [
-     "Johan Cruyff",
-     1.330432
-    ],
-    [
-     "Dudu Georgescu",
-     1.3281
-    ],
-    [
-     "Klaus Fischer",
-     1.293404
-    ],
-    [
-     "Michel Platini",
-     1.29079
-    ],
-    [
-     "Tibor Nyilasi",
-     1.28465
-    ],
-    [
-     "Berti Vogts",
-     1.210483
+     0.124251
     ],
     [
      "Emlyn Hughes",
-     1.170823
+     0.109629
+    ],
+    [
+     "Dudu Georgescu",
+     0.1074
+    ],
+    [
+     "Johan Cruyff",
+     0.104605
+    ],
+    [
+     "Berti Vogts",
+     0.083571
+    ],
+    [
+     "Klaus Fischer",
+     0.071147
+    ],
+    [
+     "Michel Platini",
+     0.065677
+    ],
+    [
+     "Tibor Nyilasi",
+     0.058914
     ]
    ]
   },
@@ -6980,55 +6980,55 @@
    "pred": [
     [
      "Roberto Bettega",
-     1.229404
+     1.357953
     ],
     [
      "Allan Simonsen",
-     1.22796
+     1.354243
     ],
     [
      "Kevin Keegan",
-     1.219436
+     1.347644
     ],
     [
      "Dudu Georgescu",
-     1.207915
+     1.33698
     ],
     [
      "Steve Heighway",
-     1.195688
+     1.3247
     ],
     [
      "Rob Rensenbrink",
-     1.181373
+     1.309956
     ],
     [
      "Johan Cruyff",
-     1.155565
+     1.284472
     ],
     [
      "Klaus Fischer",
-     1.146631
+     1.277522
     ],
     [
      "Michel Platini",
-     1.134173
+     1.267643
     ],
     [
      "Tibor Nyilasi",
-     1.118197
+     1.251739
     ],
     [
      "Zico",
-     1.110908
-    ],
-    [
-     "Berti Vogts",
-     1.092985
+     1.244484
     ],
     [
      "Emlyn Hughes",
-     1.044371
+     1.170284
+    ],
+    [
+     "Berti Vogts",
+     0.993978
     ]
    ],
    "fair": [
@@ -7146,43 +7146,43 @@
    "pred": [
     [
      "Rob Rensenbrink",
-     1.173667
+     0.239064
     ],
     [
      "Kenny Dalglish",
-     1.090341
+     0.182225
     ],
     [
      "Roberto Bettega",
-     1.039967
-    ],
-    [
-     "Allan Simonsen",
-     1.0321
-    ],
-    [
-     "Hans Krankl",
-     1.017965
-    ],
-    [
-     "Paolo Rossi",
-     1.010164
+     0.150917
     ],
     [
      "Ruud Krol",
-     1.008135
+     0.141518
+    ],
+    [
+     "Allan Simonsen",
+     0.13395
+    ],
+    [
+     "Hans Krankl",
+     0.119302
+    ],
+    [
+     "Paolo Rossi",
+     0.114355
     ],
     [
      "Kevin Keegan",
-     0.980606
+     0.093741
     ],
     [
      "Peter Shilton",
-     0.97803
+     0.0055
     ],
     [
      "Ronnie Hellström",
-     0.923695
+     0
     ]
    ],
    "fair": [
@@ -7272,43 +7272,43 @@
    "temporal": [
     [
      "Rob Rensenbrink",
-     1.718459
+     0.269465
     ],
     [
      "Kenny Dalglish",
-     1.613934
-    ],
-    [
-     "Allan Simonsen",
-     1.571856
+     0.17308
     ],
     [
      "Roberto Bettega",
-     1.568336
+     0.158387
     ],
     [
-     "Hans Krankl",
-     1.546409
-    ],
-    [
-     "Paolo Rossi",
-     1.538603
-    ],
-    [
-     "Kevin Keegan",
-     1.505941
+     "Allan Simonsen",
+     0.132314
     ],
     [
      "Ruud Krol",
-     1.497766
+     0.128984
+    ],
+    [
+     "Hans Krankl",
+     0.118703
+    ],
+    [
+     "Paolo Rossi",
+     0.109656
+    ],
+    [
+     "Kevin Keegan",
+     0.072524
     ],
     [
      "Peter Shilton",
-     1.48752
+     0.0332
     ],
     [
      "Ronnie Hellström",
-     1.40488
+     0
     ]
    ]
   },
@@ -7316,47 +7316,47 @@
    "pred": [
     [
      "Rob Rensenbrink",
-     1.351382
+     1.477187
     ],
     [
      "Mario Kempes",
-     1.332063
+     1.457586
     ],
     [
      "Kenny Dalglish",
-     1.243472
-    ],
-    [
-     "Roberto Bettega",
-     1.199013
+     1.372275
     ],
     [
      "Hans Krankl",
-     1.190611
+     1.321674
+    ],
+    [
+     "Roberto Bettega",
+     1.320852
     ],
     [
      "Paolo Rossi",
-     1.17656
-    ],
-    [
-     "Ruud Krol",
-     1.175057
+     1.306017
     ],
     [
      "Allan Simonsen",
-     1.166015
+     1.290278
     ],
     [
      "Kevin Keegan",
-     1.126544
+     1.25765
+    ],
+    [
+     "Ruud Krol",
+     1.062892
     ],
     [
      "Peter Shilton",
-     1.10619
+     0.0093
     ],
     [
      "Ronnie Hellström",
-     1.044735
+     0
     ]
    ],
    "fair": [
@@ -7457,44 +7457,44 @@
   "elig": {
    "pred": [
     [
+     "Kevin Keegan",
+     0.144444
+    ],
+    [
      "Trevor Francis",
-     1.038813
+     0.140776
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.032675
-    ],
-    [
-     "Kevin Keegan",
-     1.029441
+     0.131198
     ],
     [
      "Zdeněk Nehoda",
-     0.996381
+     0.116628
     ],
     [
      "Liam Brady",
-     0.987598
+     0.09876
     ],
     [
      "Michel Platini",
-     0.976694
+     0.090868
     ],
     [
      "Paolo Rossi",
-     0.970855
+     0.086046
     ],
     [
      "Zbigniew Boniek",
-     0.961143
-    ],
-    [
-     "Ruud Krol",
-     0.936626
+     0.080211
     ],
     [
      "Manfred Kaltz",
-     0.919886
+     0.047379
+    ],
+    [
+     "Ruud Krol",
+     0.031429
     ]
    ],
    "fair": [
@@ -7584,43 +7584,43 @@
    "temporal": [
     [
      "Karl-Heinz Rummenigge",
-     1.5141
-    ],
-    [
-     "Kevin Keegan",
-     1.488467
+     0.120372
     ],
     [
      "Trevor Francis",
-     1.479375
+     0.114581
     ],
     [
-     "Liam Brady",
-     1.457497
+     "Kevin Keegan",
+     0.113567
     ],
     [
      "Zdeněk Nehoda",
-     1.457338
+     0.095396
+    ],
+    [
+     "Liam Brady",
+     0.077073
     ],
     [
      "Michel Platini",
-     1.443888
+     0.066417
     ],
     [
      "Paolo Rossi",
-     1.435489
-    ],
-    [
-     "Zbigniew Boniek",
-     1.428628
-    ],
-    [
-     "Ruud Krol",
-     1.353086
+     0.059698
     ],
     [
      "Manfred Kaltz",
-     1.314576
+     0.059162
+    ],
+    [
+     "Zbigniew Boniek",
+     0.050334
+    ],
+    [
+     "Ruud Krol",
+     0.040456
     ]
    ]
   },
@@ -7628,47 +7628,47 @@
    "pred": [
     [
      "Trevor Francis",
-     1.213812
+     1.340977
     ],
     [
      "Kevin Keegan",
-     1.177732
+     1.311088
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.164778
+     1.299785
     ],
     [
      "Diego Maradona",
-     1.146529
+     1.28017
     ],
     [
      "Zdeněk Nehoda",
-     1.141898
+     1.27676
     ],
     [
      "Liam Brady",
-     1.128988
-    ],
-    [
-     "Michel Platini",
-     1.120115
+     1.260468
     ],
     [
      "Paolo Rossi",
-     1.118396
+     1.251938
+    ],
+    [
+     "Michel Platini",
+     1.251248
     ],
     [
      "Zbigniew Boniek",
-     1.096421
+     1.230061
     ],
     [
      "Ruud Krol",
-     1.068415
+     0.198452
     ],
     [
      "Manfred Kaltz",
-     1.038925
+     0.05976
     ]
    ],
    "fair": [
@@ -7770,43 +7770,43 @@
    "pred": [
     [
      "Karl-Heinz Rummenigge",
-     1.134913
+     0.249256
     ],
     [
      "Horst Hrubesch",
-     1.104683
+     0.213914
     ],
     [
      "Hansi Müller",
-     1.049713
-    ],
-    [
-     "Jan Ceulemans",
-     1.018886
-    ],
-    [
-     "Michel Platini",
-     1.01755
-    ],
-    [
-     "Liam Brady",
-     0.985877
+     0.167342
     ],
     [
      "Manfred Kaltz",
-     0.951705
+     0.164149
     ],
     [
      "Bernd Schuster",
-     0.879387
+     0.142021
+    ],
+    [
+     "Jan Ceulemans",
+     0.136643
+    ],
+    [
+     "Michel Platini",
+     0.127935
+    ],
+    [
+     "Liam Brady",
+     0.099233
     ],
     [
      "Wilfried Van Moer",
-     0.879245
+     0.087269
     ],
     [
      "Herbert Prohaska",
-     0.773751
+     0.01641
     ]
    ],
    "fair": [
@@ -7896,43 +7896,43 @@
    "temporal": [
     [
      "Karl-Heinz Rummenigge",
-     1.654965
+     0.194008
     ],
     [
      "Horst Hrubesch",
-     1.629203
-    ],
-    [
-     "Michel Platini",
-     1.586048
+     0.176985
     ],
     [
      "Jan Ceulemans",
-     1.584181
+     0.13745
     ],
     [
      "Hansi Müller",
-     1.579395
-    ],
-    [
-     "Liam Brady",
-     1.548355
+     0.127862
     ],
     [
      "Manfred Kaltz",
-     1.389294
+     0.113985
     ],
     [
-     "Wilfried Van Moer",
-     1.369995
+     "Michel Platini",
+     0.10022
     ],
     [
      "Bernd Schuster",
-     1.291515
+     0.091584
+    ],
+    [
+     "Wilfried Van Moer",
+     0.075218
+    ],
+    [
+     "Liam Brady",
+     0.072297
     ],
     [
      "Herbert Prohaska",
-     1.19893
+     0.036407
     ]
    ]
   },
@@ -7940,51 +7940,51 @@
    "pred": [
     [
      "Karl-Heinz Rummenigge",
-     1.320391
+     1.428476
     ],
     [
      "Horst Hrubesch",
-     1.272788
-    ],
-    [
-     "Hansi Müller",
-     1.207898
+     1.385878
     ],
     [
      "Jan Ceulemans",
-     1.201355
+     1.325073
+    ],
+    [
+     "Hansi Müller",
+     1.3201
     ],
     [
      "Diego Maradona",
-     1.172969
+     1.306265
     ],
     [
      "Zico",
-     1.160367
+     1.295685
     ],
     [
      "Michel Platini",
-     1.158207
+     1.286461
     ],
     [
      "Liam Brady",
-     1.145221
+     1.273597
     ],
     [
      "Manfred Kaltz",
-     1.11404
+     1.221547
     ],
     [
      "Bernd Schuster",
-     1.01619
+     1.123212
     ],
     [
      "Wilfried Van Moer",
-     1.013688
+     0.910167
     ],
     [
      "Herbert Prohaska",
-     0.882712
+     0.029417
     ]
    ],
    "fair": [
@@ -8093,44 +8093,44 @@
   "elig": {
    "pred": [
     [
-     "Karl-Heinz Rummenigge",
-     1.058566
+     "John Wark",
+     0.18424
     ],
     [
-     "Ramaz Shengelia",
-     1.046275
+     "Karl-Heinz Rummenigge",
+     0.176591
     ],
     [
      "Michel Platini",
-     1.040239
+     0.160642
     ],
     [
-     "Oleg Blokhin",
-     1.002797
-    ],
-    [
-     "Liam Brady",
-     0.983016
-    ],
-    [
-     "Aleksandre Chivadze",
-     0.892136
+     "Ramaz Shengelia",
+     0.156017
     ],
     [
      "Paul Breitner",
-     0.889237
+     0.127008
     ],
     [
-     "Dino Zoff",
-     0.86936
+     "Oleg Blokhin",
+     0.123926
+    ],
+    [
+     "Liam Brady",
+     0.105853
+    ],
+    [
+     "Aleksandre Chivadze",
+     0.087157
     ],
     [
      "Bernd Schuster",
-     0.775381
+     0.008826
     ],
     [
-     "John Wark",
-     0.741182
+     "Dino Zoff",
+     0.0055
     ]
    ],
    "fair": [
@@ -8220,43 +8220,43 @@
    "temporal": [
     [
      "Karl-Heinz Rummenigge",
-     1.61719
-    ],
-    [
-     "Michel Platini",
-     1.604879
-    ],
-    [
-     "Ramaz Shengelia",
-     1.590714
-    ],
-    [
-     "Oleg Blokhin",
-     1.572864
-    ],
-    [
-     "Liam Brady",
-     1.555816
-    ],
-    [
-     "Aleksandre Chivadze",
-     1.379554
-    ],
-    [
-     "Dino Zoff",
-     1.3608
-    ],
-    [
-     "Paul Breitner",
-     1.332521
-    ],
-    [
-     "Bernd Schuster",
-     1.19687
+     0.138135
     ],
     [
      "John Wark",
-     1.035702
+     0.137525
+    ],
+    [
+     "Michel Platini",
+     0.127267
+    ],
+    [
+     "Ramaz Shengelia",
+     0.117976
+    ],
+    [
+     "Oleg Blokhin",
+     0.100631
+    ],
+    [
+     "Paul Breitner",
+     0.100348
+    ],
+    [
+     "Liam Brady",
+     0.090225
+    ],
+    [
+     "Aleksandre Chivadze",
+     0.059353
+    ],
+    [
+     "Dino Zoff",
+     0.0346
+    ],
+    [
+     "Bernd Schuster",
+     0.013935
     ]
    ]
   },
@@ -8264,51 +8264,51 @@
    "pred": [
     [
      "Karl-Heinz Rummenigge",
-     1.231987
+     1.351457
     ],
     [
      "Ramaz Shengelia",
-     1.207895
+     1.33604
     ],
     [
      "Zico",
-     1.202358
+     1.328139
     ],
     [
      "Michel Platini",
-     1.200586
+     1.327363
     ],
     [
      "Diego Maradona",
-     1.183095
+     1.315155
     ],
     [
      "Oleg Blokhin",
-     1.157106
+     1.29214
     ],
     [
      "Liam Brady",
-     1.129429
-    ],
-    [
-     "Paul Breitner",
-     1.037889
+     1.267366
     ],
     [
      "Aleksandre Chivadze",
-     1.031979
-    ],
-    [
-     "Dino Zoff",
-     0.98328
-    ],
-    [
-     "Bernd Schuster",
-     0.893611
+     0.819595
     ],
     [
      "John Wark",
-     0.841452
+     0.740421
+    ],
+    [
+     "Paul Breitner",
+     0.730358
+    ],
+    [
+     "Bernd Schuster",
+     0.033092
+    ],
+    [
+     "Dino Zoff",
+     0.0093
     ]
    ],
    "fair": [
@@ -8417,44 +8417,44 @@
   "elig": {
    "pred": [
     [
-     "Karl-Heinz Rummenigge",
-     1.155822
-    ],
-    [
      "Paolo Rossi",
-     1.151394
+     0.239678
     ],
     [
-     "Bruno Conti",
-     1.092147
+     "Karl-Heinz Rummenigge",
+     0.230087
     ],
     [
      "Dino Zoff",
-     1.09079
+     0.19774
+    ],
+    [
+     "Bruno Conti",
+     0.188636
     ],
     [
      "Pierre Littbarski",
-     1.064597
+     0.150857
     ],
     [
      "Zbigniew Boniek",
-     1.022946
+     0.138937
     ],
     [
      "Michel Platini",
-     1.009856
+     0.117701
     ],
     [
      "Alain Giresse",
-     0.998889
-    ],
-    [
-     "Rinat Dasayev",
-     0.923695
+     0.106799
     ],
     [
      "Bernd Schuster",
-     0.752448
+     0.093402
+    ],
+    [
+     "Rinat Dasayev",
+     0.041888
     ]
    ],
    "fair": [
@@ -8544,43 +8544,43 @@
    "temporal": [
     [
      "Karl-Heinz Rummenigge",
-     1.769879
+     0.225943
     ],
     [
      "Paolo Rossi",
-     1.729137
-    ],
-    [
-     "Pierre Littbarski",
-     1.680606
-    ],
-    [
-     "Bruno Conti",
-     1.67222
+     0.173498
     ],
     [
      "Dino Zoff",
-     1.6521
+     0.13601
+    ],
+    [
+     "Pierre Littbarski",
+     0.131208
     ],
     [
      "Zbigniew Boniek",
-     1.646372
+     0.124269
+    ],
+    [
+     "Bruno Conti",
+     0.119163
     ],
     [
      "Michel Platini",
-     1.632314
+     0.093847
     ],
     [
      "Alain Giresse",
-     1.615801
-    ],
-    [
-     "Rinat Dasayev",
-     1.49634
+     0.083539
     ],
     [
      "Bernd Schuster",
-     1.182732
+     0.071998
+    ],
+    [
+     "Rinat Dasayev",
+     0.01887
     ]
    ]
   },
@@ -8588,51 +8588,51 @@
    "pred": [
     [
      "Karl-Heinz Rummenigge",
-     1.341102
+     1.463158
     ],
     [
      "Paolo Rossi",
-     1.307014
-    ],
-    [
-     "Bruno Conti",
-     1.261645
-    ],
-    [
-     "Zico",
-     1.255937
+     1.429377
     ],
     [
      "Dino Zoff",
-     1.25155
+     1.39256
+    ],
+    [
+     "Bruno Conti",
+     1.386525
     ],
     [
      "Pierre Littbarski",
-     1.250695
+     1.379331
+    ],
+    [
+     "Zico",
+     1.374986
     ],
     [
      "Zbigniew Boniek",
-     1.169409
+     1.302444
     ],
     [
      "Michel Platini",
-     1.161402
+     1.290649
     ],
     [
      "Alain Giresse",
-     1.156988
-    ],
-    [
-     "Rinat Dasayev",
-     1.047975
-    ],
-    [
-     "Falcão",
-     1.042358
+     1.286364
     ],
     [
      "Bernd Schuster",
-     0.869957
+     0.69701
+    ],
+    [
+     "Falcão",
+     0.498652
+    ],
+    [
+     "Rinat Dasayev",
+     0.472464
     ]
    ],
    "fair": [
@@ -8742,43 +8742,43 @@
    "pred": [
     [
      "Kenny Dalglish",
-     1.056797
-    ],
-    [
-     "Michel Platini",
-     1.048497
+     0.170588
     ],
     [
      "Felix Magath",
-     1.044116
+     0.158809
+    ],
+    [
+     "Michel Platini",
+     0.149494
     ],
     [
      "Gordon Strachan",
-     1.031522
-    ],
-    [
-     "Karl-Heinz Rummenigge",
-     0.993717
+     0.138257
     ],
     [
      "Jesper Olsen",
-     0.991051
+     0.113174
+    ],
+    [
+     "Karl-Heinz Rummenigge",
+     0.10326
     ],
     [
      "Allan Simonsen",
-     0.968086
+     0.084382
     ],
     [
      "Jean-Marie Pfaff",
-     0.927559
-    ],
-    [
-     "Rinat Dasayev",
-     0.925793
+     0.032066
     ],
     [
      "Bryan Robson",
-     0.895494
+     0.019494
+    ],
+    [
+     "Rinat Dasayev",
+     0.017407
     ]
    ],
    "fair": [
@@ -8868,43 +8868,43 @@
    "temporal": [
     [
      "Kenny Dalglish",
-     1.678513
-    ],
-    [
-     "Michel Platini",
-     1.6609
+     0.156773
     ],
     [
      "Felix Magath",
-     1.658034
+     0.152381
+    ],
+    [
+     "Michel Platini",
+     0.14148
     ],
     [
      "Gordon Strachan",
-     1.637736
+     0.113528
     ],
     [
      "Jesper Olsen",
-     1.605451
+     0.093331
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.600472
+     0.081338
     ],
     [
      "Allan Simonsen",
-     1.578903
-    ],
-    [
-     "Jean-Marie Pfaff",
-     1.481635
-    ],
-    [
-     "Rinat Dasayev",
-     1.481635
+     0.055256
     ],
     [
      "Bryan Robson",
-     1.420654
+     0.021821
+    ],
+    [
+     "Jean-Marie Pfaff",
+     0.021217
+    ],
+    [
+     "Rinat Dasayev",
+     0.011518
     ]
    ]
   },
@@ -8912,51 +8912,51 @@
    "pred": [
     [
      "Michel Platini",
-     1.206557
+     1.333313
     ],
     [
      "Kenny Dalglish",
-     1.206343
+     1.331623
     ],
     [
      "Felix Magath",
-     1.198875
+     1.327914
     ],
     [
      "Zico",
-     1.195023
+     1.322034
     ],
     [
      "Gordon Strachan",
-     1.179714
+     1.308303
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.152498
+     1.281155
     ],
     [
      "Jesper Olsen",
-     1.141737
+     1.27789
     ],
     [
      "Allan Simonsen",
-     1.11213
+     1.2457
     ],
     [
      "Falcão",
-     1.108617
+     0.421693
     ],
     [
      "Jean-Marie Pfaff",
-     1.055739
+     0.336773
     ],
     [
      "Rinat Dasayev",
-     1.050709
+     0.18282
     ],
     [
      "Bryan Robson",
-     1.017734
+     0.034517
     ]
    ],
    "fair": [
@@ -9066,43 +9066,43 @@
    "pred": [
     [
      "Michel Platini",
-     1.211472
+     0.313153
     ],
     [
      "Ian Rush",
-     1.123911
+     0.23217
     ],
     [
      "Alain Giresse",
-     1.060464
-    ],
-    [
-     "Karl-Heinz Rummenigge",
-     1.003223
-    ],
-    [
-     "Fernando Chalana",
-     0.996645
-    ],
-    [
-     "Preben Elkjær",
-     0.988661
+     0.183873
     ],
     [
      "Jean Tigana",
-     0.979425
+     0.156492
     ],
     [
      "Graeme Souness",
-     0.97884
+     0.156409
+    ],
+    [
+     "Fernando Chalana",
+     0.116368
+    ],
+    [
+     "Karl-Heinz Rummenigge",
+     0.111381
+    ],
+    [
+     "Preben Elkjær",
+     0.099611
     ],
     [
      "Bryan Robson",
-     0.915454
+     0.077304
     ],
     [
      "Harald Schumacher",
-     0.871292
+     0.01517
     ]
    ],
    "fair": [
@@ -9192,43 +9192,43 @@
    "temporal": [
     [
      "Michel Platini",
-     1.780579
+     0.258924
     ],
     [
      "Ian Rush",
-     1.750573
+     0.187378
     ],
     [
      "Alain Giresse",
-     1.666517
-    ],
-    [
-     "Karl-Heinz Rummenigge",
-     1.645161
-    ],
-    [
-     "Fernando Chalana",
-     1.644558
-    ],
-    [
-     "Preben Elkjær",
-     1.630439
+     0.144262
     ],
     [
      "Graeme Souness",
-     1.561118
+     0.120805
     ],
     [
      "Jean Tigana",
-     1.532165
+     0.112527
+    ],
+    [
+     "Fernando Chalana",
+     0.107321
+    ],
+    [
+     "Karl-Heinz Rummenigge",
+     0.085421
+    ],
+    [
+     "Preben Elkjær",
+     0.073654
     ],
     [
      "Bryan Robson",
-     1.466712
+     0.0644
     ],
     [
      "Harald Schumacher",
-     1.429368
+     0.010626
     ]
    ]
   },
@@ -9236,51 +9236,51 @@
    "pred": [
     [
      "Michel Platini",
-     1.394296
+     1.508012
     ],
     [
      "Ian Rush",
-     1.284517
+     1.40982
     ],
     [
      "Alain Giresse",
-     1.226411
+     1.34872
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.163965
+     1.294731
     ],
     [
      "Fernando Chalana",
-     1.150512
+     1.278176
     ],
     [
      "Graeme Souness",
-     1.142491
+     1.274712
     ],
     [
      "Preben Elkjær",
-     1.141766
+     1.270985
     ],
     [
      "Zico",
-     1.132806
+     1.266283
     ],
     [
      "Jean Tigana",
-     1.119339
+     1.249814
     ],
     [
      "Falcão",
-     1.104462
+     0.997179
     ],
     [
      "Bryan Robson",
-     1.052254
+     0.528334
     ],
     [
      "Harald Schumacher",
-     0.988782
+     0.158659
     ]
    ],
    "fair": [
@@ -9390,43 +9390,43 @@
    "pred": [
     [
      "Michel Platini",
-     1.079491
+     0.176231
     ],
     [
      "Oleh Protasov",
-     1.030583
+     0.131914
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.01532
+     0.12236
     ],
     [
      "Zbigniew Boniek",
-     1.011238
+     0.120675
     ],
     [
      "Preben Elkjær",
-     0.981649
+     0.104727
     ],
     [
      "Michael Laudrup",
-     0.973207
-    ],
-    [
-     "Rinat Dasayev",
-     0.923695
-    ],
-    [
-     "Bryan Robson",
-     0.883351
+     0.089804
     ],
     [
      "Bernd Schuster",
-     0.857479
+     0.041829
+    ],
+    [
+     "Bryan Robson",
+     0.038827
     ],
     [
      "Hans-Peter Briegel",
-     0.84032
+     0.027126
+    ],
+    [
+     "Rinat Dasayev",
+     0
     ]
    ],
    "fair": [
@@ -9516,43 +9516,43 @@
    "temporal": [
     [
      "Michel Platini",
-     1.716653
+     0.14835
     ],
     [
      "Oleh Protasov",
-     1.686587
+     0.12138
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.676382
+     0.109822
     ],
     [
      "Zbigniew Boniek",
-     1.665548
+     0.103025
     ],
     [
      "Preben Elkjær",
-     1.637203
+     0.084903
     ],
     [
      "Michael Laudrup",
-     1.630939
-    ],
-    [
-     "Rinat Dasayev",
-     1.520565
-    ],
-    [
-     "Bryan Robson",
-     1.441114
+     0.061625
     ],
     [
      "Bernd Schuster",
-     1.382006
+     0.051942
     ],
     [
      "Hans-Peter Briegel",
-     1.364142
+     0.038967
+    ],
+    [
+     "Bryan Robson",
+     0.030949
+    ],
+    [
+     "Rinat Dasayev",
+     0
     ]
    ]
   },
@@ -9560,47 +9560,47 @@
    "pred": [
     [
      "Michel Platini",
-     1.229539
+     1.357424
     ],
     [
      "Oleh Protasov",
-     1.185032
+     1.312118
     ],
     [
      "Zbigniew Boniek",
-     1.169015
+     1.293734
     ],
     [
      "Karl-Heinz Rummenigge",
-     1.154536
+     1.280735
     ],
     [
      "Diego Maradona",
-     1.131751
+     1.265232
     ],
     [
      "Preben Elkjær",
-     1.127052
+     1.265211
     ],
     [
      "Michael Laudrup",
-     1.105784
-    ],
-    [
-     "Rinat Dasayev",
-     1.044735
+     1.239595
     ],
     [
      "Bryan Robson",
-     1.017392
+     0.366582
     ],
     [
      "Bernd Schuster",
-     0.983714
+     0.064694
     ],
     [
      "Hans-Peter Briegel",
-     0.963922
+     0.04675
+    ],
+    [
+     "Rinat Dasayev",
+     0
     ]
    ],
    "fair": [
@@ -9702,43 +9702,43 @@
    "pred": [
     [
      "Emilio Butragueño",
-     1.109339
+     0.205991
     ],
     [
      "Igor Belanov",
-     1.095338
-    ],
-    [
-     "Alessandro Altobelli",
-     1.038897
+     0.194188
     ],
     [
      "Alexander Zavarov",
-     1.035363
+     0.145797
     ],
     [
-     "Marco van Basten",
-     1.034228
-    ],
-    [
-     "Gary Lineker",
-     1.028128
+     "Alessandro Altobelli",
+     0.136942
     ],
     [
      "Ian Rush",
-     1.017071
+     0.134397
     ],
     [
-     "Preben Elkjær",
-     0.998145
+     "Marco van Basten",
+     0.130908
+    ],
+    [
+     "Gary Lineker",
+     0.126712
     ],
     [
      "Helmuth Duckadam",
-     0.99183
+     0.12618
+    ],
+    [
+     "Preben Elkjær",
+     0.107395
     ],
     [
      "Manuel Amoros",
-     0.878984
+     0.065961
     ]
    ],
    "fair": [
@@ -9828,43 +9828,43 @@
    "temporal": [
     [
      "Emilio Butragueño",
-     1.766907
+     0.204556
     ],
     [
      "Igor Belanov",
-     1.75743
+     0.195906
     ],
     [
      "Alexander Zavarov",
-     1.700043
+     0.148043
     ],
     [
      "Alessandro Altobelli",
-     1.69829
+     0.136126
     ],
     [
      "Marco van Basten",
-     1.698042
-    ],
-    [
-     "Ian Rush",
-     1.674288
+     0.120405
     ],
     [
      "Gary Lineker",
-     1.668725
-    ],
-    [
-     "Preben Elkjær",
-     1.64615
+     0.1093
     ],
     [
      "Helmuth Duckadam",
-     1.6351
+     0.10711
+    ],
+    [
+     "Ian Rush",
+     0.10616
+    ],
+    [
+     "Preben Elkjær",
+     0.084842
     ],
     [
      "Manuel Amoros",
-     1.441927
+     0.03611
     ]
    ]
   },
@@ -9872,51 +9872,51 @@
    "pred": [
     [
      "Diego Maradona",
-     1.32179
+     1.44781
     ],
     [
      "Hugo Sánchez",
-     1.271868
+     1.396605
     ],
     [
      "Emilio Butragueño",
-     1.258031
+     1.385915
     ],
     [
      "Igor Belanov",
-     1.235325
+     1.365976
     ],
     [
      "Gary Lineker",
-     1.202087
+     1.334993
     ],
     [
      "Ian Rush",
-     1.187451
+     1.319522
     ],
     [
      "Alexander Zavarov",
-     1.178244
-    ],
-    [
-     "Alessandro Altobelli",
-     1.177575
+     1.310203
     ],
     [
      "Marco van Basten",
-     1.171791
+     1.306456
+    ],
+    [
+     "Alessandro Altobelli",
+     1.303186
     ],
     [
      "Helmuth Duckadam",
-     1.15299
+     1.29574
     ],
     [
      "Preben Elkjær",
-     1.144146
+     1.277031
     ],
     [
      "Manuel Amoros",
-     1.001996
+     0.681027
     ]
    ],
    "fair": [
@@ -10026,47 +10026,47 @@
    "pred": [
     [
      "Emilio Butragueño",
-     1.072732
+     0.182938
     ],
     [
      "Míchel",
-     1.061439
+     0.172891
     ],
     [
      "Paulo Futre",
-     1.038672
-    ],
-    [
-     "Marco van Basten",
-     1.028627
+     0.143101
     ],
     [
      "Ruud Gullit",
-     1.020164
+     0.139604
+    ],
+    [
+     "Marco van Basten",
+     0.134398
     ],
     [
      "Klaus Allofs",
-     0.987664
+     0.099152
     ],
     [
      "Gary Lineker",
-     0.979371
-    ],
-    [
-     "John Barnes",
-     0.972792
-    ],
-    [
-     "Gianluca Vialli",
-     0.966495
-    ],
-    [
-     "Bryan Robson",
-     0.828785
+     0.091621
     ],
     [
      "Glenn Hysén",
-     0.784159
+     0.089588
+    ],
+    [
+     "John Barnes",
+     0.087209
+    ],
+    [
+     "Gianluca Vialli",
+     0.083426
+    ],
+    [
+     "Bryan Robson",
+     0.008267
     ]
    ],
    "fair": [
@@ -10164,47 +10164,47 @@
    "temporal": [
     [
      "Emilio Butragueño",
-     1.785151
+     0.185327
     ],
     [
      "Míchel",
-     1.770657
-    ],
-    [
-     "Ruud Gullit",
-     1.721029
+     0.176153
     ],
     [
      "Paulo Futre",
-     1.718828
+     0.125046
+    ],
+    [
+     "Ruud Gullit",
+     0.123449
     ],
     [
      "Marco van Basten",
-     1.712022
-    ],
-    [
-     "Klaus Allofs",
-     1.682572
-    ],
-    [
-     "Gary Lineker",
-     1.667832
-    ],
-    [
-     "John Barnes",
-     1.662042
-    ],
-    [
-     "Gianluca Vialli",
-     1.653171
-    ],
-    [
-     "Bryan Robson",
-     1.382135
+     0.116181
     ],
     [
      "Glenn Hysén",
-     1.305337
+     0.088868
+    ],
+    [
+     "Klaus Allofs",
+     0.084271
+    ],
+    [
+     "Gary Lineker",
+     0.080133
+    ],
+    [
+     "John Barnes",
+     0.067778
+    ],
+    [
+     "Gianluca Vialli",
+     0.059794
+    ],
+    [
+     "Bryan Robson",
+     0.017446
     ]
    ]
   },
@@ -10212,55 +10212,55 @@
    "pred": [
     [
      "Hugo Sánchez",
-     1.235063
+     1.354407
     ],
     [
      "Emilio Butragueño",
-     1.195069
+     1.320049
     ],
     [
      "Míchel",
-     1.18354
-    ],
-    [
-     "Paulo Futre",
-     1.18082
+     1.309704
     ],
     [
      "Diego Maradona",
-     1.177819
+     1.308829
+    ],
+    [
+     "Paulo Futre",
+     1.306542
     ],
     [
      "Marco van Basten",
-     1.16713
+     1.295585
     ],
     [
      "Ruud Gullit",
-     1.146298
+     1.283047
     ],
     [
      "Gary Lineker",
-     1.14012
+     1.268237
     ],
     [
      "Klaus Allofs",
-     1.128193
+     1.262118
     ],
     [
      "John Barnes",
-     1.122779
+     1.256301
     ],
     [
      "Gianluca Vialli",
-     1.108531
-    ],
-    [
-     "Bryan Robson",
-     0.952961
+     1.242117
     ],
     [
      "Glenn Hysén",
-     0.903101
+     0.782803
+    ],
+    [
+     "Bryan Robson",
+     0.030996
     ]
    ],
    "fair": [
@@ -10377,44 +10377,44 @@
   "elig": {
    "pred": [
     [
+     "Ronald Koeman",
+     0.24623
+    ],
+    [
      "Marco van Basten",
-     1.130214
+     0.241436
     ],
     [
      "Ruud Gullit",
-     1.064824
+     0.189149
     ],
     [
      "Frank Rijkaard",
-     1.03319
+     0.15543
     ],
     [
      "Gianluca Vialli",
-     1.007786
+     0.114585
     ],
     [
      "Jürgen Klinsmann",
-     0.988938
-    ],
-    [
-     "Franco Baresi",
-     0.982869
+     0.099105
     ],
     [
      "Alexander Zavarov",
-     0.978347
-    ],
-    [
-     "Ronald Koeman",
-     0.940533
-    ],
-    [
-     "Lothar Matthäus",
-     0.907142
+     0.094546
     ],
     [
      "Oleksiy Mykhaylychenko",
-     0.830477
+     0.085947
+    ],
+    [
+     "Lothar Matthäus",
+     0.084999
+    ],
+    [
+     "Franco Baresi",
+     0.076398
     ]
    ],
    "fair": [
@@ -10504,43 +10504,43 @@
    "temporal": [
     [
      "Marco van Basten",
-     1.781726
-    ],
-    [
-     "Ruud Gullit",
-     1.702771
-    ],
-    [
-     "Gianluca Vialli",
-     1.677316
-    ],
-    [
-     "Jürgen Klinsmann",
-     1.646335
-    ],
-    [
-     "Alexander Zavarov",
-     1.644152
-    ],
-    [
-     "Frank Rijkaard",
-     1.63813
-    ],
-    [
-     "Franco Baresi",
-     1.617666
-    ],
-    [
-     "Lothar Matthäus",
-     1.464916
+     0.234794
     ],
     [
      "Ronald Koeman",
-     1.382415
+     0.199335
+    ],
+    [
+     "Ruud Gullit",
+     0.163989
+    ],
+    [
+     "Gianluca Vialli",
+     0.107381
+    ],
+    [
+     "Alexander Zavarov",
+     0.101737
+    ],
+    [
+     "Frank Rijkaard",
+     0.101049
+    ],
+    [
+     "Jürgen Klinsmann",
+     0.081659
     ],
     [
      "Oleksiy Mykhaylychenko",
-     1.360229
+     0.080047
+    ],
+    [
+     "Lothar Matthäus",
+     0.069778
+    ],
+    [
+     "Franco Baresi",
+     0.056265
     ]
    ]
   },
@@ -10548,51 +10548,51 @@
    "pred": [
     [
      "Marco van Basten",
-     1.247415
+     1.371145
     ],
     [
      "Hugo Sánchez",
-     1.245442
+     1.364905
     ],
     [
      "Ruud Gullit",
-     1.205478
+     1.329151
     ],
     [
      "Frank Rijkaard",
-     1.170019
+     1.301103
     ],
     [
      "Jürgen Klinsmann",
-     1.143943
+     1.272864
     ],
     [
      "Gianluca Vialli",
-     1.142215
+     1.27153
     ],
     [
      "Diego Maradona",
-     1.136597
+     1.270574
     ],
     [
      "Alexander Zavarov",
-     1.127193
-    ],
-    [
-     "Franco Baresi",
-     1.117261
+     1.251388
     ],
     [
      "Ronald Koeman",
-     1.066723
-    ],
-    [
-     "Lothar Matthäus",
-     1.052744
+     1.158989
     ],
     [
      "Oleksiy Mykhaylychenko",
-     0.962849
+     0.865208
+    ],
+    [
+     "Franco Baresi",
+     0.765198
+    ],
+    [
+     "Lothar Matthäus",
+     0.724678
     ]
    ],
    "fair": [
@@ -10702,47 +10702,47 @@
    "pred": [
     [
      "Gheorghe Hagi",
-     1.095428
+     0.206969
     ],
     [
      "Marco van Basten",
-     1.091132
-    ],
-    [
-     "Franco Baresi",
-     1.052131
+     0.191798
     ],
     [
      "Frank Rijkaard",
-     1.032182
+     0.155867
+    ],
+    [
+     "Franco Baresi",
+     0.131488
     ],
     [
      "Ruud Gullit",
-     1.016829
+     0.128797
     ],
     [
      "Jean-Pierre Papin",
-     1.003911
+     0.124116
     ],
     [
      "Jürgen Klinsmann",
-     0.997176
+     0.108374
     ],
     [
      "Dragan Stojković",
-     0.992348
+     0.106082
     ],
     [
      "Michel Preud'homme",
-     0.929491
-    ],
-    [
-     "Peter Shilton",
-     0.923695
+     0.053598
     ],
     [
      "Lothar Matthäus",
-     0.905358
+     0.051202
+    ],
+    [
+     "Peter Shilton",
+     0
     ]
    ],
    "fair": [
@@ -10840,47 +10840,47 @@
    "temporal": [
     [
      "Gheorghe Hagi",
-     1.76052
-    ],
-    [
-     "Franco Baresi",
-     1.722389
+     0.1975
     ],
     [
      "Marco van Basten",
-     1.720935
+     0.153364
     ],
     [
      "Ruud Gullit",
-     1.674903
-    ],
-    [
-     "Jean-Pierre Papin",
-     1.663379
+     0.106905
     ],
     [
      "Frank Rijkaard",
-     1.662019
+     0.105771
     ],
     [
-     "Dragan Stojković",
-     1.64994
+     "Jean-Pierre Papin",
+     0.104637
     ],
     [
      "Jürgen Klinsmann",
-     1.646046
+     0.085037
     ],
     [
-     "Michel Preud'homme",
-     1.523403
+     "Dragan Stojković",
+     0.08297
     ],
     [
-     "Peter Shilton",
-     1.522605
+     "Franco Baresi",
+     0.080506
     ],
     [
      "Lothar Matthäus",
-     1.466648
+     0.055593
+    ],
+    [
+     "Michel Preud'homme",
+     0.049283
+    ],
+    [
+     "Peter Shilton",
+     0
     ]
    ]
   },
@@ -10888,59 +10888,59 @@
    "pred": [
     [
      "Romário",
-     1.29108
+     1.401664
     ],
     [
      "Gheorghe Hagi",
-     1.262608
+     1.384577
     ],
     [
      "Marco van Basten",
-     1.241511
+     1.369193
     ],
     [
      "Franco Baresi",
-     1.222721
+     1.36461
     ],
     [
      "Careca",
-     1.206478
-    ],
-    [
-     "Diego Maradona",
-     1.19816
+     1.335058
     ],
     [
      "Frank Rijkaard",
-     1.187784
+     1.322755
     ],
     [
-     "Ruud Gullit",
-     1.167324
+     "Diego Maradona",
+     1.321443
     ],
     [
      "Jean-Pierre Papin",
-     1.163266
+     1.297092
+    ],
+    [
+     "Ruud Gullit",
+     1.291592
     ],
     [
      "Jürgen Klinsmann",
-     1.158967
+     1.286911
     ],
     [
      "Dragan Stojković",
-     1.129359
+     1.263006
     ],
     [
      "Michel Preud'homme",
-     1.061241
+     0.514459
     ],
     [
      "Lothar Matthäus",
-     1.04509
+     0.230997
     ],
     [
      "Peter Shilton",
-     1.044735
+     0
     ]
    ],
    "fair": [
@@ -11065,44 +11065,44 @@
   "elig": {
    "pred": [
     [
-     "Jürgen Klinsmann",
-     1.136608
-    ],
-    [
-     "Salvatore Schillaci",
-     1.077397
-    ],
-    [
      "Lothar Matthäus",
-     1.07472
+     0.247789
+    ],
+    [
+     "Jürgen Klinsmann",
+     0.222214
     ],
     [
      "Andreas Brehme",
-     1.072632
+     0.21294
     ],
     [
      "Guido Buchwald",
-     1.050671
+     0.196086
     ],
     [
-     "Franco Baresi",
-     1.050537
+     "Salvatore Schillaci",
+     0.170855
     ],
     [
      "Roberto Baggio",
-     1.049338
-    ],
-    [
-     "Enzo Scifo",
-     1.024733
+     0.145038
     ],
     [
      "Frank Rijkaard",
-     1.01311
+     0.137504
+    ],
+    [
+     "Franco Baresi",
+     0.130297
+    ],
+    [
+     "Enzo Scifo",
+     0.127601
     ],
     [
      "Paul Gascoigne",
-     0.977
+     0.091302
     ]
    ],
    "fair": [
@@ -11191,44 +11191,44 @@
    ],
    "temporal": [
     [
+     "Lothar Matthäus",
+     0.207499
+    ],
+    [
      "Jürgen Klinsmann",
-     1.723494
+     0.183625
     ],
     [
      "Salvatore Schillaci",
-     1.687823
+     0.157399
     ],
     [
      "Roberto Baggio",
-     1.674075
-    ],
-    [
-     "Franco Baresi",
-     1.670472
-    ],
-    [
-     "Enzo Scifo",
-     1.656345
-    ],
-    [
-     "Frank Rijkaard",
-     1.602373
-    ],
-    [
-     "Paul Gascoigne",
-     1.595064
+     0.152982
     ],
     [
      "Andreas Brehme",
-     1.591982
+     0.145793
+    ],
+    [
+     "Enzo Scifo",
+     0.129008
     ],
     [
      "Guido Buchwald",
-     1.572238
+     0.127516
     ],
     [
-     "Lothar Matthäus",
-     1.565587
+     "Frank Rijkaard",
+     0.09088
+    ],
+    [
+     "Franco Baresi",
+     0.076557
+    ],
+    [
+     "Paul Gascoigne",
+     0.06651
     ]
    ]
   },
@@ -11236,51 +11236,51 @@
    "pred": [
     [
      "Jürgen Klinsmann",
-     1.292964
+     1.418985
     ],
     [
      "Diego Maradona",
-     1.274465
-    ],
-    [
-     "Hugo Sánchez",
-     1.231615
+     1.402571
     ],
     [
      "Franco Baresi",
-     1.224537
+     1.361373
+    ],
+    [
+     "Hugo Sánchez",
+     1.357432
     ],
     [
      "Andreas Brehme",
-     1.224441
+     1.352596
     ],
     [
      "Salvatore Schillaci",
-     1.222698
+     1.347317
     ],
     [
      "Lothar Matthäus",
-     1.217951
+     1.33915
     ],
     [
      "Guido Buchwald",
-     1.205463
+     1.330197
     ],
     [
      "Roberto Baggio",
-     1.201241
+     1.326075
     ],
     [
      "Frank Rijkaard",
-     1.169845
+     1.302566
     ],
     [
      "Enzo Scifo",
-     1.154401
+     1.282448
     ],
     [
      "Paul Gascoigne",
-     1.125281
+     1.254292
     ]
    ],
    "fair": [
@@ -11390,43 +11390,43 @@
    "pred": [
     [
      "Darko Pančev",
-     1.127394
+     0.233883
     ],
     [
      "Jean-Pierre Papin",
-     1.092118
+     0.202285
     ],
     [
      "Dejan Savićević",
-     1.062433
-    ],
-    [
-     "Gianluca Vialli",
-     1.053965
-    ],
-    [
-     "Chris Waddle",
-     1.026069
-    ],
-    [
-     "Mark Hughes",
-     1.019383
-    ],
-    [
-     "Gary Lineker",
-     0.988514
-    ],
-    [
-     "Lothar Matthäus",
-     0.939024
+     0.176297
     ],
     [
      "Robert Prosinečki",
-     0.90391
+     0.175611
+    ],
+    [
+     "Gianluca Vialli",
+     0.168883
+    ],
+    [
+     "Chris Waddle",
+     0.143484
+    ],
+    [
+     "Lothar Matthäus",
+     0.131125
+    ],
+    [
+     "Mark Hughes",
+     0.129274
     ],
     [
      "Miodrag Belodedici",
-     0.887704
+     0.117876
+    ],
+    [
+     "Gary Lineker",
+     0.09985
     ]
    ],
    "fair": [
@@ -11516,43 +11516,43 @@
    "temporal": [
     [
      "Darko Pančev",
-     1.057558
+     0.192049
     ],
     [
      "Jean-Pierre Papin",
-     1.0546
-    ],
-    [
-     "Gianluca Vialli",
-     1.014469
+     0.19156
     ],
     [
      "Dejan Savićević",
-     1.009834
+     0.162211
     ],
     [
-     "Chris Waddle",
-     0.975511
-    ],
-    [
-     "Mark Hughes",
-     0.966561
-    ],
-    [
-     "Gary Lineker",
-     0.942153
-    ],
-    [
-     "Lothar Matthäus",
-     0.883936
+     "Gianluca Vialli",
+     0.151546
     ],
     [
      "Robert Prosinečki",
-     0.861343
+     0.148654
+    ],
+    [
+     "Chris Waddle",
+     0.132428
+    ],
+    [
+     "Mark Hughes",
+     0.103972
+    ],
+    [
+     "Lothar Matthäus",
+     0.091788
     ],
     [
      "Miodrag Belodedici",
-     0.840074
+     0.091038
+    ],
+    [
+     "Gary Lineker",
+     0.075973
     ]
    ]
   },
@@ -11560,51 +11560,51 @@
    "pred": [
     [
      "Darko Pančev",
-     1.291891
+     1.416021
     ],
     [
      "Jean-Pierre Papin",
-     1.257955
-    ],
-    [
-     "Gianluca Vialli",
-     1.211837
+     1.380222
     ],
     [
      "Dejan Savićević",
-     1.211027
+     1.339653
+    ],
+    [
+     "Gianluca Vialli",
+     1.337913
     ],
     [
      "Abedi Pelé",
-     1.193742
+     1.322652
     ],
     [
      "Chris Waddle",
-     1.183579
-    ],
-    [
-     "Mark Hughes",
-     1.163856
+     1.313289
     ],
     [
      "Romário",
-     1.160905
+     1.295193
+    ],
+    [
+     "Mark Hughes",
+     1.292557
     ],
     [
      "Gary Lineker",
-     1.139365
-    ],
-    [
-     "Lothar Matthäus",
-     1.080255
+     1.272943
     ],
     [
      "Miodrag Belodedici",
-     1.036008
+     1.162369
     ],
     [
      "Robert Prosinečki",
-     1.031665
+     1.147815
+    ],
+    [
+     "Lothar Matthäus",
+     0.936009
     ]
    ],
    "fair": [
@@ -11714,47 +11714,47 @@
    "pred": [
     [
      "Hristo Stoichkov",
-     1.102304
+     0.212618
     ],
     [
      "Marco van Basten",
-     1.096184
+     0.210708
     ],
     [
      "Dennis Bergkamp",
-     1.084977
+     0.184679
     ],
     [
      "Michael Laudrup",
-     1.045986
-    ],
-    [
-     "Peter Schmeichel",
-     1.020041
-    ],
-    [
-     "Brian Laudrup",
-     1.009212
-    ],
-    [
-     "Stéphane Chapuisat",
-     1.006893
-    ],
-    [
-     "Thomas Häßler",
-     1.001972
-    ],
-    [
-     "Enzo Scifo",
-     0.998263
-    ],
-    [
-     "Frank Rijkaard",
-     0.980227
+     0.160648
     ],
     [
      "Ronald Koeman",
-     0.885101
+     0.157265
+    ],
+    [
+     "Peter Schmeichel",
+     0.145695
+    ],
+    [
+     "Brian Laudrup",
+     0.13306
+    ],
+    [
+     "Frank Rijkaard",
+     0.118523
+    ],
+    [
+     "Stéphane Chapuisat",
+     0.117838
+    ],
+    [
+     "Thomas Häßler",
+     0.114472
+    ],
+    [
+     "Enzo Scifo",
+     0.110902
     ]
    ],
    "fair": [
@@ -11852,47 +11852,47 @@
    "temporal": [
     [
      "Marco van Basten",
-     1.0722
+     0.1846
     ],
     [
      "Hristo Stoichkov",
-     1.035229
+     0.166525
     ],
     [
      "Dennis Bergkamp",
-     1.022638
+     0.141893
     ],
     [
      "Michael Laudrup",
-     0.983697
+     0.127825
     ],
     [
      "Thomas Häßler",
-     0.971686
-    ],
-    [
-     "Stéphane Chapuisat",
-     0.968404
-    ],
-    [
-     "Enzo Scifo",
-     0.951412
-    ],
-    [
-     "Peter Schmeichel",
-     0.94855
-    ],
-    [
-     "Frank Rijkaard",
-     0.945193
-    ],
-    [
-     "Brian Laudrup",
-     0.939409
+     0.118936
     ],
     [
      "Ronald Koeman",
-     0.829412
+     0.112042
+    ],
+    [
+     "Frank Rijkaard",
+     0.099842
+    ],
+    [
+     "Stéphane Chapuisat",
+     0.089961
+    ],
+    [
+     "Peter Schmeichel",
+     0.088843
+    ],
+    [
+     "Brian Laudrup",
+     0.088791
+    ],
+    [
+     "Enzo Scifo",
+     0.084922
     ]
    ]
   },
@@ -11900,55 +11900,55 @@
    "pred": [
     [
      "Hristo Stoichkov",
-     1.276555
+     1.401786
     ],
     [
      "Marco van Basten",
-     1.250489
+     1.374499
     ],
     [
      "Dennis Bergkamp",
-     1.24989
+     1.373933
     ],
     [
      "Michael Laudrup",
-     1.22082
+     1.348493
     ],
     [
      "Abedi Pelé",
-     1.200466
+     1.324442
     ],
     [
      "Romário",
-     1.176275
+     1.311115
     ],
     [
      "Peter Schmeichel",
-     1.162863
-    ],
-    [
-     "Thomas Häßler",
-     1.16139
-    ],
-    [
-     "Brian Laudrup",
-     1.15986
-    ],
-    [
-     "Enzo Scifo",
-     1.157298
+     1.291618
     ],
     [
      "Stéphane Chapuisat",
-     1.154172
+     1.287542
     ],
     [
-     "Frank Rijkaard",
-     1.110178
+     "Enzo Scifo",
+     1.285121
+    ],
+    [
+     "Thomas Häßler",
+     1.281391
+    ],
+    [
+     "Brian Laudrup",
+     1.280117
     ],
     [
      "Ronald Koeman",
-     1.044315
+     1.15467
+    ],
+    [
+     "Frank Rijkaard",
+     0.774786
     ]
    ],
    "fair": [
@@ -12066,43 +12066,43 @@
    "pred": [
     [
      "Roberto Baggio",
-     1.090602
+     0.190344
     ],
     [
      "Dennis Bergkamp",
-     1.048565
+     0.155004
     ],
     [
      "Alen Bokšić",
-     1.04376
-    ],
-    [
-     "Stéphane Chapuisat",
-     1.03059
+     0.150663
     ],
     [
      "Emil Kostadinov",
-     1.021571
+     0.141085
+    ],
+    [
+     "Stéphane Chapuisat",
+     0.138431
     ],
     [
      "Eric Cantona",
-     1.019349
+     0.138241
     ],
     [
      "Michael Laudrup",
-     1.016711
-    ],
-    [
-     "Paolo Maldini",
-     1.005014
+     0.135715
     ],
     [
      "Ryan Giggs",
-     0.997308
+     0.11832
+    ],
+    [
+     "Paolo Maldini",
+     0.116485
     ],
     [
      "Franco Baresi",
-     0.990631
+     0.103357
     ]
    ],
    "fair": [
@@ -12192,43 +12192,43 @@
    "temporal": [
     [
      "Roberto Baggio",
-     1.016187
+     0.150151
     ],
     [
      "Dennis Bergkamp",
-     1.008029
-    ],
-    [
-     "Stéphane Chapuisat",
-     0.980003
+     0.141253
     ],
     [
      "Emil Kostadinov",
-     0.973333
-    ],
-    [
-     "Alen Bokšić",
-     0.971168
+     0.129485
     ],
     [
      "Eric Cantona",
-     0.970705
+     0.120565
     ],
     [
      "Michael Laudrup",
-     0.964259
+     0.120345
+    ],
+    [
+     "Stéphane Chapuisat",
+     0.118918
+    ],
+    [
+     "Alen Bokšić",
+     0.112899
     ],
     [
      "Ryan Giggs",
-     0.944716
+     0.099967
     ],
     [
      "Paolo Maldini",
-     0.940508
+     0.089991
     ],
     [
      "Franco Baresi",
-     0.923108
+     0.075945
     ]
    ]
   },
@@ -12236,51 +12236,51 @@
    "pred": [
     [
      "Roberto Baggio",
-     1.247052
+     1.376274
     ],
     [
      "Alen Bokšić",
-     1.203611
+     1.3291
     ],
     [
      "Dennis Bergkamp",
-     1.188663
+     1.316819
     ],
     [
      "Stéphane Chapuisat",
-     1.187009
+     1.31489
     ],
     [
      "Romário",
-     1.184402
-    ],
-    [
-     "Abedi Pelé",
-     1.173396
+     1.310856
     ],
     [
      "Eric Cantona",
-     1.171937
+     1.30639
     ],
     [
      "Michael Laudrup",
-     1.169922
+     1.299236
+    ],
+    [
+     "Abedi Pelé",
+     1.297753
     ],
     [
      "Emil Kostadinov",
-     1.166275
-    ],
-    [
-     "Paolo Maldini",
-     1.162656
-    ],
-    [
-     "Franco Baresi",
-     1.147776
+     1.296316
     ],
     [
      "Ryan Giggs",
-     1.147305
+     1.283917
+    ],
+    [
+     "Paolo Maldini",
+     1.057295
+    ],
+    [
+     "Franco Baresi",
+     1.043666
     ]
    ],
    "fair": [
@@ -12389,44 +12389,44 @@
   "elig": {
    "pred": [
     [
-     "Paolo Maldini",
-     1.13825
+     "Hristo Stoichkov",
+     0.241349
     ],
     [
-     "Hristo Stoichkov",
-     1.136259
+     "Paolo Maldini",
+     0.200359
     ],
     [
      "Roberto Baggio",
-     1.099978
+     0.181524
     ],
     [
      "Jari Litmanen",
-     1.046979
-    ],
-    [
-     "Jürgen Klinsmann",
-     1.034941
-    ],
-    [
-     "Dejan Savićević",
-     1.021535
+     0.165004
     ],
     [
      "Marcel Desailly",
-     1.008169
+     0.1414
+    ],
+    [
+     "Dejan Savićević",
+     0.141107
+    ],
+    [
+     "Jürgen Klinsmann",
+     0.138328
     ],
     [
      "Gheorghe Hagi",
-     1.000503
+     0.110639
     ],
     [
      "Tomas Brolin",
-     0.997983
+     0.108298
     ],
     [
      "Thomas Ravelli",
-     0.923695
+     0.068332
     ]
    ],
    "fair": [
@@ -12515,44 +12515,44 @@
    ],
    "temporal": [
     [
-     "Paolo Maldini",
-     1.133868
+     "Hristo Stoichkov",
+     0.21455
     ],
     [
-     "Hristo Stoichkov",
-     1.11755
+     "Paolo Maldini",
+     0.169757
     ],
     [
      "Roberto Baggio",
-     1.097443
+     0.169626
     ],
     [
      "Jari Litmanen",
-     1.028555
-    ],
-    [
-     "Jürgen Klinsmann",
-     0.99955
+     0.145481
     ],
     [
      "Dejan Savićević",
-     0.988624
+     0.12241
+    ],
+    [
+     "Jürgen Klinsmann",
+     0.106532
     ],
     [
      "Marcel Desailly",
-     0.976082
+     0.097565
     ],
     [
      "Gheorghe Hagi",
-     0.967453
+     0.079005
     ],
     [
      "Tomas Brolin",
-     0.957625
+     0.071621
     ],
     [
      "Thomas Ravelli",
-     0.89454
+     0.050313
     ]
    ]
   },
@@ -12560,51 +12560,51 @@
    "pred": [
     [
      "Romário",
-     1.430476
+     1.54482
     ],
     [
      "Paolo Maldini",
-     1.337333
+     1.481593
     ],
     [
      "Bebeto",
-     1.326008
+     1.448427
     ],
     [
      "Hristo Stoichkov",
-     1.30855
+     1.426461
     ],
     [
      "Roberto Baggio",
-     1.282401
+     1.406261
     ],
     [
      "Jari Litmanen",
-     1.19858
+     1.32677
     ],
     [
      "Jürgen Klinsmann",
-     1.196302
-    ],
-    [
-     "Dejan Savićević",
-     1.176764
+     1.316903
     ],
     [
      "Marcel Desailly",
-     1.168156
+     1.310211
+    ],
+    [
+     "Dejan Savićević",
+     1.306677
     ],
     [
      "Tomas Brolin",
-     1.157577
+     1.282437
     ],
     [
      "Gheorghe Hagi",
-     1.143374
+     1.2746
     ],
     [
      "Thomas Ravelli",
-     1.049595
+     0.717996
     ]
    ],
    "fair": [
@@ -12714,43 +12714,43 @@
    "pred": [
     [
      "Jari Litmanen",
-     1.128004
+     0.242031
     ],
     [
      "Patrick Kluivert",
-     1.057497
+     0.173084
     ],
     [
      "Marc Overmars",
-     1.054645
-    ],
-    [
-     "Gianfranco Zola",
-     1.053902
+     0.172044
     ],
     [
      "Alessandro Del Piero",
-     1.047771
+     0.168221
+    ],
+    [
+     "Gianfranco Zola",
+     0.158921
     ],
     [
      "Jürgen Klinsmann",
-     1.024342
-    ],
-    [
-     "George Weah",
-     1.012774
+     0.137142
     ],
     [
      "Michael Laudrup",
-     1.011995
+     0.134131
     ],
     [
-     "Matthias Sammer",
-     1.003514
+     "George Weah",
+     0.127818
     ],
     [
      "Paolo Maldini",
-     0.992507
+     0.098609
+    ],
+    [
+     "Matthias Sammer",
+     0.07786
     ]
    ],
    "fair": [
@@ -12840,43 +12840,43 @@
    "temporal": [
     [
      "Jari Litmanen",
-     1.030028
+     0.197534
     ],
     [
      "Alessandro Del Piero",
-     0.966866
+     0.148215
     ],
     [
      "Marc Overmars",
-     0.950987
+     0.137725
     ],
     [
      "Patrick Kluivert",
-     0.948289
+     0.131025
     ],
     [
      "Jürgen Klinsmann",
-     0.946994
-    ],
-    [
-     "Gianfranco Zola",
-     0.940236
+     0.122046
     ],
     [
      "Michael Laudrup",
-     0.927527
+     0.113718
+    ],
+    [
+     "Gianfranco Zola",
+     0.113666
     ],
     [
      "George Weah",
-     0.922995
+     0.102936
     ],
     [
      "Matthias Sammer",
-     0.909971
+     0.060974
     ],
     [
      "Paolo Maldini",
-     0.890144
+     0.047987
     ]
    ]
   },
@@ -12884,47 +12884,47 @@
    "pred": [
     [
      "Jari Litmanen",
-     1.281294
+     1.405571
     ],
     [
      "Patrick Kluivert",
-     1.228309
-    ],
-    [
-     "Enzo Francescoli",
-     1.220458
+     1.354924
     ],
     [
      "Gianfranco Zola",
-     1.218476
+     1.34748
     ],
     [
      "Marc Overmars",
-     1.215757
+     1.343268
+    ],
+    [
+     "Enzo Francescoli",
+     1.333101
     ],
     [
      "Alessandro Del Piero",
-     1.199087
+     1.327795
     ],
     [
      "Jürgen Klinsmann",
-     1.158308
+     1.291519
     ],
     [
      "Michael Laudrup",
-     1.15659
-    ],
-    [
-     "Paolo Maldini",
-     1.152907
+     1.289564
     ],
     [
      "George Weah",
-     1.151003
+     1.273759
+    ],
+    [
+     "Paolo Maldini",
+     1.039734
     ],
     [
      "Matthias Sammer",
-     1.150751
+     0.613054
     ]
    ],
    "fair": [
@@ -13026,43 +13026,43 @@
    "pred": [
     [
      "Jürgen Klinsmann",
-     1.130047
+     0.234612
     ],
     [
      "Matthias Sammer",
-     1.059781
+     0.18348
     ],
     [
      "Alessandro Del Piero",
-     1.05295
-    ],
-    [
-     "Youri Djorkaeff",
-     1.033289
-    ],
-    [
-     "Alan Shearer",
-     1.031227
-    ],
-    [
-     "Davor Šuker",
-     1.029804
+     0.158195
     ],
     [
      "Eric Cantona",
-     1.02379
+     0.142426
+    ],
+    [
+     "Youri Djorkaeff",
+     0.13872
+    ],
+    [
+     "Davor Šuker",
+     0.133388
+    ],
+    [
+     "Alan Shearer",
+     0.131175
     ],
     [
      "Karel Poborský",
-     1.004969
+     0.125548
     ],
     [
      "Ronaldo",
-     0.993215
+     0.105291
     ],
     [
      "Marcel Desailly",
-     0.931987
+     0.074857
     ]
    ],
    "fair": [
@@ -13152,43 +13152,43 @@
    "temporal": [
     [
      "Jürgen Klinsmann",
-     0.377703
-    ],
-    [
-     "Karel Poborský",
-     0.288284
+     0.200561
     ],
     [
      "Alessandro Del Piero",
-     0.280345
+     0.132591
+    ],
+    [
+     "Karel Poborský",
+     0.126591
     ],
     [
      "Matthias Sammer",
-     0.277754
+     0.123472
     ],
     [
      "Davor Šuker",
-     0.248469
+     0.110433
     ],
     [
      "Eric Cantona",
-     0.23931
+     0.108595
     ],
     [
      "Youri Djorkaeff",
-     0.237937
-    ],
-    [
-     "Ronaldo",
-     0.220239
+     0.098951
     ],
     [
      "Alan Shearer",
-     0.218636
+     0.087844
+    ],
+    [
+     "Ronaldo",
+     0.081994
     ],
     [
      "Marcel Desailly",
-     0.185022
+     0.038401
     ]
    ]
   },
@@ -13196,47 +13196,47 @@
    "pred": [
     [
      "Jürgen Klinsmann",
-     1.282904
+     1.399242
     ],
     [
      "Matthias Sammer",
-     1.221162
+     1.351185
     ],
     [
      "Alan Shearer",
-     1.200446
+     1.326686
     ],
     [
      "Alessandro Del Piero",
-     1.19904
+     1.325117
     ],
     [
      "Enzo Francescoli",
-     1.192809
+     1.323325
     ],
     [
      "Youri Djorkaeff",
-     1.191295
+     1.315921
     ],
     [
      "Davor Šuker",
-     1.179465
+     1.308032
     ],
     [
      "Eric Cantona",
-     1.173487
+     1.3068
     ],
     [
      "Karel Poborský",
-     1.164927
+     1.286413
     ],
     [
      "Ronaldo",
-     1.139075
+     1.267432
     ],
     [
      "Marcel Desailly",
-     1.068259
+     0.730497
     ]
    ],
    "fair": [
@@ -13338,47 +13338,47 @@
    "pred": [
     [
      "Ronaldo",
-     1.154947
+     0.247787
     ],
     [
      "Christian Vieri",
-     1.06289
-    ],
-    [
-     "Zinedine Zidane",
-     1.037278
-    ],
-    [
-     "Andreas Möller",
-     1.016517
-    ],
-    [
-     "Raúl",
-     1.007108
-    ],
-    [
-     "Jürgen Kohler",
-     1.005751
-    ],
-    [
-     "Predrag Mijatović",
-     0.995174
-    ],
-    [
-     "Dennis Bergkamp",
-     0.981001
-    ],
-    [
-     "Peter Schmeichel",
-     0.931975
-    ],
-    [
-     "Matthias Sammer",
-     0.885647
+     0.175247
     ],
     [
      "Roberto Carlos",
-     0.884348
+     0.155593
+    ],
+    [
+     "Zinedine Zidane",
+     0.153001
+    ],
+    [
+     "Jürgen Kohler",
+     0.132541
+    ],
+    [
+     "Andreas Möller",
+     0.126666
+    ],
+    [
+     "Raúl",
+     0.124909
+    ],
+    [
+     "Predrag Mijatović",
+     0.115244
+    ],
+    [
+     "Matthias Sammer",
+     0.110208
+    ],
+    [
+     "Dennis Bergkamp",
+     0.094127
+    ],
+    [
+     "Peter Schmeichel",
+     0.074212
     ]
    ],
    "fair": [
@@ -13476,47 +13476,47 @@
    "temporal": [
     [
      "Ronaldo",
-     0.463731
+     0.268779
     ],
     [
      "Christian Vieri",
-     0.391364
-    ],
-    [
-     "Zinedine Zidane",
-     0.362345
+     0.221953
     ],
     [
      "Roberto Carlos",
-     0.354593
+     0.205527
     ],
     [
-     "Andreas Möller",
-     0.317055
+     "Zinedine Zidane",
+     0.194369
     ],
     [
      "Jürgen Kohler",
-     0.307613
+     0.162448
+    ],
+    [
+     "Andreas Möller",
+     0.150306
     ],
     [
      "Raúl",
-     0.299205
-    ],
-    [
-     "Predrag Mijatović",
-     0.293668
-    ],
-    [
-     "Dennis Bergkamp",
-     0.28078
-    ],
-    [
-     "Peter Schmeichel",
-     0.27591
+     0.136891
     ],
     [
      "Matthias Sammer",
-     0.25987
+     0.131942
+    ],
+    [
+     "Predrag Mijatović",
+     0.131139
+    ],
+    [
+     "Dennis Bergkamp",
+     0.116339
+    ],
+    [
+     "Peter Schmeichel",
+     0.084048
     ]
    ]
   },
@@ -13524,51 +13524,51 @@
    "pred": [
     [
      "Ronaldo",
-     1.34472
+     1.462598
     ],
     [
      "Christian Vieri",
-     1.215306
+     1.344868
     ],
     [
      "Zinedine Zidane",
-     1.186627
-    ],
-    [
-     "Andreas Möller",
-     1.173218
+     1.318222
     ],
     [
      "Raúl",
-     1.16659
+     1.302608
     ],
     [
      "Jürgen Kohler",
-     1.165241
+     1.2991
+    ],
+    [
+     "Andreas Möller",
+     1.297363
     ],
     [
      "Predrag Mijatović",
-     1.145462
-    ],
-    [
-     "Dennis Bergkamp",
-     1.130029
+     1.283305
     ],
     [
      "Marcelo Salas",
-     1.126512
+     1.263791
     ],
     [
-     "Peter Schmeichel",
-     1.068315
+     "Dennis Bergkamp",
+     1.263586
     ],
     [
      "Matthias Sammer",
-     1.033968
+     1.151501
     ],
     [
      "Roberto Carlos",
-     1.012959
+     1.126478
+    ],
+    [
+     "Peter Schmeichel",
+     0.730956
     ]
    ],
    "fair": [
@@ -13677,44 +13677,44 @@
   "elig": {
    "pred": [
     [
+     "Zinedine Zidane",
+     0.24648
+    ],
+    [
      "Ronaldo",
-     1.182813
+     0.244748
     ],
     [
      "Rivaldo",
-     1.16422
-    ],
-    [
-     "Zinedine Zidane",
-     1.15414
+     0.242938
     ],
     [
      "Lilian Thuram",
-     1.105541
+     0.203188
     ],
     [
      "Marcel Desailly",
-     1.09634
+     0.196482
     ],
     [
      "Davor Šuker",
-     1.067231
+     0.162676
     ],
     [
      "Dennis Bergkamp",
-     1.048715
+     0.158859
     ],
     [
      "Gabriel Batistuta",
-     1.024242
+     0.124817
     ],
     [
      "Michael Owen",
-     1.018314
+     0.120722
     ],
     [
      "Edgar Davids",
-     0.962726
+     0.119999
     ]
    ],
    "fair": [
@@ -13804,43 +13804,43 @@
    "temporal": [
     [
      "Rivaldo",
-     0.456735
+     0.287606
     ],
     [
      "Ronaldo",
-     0.440697
+     0.268189
     ],
     [
      "Zinedine Zidane",
-     0.419936
+     0.244939
     ],
     [
      "Marcel Desailly",
-     0.375134
+     0.216292
     ],
     [
      "Lilian Thuram",
-     0.37372
+     0.216289
     ],
     [
      "Dennis Bergkamp",
-     0.329983
+     0.188571
     ],
     [
      "Davor Šuker",
-     0.321093
+     0.17859
     ],
     [
      "Michael Owen",
-     0.306033
+     0.159061
     ],
     [
      "Gabriel Batistuta",
-     0.296476
+     0.151373
     ],
     [
      "Edgar Davids",
-     0.285678
+     0.139722
     ]
    ]
   },
@@ -13848,47 +13848,47 @@
    "pred": [
     [
      "Ronaldo",
-     1.35997
-    ],
-    [
-     "Zinedine Zidane",
-     1.337277
+     1.48657
     ],
     [
      "Rivaldo",
-     1.335053
+     1.459714
+    ],
+    [
+     "Zinedine Zidane",
+     1.458811
     ],
     [
      "Lilian Thuram",
-     1.269086
+     1.401168
     ],
     [
      "Marcel Desailly",
-     1.248603
+     1.384077
     ],
     [
      "Davor Šuker",
-     1.231013
+     1.353509
     ],
     [
      "Dennis Bergkamp",
-     1.199414
+     1.329743
     ],
     [
      "Gabriel Batistuta",
-     1.185807
+     1.31725
     ],
     [
      "Michael Owen",
-     1.164737
+     1.297739
     ],
     [
      "Martín Palermo",
-     1.157735
+     1.29361
     ],
     [
      "Edgar Davids",
-     1.118763
+     1.013855
     ]
    ],
    "fair": [
@@ -13990,43 +13990,43 @@
    "pred": [
     [
      "Rivaldo",
-     1.156509
-    ],
-    [
-     "Andriy Shevchenko",
-     1.076047
-    ],
-    [
-     "David Beckham",
-     1.040893
-    ],
-    [
-     "Luís Figo",
-     1.028291
-    ],
-    [
-     "Raúl",
-     1.021086
+     0.265065
     ],
     [
      "Roy Keane",
-     1.019194
+     0.193361
+    ],
+    [
+     "Andriy Shevchenko",
+     0.18684
+    ],
+    [
+     "David Beckham",
+     0.155892
+    ],
+    [
+     "Luís Figo",
+     0.146006
+    ],
+    [
+     "Raúl",
+     0.12649
     ],
     [
      "Gabriel Batistuta",
-     1.005374
+     0.116085
     ],
     [
      "Christian Vieri",
-     1.004547
-    ],
-    [
-     "Lothar Matthäus",
-     0.888251
+     0.113186
     ],
     [
      "Juan Sebastián Verón",
-     0.808298
+     0.102944
+    ],
+    [
+     "Lothar Matthäus",
+     0.098734
     ]
    ],
    "fair": [
@@ -14116,43 +14116,43 @@
    "temporal": [
     [
      "Rivaldo",
-     0.34009
+     0.785534
     ],
     [
      "Andriy Shevchenko",
-     0.217102
+     0.569733
     ],
     [
      "Roy Keane",
-     0.195984
+     0.563002
     ],
     [
      "Luís Figo",
-     0.158432
+     0.496192
     ],
     [
      "David Beckham",
-     0.151089
+     0.488939
     ],
     [
      "Raúl",
-     0.132949
+     0.469513
     ],
     [
      "Gabriel Batistuta",
-     0.130431
-    ],
-    [
-     "Juan Sebastián Verón",
-     0.096837
-    ],
-    [
-     "Lothar Matthäus",
-     0.079522
+     0.466238
     ],
     [
      "Christian Vieri",
-     0.076652
+     0.396302
+    ],
+    [
+     "Lothar Matthäus",
+     0.317391
+    ],
+    [
+     "Juan Sebastián Verón",
+     0.300517
     ]
    ]
   },
@@ -14160,47 +14160,47 @@
    "pred": [
     [
      "Rivaldo",
-     1.326543
+     1.443795
     ],
     [
      "Andriy Shevchenko",
-     1.225396
+     1.348385
     ],
     [
      "David Beckham",
-     1.195798
+     1.32539
     ],
     [
      "Raúl",
-     1.177856
+     1.304516
     ],
     [
      "Christian Vieri",
-     1.173362
+     1.301885
     ],
     [
      "Luís Figo",
-     1.164475
+     1.300822
     ],
     [
      "Roy Keane",
-     1.156372
+     1.289123
     ],
     [
      "Gabriel Batistuta",
-     1.141217
+     1.275037
     ],
     [
      "Javier Saviola",
-     1.124428
+     1.257139
     ],
     [
      "Lothar Matthäus",
-     1.035678
+     0.942253
     ],
     [
      "Juan Sebastián Verón",
-     0.937801
+     0.809708
     ]
    ],
    "fair": [
@@ -14302,47 +14302,47 @@
    "pred": [
     [
      "Raúl",
-     1.102745
+     0.214397
     ],
     [
      "Thierry Henry",
-     1.096341
+     0.207178
     ],
     [
      "Rivaldo",
-     1.07256
-    ],
-    [
-     "David Beckham",
-     1.045041
-    ],
-    [
-     "Luís Figo",
-     1.036685
-    ],
-    [
-     "Andriy Shevchenko",
-     1.033822
-    ],
-    [
-     "Zinedine Zidane",
-     1.028424
-    ],
-    [
-     "Gabriel Batistuta",
-     1.0034
-    ],
-    [
-     "Alessandro Nesta",
-     0.984959
-    ],
-    [
-     "Paolo Maldini",
-     0.925328
+     0.193298
     ],
     [
      "Gaizka Mendieta",
-     0.863484
+     0.162907
+    ],
+    [
+     "David Beckham",
+     0.16158
+    ],
+    [
+     "Andriy Shevchenko",
+     0.151178
+    ],
+    [
+     "Luís Figo",
+     0.14861
+    ],
+    [
+     "Zinedine Zidane",
+     0.148066
+    ],
+    [
+     "Gabriel Batistuta",
+     0.115261
+    ],
+    [
+     "Alessandro Nesta",
+     0.100994
+    ],
+    [
+     "Paolo Maldini",
+     0.086457
     ]
    ],
    "fair": [
@@ -14439,48 +14439,48 @@
    ],
    "temporal": [
     [
-     "Thierry Henry",
-     0.255425
+     "Rivaldo",
+     0.720955
     ],
     [
-     "Rivaldo",
-     0.25522
+     "Thierry Henry",
+     0.716273
     ],
     [
      "Raúl",
-     0.218459
-    ],
-    [
-     "Gaizka Mendieta",
-     0.195421
+     0.66746
     ],
     [
      "Andriy Shevchenko",
-     0.172016
+     0.586463
     ],
     [
      "Zinedine Zidane",
-     0.170854
+     0.572164
     ],
     [
      "Luís Figo",
-     0.152465
+     0.569675
+    ],
+    [
+     "Gaizka Mendieta",
+     0.530598
     ],
     [
      "David Beckham",
-     0.127664
+     0.522281
     ],
     [
      "Gabriel Batistuta",
-     0.088811
+     0.45197
     ],
     [
      "Alessandro Nesta",
-     0.06083
+     0.353289
     ],
     [
      "Paolo Maldini",
-     0.05695
+     0.332996
     ]
    ]
   },
@@ -14488,55 +14488,55 @@
    "pred": [
     [
      "Thierry Henry",
-     1.28942
+     1.404407
     ],
     [
      "Raúl",
-     1.27006
+     1.39196
     ],
     [
      "Rivaldo",
-     1.22068
+     1.341102
     ],
     [
      "David Beckham",
-     1.212793
+     1.339647
     ],
     [
      "Luís Figo",
-     1.200061
-    ],
-    [
-     "Zinedine Zidane",
-     1.186217
+     1.317523
     ],
     [
      "Andriy Shevchenko",
-     1.180802
+     1.312769
+    ],
+    [
+     "Zinedine Zidane",
+     1.304509
     ],
     [
      "Juan Román Riquelme",
-     1.171585
+     1.303437
     ],
     [
      "Gabriel Batistuta",
-     1.166199
-    ],
-    [
-     "Alessandro Nesta",
-     1.138317
+     1.295577
     ],
     [
      "Romário",
-     1.126112
+     1.259619
+    ],
+    [
+     "Alessandro Nesta",
+     1.024944
     ],
     [
      "Paolo Maldini",
-     1.062409
+     0.952905
     ],
     [
      "Gaizka Mendieta",
-     1.006023
+     0.911953
     ]
    ],
    "fair": [
@@ -14654,43 +14654,43 @@
    "pred": [
     [
      "Raúl",
-     1.096708
+     0.211752
     ],
     [
      "Luís Figo",
-     1.075473
+     0.194435
     ],
     [
      "Thierry Henry",
-     1.055889
+     0.165011
     ],
     [
      "Michael Owen",
-     1.047638
-    ],
-    [
-     "Oliver Kahn",
-     1.046165
+     0.155061
     ],
     [
      "David Beckham",
-     1.032968
+     0.153654
     ],
     [
      "Rivaldo",
-     1.029876
-    ],
-    [
-     "Andriy Shevchenko",
-     1.019065
+     0.139421
     ],
     [
      "Francesco Totti",
-     1.014316
+     0.134918
+    ],
+    [
+     "Oliver Kahn",
+     0.13234
+    ],
+    [
+     "Andriy Shevchenko",
+     0.128949
     ],
     [
      "Zinedine Zidane",
-     0.985088
+     0.101774
     ]
    ],
    "fair": [
@@ -14780,43 +14780,43 @@
    "temporal": [
     [
      "Raúl",
-     0.362868
+     0.363341
     ],
     [
      "Luís Figo",
-     0.361754
+     0.350685
     ],
     [
      "Thierry Henry",
-     0.3505
-    ],
-    [
-     "Rivaldo",
-     0.300639
+     0.322288
     ],
     [
      "David Beckham",
-     0.299222
+     0.286611
+    ],
+    [
+     "Rivaldo",
+     0.275764
     ],
     [
      "Michael Owen",
-     0.291691
+     0.267091
     ],
     [
      "Andriy Shevchenko",
-     0.28195
+     0.258589
     ],
     [
      "Francesco Totti",
-     0.261404
+     0.253017
     ],
     [
      "Zinedine Zidane",
-     0.249479
+     0.225007
     ],
     [
      "Oliver Kahn",
-     0.22686
+     0.222965
     ]
    ]
   },
@@ -14824,47 +14824,47 @@
    "pred": [
     [
      "Raúl",
-     1.260799
-    ],
-    [
-     "Luís Figo",
-     1.220877
+     1.378842
     ],
     [
      "Oliver Kahn",
-     1.214445
+     1.36522
+    ],
+    [
+     "Luís Figo",
+     1.343241
     ],
     [
      "Michael Owen",
-     1.205527
+     1.334519
     ],
     [
      "Thierry Henry",
-     1.200258
+     1.32612
     ],
     [
      "Rivaldo",
-     1.182551
+     1.309093
     ],
     [
      "David Beckham",
-     1.179134
+     1.307716
     ],
     [
      "Andriy Shevchenko",
-     1.172209
-    ],
-    [
-     "Juan Román Riquelme",
-     1.170863
+     1.301853
     ],
     [
      "Francesco Totti",
-     1.165406
+     1.298578
+    ],
+    [
+     "Juan Román Riquelme",
+     1.298141
     ],
     [
      "Zinedine Zidane",
-     1.120661
+     1.254113
     ]
    ],
    "fair": [
@@ -14965,44 +14965,44 @@
   "elig": {
    "pred": [
     [
-     "Ronaldo",
-     1.142792
+     "Roberto Carlos",
+     0.233369
     ],
     [
      "Rivaldo",
-     1.142331
+     0.228005
     ],
     [
-     "Oliver Kahn",
-     1.107585
-    ],
-    [
-     "Raúl",
-     1.101658
-    ],
-    [
-     "Roberto Carlos",
-     1.095549
+     "Ronaldo",
+     0.226142
     ],
     [
      "Thierry Henry",
-     1.092904
-    ],
-    [
-     "Alessandro Del Piero",
-     1.053287
-    ],
-    [
-     "Zinedine Zidane",
-     1.050184
-    ],
-    [
-     "Yıldıray Baştürk",
-     1.009407
+     0.207242
     ],
     [
      "Michael Ballack",
-     0.987371
+     0.206156
+    ],
+    [
+     "Raúl",
+     0.200557
+    ],
+    [
+     "Alessandro Del Piero",
+     0.169516
+    ],
+    [
+     "Zinedine Zidane",
+     0.158857
+    ],
+    [
+     "Oliver Kahn",
+     0.145052
+    ],
+    [
+     "Yıldıray Baştürk",
+     0.120953
     ]
    ],
    "fair": [
@@ -15092,43 +15092,43 @@
    "temporal": [
     [
      "Rivaldo",
-     0.405321
-    ],
-    [
-     "Ronaldo",
-     0.384712
+     0.4009
     ],
     [
      "Roberto Carlos",
-     0.38381
+     0.396605
+    ],
+    [
+     "Ronaldo",
+     0.386473
     ],
     [
      "Michael Ballack",
-     0.36551
+     0.354508
     ],
     [
      "Raúl",
-     0.332214
+     0.344332
     ],
     [
      "Yıldıray Baştürk",
-     0.306273
-    ],
-    [
-     "Oliver Kahn",
-     0.283295
+     0.313325
     ],
     [
      "Thierry Henry",
-     0.244469
+     0.309398
     ],
     [
-     "Zinedine Zidane",
-     0.223583
+     "Oliver Kahn",
+     0.284292
     ],
     [
      "Alessandro Del Piero",
-     0.196368
+     0.256451
+    ],
+    [
+     "Zinedine Zidane",
+     0.247185
     ]
    ]
   },
@@ -15136,43 +15136,43 @@
    "pred": [
     [
      "Ronaldo",
-     1.329744
+     1.44921
     ],
     [
      "Rivaldo",
-     1.328535
-    ],
-    [
-     "Oliver Kahn",
-     1.283045
+     1.443532
     ],
     [
      "Roberto Carlos",
-     1.279337
+     1.397554
     ],
     [
      "Raúl",
-     1.258356
+     1.382563
     ],
     [
      "Thierry Henry",
-     1.241713
+     1.367281
     ],
     [
      "Alessandro Del Piero",
-     1.202897
+     1.332473
     ],
     [
      "Zinedine Zidane",
-     1.199521
+     1.324737
     ],
     [
      "Yıldıray Baştürk",
-     1.169611
+     1.2912
+    ],
+    [
+     "Oliver Kahn",
+     1.159036
     ],
     [
      "Michael Ballack",
-     1.152106
+     1.051761
     ]
    ],
    "fair": [
@@ -15266,43 +15266,43 @@
    "pred": [
     [
      "Ruud van Nistelrooy",
-     1.097099
+     0.213006
     ],
     [
      "Raúl",
-     1.089201
-    ],
-    [
-     "Thierry Henry",
-     1.059382
+     0.208775
     ],
     [
      "Pavel Nedvěd",
-     1.051121
+     0.171748
     ],
     [
-     "Andriy Shevchenko",
-     1.032355
+     "Thierry Henry",
+     0.168932
     ],
     [
      "Zinedine Zidane",
-     1.029313
+     0.149328
+    ],
+    [
+     "Andriy Shevchenko",
+     0.141926
     ],
     [
      "Paolo Maldini",
-     0.993243
-    ],
-    [
-     "Gianluigi Buffon",
-     0.98907
+     0.121752
     ],
     [
      "Roberto Carlos",
-     0.926838
+     0.116846
     ],
     [
      "David Beckham",
-     0.784673
+     0.110116
+    ],
+    [
+     "Gianluigi Buffon",
+     0.102044
     ]
    ],
    "fair": [
@@ -15391,44 +15391,44 @@
    ],
    "temporal": [
     [
+     "Ruud van Nistelrooy",
+     0.319426
+    ],
+    [
      "Raúl",
-     0.548288
+     0.309592
     ],
     [
      "Thierry Henry",
-     0.537871
-    ],
-    [
-     "Ruud van Nistelrooy",
-     0.524588
+     0.296969
     ],
     [
      "Pavel Nedvěd",
-     0.500671
+     0.261968
     ],
     [
      "Zinedine Zidane",
-     0.457574
+     0.238274
     ],
     [
      "Andriy Shevchenko",
-     0.452992
-    ],
-    [
-     "Roberto Carlos",
-     0.415347
+     0.219904
     ],
     [
      "Paolo Maldini",
-     0.409431
+     0.189826
+    ],
+    [
+     "Roberto Carlos",
+     0.157661
     ],
     [
      "Gianluigi Buffon",
-     0.40902
+     0.151056
     ],
     [
      "David Beckham",
-     0.37298
+     0.138897
     ]
    ]
   },
@@ -15436,47 +15436,47 @@
    "pred": [
     [
      "Ruud van Nistelrooy",
-     1.263904
+     1.385149
     ],
     [
      "Raúl",
-     1.239665
+     1.360823
     ],
     [
      "Pavel Nedvěd",
-     1.210534
+     1.338655
     ],
     [
      "Thierry Henry",
-     1.208362
+     1.337355
     ],
     [
      "Andriy Shevchenko",
-     1.199731
+     1.324593
     ],
     [
      "Carlos Tevez",
-     1.187737
+     1.318934
     ],
     [
      "Zinedine Zidane",
-     1.186126
+     1.311456
     ],
     [
      "Paolo Maldini",
-     1.155092
+     1.288627
     ],
     [
      "Gianluigi Buffon",
-     1.14513
+     1.041292
     ],
     [
      "Roberto Carlos",
-     1.063731
+     0.741164
     ],
     [
      "David Beckham",
-     0.898226
+     0.455533
     ]
    ],
    "fair": [
@@ -15578,43 +15578,43 @@
    "pred": [
     [
      "Thierry Henry",
-     1.122429
+     0.227368
     ],
     [
      "Adriano",
-     1.118577
+     0.219709
     ],
     [
      "Andriy Shevchenko",
-     1.065574
-    ],
-    [
-     "Ruud van Nistelrooy",
-     1.062216
+     0.179788
     ],
     [
      "Deco",
-     1.060389
+     0.17785
     ],
     [
-     "Wayne Rooney",
-     1.029839
-    ],
-    [
-     "Pavel Nedvěd",
-     1.014582
-    ],
-    [
-     "Ronaldinho",
-     1.003434
+     "Ruud van Nistelrooy",
+     0.167499
     ],
     [
      "Theodoros Zagorakis",
-     0.970753
+     0.143162
+    ],
+    [
+     "Wayne Rooney",
+     0.136791
     ],
     [
      "Ricardo Carvalho",
-     0.949966
+     0.133305
+    ],
+    [
+     "Pavel Nedvěd",
+     0.126609
+    ],
+    [
+     "Ronaldinho",
+     0.11351
     ]
    ],
    "fair": [
@@ -15704,43 +15704,43 @@
    "temporal": [
     [
      "Adriano",
-     0.605449
+     0.531464
     ],
     [
      "Deco",
-     0.542098
-    ],
-    [
-     "Ruud van Nistelrooy",
-     0.510853
+     0.42566
     ],
     [
      "Thierry Henry",
-     0.47918
+     0.415891
+    ],
+    [
+     "Ruud van Nistelrooy",
+     0.413354
     ],
     [
      "Theodoros Zagorakis",
-     0.441279
+     0.372373
     ],
     [
      "Pavel Nedvěd",
-     0.440318
+     0.345649
     ],
     [
      "Wayne Rooney",
-     0.429169
+     0.345458
     ],
     [
      "Ricardo Carvalho",
-     0.426076
+     0.331249
     ],
     [
      "Andriy Shevchenko",
-     0.365473
+     0.288688
     ],
     [
      "Ronaldinho",
-     0.296452
+     0.222477
     ]
    ]
   },
@@ -15748,47 +15748,47 @@
    "pred": [
     [
      "Thierry Henry",
-     1.297535
+     1.416573
     ],
     [
      "Adriano",
-     1.290372
-    ],
-    [
-     "Deco",
-     1.220953
+     1.407368
     ],
     [
      "Andriy Shevchenko",
-     1.218252
+     1.34538
+    ],
+    [
+     "Deco",
+     1.341003
     ],
     [
      "Ruud van Nistelrooy",
-     1.194171
-    ],
-    [
-     "Carlos Tevez",
-     1.177179
+     1.320086
     ],
     [
      "Wayne Rooney",
-     1.167913
+     1.299151
+    ],
+    [
+     "Carlos Tevez",
+     1.296195
     ],
     [
      "Ronaldinho",
-     1.156237
+     1.287489
     ],
     [
      "Pavel Nedvěd",
-     1.152453
+     1.277924
     ],
     [
      "Ricardo Carvalho",
-     1.116008
+     1.240702
     ],
     [
      "Theodoros Zagorakis",
-     1.105886
+     1.228938
     ]
    ],
    "fair": [
@@ -15889,48 +15889,48 @@
   "elig": {
    "pred": [
     [
+     "Steven Gerrard",
+     0.218519
+    ],
+    [
      "Ronaldinho",
-     1.084943
+     0.205953
     ],
     [
      "Samuel Eto’o",
-     1.06398
-    ],
-    [
-     "Andriy Shevchenko",
-     1.049244
-    ],
-    [
-     "Adriano",
-     1.034144
-    ],
-    [
-     "Kaká",
-     1.027565
-    ],
-    [
-     "Zlatan Ibrahimović",
-     1.022409
-    ],
-    [
-     "Thierry Henry",
-     1.013745
-    ],
-    [
-     "John Terry",
-     1.007971
-    ],
-    [
-     "Steven Gerrard",
-     0.950826
-    ],
-    [
-     "Paolo Maldini",
-     0.944081
+     0.181254
     ],
     [
      "Frank Lampard",
-     0.932238
+     0.168778
+    ],
+    [
+     "Andriy Shevchenko",
+     0.163436
+    ],
+    [
+     "Adriano",
+     0.150778
+    ],
+    [
+     "Zlatan Ibrahimović",
+     0.144099
+    ],
+    [
+     "Kaká",
+     0.142208
+    ],
+    [
+     "Thierry Henry",
+     0.126287
+    ],
+    [
+     "Paolo Maldini",
+     0.100215
+    ],
+    [
+     "John Terry",
+     0.099349
     ]
    ],
    "fair": [
@@ -16028,47 +16028,47 @@
    "temporal": [
     [
      "Ronaldinho",
-     0.454089
-    ],
-    [
-     "Andriy Shevchenko",
-     0.44841
-    ],
-    [
-     "Adriano",
-     0.427489
-    ],
-    [
-     "Kaká",
-     0.421309
+     0.34452
     ],
     [
      "Samuel Eto’o",
-     0.41143
+     0.312681
+    ],
+    [
+     "Andriy Shevchenko",
+     0.310352
     ],
     [
      "Steven Gerrard",
-     0.407433
+     0.294485
+    ],
+    [
+     "Adriano",
+     0.291377
+    ],
+    [
+     "Kaká",
+     0.283355
     ],
     [
      "Zlatan Ibrahimović",
-     0.402343
+     0.272399
     ],
     [
      "Thierry Henry",
-     0.384157
-    ],
-    [
-     "John Terry",
-     0.38008
+     0.25933
     ],
     [
      "Frank Lampard",
-     0.375149
+     0.230421
     ],
     [
      "Paolo Maldini",
-     0.336671
+     0.173536
+    ],
+    [
+     "John Terry",
+     0.156691
     ]
    ]
   },
@@ -16076,51 +16076,51 @@
    "pred": [
     [
      "Ronaldinho",
-     1.236865
+     1.362433
     ],
     [
      "Samuel Eto’o",
-     1.23448
+     1.359522
     ],
     [
      "Andriy Shevchenko",
-     1.205385
+     1.33043
     ],
     [
      "Kaká",
-     1.185762
-    ],
-    [
-     "Zlatan Ibrahimović",
-     1.175099
+     1.311127
     ],
     [
      "Carlos Tevez",
-     1.174698
+     1.30443
+    ],
+    [
+     "Zlatan Ibrahimović",
+     1.303573
     ],
     [
      "Adriano",
-     1.171191
+     1.29675
     ],
     [
      "Thierry Henry",
-     1.166227
-    ],
-    [
-     "John Terry",
-     1.151588
-    ],
-    [
-     "Paolo Maldini",
-     1.094121
-    ],
-    [
-     "Frank Lampard",
-     1.082936
+     1.295649
     ],
     [
      "Steven Gerrard",
-     1.077847
+     1.189797
+    ],
+    [
+     "Paolo Maldini",
+     0.986723
+    ],
+    [
+     "John Terry",
+     0.79249
+    ],
+    [
+     "Frank Lampard",
+     0.771578
     ]
    ],
    "fair": [
@@ -16229,44 +16229,44 @@
   "elig": {
    "pred": [
     [
-     "Fabio Cannavaro",
-     1.151383
-    ],
-    [
-     "Gianluigi Buffon",
-     1.147885
-    ],
-    [
-     "Thierry Henry",
-     1.131878
-    ],
-    [
      "Ronaldinho",
-     1.126495
+     0.229451
     ],
     [
      "Samuel Eto'o",
-     1.11575
-    ],
-    [
-     "Didier Drogba",
-     1.087538
-    ],
-    [
-     "Miroslav Klose",
-     1.07584
-    ],
-    [
-     "Zinedine Zidane",
-     1.070094
+     0.217411
     ],
     [
      "Andrea Pirlo",
-     1.06509
+     0.206494
+    ],
+    [
+     "Thierry Henry",
+     0.204758
+    ],
+    [
+     "Fabio Cannavaro",
+     0.202462
+    ],
+    [
+     "Gianluigi Buffon",
+     0.20036
+    ],
+    [
+     "Didier Drogba",
+     0.196198
+    ],
+    [
+     "Miroslav Klose",
+     0.168051
+    ],
+    [
+     "Zinedine Zidane",
+     0.156286
     ],
     [
      "Jens Lehmann",
-     0.934735
+     0.091616
     ]
    ],
    "fair": [
@@ -16356,87 +16356,87 @@
    "temporal": [
     [
      "Thierry Henry",
-     0.486965
+     0.403184
     ],
     [
      "Fabio Cannavaro",
-     0.484147
+     0.39589
     ],
     [
      "Gianluigi Buffon",
-     0.48337
-    ],
-    [
-     "Ronaldinho",
-     0.463394
+     0.392805
     ],
     [
      "Andrea Pirlo",
-     0.462479
+     0.390406
     ],
     [
-     "Samuel Eto'o",
-     0.45428
+     "Ronaldinho",
+     0.381597
     ],
     [
      "Didier Drogba",
-     0.454203
+     0.377898
+    ],
+    [
+     "Samuel Eto'o",
+     0.373152
     ],
     [
      "Miroslav Klose",
-     0.425528
+     0.355079
     ],
     [
      "Zinedine Zidane",
-     0.417285
+     0.327893
     ],
     [
      "Jens Lehmann",
-     0.30931
+     0.186416
     ]
    ]
   },
   "all": {
    "pred": [
     [
-     "Thierry Henry",
-     1.335908
+     "Fabio Cannavaro",
+     1.46494
     ],
     [
-     "Fabio Cannavaro",
-     1.328781
+     "Thierry Henry",
+     1.457746
     ],
     [
      "Gianluigi Buffon",
-     1.320865
+     1.45706
     ],
     [
      "Ronaldinho",
-     1.292198
+     1.414881
     ],
     [
      "Samuel Eto'o",
-     1.279821
+     1.404825
     ],
     [
      "Zinedine Zidane",
-     1.250887
+     1.376412
     ],
     [
      "Didier Drogba",
-     1.245397
-    ],
-    [
-     "Andrea Pirlo",
-     1.238317
+     1.365594
     ],
     [
      "Miroslav Klose",
-     1.233815
+     1.360643
+    ],
+    [
+     "Andrea Pirlo",
+     1.35534
     ],
     [
      "Jens Lehmann",
-     1.088535
+     0.976408
     ]
    ],
    "fair": [
@@ -16530,43 +16530,43 @@
    "pred": [
     [
      "Robinho",
-     1.111374
+     0.228529
     ],
     [
      "Cristiano Ronaldo",
-     1.097163
+     0.216118
     ],
     [
      "Kaká",
-     1.081347
+     0.191914
     ],
     [
      "Ruud van Nistelrooy",
-     1.071361
+     0.189061
     ],
     [
      "Zlatan Ibrahimović",
-     1.048767
-    ],
-    [
-     "Lionel Messi",
-     1.029171
-    ],
-    [
-     "Didier Drogba",
-     1.019611
-    ],
-    [
-     "Francesco Totti",
-     1.012651
+     0.169441
     ],
     [
      "Andrea Pirlo",
-     0.987491
+     0.160158
+    ],
+    [
+     "Lionel Messi",
+     0.137697
+    ],
+    [
+     "Didier Drogba",
+     0.133055
+    ],
+    [
+     "Francesco Totti",
+     0.121993
     ],
     [
      "Cesc Fàbregas",
-     0.88035
+     0.077034
     ]
    ],
    "fair": [
@@ -16656,43 +16656,43 @@
    "temporal": [
     [
      "Robinho",
-     0.715259
+     0.791175
     ],
     [
      "Cristiano Ronaldo",
-     0.703162
+     0.770063
     ],
     [
      "Kaká",
-     0.672517
+     0.72845
     ],
     [
      "Ruud van Nistelrooy",
-     0.65734
+     0.719467
     ],
     [
      "Zlatan Ibrahimović",
-     0.641872
+     0.700567
     ],
     [
      "Didier Drogba",
-     0.612425
+     0.672381
     ],
     [
      "Lionel Messi",
-     0.598145
+     0.666289
     ],
     [
      "Francesco Totti",
-     0.58641
+     0.648092
     ],
     [
      "Andrea Pirlo",
-     0.567216
+     0.639435
     ],
     [
      "Cesc Fàbregas",
-     0.522125
+     0.192685
     ]
    ]
   },
@@ -16700,43 +16700,43 @@
    "pred": [
     [
      "Robinho",
-     1.280885
+     1.39789
     ],
     [
      "Cristiano Ronaldo",
-     1.250485
+     1.369288
     ],
     [
      "Ruud van Nistelrooy",
-     1.233754
+     1.35886
     ],
     [
      "Kaká",
-     1.227312
+     1.352718
     ],
     [
      "Zlatan Ibrahimović",
-     1.197987
+     1.326952
     ],
     [
      "Lionel Messi",
-     1.19556
+     1.316211
     ],
     [
      "Francesco Totti",
-     1.176379
+     1.302453
     ],
     [
      "Didier Drogba",
-     1.168145
+     1.290624
     ],
     [
      "Andrea Pirlo",
-     1.139233
+     1.266199
     ],
     [
      "Cesc Fàbregas",
-     0.997303
+     0.279707
     ]
    ],
    "fair": [
@@ -16830,43 +16830,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.123536
+     0.229907
     ],
     [
      "Xavi",
-     1.092807
+     0.208037
     ],
     [
      "Fernando Torres",
-     1.080973
-    ],
-    [
-     "Iker Casillas",
-     1.075425
+     0.193053
     ],
     [
      "David Villa",
-     1.067107
+     0.180004
     ],
     [
      "Lionel Messi",
-     1.060948
+     0.171048
     ],
     [
-     "Steven Gerrard",
-     1.034216
+     "Iker Casillas",
+     0.1581
     ],
     [
      "Zlatan Ibrahimović",
-     1.032177
+     0.148395
+    ],
+    [
+     "Steven Gerrard",
+     0.146947
     ],
     [
      "Andrei Arshavin",
-     1.027385
+     0.137467
     ],
     [
      "Kaká",
-     0.98226
+     0.095393
     ]
    ],
    "fair": [
@@ -16956,43 +16956,43 @@
    "temporal": [
     [
      "Xavi",
-     0.667948
+     0.731289
     ],
     [
      "Fernando Torres",
-     0.654898
+     0.702807
     ],
     [
      "Lionel Messi",
-     0.641553
-    ],
-    [
-     "Cristiano Ronaldo",
-     0.631341
+     0.686475
     ],
     [
      "David Villa",
-     0.62152
+     0.671931
     ],
     [
      "Iker Casillas",
-     0.62027
+     0.660755
     ],
     [
      "Steven Gerrard",
-     0.608855
+     0.643592
+    ],
+    [
+     "Cristiano Ronaldo",
+     0.626811
     ],
     [
      "Andrei Arshavin",
-     0.571033
+     0.595646
     ],
     [
      "Zlatan Ibrahimović",
-     0.553824
+     0.574599
     ],
     [
      "Kaká",
-     0.519478
+     0.531975
     ]
    ]
   },
@@ -17000,43 +17000,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.316694
-    ],
-    [
-     "Fernando Torres",
-     1.2572
+     1.436974
     ],
     [
      "Xavi",
-     1.254921
-    ],
-    [
-     "David Villa",
-     1.230989
+     1.375006
     ],
     [
      "Iker Casillas",
-     1.227305
+     1.37204
+    ],
+    [
+     "Fernando Torres",
+     1.366689
+    ],
+    [
+     "David Villa",
+     1.351491
     ],
     [
      "Lionel Messi",
-     1.210483
+     1.332518
     ],
     [
      "Zlatan Ibrahimović",
-     1.193573
+     1.324254
     ],
     [
      "Andrei Arshavin",
-     1.182618
+     1.306134
     ],
     [
      "Steven Gerrard",
-     1.181283
+     1.303604
     ],
     [
      "Kaká",
-     1.137286
+     1.267196
     ]
    ],
    "fair": [
@@ -17130,43 +17130,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.132794
-    ],
-    [
-     "Samuel Eto'o",
-     1.099008
+     0.245155
     ],
     [
      "Cristiano Ronaldo",
-     1.098431
+     0.219953
+    ],
+    [
+     "Samuel Eto'o",
+     0.211809
     ],
     [
      "Xavi",
-     1.064552
-    ],
-    [
-     "Didier Drogba",
-     1.042554
-    ],
-    [
-     "Wayne Rooney",
-     1.03911
-    ],
-    [
-     "Zlatan Ibrahimović",
-     1.031775
-    ],
-    [
-     "Steven Gerrard",
-     1.011859
+     0.195185
     ],
     [
      "Andrés Iniesta",
-     0.984471
+     0.164473
+    ],
+    [
+     "Wayne Rooney",
+     0.155555
+    ],
+    [
+     "Didier Drogba",
+     0.155499
+    ],
+    [
+     "Zlatan Ibrahimović",
+     0.149291
+    ],
+    [
+     "Steven Gerrard",
+     0.125518
     ],
     [
      "Kaká",
-     0.979298
+     0.094369
     ]
    ],
    "fair": [
@@ -17256,43 +17256,43 @@
    "temporal": [
     [
      "Lionel Messi",
-     0.749125
-    ],
-    [
-     "Cristiano Ronaldo",
-     0.708655
+     1.16065
     ],
     [
      "Samuel Eto'o",
-     0.706181
+     1.127158
+    ],
+    [
+     "Cristiano Ronaldo",
+     1.124625
     ],
     [
      "Xavi",
-     0.641118
-    ],
-    [
-     "Didier Drogba",
-     0.625915
+     1.075867
     ],
     [
      "Wayne Rooney",
-     0.619959
+     1.057768
+    ],
+    [
+     "Didier Drogba",
+     1.04257
     ],
     [
      "Zlatan Ibrahimović",
-     0.594201
+     1.01867
     ],
     [
      "Steven Gerrard",
-     0.583613
+     1.005725
     ],
     [
      "Andrés Iniesta",
-     0.58178
+     0.99895
     ],
     [
      "Kaká",
-     0.534558
+     0.958343
     ]
    ]
   },
@@ -17300,43 +17300,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.311789
+     1.434456
     ],
     [
      "Samuel Eto'o",
-     1.280629
+     1.40485
     ],
     [
      "Cristiano Ronaldo",
-     1.261795
+     1.384509
     ],
     [
      "Xavi",
-     1.230216
+     1.369027
     ],
     [
      "Wayne Rooney",
-     1.22674
+     1.351665
     ],
     [
      "Zlatan Ibrahimović",
-     1.202663
+     1.330646
     ],
     [
      "Didier Drogba",
-     1.195789
+     1.317701
     ],
     [
      "Steven Gerrard",
-     1.164288
+     1.290184
     ],
     [
      "Andrés Iniesta",
-     1.141864
+     1.274018
     ],
     [
      "Kaká",
-     1.126052
+     1.259461
     ]
    ],
    "fair": [
@@ -17429,44 +17429,44 @@
   "elig": {
    "pred": [
     [
+     "Lionel Messi",
+     0.256262
+    ],
+    [
      "David Villa",
-     1.161509
+     0.246434
     ],
     [
      "Wesley Sneijder",
-     1.148073
-    ],
-    [
-     "Lionel Messi",
-     1.145272
+     0.238998
     ],
     [
      "Xavi",
-     1.1401
-    ],
-    [
-     "Iker Casillas",
-     1.09079
+     0.238887
     ],
     [
      "Andrés Iniesta",
-     1.084784
+     0.230359
     ],
     [
-     "Diego Forlán",
-     1.057982
-    ],
-    [
-     "Cristiano Ronaldo",
-     1.050077
-    ],
-    [
-     "Didier Drogba",
-     1.024783
+     "Iker Casillas",
+     0.19224
     ],
     [
      "Xabi Alonso",
-     0.988682
+     0.183863
+    ],
+    [
+     "Diego Forlán",
+     0.159386
+    ],
+    [
+     "Cristiano Ronaldo",
+     0.154846
+    ],
+    [
+     "Didier Drogba",
+     0.139829
     ]
    ],
    "fair": [
@@ -17556,43 +17556,43 @@
    "temporal": [
     [
      "Wesley Sneijder",
-     0.798139
-    ],
-    [
-     "David Villa",
-     0.797065
+     0.96906
     ],
     [
      "Xavi",
-     0.793336
+     0.954467
+    ],
+    [
+     "David Villa",
+     0.940136
     ],
     [
      "Andrés Iniesta",
-     0.753866
+     0.909044
     ],
     [
      "Iker Casillas",
-     0.75362
+     0.90612
     ],
     [
      "Lionel Messi",
-     0.739595
+     0.865271
     ],
     [
      "Xabi Alonso",
-     0.69338
+     0.82722
     ],
     [
      "Diego Forlán",
-     0.616448
+     0.774939
     ],
     [
      "Cristiano Ronaldo",
-     0.61355
+     0.764628
     ],
     [
      "Didier Drogba",
-     0.594829
+     0.7513
     ]
    ]
   },
@@ -17600,43 +17600,43 @@
    "pred": [
     [
      "David Villa",
-     1.354745
-    ],
-    [
-     "Lionel Messi",
-     1.343714
+     1.475258
     ],
     [
      "Wesley Sneijder",
-     1.339943
+     1.464507
     ],
     [
      "Xavi",
-     1.328407
+     1.458916
+    ],
+    [
+     "Lionel Messi",
+     1.457098
     ],
     [
      "Andrés Iniesta",
-     1.264111
+     1.387526
     ],
     [
      "Iker Casillas",
-     1.25155
+     1.38326
     ],
     [
      "Diego Forlán",
-     1.23264
+     1.356756
     ],
     [
      "Cristiano Ronaldo",
-     1.228698
+     1.356087
     ],
     [
      "Didier Drogba",
-     1.195167
+     1.327804
     ],
     [
      "Xabi Alonso",
-     1.143489
+     1.259082
     ]
    ],
    "fair": [
@@ -17730,43 +17730,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.202784
+     0.314116
     ],
     [
      "Xavi",
-     1.061734
-    ],
-    [
-     "Wayne Rooney",
-     1.0563
+     0.194354
     ],
     [
      "Luis Suárez",
-     1.055421
+     0.176383
     ],
     [
-     "Cristiano Ronaldo",
-     1.050411
-    ],
-    [
-     "Neymar",
-     1.039782
-    ],
-    [
-     "Diego Forlán",
-     1.019757
-    ],
-    [
-     "Samuel Eto'o",
-     0.992253
+     "Wayne Rooney",
+     0.173039
     ],
     [
      "Andrés Iniesta",
-     0.986823
+     0.167719
+    ],
+    [
+     "Cristiano Ronaldo",
+     0.15278
+    ],
+    [
+     "Neymar",
+     0.151081
+    ],
+    [
+     "Diego Forlán",
+     0.141481
+    ],
+    [
+     "Samuel Eto'o",
+     0.104993
     ],
     [
      "Iker Casillas",
-     0.87764
+     0.065016
     ]
    ],
    "fair": [
@@ -17856,43 +17856,43 @@
    "temporal": [
     [
      "Lionel Messi",
-     1.142748
-    ],
-    [
-     "Wayne Rooney",
-     0.999568
-    ],
-    [
-     "Xavi",
-     0.996088
+     2.543499
     ],
     [
      "Cristiano Ronaldo",
-     0.986145
+     2.342014
     ],
     [
-     "Luis Suárez",
-     0.982857
+     "Wayne Rooney",
+     2.332184
+    ],
+    [
+     "Xavi",
+     2.330221
     ],
     [
      "Neymar",
-     0.968876
+     2.262272
     ],
     [
-     "Diego Forlán",
-     0.946558
+     "Luis Suárez",
+     2.244642
     ],
     [
      "Samuel Eto'o",
-     0.92539
+     2.202155
+    ],
+    [
+     "Diego Forlán",
+     2.18501
     ],
     [
      "Andrés Iniesta",
-     0.923196
+     2.179558
     ],
     [
      "Iker Casillas",
-     0.816
+     1.172772
     ]
    ]
   },
@@ -17900,43 +17900,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.40013
-    ],
-    [
-     "Cristiano Ronaldo",
-     1.251664
+     1.51803
     ],
     [
      "Wayne Rooney",
-     1.248791
+     1.374792
+    ],
+    [
+     "Cristiano Ronaldo",
+     1.3732
     ],
     [
      "Xavi",
-     1.231178
+     1.370407
     ],
     [
      "Luis Suárez",
-     1.218868
+     1.344979
     ],
     [
      "Neymar",
-     1.203726
+     1.327285
     ],
     [
      "Diego Forlán",
-     1.16788
+     1.288553
     ],
     [
      "Samuel Eto'o",
-     1.154342
+     1.280441
     ],
     [
      "Andrés Iniesta",
-     1.147754
+     1.279964
     ],
     [
      "Iker Casillas",
-     1.00686
+     0.679968
     ]
    ],
    "fair": [
@@ -18030,43 +18030,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.148679
+     0.262971
     ],
     [
      "Lionel Messi",
-     1.125741
-    ],
-    [
-     "Xavi",
-     1.06203
-    ],
-    [
-     "Radamel Falcao",
-     1.050028
-    ],
-    [
-     "Robin van Persie",
-     1.040147
-    ],
-    [
-     "Didier Drogba",
-     1.039619
-    ],
-    [
-     "Zlatan Ibrahimović",
-     1.033702
+     0.230641
     ],
     [
      "Andrés Iniesta",
-     1.018048
+     0.189097
+    ],
+    [
+     "Xavi",
+     0.177951
+    ],
+    [
+     "Radamel Falcao",
+     0.157197
+    ],
+    [
+     "Robin van Persie",
+     0.150382
     ],
     [
      "Iker Casillas",
-     0.972275
+     0.1497
+    ],
+    [
+     "Didier Drogba",
+     0.149419
+    ],
+    [
+     "Zlatan Ibrahimović",
+     0.140734
     ],
     [
      "Andrea Pirlo",
-     0.967504
+     0.126127
     ]
    ],
    "fair": [
@@ -18155,44 +18155,44 @@
    ],
    "temporal": [
     [
-     "Cristiano Ronaldo",
-     1.100949
-    ],
-    [
      "Lionel Messi",
-     1.073528
+     2.739037
     ],
     [
-     "Xavi",
-     0.989369
+     "Cristiano Ronaldo",
+     2.731085
     ],
     [
      "Radamel Falcao",
-     0.981924
-    ],
-    [
-     "Robin van Persie",
-     0.978114
-    ],
-    [
-     "Zlatan Ibrahimović",
-     0.966999
+     2.598145
     ],
     [
      "Didier Drogba",
-     0.964939
+     2.559971
+    ],
+    [
+     "Xavi",
+     2.559353
+    ],
+    [
+     "Robin van Persie",
+     2.542881
+    ],
+    [
+     "Zlatan Ibrahimović",
+     2.533218
     ],
     [
      "Andrés Iniesta",
-     0.955039
+     2.44243
     ],
     [
      "Iker Casillas",
-     0.90431
+     2.36839
     ],
     [
      "Andrea Pirlo",
-     0.903517
+     1.872626
     ]
    ]
   },
@@ -18200,43 +18200,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.346772
+     1.461295
     ],
     [
      "Lionel Messi",
-     1.335341
-    ],
-    [
-     "Xavi",
-     1.236863
+     1.454695
     ],
     [
      "Radamel Falcao",
-     1.235845
+     1.363166
+    ],
+    [
+     "Xavi",
+     1.35703
     ],
     [
      "Didier Drogba",
-     1.226327
+     1.340495
     ],
     [
      "Robin van Persie",
-     1.210507
+     1.339217
     ],
     [
      "Zlatan Ibrahimović",
-     1.209077
+     1.334894
     ],
     [
      "Andrés Iniesta",
-     1.172345
-    ],
-    [
-     "Andrea Pirlo",
-     1.122488
+     1.283699
     ],
     [
      "Iker Casillas",
-     1.120115
+     1.24172
+    ],
+    [
+     "Andrea Pirlo",
+     1.019782
     ]
    ],
    "fair": [
@@ -18330,43 +18330,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.107841
+     0.224378
     ],
     [
      "Lionel Messi",
-     1.089177
+     0.211065
     ],
     [
      "Zlatan Ibrahimović",
-     1.072654
-    ],
-    [
-     "Franck Ribéry",
-     1.037823
+     0.200016
     ],
     [
      "Arjen Robben",
-     1.034574
+     0.159202
+    ],
+    [
+     "Franck Ribéry",
+     0.157073
     ],
     [
      "Robin van Persie",
-     1.013002
-    ],
-    [
-     "Gareth Bale",
-     0.998761
+     0.133704
     ],
     [
      "Neymar",
-     0.991412
+     0.112777
+    ],
+    [
+     "Gareth Bale",
+     0.112282
     ],
     [
      "Andrés Iniesta",
-     0.956354
+     0.096841
     ],
     [
      "Andrea Pirlo",
-     0.893362
+     0.065106
     ]
    ],
    "fair": [
@@ -18456,43 +18456,43 @@
    "temporal": [
     [
      "Cristiano Ronaldo",
-     1.099762
+     2.653007
     ],
     [
      "Lionel Messi",
-     1.018893
+     2.59267
     ],
     [
      "Zlatan Ibrahimović",
-     0.982696
+     2.544272
     ],
     [
      "Franck Ribéry",
-     0.934383
+     2.527192
     ],
     [
      "Arjen Robben",
-     0.926665
+     2.501058
     ],
     [
      "Robin van Persie",
-     0.879881
+     2.46455
     ],
     [
      "Gareth Bale",
-     0.87152
+     2.45929
     ],
     [
      "Neymar",
-     0.837238
+     2.412211
     ],
     [
      "Andrés Iniesta",
-     0.8303
+     1.43158
     ],
     [
      "Andrea Pirlo",
-     0.767157
+     0.908531
     ]
    ]
   },
@@ -18500,43 +18500,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.290109
+     1.409205
     ],
     [
      "Lionel Messi",
-     1.270973
+     1.391003
     ],
     [
      "Zlatan Ibrahimović",
-     1.233323
+     1.359121
     ],
     [
      "Franck Ribéry",
-     1.215073
+     1.343291
     ],
     [
      "Arjen Robben",
-     1.199583
+     1.328213
     ],
     [
      "Robin van Persie",
-     1.174326
+     1.307536
     ],
     [
      "Gareth Bale",
-     1.159837
+     1.288464
     ],
     [
      "Neymar",
-     1.127582
+     1.260258
     ],
     [
      "Andrés Iniesta",
-     1.103525
+     0.763522
     ],
     [
      "Andrea Pirlo",
-     1.028097
+     0.489526
     ]
    ],
    "fair": [
@@ -18630,43 +18630,43 @@
    "pred": [
     [
      "Thomas Müller",
-     1.213798
-    ],
-    [
-     "Manuel Neuer",
-     1.20498
-    ],
-    [
-     "Lionel Messi",
-     1.177926
+     0.309147
     ],
     [
      "Cristiano Ronaldo",
-     1.160528
+     0.26432
     ],
     [
-     "Philipp Lahm",
-     1.110449
-    ],
-    [
-     "Ángel Di María",
-     1.097387
-    ],
-    [
-     "Arjen Robben",
-     1.062295
+     "Lionel Messi",
+     0.256999
     ],
     [
      "Toni Kroos",
-     1.054733
+     0.247215
+    ],
+    [
+     "Philipp Lahm",
+     0.214422
+    ],
+    [
+     "Manuel Neuer",
+     0.21398
+    ],
+    [
+     "Ángel Di María",
+     0.184585
+    ],
+    [
+     "Arjen Robben",
+     0.177511
     ],
     [
      "Neymar",
-     1.045187
+     0.15355
     ],
     [
      "James Rodríguez",
-     1.04307
+     0.145111
     ]
    ],
    "fair": [
@@ -18755,88 +18755,88 @@
    ],
    "temporal": [
     [
+     "Manuel Neuer",
+     2.90018
+    ],
+    [
      "Cristiano Ronaldo",
-     1.164116
+     2.840566
     ],
     [
      "Lionel Messi",
-     1.151782
+     2.805922
     ],
     [
      "Thomas Müller",
-     1.120144
-    ],
-    [
-     "Manuel Neuer",
-     1.07488
-    ],
-    [
-     "Philipp Lahm",
-     1.011937
+     2.743136
     ],
     [
      "Ángel Di María",
-     1.011342
+     2.696026
     ],
     [
-     "Toni Kroos",
-     0.963272
+     "Philipp Lahm",
+     2.655668
     ],
     [
      "Arjen Robben",
-     0.931424
+     2.580644
     ],
     [
      "Neymar",
-     0.90302
+     2.552388
     ],
     [
      "James Rodríguez",
-     0.868064
+     2.531418
+    ],
+    [
+     "Toni Kroos",
+     2.422751
     ]
    ]
   },
   "all": {
    "pred": [
     [
+     "Manuel Neuer",
+     1.54016
+    ],
+    [
      "Thomas Müller",
-     1.406959
+     1.522709
     ],
     [
      "Lionel Messi",
-     1.394538
-    ],
-    [
-     "Manuel Neuer",
-     1.39018
+     1.514182
     ],
     [
      "Cristiano Ronaldo",
-     1.349704
-    ],
-    [
-     "Ángel Di María",
-     1.301444
+     1.474925
     ],
     [
      "Philipp Lahm",
-     1.288098
+     1.420491
+    ],
+    [
+     "Ángel Di María",
+     1.420113
     ],
     [
      "Arjen Robben",
-     1.235411
+     1.356159
     ],
     [
      "Toni Kroos",
-     1.223774
-    ],
-    [
-     "Neymar",
-     1.208179
+     1.338912
     ],
     [
      "James Rodríguez",
-     1.203419
+     1.334648
+    ],
+    [
+     "Neymar",
+     1.329668
     ]
    ],
    "fair": [
@@ -18930,43 +18930,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.161307
+     0.270345
     ],
     [
      "Luis Suárez",
-     1.151744
+     0.268825
     ],
     [
      "Neymar",
-     1.139181
+     0.257455
     ],
     [
      "Cristiano Ronaldo",
-     1.11136
+     0.230086
     ],
     [
      "Robert Lewandowski",
-     1.080142
+     0.206673
     ],
     [
      "Thomas Müller",
-     1.074379
+     0.20156
     ],
     [
      "Alexis Sánchez",
-     1.053098
-    ],
-    [
-     "Manuel Neuer",
-     1.040645
-    ],
-    [
-     "Eden Hazard",
-     0.988064
+     0.173619
     ],
     [
      "Andrés Iniesta",
-     0.963971
+     0.146689
+    ],
+    [
+     "Eden Hazard",
+     0.111835
+    ],
+    [
+     "Manuel Neuer",
+     0.081604
     ]
    ],
    "fair": [
@@ -19055,44 +19055,44 @@
    ],
    "temporal": [
     [
-     "Luis Suárez",
-     1.237873
-    ],
-    [
      "Lionel Messi",
-     1.226019
+     2.125743
     ],
     [
-     "Cristiano Ronaldo",
-     1.199095
+     "Luis Suárez",
+     2.11834
     ],
     [
      "Neymar",
-     1.193718
+     2.060646
+    ],
+    [
+     "Cristiano Ronaldo",
+     2.015523
     ],
     [
      "Robert Lewandowski",
-     1.095376
+     1.927194
     ],
     [
      "Thomas Müller",
-     1.084725
+     1.9155
     ],
     [
      "Alexis Sánchez",
-     1.028192
-    ],
-    [
-     "Manuel Neuer",
-     0.985385
-    ],
-    [
-     "Andrés Iniesta",
-     0.94803
+     1.85321
     ],
     [
      "Eden Hazard",
-     0.932507
+     1.794764
+    ],
+    [
+     "Andrés Iniesta",
+     1.733283
+    ],
+    [
+     "Manuel Neuer",
+     1.128696
     ]
    ]
   },
@@ -19100,43 +19100,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.383141
+     1.496393
     ],
     [
      "Luis Suárez",
-     1.350977
+     1.472905
     ],
     [
      "Neymar",
-     1.330338
+     1.450752
     ],
     [
      "Cristiano Ronaldo",
-     1.294288
+     1.412997
     ],
     [
      "Robert Lewandowski",
-     1.250753
+     1.372245
     ],
     [
      "Thomas Müller",
-     1.241714
+     1.363883
     ],
     [
      "Alexis Sánchez",
-     1.216735
-    ],
-    [
-     "Manuel Neuer",
-     1.191225
+     1.332902
     ],
     [
      "Eden Hazard",
-     1.135407
+     1.271543
     ],
     [
      "Andrés Iniesta",
-     1.121407
+     1.254709
+    ],
+    [
+     "Manuel Neuer",
+     0.814332
     ]
    ],
    "fair": [
@@ -19230,43 +19230,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.19446
+     0.306452
     ],
     [
      "Cristiano Ronaldo",
-     1.171857
-    ],
-    [
-     "Antoine Griezmann",
-     1.09102
+     0.276749
     ],
     [
      "Luis Suárez",
-     1.082492
+     0.196025
     ],
     [
-     "Gareth Bale",
-     1.050246
+     "Antoine Griezmann",
+     0.195867
     ],
     [
      "Neymar",
-     1.038468
+     0.160461
     ],
     [
-     "Riyad Mahrez",
-     1.009328
-    ],
-    [
-     "Jamie Vardy",
-     0.991888
-    ],
-    [
-     "Gianluigi Buffon",
-     0.98079
+     "Gareth Bale",
+     0.155102
     ],
     [
      "Pepe",
-     0.926669
+     0.144284
+    ],
+    [
+     "Riyad Mahrez",
+     0.135232
+    ],
+    [
+     "Jamie Vardy",
+     0.110765
+    ],
+    [
+     "Gianluigi Buffon",
+     0.051812
     ]
    ],
    "fair": [
@@ -19356,43 +19356,43 @@
    "temporal": [
     [
      "Cristiano Ronaldo",
-     1.782202
+     2.396022
     ],
     [
      "Lionel Messi",
-     1.71024
+     2.309211
     ],
     [
      "Luis Suárez",
-     1.644752
-    ],
-    [
-     "Gareth Bale",
-     1.603129
+     2.229932
     ],
     [
      "Antoine Griezmann",
-     1.59644
+     2.174546
+    ],
+    [
+     "Gareth Bale",
+     2.174445
     ],
     [
      "Neymar",
-     1.556324
+     2.115969
     ],
     [
      "Riyad Mahrez",
-     1.503292
+     2.064422
     ],
     [
      "Jamie Vardy",
-     1.489795
-    ],
-    [
-     "Gianluigi Buffon",
-     1.44851
+     2.047512
     ],
     [
      "Pepe",
-     1.369652
+     1.866387
+    ],
+    [
+     "Gianluigi Buffon",
+     0.794604
     ]
    ]
   },
@@ -19400,43 +19400,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.394421
+     1.505128
     ],
     [
      "Cristiano Ronaldo",
-     1.376279
-    ],
-    [
-     "Antoine Griezmann",
-     1.285327
+     1.488683
     ],
     [
      "Luis Suárez",
-     1.279793
+     1.402545
+    ],
+    [
+     "Antoine Griezmann",
+     1.401475
     ],
     [
      "Gareth Bale",
-     1.236724
+     1.356588
     ],
     [
      "Neymar",
-     1.202239
+     1.330648
     ],
     [
      "Riyad Mahrez",
-     1.151328
+     1.289379
     ],
     [
      "Jamie Vardy",
-     1.146643
-    ],
-    [
-     "Gianluigi Buffon",
-     1.11729
+     1.284129
     ],
     [
      "Pepe",
-     1.087199
+     1.191243
+    ],
+    [
+     "Gianluigi Buffon",
+     0.513876
     ]
    ],
    "fair": [
@@ -19530,43 +19530,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.172711
+     0.305965
     ],
     [
      "Kylian Mbappé",
-     1.082808
+     0.215898
     ],
     [
      "Robert Lewandowski",
-     1.062275
+     0.183279
     ],
     [
      "Neymar",
-     1.055616
-    ],
-    [
-     "Gianluigi Buffon",
-     1.043405
-    ],
-    [
-     "Lionel Messi",
-     1.04272
+     0.175766
     ],
     [
      "Luka Modrić",
-     1.023935
+     0.160129
     ],
     [
-     "Harry Kane",
-     1.022175
-    ],
-    [
-     "N’Golo Kanté",
-     0.982418
+     "Lionel Messi",
+     0.150142
     ],
     [
      "Sergio Ramos",
-     0.962717
+     0.145478
+    ],
+    [
+     "Harry Kane",
+     0.130043
+    ],
+    [
+     "Gianluigi Buffon",
+     0.106972
+    ],
+    [
+     "N’Golo Kanté",
+     0.009018
     ]
    ],
    "fair": [
@@ -19656,43 +19656,43 @@
    "temporal": [
     [
      "Cristiano Ronaldo",
-     1.761818
-    ],
-    [
-     "Lionel Messi",
-     1.625583
-    ],
-    [
-     "Neymar",
-     1.604114
-    ],
-    [
-     "Robert Lewandowski",
-     1.59856
+     2.974269
     ],
     [
      "Kylian Mbappé",
-     1.598065
-    ],
-    [
-     "Harry Kane",
-     1.590241
-    ],
-    [
-     "Gianluigi Buffon",
-     1.547945
+     2.671646
     ],
     [
      "Luka Modrić",
-     1.521561
+     2.657177
     ],
     [
-     "N’Golo Kanté",
-     1.450755
+     "Neymar",
+     2.647784
+    ],
+    [
+     "Lionel Messi",
+     2.645593
+    ],
+    [
+     "Robert Lewandowski",
+     2.631921
+    ],
+    [
+     "Harry Kane",
+     2.59572
     ],
     [
      "Sergio Ramos",
-     1.435106
+     2.501314
+    ],
+    [
+     "Gianluigi Buffon",
+     2.179244
+    ],
+    [
+     "N’Golo Kanté",
+     0.06239
     ]
    ]
   },
@@ -19700,43 +19700,43 @@
    "pred": [
     [
      "Cristiano Ronaldo",
-     1.347066
-    ],
-    [
-     "Kylian Mbappé",
-     1.243968
+     1.467463
     ],
     [
      "Robert Lewandowski",
-     1.243091
+     1.367063
+    ],
+    [
+     "Kylian Mbappé",
+     1.364893
     ],
     [
      "Lionel Messi",
-     1.23627
+     1.360968
     ],
     [
      "Neymar",
-     1.223238
-    ],
-    [
-     "Gianluigi Buffon",
-     1.206585
+     1.346847
     ],
     [
      "Harry Kane",
-     1.203435
+     1.33575
     ],
     [
      "Luka Modrić",
-     1.186823
+     1.32775
     ],
     [
      "Sergio Ramos",
-     1.120376
+     1.253632
+    ],
+    [
+     "Gianluigi Buffon",
+     1.096876
     ],
     [
      "N’Golo Kanté",
-     1.114044
+     0.016507
     ]
    ],
    "fair": [
@@ -19830,43 +19830,43 @@
    "pred": [
     [
      "Antoine Griezmann",
-     1.212495
+     0.292921
     ],
     [
      "Kylian Mbappé",
-     1.170861
-    ],
-    [
-     "Luka Modrić",
-     1.159562
+     0.268311
     ],
     [
      "Lionel Messi",
-     1.140624
+     0.249602
     ],
     [
      "Cristiano Ronaldo",
-     1.123829
+     0.219173
+    ],
+    [
+     "Luka Modrić",
+     0.212026
     ],
     [
      "Raphaël Varane",
-     1.10956
+     0.205993
     ],
     [
      "Mohamed Salah",
-     1.08522
+     0.188628
     ],
     [
      "Harry Kane",
-     1.066869
+     0.167443
     ],
     [
      "Eden Hazard",
-     1.019509
+     0.122509
     ],
     [
      "Kevin De Bruyne",
-     0.995474
+     0.114847
     ]
    ],
    "fair": [
@@ -19956,43 +19956,43 @@
    "temporal": [
     [
      "Antoine Griezmann",
-     1.79066
-    ],
-    [
-     "Cristiano Ronaldo",
-     1.723298
+     2.525426
     ],
     [
      "Luka Modrić",
-     1.691875
+     2.504754
     ],
     [
-     "Kylian Mbappé",
-     1.680678
+     "Cristiano Ronaldo",
+     2.461677
     ],
     [
      "Lionel Messi",
-     1.6712
+     2.430471
     ],
     [
      "Mohamed Salah",
-     1.629285
+     2.404013
     ],
     [
      "Raphaël Varane",
-     1.615067
+     2.395419
+    ],
+    [
+     "Kylian Mbappé",
+     2.380628
     ],
     [
      "Harry Kane",
-     1.57345
+     2.218868
     ],
     [
      "Eden Hazard",
-     1.52983
+     2.120558
     ],
     [
      "Kevin De Bruyne",
-     1.480852
+     2.081904
     ]
    ]
   },
@@ -20000,43 +20000,43 @@
    "pred": [
     [
      "Antoine Griezmann",
-     1.411335
+     1.53168
     ],
     [
      "Luka Modrić",
-     1.35804
+     1.495155
     ],
     [
      "Kylian Mbappé",
-     1.351274
+     1.474956
     ],
     [
      "Lionel Messi",
-     1.321776
+     1.441325
     ],
     [
      "Cristiano Ronaldo",
-     1.308101
+     1.433232
     ],
     [
      "Raphaël Varane",
-     1.29895
+     1.423483
     ],
     [
      "Mohamed Salah",
-     1.265598
+     1.390781
     ],
     [
      "Harry Kane",
-     1.233067
+     1.35862
     ],
     [
      "Eden Hazard",
-     1.191295
+     1.317118
     ],
     [
      "Kevin De Bruyne",
-     1.151254
+     1.279766
     ]
    ],
    "fair": [
@@ -20130,43 +20130,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.139238
+     0.247391
     ],
     [
      "Robert Lewandowski",
-     1.096048
+     0.213326
     ],
     [
      "Sadio Mané",
-     1.089149
+     0.19109
     ],
     [
      "Mohamed Salah",
-     1.088549
-    ],
-    [
-     "Virgil van Dijk",
-     1.075336
+     0.191081
     ],
     [
      "Kylian Mbappé",
-     1.070015
+     0.188095
     ],
     [
      "Cristiano Ronaldo",
-     1.067189
+     0.187907
     ],
     [
      "Riyad Mahrez",
-     1.054186
+     0.174272
     ],
     [
      "Alisson",
-     1.03213
+     0.15428
+    ],
+    [
+     "Virgil van Dijk",
+     0.15258
     ],
     [
      "Bernardo Silva",
-     1.008331
+     0.130225
     ]
    ],
    "fair": [
@@ -20255,44 +20255,44 @@
    ],
    "temporal": [
     [
+     "Virgil van Dijk",
+     2.806033
+    ],
+    [
      "Lionel Messi",
-     2.455437
+     2.781344
     ],
     [
      "Sadio Mané",
-     2.438357
-    ],
-    [
-     "Virgil van Dijk",
-     2.43541
+     2.778003
     ],
     [
      "Mohamed Salah",
-     2.419998
+     2.754641
     ],
     [
      "Robert Lewandowski",
-     2.355168
+     2.677459
     ],
     [
      "Kylian Mbappé",
-     2.323345
+     2.646058
     ],
     [
      "Cristiano Ronaldo",
-     2.301026
-    ],
-    [
-     "Riyad Mahrez",
-     2.265772
+     2.620845
     ],
     [
      "Alisson",
-     2.26275
+     2.60177
+    ],
+    [
+     "Riyad Mahrez",
+     2.589971
     ],
     [
      "Bernardo Silva",
-     2.234536
+     2.555596
     ]
    ]
   },
@@ -20300,43 +20300,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.330382
+     1.443084
     ],
     [
      "Sadio Mané",
-     1.280354
-    ],
-    [
-     "Mohamed Salah",
-     1.260986
-    ],
-    [
-     "Robert Lewandowski",
-     1.252784
+     1.396469
     ],
     [
      "Virgil van Dijk",
-     1.247564
+     1.3897
+    ],
+    [
+     "Mohamed Salah",
+     1.38478
+    ],
+    [
+     "Robert Lewandowski",
+     1.380736
     ],
     [
      "Kylian Mbappé",
-     1.22613
-    ],
-    [
-     "Riyad Mahrez",
-     1.221501
+     1.3559
     ],
     [
      "Cristiano Ronaldo",
-     1.21367
+     1.34163
+    ],
+    [
+     "Riyad Mahrez",
+     1.340818
     ],
     [
      "Alisson",
-     1.20479
+     1.32474
     ],
     [
      "Bernardo Silva",
-     1.156249
+     1.288055
     ]
    ],
    "fair": [
@@ -20430,35 +20430,35 @@
    "pred": [
     [
      "Robert Lewandowski",
-     1.162255
-    ],
-    [
-     "Cristiano Ronaldo",
-     1.073352
+     0.273045
     ],
     [
      "Neymar",
-     1.068518
+     0.192375
     ],
     [
-     "Manuel Neuer",
-     1.046165
+     "Cristiano Ronaldo",
+     0.190299
     ],
     [
      "Mohamed Salah",
-     1.043283
+     0.160574
     ],
     [
      "Kylian Mbappé",
-     1.035284
+     0.153862
     ],
     [
      "Lionel Messi",
-     1.027391
+     0.136949
+    ],
+    [
+     "Manuel Neuer",
+     0.13234
     ],
     [
      "Kevin De Bruyne",
-     1.010027
+     0.122804
     ]
    ],
    "fair": [
@@ -20534,35 +20534,35 @@
    "pred": [
     [
      "Robert Lewandowski",
-     1.338137
+     1.460508
     ],
     [
      "Cristiano Ronaldo",
-     1.239014
+     1.365616
     ],
     [
      "Manuel Neuer",
-     1.214445
+     1.36522
     ],
     [
      "Neymar",
-     1.214389
+     1.342916
     ],
     [
      "Mohamed Salah",
-     1.210029
+     1.338902
     ],
     [
      "Kylian Mbappé",
-     1.208961
+     1.336999
     ],
     [
      "Lionel Messi",
-     1.189827
+     1.315611
     ],
     [
      "Kevin De Bruyne",
-     1.164112
+     1.290108
     ]
    ],
    "fair": [
@@ -20640,43 +20640,43 @@
    "pred": [
     [
      "Robert Lewandowski",
-     1.146889
+     0.258644
     ],
     [
      "Lionel Messi",
-     1.125935
+     0.231481
     ],
     [
      "Karim Benzema",
-     1.094055
+     0.194279
     ],
     [
      "Kylian Mbappé",
-     1.075942
-    ],
-    [
-     "Mohamed Salah",
-     1.066298
-    ],
-    [
-     "Cristiano Ronaldo",
-     1.065093
-    ],
-    [
-     "N’Golo Kanté",
-     1.052084
-    ],
-    [
-     "Kevin De Bruyne",
-     1.038601
+     0.190721
     ],
     [
      "Jorginho",
-     1.02094
+     0.18636
+    ],
+    [
+     "Mohamed Salah",
+     0.179245
+    ],
+    [
+     "Cristiano Ronaldo",
+     0.169654
+    ],
+    [
+     "Kevin De Bruyne",
+     0.157769
     ],
     [
      "Gianluigi Donnarumma",
-     0.965651
+     0.139496
+    ],
+    [
+     "N’Golo Kanté",
+     0.131173
     ]
    ],
    "fair": [
@@ -20766,43 +20766,43 @@
    "temporal": [
     [
      "Robert Lewandowski",
-     2.08184
-    ],
-    [
-     "Karim Benzema",
-     2.031567
+     3.245192
     ],
     [
      "N’Golo Kanté",
-     2.009269
-    ],
-    [
-     "Lionel Messi",
-     1.997068
-    ],
-    [
-     "Mohamed Salah",
-     1.985445
-    ],
-    [
-     "Kylian Mbappé",
-     1.984945
-    ],
-    [
-     "Kevin De Bruyne",
-     1.932132
-    ],
-    [
-     "Cristiano Ronaldo",
-     1.930038
+     3.177824
     ],
     [
      "Jorginho",
-     1.881242
+     3.155093
+    ],
+    [
+     "Lionel Messi",
+     3.105417
+    ],
+    [
+     "Karim Benzema",
+     3.104414
+    ],
+    [
+     "Kylian Mbappé",
+     3.061808
+    ],
+    [
+     "Mohamed Salah",
+     3.035686
+    ],
+    [
+     "Cristiano Ronaldo",
+     2.892927
+    ],
+    [
+     "Kevin De Bruyne",
+     2.87159
     ],
     [
      "Gianluigi Donnarumma",
-     1.725666
+     2.733032
     ]
    ]
   },
@@ -20810,43 +20810,43 @@
    "pred": [
     [
      "Robert Lewandowski",
-     1.328636
+     1.449295
     ],
     [
      "Lionel Messi",
-     1.304194
+     1.42105
     ],
     [
      "Karim Benzema",
-     1.275631
-    ],
-    [
-     "Kylian Mbappé",
-     1.229688
+     1.396278
     ],
     [
      "N’Golo Kanté",
-     1.225646
-    ],
-    [
-     "Mohamed Salah",
-     1.225228
+     1.365787
     ],
     [
      "Cristiano Ronaldo",
-     1.223374
+     1.351797
+    ],
+    [
+     "Mohamed Salah",
+     1.349871
+    ],
+    [
+     "Kylian Mbappé",
+     1.34918
     ],
     [
      "Kevin De Bruyne",
-     1.208669
+     1.335912
     ],
     [
      "Jorginho",
-     1.192899
+     1.305752
     ],
     [
      "Gianluigi Donnarumma",
-     1.101251
+     1.222052
     ]
    ],
    "fair": [
@@ -20940,43 +20940,43 @@
    "pred": [
     [
      "Karim Benzema",
-     1.181753
+     0.30183
     ],
     [
      "Robert Lewandowski",
-     1.124934
+     0.251256
     ],
     [
      "Vinícius Júnior",
-     1.102867
-    ],
-    [
-     "Thibaut Courtois",
-     1.1005
+     0.221232
     ],
     [
      "Kylian Mbappé",
-     1.07657
-    ],
-    [
-     "Mohamed Salah",
-     1.073948
+     0.199138
     ],
     [
      "Sadio Mané",
-     1.072821
+     0.185956
     ],
     [
-     "Kevin De Bruyne",
-     1.030363
-    ],
-    [
-     "Erling Haaland",
-     0.997848
+     "Mohamed Salah",
+     0.183757
     ],
     [
      "Luka Modrić",
-     0.975289
+     0.156236
+    ],
+    [
+     "Kevin De Bruyne",
+     0.151129
+    ],
+    [
+     "Thibaut Courtois",
+     0.1385
+    ],
+    [
+     "Erling Haaland",
+     0.111737
     ]
    ],
    "fair": [
@@ -21066,43 +21066,43 @@
    "temporal": [
     [
      "Karim Benzema",
-     1.96405
+     3.365746
     ],
     [
      "Thibaut Courtois",
-     1.8502
-    ],
-    [
-     "Vinícius Júnior",
-     1.835841
+     3.1377
     ],
     [
      "Robert Lewandowski",
-     1.834667
+     3.0969
+    ],
+    [
+     "Vinícius Júnior",
+     3.07673
     ],
     [
      "Mohamed Salah",
-     1.824899
-    ],
-    [
-     "Sadio Mané",
-     1.797602
+     3.018666
     ],
     [
      "Kylian Mbappé",
-     1.762253
+     2.926871
     ],
     [
-     "Kevin De Bruyne",
-     1.689219
-    ],
-    [
-     "Erling Haaland",
-     1.661592
+     "Sadio Mané",
+     2.912851
     ],
     [
      "Luka Modrić",
-     1.642959
+     2.830278
+    ],
+    [
+     "Kevin De Bruyne",
+     2.718243
+    ],
+    [
+     "Erling Haaland",
+     2.694034
     ]
    ]
   },
@@ -21110,43 +21110,43 @@
    "pred": [
     [
      "Karim Benzema",
-     1.364286
-    ],
-    [
-     "Robert Lewandowski",
-     1.293928
-    ],
-    [
-     "Vinícius Júnior",
-     1.283949
+     1.484789
     ],
     [
      "Thibaut Courtois",
-     1.2759
+     1.4347
+    ],
+    [
+     "Robert Lewandowski",
+     1.413702
+    ],
+    [
+     "Vinícius Júnior",
+     1.408511
     ],
     [
      "Mohamed Salah",
-     1.274938
+     1.389922
     ],
     [
      "Sadio Mané",
-     1.259874
+     1.373107
     ],
     [
      "Kylian Mbappé",
-     1.244529
+     1.37116
     ],
     [
      "Kevin De Bruyne",
-     1.198428
+     1.323102
     ],
     [
      "Erling Haaland",
-     1.1533
+     1.286189
     ],
     [
      "Luka Modrić",
-     1.135739
+     1.268341
     ]
    ],
    "fair": [
@@ -21240,43 +21240,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.2236
-    ],
-    [
-     "Kylian Mbappé",
-     1.202469
+     0.3127
     ],
     [
      "Erling Haaland",
-     1.176837
+     0.288095
+    ],
+    [
+     "Kylian Mbappé",
+     0.285253
     ],
     [
      "Julián Álvarez",
-     1.167814
-    ],
-    [
-     "Rodri",
-     1.084532
+     0.264462
     ],
     [
      "Vinícius Júnior",
-     1.061574
-    ],
-    [
-     "Kevin De Bruyne",
-     1.050927
-    ],
-    [
-     "Victor Osimhen",
-     1.041951
+     0.176122
     ],
     [
      "Bernardo Silva",
-     0.941312
+     0.170119
+    ],
+    [
+     "Rodri",
+     0.169256
+    ],
+    [
+     "Kevin De Bruyne",
+     0.167877
+    ],
+    [
+     "Victor Osimhen",
+     0.160919
     ],
     [
      "Luka Modrić",
-     0.907056
+     0.093382
     ]
    ],
    "fair": [
@@ -21366,43 +21366,43 @@
    "temporal": [
     [
      "Erling Haaland",
-     1.952309
+     3.336371
     ],
     [
      "Lionel Messi",
-     1.904468
+     3.230221
     ],
     [
      "Julián Álvarez",
-     1.880417
+     3.196477
     ],
     [
      "Kylian Mbappé",
-     1.870579
+     3.172465
     ],
     [
      "Rodri",
-     1.829996
-    ],
-    [
-     "Vinícius Júnior",
-     1.749876
+     3.150292
     ],
     [
      "Kevin De Bruyne",
-     1.747479
+     2.878593
     ],
     [
-     "Victor Osimhen",
-     1.705855
+     "Vinícius Júnior",
+     2.872068
     ],
     [
      "Bernardo Silva",
-     1.591037
+     2.775733
+    ],
+    [
+     "Victor Osimhen",
+     2.770082
     ],
     [
      "Luka Modrić",
-     1.535133
+     1.645302
     ]
    ]
   },
@@ -21410,43 +21410,43 @@
    "pred": [
     [
      "Lionel Messi",
-     1.414472
+     1.536128
     ],
     [
      "Kylian Mbappé",
-     1.398756
+     1.5227
     ],
     [
      "Erling Haaland",
-     1.364512
+     1.48612
     ],
     [
      "Julián Álvarez",
-     1.364485
+     1.484805
     ],
     [
      "Rodri",
-     1.257193
+     1.404516
     ],
     [
      "Kevin De Bruyne",
-     1.226641
-    ],
-    [
-     "Vinícius Júnior",
-     1.211597
+     1.354378
     ],
     [
      "Victor Osimhen",
-     1.207676
+     1.335044
+    ],
+    [
+     "Vinícius Júnior",
+     1.33011
     ],
     [
      "Bernardo Silva",
-     1.091472
+     1.212664
     ],
     [
      "Luka Modrić",
-     1.043673
+     0.711365
     ]
    ],
    "fair": [
@@ -21539,44 +21539,44 @@
   "elig": {
    "pred": [
     [
-     "Rodri",
-     1.180428
+     "Vinícius Júnior",
+     0.230439
     ],
     [
      "Jude Bellingham",
-     1.119681
-    ],
-    [
-     "Vinícius Júnior",
-     1.11814
-    ],
-    [
-     "Harry Kane",
-     1.105827
+     0.230211
     ],
     [
      "Lautaro Martínez",
-     1.099994
+     0.217028
     ],
     [
      "Kylian Mbappé",
-     1.096519
+     0.210623
+    ],
+    [
+     "Rodri",
+     0.20752
+    ],
+    [
+     "Harry Kane",
+     0.204403
     ],
     [
      "Dani Carvajal",
-     1.073687
+     0.196791
     ],
     [
      "Erling Haaland",
-     1.069008
+     0.184478
     ],
     [
      "Lamine Yamal",
-     1.050519
+     0.166256
     ],
     [
      "Toni Kroos",
-     0.974733
+     0.153142
     ]
    ],
    "fair": [
@@ -21666,43 +21666,43 @@
    "temporal": [
     [
      "Rodri",
-     1.999055
+     3.269979
     ],
     [
      "Jude Bellingham",
-     1.907045
+     3.141153
     ],
     [
      "Harry Kane",
-     1.903627
+     3.111634
     ],
     [
      "Vinícius Júnior",
-     1.890523
-    ],
-    [
-     "Lautaro Martínez",
-     1.850063
-    ],
-    [
-     "Kylian Mbappé",
-     1.836318
+     3.102225
     ],
     [
      "Dani Carvajal",
-     1.835484
+     3.057651
+    ],
+    [
+     "Kylian Mbappé",
+     2.979903
+    ],
+    [
+     "Lautaro Martínez",
+     2.964007
     ],
     [
      "Erling Haaland",
-     1.79154
-    ],
-    [
-     "Lamine Yamal",
-     1.783128
+     2.871513
     ],
     [
      "Toni Kroos",
-     1.701021
+     2.848905
+    ],
+    [
+     "Lamine Yamal",
+     2.82612
     ]
    ]
   },
@@ -21710,43 +21710,43 @@
    "pred": [
     [
      "Rodri",
-     1.362225
+     1.506868
     ],
     [
      "Jude Bellingham",
-     1.305292
-    ],
-    [
-     "Harry Kane",
-     1.29037
+     1.422096
     ],
     [
      "Vinícius Júnior",
-     1.281741
+     1.405298
+    ],
+    [
+     "Harry Kane",
+     1.403444
     ],
     [
      "Lautaro Martínez",
-     1.275681
-    ],
-    [
-     "Kylian Mbappé",
-     1.259723
+     1.394283
     ],
     [
      "Dani Carvajal",
-     1.251069
+     1.378811
+    ],
+    [
+     "Kylian Mbappé",
+     1.377371
     ],
     [
      "Erling Haaland",
-     1.23485
+     1.360332
     ],
     [
      "Lamine Yamal",
-     1.21375
+     1.327405
     ],
     [
      "Toni Kroos",
-     1.137132
+     1.267159
     ]
    ],
    "fair": [
@@ -21840,47 +21840,47 @@
    "pred": [
     [
      "Raphinha",
-     1.131299
+     0.267483
     ],
     [
      "Ousmane Dembélé",
-     1.111174
+     0.238535
     ],
     [
      "Harry Kane",
-     1.095061
-    ],
-    [
-     "Mohamed Salah",
-     1.07559
-    ],
-    [
-     "Lamine Yamal",
-     1.04466
-    ],
-    [
-     "Kylian Mbappé",
-     1.040513
+     0.223634
     ],
     [
      "Achraf Hakimi",
-     1.010982
+     0.198515
     ],
     [
-     "Cole Palmer",
-     0.993413
-    ],
-    [
-     "Gianluigi Donnarumma",
-     0.99183
+     "Mohamed Salah",
+     0.193453
     ],
     [
      "Nuno Mendes",
-     0.98394
+     0.170895
+    ],
+    [
+     "Lamine Yamal",
+     0.170463
     ],
     [
      "Vitinha",
-     0.98264
+     0.167167
+    ],
+    [
+     "Kylian Mbappé",
+     0.155975
+    ],
+    [
+     "Gianluigi Donnarumma",
+     0.12618
+    ],
+    [
+     "Cole Palmer",
+     0.104563
     ]
    ],
    "fair": [
@@ -21977,48 +21977,48 @@
    ],
    "temporal": [
     [
-     "Ousmane Dembélé",
-     2.124701
+     "Raphinha",
+     3.13482
     ],
     [
-     "Raphinha",
-     2.123313
+     "Ousmane Dembélé",
+     3.119285
     ],
     [
      "Harry Kane",
-     2.068629
-    ],
-    [
-     "Mohamed Salah",
-     2.049289
-    ],
-    [
-     "Kylian Mbappé",
-     2.022059
-    ],
-    [
-     "Lamine Yamal",
-     1.985773
+     3.000118
     ],
     [
      "Achraf Hakimi",
-     1.956253
+     2.964539
     ],
     [
-     "Gianluigi Donnarumma",
-     1.93927
+     "Mohamed Salah",
+     2.93326
     ],
     [
-     "Cole Palmer",
-     1.934902
-    ],
-    [
-     "Vitinha",
-     1.91129
+     "Kylian Mbappé",
+     2.893643
     ],
     [
      "Nuno Mendes",
-     1.909723
+     2.866981
+    ],
+    [
+     "Vitinha",
+     2.862065
+    ],
+    [
+     "Gianluigi Donnarumma",
+     2.8491
+    ],
+    [
+     "Lamine Yamal",
+     2.806519
+    ],
+    [
+     "Cole Palmer",
+     2.694832
     ]
    ]
   },
@@ -22026,47 +22026,47 @@
    "pred": [
     [
      "Raphinha",
-     1.29601
+     1.411792
     ],
     [
      "Ousmane Dembélé",
-     1.282646
-    ],
-    [
-     "Harry Kane",
-     1.265423
+     1.406421
     ],
     [
      "Mohamed Salah",
-     1.264307
+     1.388413
+    ],
+    [
+     "Harry Kane",
+     1.38668
     ],
     [
      "Kylian Mbappé",
-     1.212266
+     1.336674
     ],
     [
      "Lamine Yamal",
-     1.209012
+     1.332383
     ],
     [
      "Achraf Hakimi",
-     1.165283
-    ],
-    [
-     "Cole Palmer",
-     1.159056
+     1.295872
     ],
     [
      "Gianluigi Donnarumma",
-     1.15299
+     1.29574
+    ],
+    [
+     "Cole Palmer",
+     1.289006
     ],
     [
      "Vitinha",
-     1.138912
+     1.271049
     ],
     [
      "Nuno Mendes",
-     1.135705
+     1.267872
     ]
    ],
    "fair": [
@@ -22168,51 +22168,51 @@
    "pred": [
     [
      "Harry Kane",
-     1.180734
+     0.293816
     ],
     [
      "Lamine Yamal",
-     1.179599
+     0.28539
     ],
     [
      "Kylian Mbappé",
-     1.173516
-    ],
-    [
-     "Rodri",
-     1.154308
-    ],
-    [
-     "Lionel Messi",
-     1.148269
+     0.271697
     ],
     [
      "Ousmane Dembélé",
-     1.139446
-    ],
-    [
-     "Michael Olise",
-     1.121706
+     0.253043
     ],
     [
      "Fabián Ruiz",
-     1.09288
+     0.243055
+    ],
+    [
+     "Michael Olise",
+     0.237221
+    ],
+    [
+     "Lionel Messi",
+     0.226385
     ],
     [
      "Khvicha Kvaratskhelia",
-     1.09048
+     0.222001
     ],
     [
-     "Erling Haaland",
-     1.089422
-    ],
-    [
-     "Luis Díaz",
-     1.082108
+     "Rodri",
+     0.204699
     ],
     [
      "Vitinha",
-     1.017458
+     0.204294
+    ],
+    [
+     "Luis Díaz",
+     0.203997
+    ],
+    [
+     "Erling Haaland",
+     0.192512
     ]
    ],
    "fair": [
@@ -22317,52 +22317,52 @@
    ],
    "temporal": [
     [
-     "Kylian Mbappé",
-     2.252202
+     "Harry Kane",
+     3.323599
     ],
     [
-     "Harry Kane",
-     2.245357
+     "Kylian Mbappé",
+     3.316227
     ],
     [
      "Lamine Yamal",
-     2.196434
+     3.264094
     ],
     [
      "Ousmane Dembélé",
-     2.189142
+     3.221301
     ],
     [
      "Rodri",
-     2.185097
-    ],
-    [
-     "Michael Olise",
-     2.147162
-    ],
-    [
-     "Lionel Messi",
-     2.143356
-    ],
-    [
-     "Erling Haaland",
-     2.121541
-    ],
-    [
-     "Khvicha Kvaratskhelia",
-     2.092376
+     3.189552
     ],
     [
      "Fabián Ruiz",
-     2.080717
+     3.170248
     ],
     [
-     "Luis Díaz",
-     2.076956
+     "Michael Olise",
+     3.111904
+    ],
+    [
+     "Lionel Messi",
+     3.091892
+    ],
+    [
+     "Khvicha Kvaratskhelia",
+     3.074568
+    ],
+    [
+     "Erling Haaland",
+     3.04089
     ],
     [
      "Vitinha",
-     1.986329
+     3.024417
+    ],
+    [
+     "Luis Díaz",
+     2.97161
     ]
    ]
   },
@@ -22370,51 +22370,51 @@
    "pred": [
     [
      "Lamine Yamal",
-     1.369615
-    ],
-    [
-     "Harry Kane",
-     1.368885
+     1.486669
     ],
     [
      "Lionel Messi",
-     1.352513
+     1.483406
     ],
     [
-     "Kylian Mbappé",
-     1.344666
+     "Harry Kane",
+     1.480833
     ],
     [
      "Rodri",
-     1.327844
+     1.467681
+    ],
+    [
+     "Kylian Mbappé",
+     1.465671
     ],
     [
      "Ousmane Dembélé",
-     1.31027
+     1.432581
     ],
     [
      "Michael Olise",
-     1.299079
+     1.415462
     ],
     [
      "Fabián Ruiz",
-     1.275022
+     1.39916
     ],
     [
      "Erling Haaland",
-     1.259748
+     1.386056
     ],
     [
      "Luis Díaz",
-     1.248872
+     1.369903
     ],
     [
      "Khvicha Kvaratskhelia",
-     1.239919
+     1.36629
     ],
     [
      "Vitinha",
-     1.165821
+     1.295575
     ]
    ],
    "fair": [
