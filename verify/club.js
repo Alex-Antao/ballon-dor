@@ -1,4 +1,4 @@
-// Estatísticas de clube de um jogador numa janela (CY = ano civil, P = época que termina em Y).
+// A player's club statistics in a window (CY = calendar year, P = season ending in Y).
 const W = require('./wp.js');
 const fs = require('fs');
 const path = require('path');
@@ -12,7 +12,7 @@ const LG = k => /^(League|Liga|Division)/i.test(k);
 const EU = k => /Europe|Continental|UEFA|CONMEBOL|Champions|European|CAF|AFC|Libertadores/i.test(k) && !/national/i.test(k);
 
 function matchSide(ms) {
-  // equipa "nossa" = nome mais frequente (sem link) entre team1/team2
+  // "our" team = the most frequent name (unlinked) among team1/team2
   const f = {};
   ms.filter(m => !m.table).forEach(m => [m.team1, m.team2].forEach(t => { f[t] = (f[t] || 0) + 1; }));
   return Object.entries(f).sort((a, b) => b[1] - a[1])[0]?.[0];
@@ -26,7 +26,7 @@ function samePlayer(link, title) {
   return linkCache[link] === title;
 }
 
-// Jogos de uma página de época → {L:{y:{club,player}}, U:{...}, rounds:[...]} para o jogador
+// Matches on a season page → {L:{y:{club,player}}, U:{...}, rounds:[...]} for the player
 function seasonBoxes(page, title) {
   const ms = W.matches(page);
   if (!ms.length) return null;
@@ -56,19 +56,19 @@ function guessSeasonPage(row, s) {
   return null;
 }
 
-// Resultado: {seasons:[...], gp, g, uG, est:{gp:bool}, issues:[]}
+// Result: {seasons:[...], gp, g, uG, est:{gp:bool}, issues:[]}
 function clubWindow(name, y, win, lg) {
   const title = titleFor(name, y);
   const car = W.career(title);
   const res = { title, seasons: [], issues: [], lg };
-  if (!car) { res.issues.push('sem tabela de carreira'); return res; }
+  if (!car) { res.issues.push('no career table'); return res; }
   const want = win === 'P' ? [y] : [y, y + 1];
   for (const r of car) {
     if (/total/i.test(r.club) || /total/i.test(r.season) || /^career/i.test(r.club)) continue;
-    if (/\b(II|B|U\d\d|reserves|youth|Castilla|Atlètic)\s*$/i.test(r.club.replace(/\s*\(.*\)/, ''))) continue;  // equipas B/reservas
+    if (/\b(II|B|U\d\d|reserves|youth|Castilla|Atlètic)\s*$/i.test(r.club.replace(/\s*\(.*\)/, ''))) continue;  // B teams/reserves
     let part = null;
-    for (const e of want) if (isSeason(r.season, e)) part = e;          // época que termina em e
-    if (win !== 'P' && r.season.replace(/\s/g, '') === String(y)) part = 'CY';  // liga de ano civil
+    for (const e of want) if (isSeason(r.season, e)) part = e;          // season ending in e
+    if (win !== 'P' && r.season.replace(/\s/g, '') === String(y)) part = 'CY';  // calendar-year league
     if (part == null) continue;
     const keys = Object.keys(r.comp);
     const lk = keys.find(LG), ek = keys.find(EU);
@@ -81,17 +81,17 @@ function clubWindow(name, y, win, lg) {
     }
     res.seasons.push(S);
   }
-  // combinar
+  // combine
   let gp = 0, g = 0, uG = 0, gpEst = false, gExact = true, ok = res.seasons.length > 0;
   res.noEu = res.seasons.some(S => !S.euKey);
-  // tabela com células vazias na liga → inutilizável
+  // table with empty league cells → unusable
   if (res.seasons.some(S => S.lg[0] == null || S.lg[1] == null)) {
-    res.issues.push('tabela de carreira com jogos/golos de liga em falta');
+    res.issues.push('career table missing league games/goals');
     Object.assign(res, { gp: null, g: null, uG: null, ok: false, gExact: false });
     return finish(res, y);
   }
   const split = res.seasons.filter(S => !(win === 'P' || S.part === 'CY'));
-  // época bem coberta pela página de jogos? (jogos do clube ≥ jogos do jogador e ≥ 70% dos golos, em liga e Europa)
+  // season well covered by the match page? (club games ≥ player games and ≥ 70% of the goals, in league and Europe)
   const covered = S => {
     if (!S.box) return false;
     for (const [k, apps, goals] of [['L', S.lg[0], S.lg[1]], ['U', S.eu[0], S.eu[1]]]) {
@@ -102,13 +102,13 @@ function clubWindow(name, y, win, lg) {
     return true;
   };
   split.forEach(S => { S.covered = covered(S); });
-  // nenhuma época bem coberta: recurso do SPEC = época que termina em y (win "S")
+  // no season well covered: SPEC fallback = season ending in y (win "S")
   if (win === 'CY' && split.length && !split.some(S => S.covered)) {
     res.sMode = true;
     for (const S of res.seasons) if (S.part === y || S.part === 'CY') {
       gp += (S.lg[0] || 0) + (S.eu[0] || 0); g += (S.lg[1] || 0) + (S.eu[1] || 0); uG += S.eu[1] || 0;
     }
-    res.issues.push('sem páginas de época com todos os jogos: usada a época que termina no ano');
+    res.issues.push('no season pages with every match: used the season ending in the year');
     Object.assign(res, { gp, g, uG, gpEst: false, gExact: false, ok: true });
   }
   for (const S of res.sMode ? [] : res.seasons) {
@@ -116,9 +116,9 @@ function clubWindow(name, y, win, lg) {
     if (win === 'P' || S.part === 'CY') { gp += (la || 0) + (ea || 0); g += (lgl || 0) + (eg || 0); uG += eg || 0; continue; }
     const B = S.box;
     if (!S.covered) {
-      // só esta época sem página completa: metade dos totais (estimativa), a outra contada
+      // only this season lacks a complete page: half of the totals (estimate), the other one counted
       gExact = false; res.partial = true; gpEst = true;
-      res.issues.push(`${S.season} ${S.club}: sem página de época com todos os jogos (divisão estimada a 50%)`);
+      res.issues.push(`${S.season} ${S.club}: no season page with every match (split estimated at 50%)`);
       gp += ((la || 0) + (ea || 0)) * 0.5; g += Math.round(((lgl || 0) + (eg || 0)) * 0.5); uG += Math.round((eg || 0) * 0.5);
       continue;
     }
@@ -126,15 +126,15 @@ function clubWindow(name, y, win, lg) {
     const inY = k => B[k][y] || { club: 0, goals: 0 };
     for (const [k, apps, goals] of [['L', la, lgl], ['U', ea, eg]]) {
       const T = tot(k), I = inY(k);
-      S[k + 'chk'] = `${k}: tabela ${apps ?? '-'}j/${goals ?? '-'}g; caixas época ${T.club}j(clube) ${T.goals}g; em ${y}: ${I.club}j ${I.goals}g`;
-      if ((goals || 0) !== T.goals) { gExact = false; res.issues.push(`${S.season} ${S.club} ${k}: golos tabela ${goals} ≠ caixas ${T.goals}`); }
-      // página completa para esta prova? (jogos do clube ≥ jogos do jogador e golos contados ≥ 70% da tabela)
+      S[k + 'chk'] = `${k}: table ${apps ?? '-'}gp/${goals ?? '-'}g; season boxes ${T.club}gp(club) ${T.goals}g; in ${y}: ${I.club}gp ${I.goals}g`;
+      if ((goals || 0) !== T.goals) { gExact = false; res.issues.push(`${S.season} ${S.club} ${k}: table goals ${goals} ≠ boxes ${T.goals}`); }
+      // complete page for this competition? (club games ≥ player games and counted goals ≥ 70% of the table)
       const complete = T.club >= (apps || 0) && (!goals || T.goals >= 0.7 * goals);
       S[k + 'complete'] = complete;
-      if (!complete && (apps || goals)) { gExact = false; res.issues.push(`${S.season} ${S.club} ${k}: página de época incompleta (divisão do ano estimada a 50%)`); }
+      if (!complete && (apps || goals)) { gExact = false; res.issues.push(`${S.season} ${S.club} ${k}: season page incomplete (year split estimated at 50%)`); }
       const share = complete && T.club ? I.club / T.club : 0.5;
       gp += (apps || 0) * share; gpEst = true;
-      // golos: contagem das caixas; se não bater com a tabela, escala
+      // goals: count from the boxes; scaled when it does not match the table
       const gy = !complete ? Math.round((goals || 0) * share) : (goals || 0) === T.goals ? I.goals : (T.goals ? Math.round((goals || 0) * I.goals / T.goals) : 0);
       g += gy; if (k === 'U') uG += gy;
     }
@@ -143,7 +143,7 @@ function clubWindow(name, y, win, lg) {
   return finish(res, y);
 }
 function finish(res, y) {
-  // título: época da liga que terminou na janela
+  // title: league season that ended in the window
   res.titleChk = [];
   for (const S of res.seasons) {
     if (!(S.part === y || S.part === 'CY')) continue;
@@ -151,13 +151,13 @@ function finish(res, y) {
     const champ = leagueChampion(S.season, S.div, res.lg, { link: S.clubLink, name });
     if (champ) {
       const won = sameClub(champ.name, S.club);
-      // jogos da liga do clube nessa época (para o limiar de 1/3), pela página de época se houver
+      // the club's league games that season (for the 1/3 threshold), from the season page if there is one
       const rounds = S.box ? Object.values(S.box.L).reduce((a, b) => a + b.club, 0) : 0;
       res.titleChk.push({ season: S.season, div: S.div, page: champ.page, champ: champ.name, won, apps: S.lg[0], rounds });
     }
   }
-  // fase europeia na edição que termina em y
-  // (época do clube onde fez mais jogos de liga; só se a página tiver todos os jogos europeus do clube)
+  // European stage in the edition ending in y
+  // (season of the club where they played most league games; only if the page has all of the club's European games)
   const S1 = res.seasons.filter(S => S.part === y && S.box).sort((a, b) => (b.lg[0] || 0) - (a.lg[0] || 0))[0];
   if (S1) {
     const U = Object.values(S1.box.U).reduce((a, b) => a + b.club, 0);
@@ -176,10 +176,10 @@ function sameClub(a, b) {
   const k = s => { const n = norm(cl(s)); return AL[n] || n; };
   const x = k(a), z = k(b);
   if (!x || !z) return false;
-  // igualdade, ou um é prefixo do outro (p.ex. "manchesterunited" / "manchesterunitedfc"); nunca "milan" ⊂ "intermilan"
+  // equal, or one is a prefix of the other (e.g. "manchesterunited" / "manchesterunitedfc"); never "milan" ⊂ "intermilan"
   return x === z || x.startsWith(z) || z.startsWith(x);
 }
-// nomes de páginas de liga por código lg (a divisão da tabela de carreira é ambígua: "First Division" existe em vários países)
+// league page names per lg code (the career-table division is ambiguous: "First Division" exists in several countries)
 const LG_PAGES = {
   EPL: ['Premier League', 'Football League First Division'], LL: ['La Liga'], SA: ['Serie A'], BL: ['Bundesliga'],
   GER: ['Oberliga'], L1: ['Ligue 1', 'French Division 1'], ERE: ['Eredivisie'], POR: ['Primeira Liga', 'Primeira Divisão'],
@@ -201,12 +201,12 @@ function leagueChampion(season, div, lg, club) {
       if (!r.text) continue;
       const ib = W.templates(r.text, /^\s*Infobox (football league season|football tournament season|sports season)/i)[0];
       if (!ib) continue;
-      // a página tem de ser da liga do clube (o clube aparece nela)
+      // the page must be the club's league (the club appears in it)
       const links = [...r.text.matchAll(/\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]/g)].flatMap(m => [m[1], m[2] || '']);
       if (!links.some(l => l && (l === club.link || sameClub(l, club.name) || (club.link && sameClub(l, club.link))))) continue;
       const p = W.params(ib.body);
       let c = p.champions || p.champion || p.winners;
-      // caixa vazia: 1.º da tabela classificativa (Pos | Equipa ...)
+      // empty infobox: 1st in the league table (Pos | Team ...)
       if (!c || !W.strip(c)) {
         for (const g of W.tables(r.text)) {
           const h = (g[0] || []).map(x => x && x.txt || '');

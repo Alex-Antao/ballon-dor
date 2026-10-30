@@ -17,7 +17,7 @@
   2025,
   2026
  ],
- "metric": "avaliação temporal: para cada ano alvo, treino só com anos anteriores",
+ "metric": "temporal evaluation: for each target year, train only on earlier years",
  "baseline": {
   "cfg": [
    1956,
@@ -1252,7 +1252,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 5
   },
   "1962": {
@@ -1286,7 +1286,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 8
   },
   "1963": {
@@ -1320,7 +1320,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 5
   },
   "1964": {
@@ -1354,7 +1354,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 7
   },
   "1965": {
@@ -1388,7 +1388,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1966": {
@@ -1422,7 +1422,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1967": {
@@ -1456,7 +1456,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1968": {
@@ -1490,7 +1490,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 5
   },
   "1969": {
@@ -1524,7 +1524,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 7
   },
   "1970": {
@@ -1558,7 +1558,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1971": {
@@ -1592,7 +1592,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1972": {
@@ -1626,7 +1626,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1973": {
@@ -1660,7 +1660,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1974": {
@@ -1694,7 +1694,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 4
   },
   "1975": {
@@ -1728,7 +1728,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1976": {
@@ -1762,7 +1762,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1977": {
@@ -1796,7 +1796,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1978": {
@@ -1830,7 +1830,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 7
   },
   "1979": {
@@ -1864,7 +1864,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1980": {
@@ -1898,7 +1898,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1981": {
@@ -1932,7 +1932,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1982": {
@@ -1966,7 +1966,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1983": {
@@ -2000,7 +2000,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1984": {
@@ -2034,7 +2034,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1985": {
@@ -2068,7 +2068,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1986": {
@@ -2102,7 +2102,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1987": {
@@ -2136,7 +2136,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1988": {
@@ -2170,7 +2170,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1989": {
@@ -2204,7 +2204,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 3
   },
   "1990": {
@@ -2238,7 +2238,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 10
   },
   "1991": {
@@ -2272,7 +2272,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1992": {
@@ -2306,7 +2306,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1993": {
@@ -2340,7 +2340,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 1
   },
   "1994": {
@@ -2374,7 +2374,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 2
   },
   "1995": {
@@ -2408,7 +2408,7 @@
     null,
     0.02
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.02",
+   "label": "train from 1956, no recency weight, reg 0.02",
    "rank": 8
   },
   "1996": {
@@ -2442,7 +2442,7 @@
     10,
     0.1
    ],
-   "label": "treino desde 1970, meia-vida 10 anos, reg 0.1",
+   "label": "train from 1970, half-life 10 years, reg 0.1",
    "rank": 4
   },
   "1997": {
@@ -2476,7 +2476,7 @@
     10,
     0.1
    ],
-   "label": "treino desde 1970, meia-vida 10 anos, reg 0.1",
+   "label": "train from 1970, half-life 10 years, reg 0.1",
    "rank": 1
   },
   "1998": {
@@ -2510,7 +2510,7 @@
     10,
     0.1
    ],
-   "label": "treino desde 1970, meia-vida 10 anos, reg 0.1",
+   "label": "train from 1970, half-life 10 years, reg 0.1",
    "rank": 3
   },
   "1999": {
@@ -2544,7 +2544,7 @@
     10,
     0.1
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.1",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.1",
    "rank": 1
   },
   "2000": {
@@ -2578,7 +2578,7 @@
     10,
     0.1
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.1",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.1",
    "rank": 7
   },
   "2001": {
@@ -2612,7 +2612,7 @@
     10,
     0.1
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.1",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.1",
    "rank": 6
   },
   "2002": {
@@ -2646,7 +2646,7 @@
     10,
     0.1
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.1",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.1",
    "rank": 2
   },
   "2003": {
@@ -2680,7 +2680,7 @@
     20,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 20 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 20 years, reg 0.005",
    "rank": 4
   },
   "2004": {
@@ -2714,7 +2714,7 @@
     20,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 20 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 20 years, reg 0.005",
    "rank": 9
   },
   "2005": {
@@ -2748,7 +2748,7 @@
     20,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 20 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 20 years, reg 0.005",
    "rank": 1
   },
   "2006": {
@@ -2782,7 +2782,7 @@
     20,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 20 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 20 years, reg 0.005",
    "rank": 2
   },
   "2007": {
@@ -2816,7 +2816,7 @@
     10,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.005",
    "rank": 3
   },
   "2008": {
@@ -2850,7 +2850,7 @@
     10,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.005",
    "rank": 4
   },
   "2009": {
@@ -2884,7 +2884,7 @@
     10,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.005",
    "rank": 1
   },
   "2010": {
@@ -2918,7 +2918,7 @@
     10,
     0.005
    ],
-   "label": "treino com os últimos 20 anos, meia-vida 10 anos, reg 0.005",
+   "label": "train on the last 20 years, half-life 10 years, reg 0.005",
    "rank": 6
   },
   "2011": {
@@ -2952,7 +2952,7 @@
     null,
     0.005
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.005",
+   "label": "train from 1956, no recency weight, reg 0.005",
    "rank": 1
   },
   "2012": {
@@ -2986,7 +2986,7 @@
     null,
     0.005
    ],
-   "label": "treino desde 1956, sem peso de recência, reg 0.005",
+   "label": "train from 1956, no recency weight, reg 0.005",
    "rank": 2
   },
   "2013": {
@@ -3020,7 +3020,7 @@
     5,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 5 anos, reg 0.02",
+   "label": "train from 2000, half-life 5 years, reg 0.02",
    "rank": 1
   },
   "2014": {
@@ -3054,7 +3054,7 @@
     5,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 5 anos, reg 0.02",
+   "label": "train from 2000, half-life 5 years, reg 0.02",
    "rank": 1
   },
   "2015": {
@@ -3088,7 +3088,7 @@
     5,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 5 anos, reg 0.02",
+   "label": "train from 2000, half-life 5 years, reg 0.02",
    "rank": 2
   },
   "2016": {
@@ -3122,7 +3122,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 1
   },
   "2017": {
@@ -3156,7 +3156,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 1
   },
   "2018": {
@@ -3190,7 +3190,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 3
   },
   "2019": {
@@ -3224,7 +3224,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 1
   },
   "2021": {
@@ -3258,7 +3258,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 4
   },
   "2022": {
@@ -3292,7 +3292,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 1
   },
   "2023": {
@@ -3326,7 +3326,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 2
   },
   "2024": {
@@ -3360,7 +3360,7 @@
     20,
     0.02
    ],
-   "label": "treino desde 2000, meia-vida 20 anos, reg 0.02",
+   "label": "train from 2000, half-life 20 years, reg 0.02",
    "rank": 1
   },
   "2025": {
@@ -3394,7 +3394,7 @@
     null,
     0.005
    ],
-   "label": "treino desde 2000, sem peso de recência, reg 0.005",
+   "label": "train from 2000, no recency weight, reg 0.005",
    "rank": 1
   },
   "2026": {
@@ -3428,7 +3428,7 @@
     null,
     0.005
    ],
-   "label": "treino desde 2000, sem peso de recência, reg 0.005",
+   "label": "train from 2000, no recency weight, reg 0.005",
    "rank": 2
   },
   "2027": {
@@ -3462,7 +3462,7 @@
     null,
     0.005
    ],
-   "label": "treino desde 2000, sem peso de recência, reg 0.005"
+   "label": "train from 2000, no recency weight, reg 0.005"
   }
  },
  "nestedWindow": {
@@ -3518,7 +3518,7 @@
    null,
    0.005
   ],
-  "label": "treino desde 2000, sem peso de recência, reg 0.005",
+  "label": "train from 2000, no recency weight, reg 0.005",
   "train": [
    2000,
    2026
@@ -3541,84 +3541,84 @@
  "videoStyle": [
   {
    "extra": null,
-   "desc": "só os 19 critérios",
+   "desc": "the 19 criteria only",
    "inSample": 14,
    "temporal": 9,
    "temporalRank": 1.875
   },
   {
    "extra": "bdoWins",
-   "desc": "Bolas de Ouro ganhas antes",
+   "desc": "Ballon d'Or wins before",
    "inSample": 16,
    "temporal": 7,
    "temporalRank": 2.0625
   },
   {
    "extra": "prevWinner",
-   "desc": "Ganhou a Bola de Ouro anterior",
+   "desc": "Won the previous Ballon d'Or",
    "inSample": 16,
    "temporal": 9,
    "temporalRank": 2.0
   },
   {
    "extra": "podium3",
-   "desc": "Pódios nos 3 anos anteriores",
+   "desc": "Podiums in the previous 3 years",
    "inSample": 16,
    "temporal": 8,
    "temporalRank": 1.875
   },
   {
    "extra": "topScorer",
-   "desc": "Melhor marcador entre os candidatos",
+   "desc": "Top scorer among the candidates",
    "inSample": 15,
    "temporal": 9,
    "temporalRank": 1.875
   },
   {
    "extra": "uTopScorer",
-   "desc": "Melhor marcador europeu entre os candidatos",
+   "desc": "Top European scorer among the candidates",
    "inSample": 14,
    "temporal": 9,
    "temporalRank": 1.875
   },
   {
    "extra": "ntTopScorer",
-   "desc": "Melhor marcador do torneio de seleções entre os candidatos",
+   "desc": "Top national-team tournament scorer among the candidates",
    "inSample": 14,
    "temporal": 7,
    "temporalRank": 1.875
   },
   {
    "extra": "ntWinMid",
-   "desc": "Campeão de seleções sem ser atacante",
+   "desc": "National-team champion who is not an attacker",
    "inSample": 14,
    "temporal": 7,
    "temporalRank": 2.0
   },
   {
    "extra": "wcFinalMid",
-   "desc": "Finalista do Mundial sem ser atacante",
+   "desc": "World Cup finalist who is not an attacker",
    "inSample": 16,
    "temporal": 7,
    "temporalRank": 2.3125
   },
   {
    "extra": "uWinMid",
-   "desc": "Campeão europeu (UCL) sem ser atacante",
+   "desc": "European champion (UCL) who is not an attacker",
    "inSample": 14,
    "temporal": 7,
    "temporalRank": 2.0
   },
   {
    "extra": "double",
-   "desc": "Campeão europeu (UCL) e de seleções no mesmo ano",
+   "desc": "European (UCL) and national-team champion in the same year",
    "inSample": 14,
    "temporal": 9,
    "temporalRank": 2.0
   },
   {
    "extra": "leagueUcl",
-   "desc": "Campeão nacional e europeu (UCL) no mesmo ano",
+   "desc": "League and European (UCL) champion in the same year",
    "inSample": 14,
    "temporal": 9,
    "temporalRank": 1.875

@@ -1,12 +1,12 @@
 {
  "2006": {
-  "realAll": null,
-  "realAllNote": "",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "label": "Ano civil 2006 (+ Mundial 2006, CAN 2006)",
-  "award": "Ballon d’Or (France Football; 52 jornalistas europeus)",
-  "real": "Fabio Cannavaro",
-  "notes": "Último ano com a regra “só jogadores em clubes europeus”; nenhum candidato forte fora da Europa, por isso não há linhas inelegíveis. Calciopoli: títulos da Juventus 2004/05 e 2005/06 revogados (2005/06 atribuído ao Inter) — title=0 para Juventus. Zidane retirou-se após o Mundial. Top 10 confirmado (Lehmann 10.º com 13 pts; Deco e Kaká empatados em 11.º). Votação: cada jurado ordena 5 (5-4-3-2-1).",
+  "label": "Calendar year 2006 (+ World Cup 2006, AFCON 2006)",
+  "award": "Ballon d’Or (France Football; 52 European journalists)",
+  "winner": "Fabio Cannavaro",
+  "notes": "Last year with the “players at European clubs only” rule; no strong candidate outside Europe, so there are no ineligible rows. Calciopoli: Juventus's 2004/05 and 2005/06 titles revoked (2005/06 given to Inter) — title=0 for Juventus. Zidane retired after the World Cup. Top 10 confirmed (Lehmann 10th with 13 pts; Deco and Kaká tied 11th). Vote: each juror ranks 5 (5-4-3-2-1).",
   "rows": [
    {
     "name": "Fabio Cannavaro",
@@ -45,7 +45,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "173 pts. Totais por época confirmados via pesquisa web; divisão jan–dez estimada. Serie A 2005/06: 36 j/4 g; Liga 2006/07: 32 j/0 g; UCL 2006/07: 6 j. Juventus campeã em campo 2005/06, título revogado (title=0). lg=SA (mais jogos jan–mai na Juventus que ago–dez no Real). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Quarter-finals). Alterado: gp 44→41, g 2→3."
+    "note": "173 pts. Season totals confirmed via web search; Jan–Dec split estimated. Serie A 2005/06: 36 gp/4 g; League 2006/07: 32 gp/0 g; UCL 2006/07: 6 gp. Juventus champions on the pitch in 2005/06, title revoked (title=0). lg=SA (more games Jan–May at Juventus than Aug–Dec at Real). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Quarter-finals). Changed: gp 44→41, g 2→3."
    },
    {
     "name": "Gianluigi Buffon",
@@ -82,7 +82,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "124 pts. Totais por época confirmados via pesquisa web; divisão jan–dez estimada. Serie A 2005/06: 18 j (lesão no ombro até ~dez 2005); Serie B 2006/07: 37 j (ago–dez 2006 ≈17 j na Serie B, liga não prevista nos códigos; mantido lg=SA). Mundial: 7 j, 2 golos sofridos (nenhum em jogo corrido), 5 jogos sem sofrer. Título 2005/06 revogado. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Quarter-finals). Alterado: gp 35→27."
+    "note": "124 pts. Season totals confirmed via web search; Jan–Dec split estimated. Serie A 2005/06: 18 gp (shoulder injury until ~Dec 2005); Serie B 2006/07: 37 gp (Aug–Dec 2006 ≈17 gp in Serie B, a league not in the codes; kept lg=SA). World Cup: 7 gp, 2 goals conceded (none from open play), 5 clean sheets. 2005/06 title revoked. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Quarter-finals). Changed: gp 35→27."
    },
    {
     "name": "Thierry Henry",
@@ -120,7 +120,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "121 pts. Confirmado: 27 golos na PL 2005/06 (melhor marcador) e 10 golos em 17 j na PL 2006/07. Divisão jan–dez, UCL e assistências estimadas. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Final). Alterado: gp 41→37."
+    "note": "121 pts. Confirmed: 27 PL goals in 2005/06 (top scorer) and 10 goals in 17 gp in the 2006/07 PL. Jan–Dec split, UCL and assists estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: gp 41→37."
    },
    {
     "name": "Ronaldinho",
@@ -158,7 +158,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "73 pts. Confirmado: 2005/06 17 golos Liga + 7 UCL; 2006/07 21 Liga + 2 UCL. Jogos e divisão jan–dez estimados. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Final). Alterado: gp 44→41, g 21→23."
+    "note": "73 pts. Confirmed: 2005/06 17 Liga goals + 7 UCL; 2006/07 21 Liga + 2 UCL. Games and Jan–Dec split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: gp 44→41, g 21→23."
    },
    {
     "name": "Zinedine Zidane",
@@ -193,7 +193,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "71 pts. Só jan–mai 2006 (retirou-se após o Mundial; expulso na final). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Round of 16). Alterado: g 5→8."
+    "note": "71 pts. Jan–May 2006 only (retired after the World Cup; sent off in the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Round of 16). Changed: g 5→8."
    },
    {
     "name": "Samuel Eto'o",
@@ -229,7 +229,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_Africa_Cup_of_Nations"
     ],
-    "note": "67 pts. CAN 2006 (jan–fev): melhor marcador, eliminado nos quartos nos penáltis. Lesão no menisco set 2006–fev 2007. Camarões não foram ao Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Final). Alterado: gp 26→34, uG 3→4."
+    "note": "67 pts. AFCON 2006 (Jan–Feb): top scorer, knocked out in the quarter-finals on penalties. Meniscus injury Sep 2006–Feb 2007. Cameroon did not go to the World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: gp 26→34, uG 3→4."
    },
    {
     "name": "Miroslav Klose",
@@ -265,7 +265,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "29 pts. Bundesliga 2005/06: melhor marcador e assistente (≈25 g/14 a); Chuteira de Ouro do Mundial 2006. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Round of 16). Alterado: gp 39→35, g 19→29, uG 1→4."
+    "note": "29 pts. Bundesliga 2005/06: top scorer and top assister (≈25 g/14 a); Golden Boot at the 2006 World Cup. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Round of 16). Changed: gp 39→35, g 19→29, uG 1→4."
    },
    {
     "name": "Didier Drogba",
@@ -301,7 +301,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_Africa_Cup_of_Nations"
     ],
-    "note": "25 pts. Também jogou o Mundial 2006 (≈2 j, 1 g, fase de grupos); escolhida a CAN 2006 (final perdida nos penáltis) por ter sido a campanha mais relevante. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Round of 16). Alterado: gp 40→41, g 22→24."
+    "note": "25 pts. Also played the 2006 World Cup (≈2 gp, 1 g, group stage); AFCON 2006 (final lost on penalties) was chosen as the more relevant campaign. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Round of 16). Changed: gp 40→41, g 22→24."
    },
    {
     "name": "Andrea Pirlo",
@@ -337,7 +337,7 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "17 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Semi-finals). Alterado: gp 45→48, g 3→0, uG 1→0."
+    "note": "17 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Semi-finals). Changed: gp 45→48, g 3→0, uG 1→0."
    },
    {
     "name": "Jens Lehmann",
@@ -373,18 +373,18 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup"
     ],
-    "note": "13 pts. Recorde de jogos sem sofrer na UCL 2005/06; expulso na final. Herói nos penáltis vs Argentina no Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2005–06 UEFA Champions League: Final). Alterado: ntGP 7→6."
+    "note": "13 pts. Record of clean sheets in the UCL 2005/06; sent off in the final. Penalty-shoot-out hero vs Argentina at the World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: ntGP 7→6."
    }
   ]
  },
  "2007": {
-  "realAll": null,
-  "realAllNote": "",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "label": "Ano civil 2007 (+ Copa América 2007)",
-  "award": "Ballon d’Or (France Football; 96 jornalistas de todo o mundo)",
-  "real": "Kaká",
-  "notes": "Primeiro ano aberto a todas as nacionalidades e clubes (todos elegíveis). Top 10 confirmado (LEJDD/topendsports); Drogba 108 pts noutras fontes 106 (RSSSF). Kaká 444 pts (algumas fontes 445). Sem CAN/Euro/Mundial no ano.",
+  "label": "Calendar year 2007 (+ Copa América 2007)",
+  "award": "Ballon d’Or (France Football; 96 journalists worldwide)",
+  "winner": "Kaká",
+  "notes": "First year open to every nationality and club (everyone eligible). Top 10 confirmed (LEJDD/topendsports); Drogba 108 pts, 106 in other sources (RSSSF). Kaká 444 pts (some sources 445). No AFCON/Euro/World Cup in the year.",
   "rows": [
    {
     "name": "Kaká",
@@ -419,7 +419,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "444 pts. Melhor marcador da UCL 2006/07 (10 g). Não jogou a Copa América 2007. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Final). Alterado: gp 42→40, g 19→17."
+    "note": "444 pts. UCL top scorer 2006/07 (10 g). Did not play the 2007 Copa América. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Final). Changed: gp 42→40, g 19→17."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -455,7 +455,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "277 pts. Números do ano civil (liga 31 j/18 g/6 a; UCL 11 j/8 g/3 a) de messivsronaldo.app (site de fãs, jogo a jogo), lidos via resumo de pesquisa; fonte única. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Semi-finals). Alterado: gp 42→44."
+    "note": "277 pts. Calendar-year numbers (league 31 gp/18 g/6 a; UCL 11 gp/8 g/3 a) from messivsronaldo.app (fan site, match by match), read via a search summary; single source. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Semi-finals). Changed: gp 42→44."
    },
    {
     "name": "Lionel Messi",
@@ -492,7 +492,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007_Copa_Am%C3%A9rica"
     ],
-    "note": "255 pts. Clube no ano civil (liga 32 j/19 g/6 a; UCL 7 j/4 g/1 a) de messivsronaldo.app. Copa América 2007 (final perdida) de memória, assistências estimadas. Jogava na ala direita. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2007–08 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Round of 16). Alterado: gp 39→35, g 23→19, uG 4→3."
+    "note": "255 pts. Club in the calendar year (league 32 gp/19 g/6 a; UCL 7 gp/4 g/1 a) from messivsronaldo.app. Copa América 2007 (final lost) from memory, assists estimated. Played on the right wing. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 39→35, g 23→19, uG 4→3."
    },
    {
     "name": "Didier Drogba",
@@ -527,7 +527,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "108 pts (RSSSF: 106). Operado ao joelho nov 2007. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Semi-finals). Alterado: g 18→17."
+    "note": "108 pts (RSSSF: 106). Knee surgery Nov 2007. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Semi-finals). Changed: g 18→17."
    },
    {
     "name": "Andrea Pirlo",
@@ -562,7 +562,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "41 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Final). Alterado: gp 44→43, g 3→7, uG 1→3."
+    "note": "41 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Final). Changed: gp 44→43, g 3→7, uG 1→3."
    },
    {
     "name": "Ruud van Nistelrooy",
@@ -597,7 +597,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_La_Liga",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "39 pts. Pichichi 2006/07 (25 golos). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Round of 16). Alterado: gp 40→44, g 27→31, uG 4→6."
+    "note": "39 pts. Pichichi 2006/07 (25 goals). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 40→44, g 27→31, uG 4→6."
    },
    {
     "name": "Zlatan Ibrahimović",
@@ -632,7 +632,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "31 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Round of 16). Alterado: gp 37→33, g 23→22."
+    "note": "31 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 37→33, g 23→22."
    },
    {
     "name": "Cesc Fàbregas",
@@ -667,7 +667,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "27 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Round of 16). Alterado: gp 45→43, g 11→13, uG 4→5."
+    "note": "27 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 45→43, g 11→13, uG 4→5."
    },
    {
     "name": "Robinho",
@@ -703,7 +703,7 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007_Copa_Am%C3%A9rica"
     ],
-    "note": "24 pts. Melhor marcador da Copa América 2007 (vencedor). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2007–08 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Round of 16). Alterado: gp 39→40."
+    "note": "24 pts. Top scorer of the 2007 Copa América (winner). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 39→40."
    },
    {
     "name": "Francesco Totti",
@@ -738,18 +738,18 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
-    "note": "20 pts. Capocannoniere e Bota de Ouro europeia 2006/07 (26 golos). Retirado da seleção após 2006. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2006–07 UEFA Champions League: Quarter-finals). Alterado: gp 41→37, g 26→25, uG 3→2."
+    "note": "20 pts. Capocannoniere and European Golden Shoe 2006/07 (26 goals). Retired from the national team after 2006. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Quarter-finals). Changed: gp 41→37, g 26→25, uG 3→2."
    }
   ]
  },
  "2008": {
-  "realAll": null,
-  "realAllNote": "",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "label": "Ano civil 2008 (+ Euro 2008)",
-  "award": "Ballon d’Or (France Football; jornalistas de todo o mundo)",
-  "real": "Cristiano Ronaldo",
-  "notes": "Todos elegíveis. Top 10 confirmado; divergência em 8.º/9.º: Wikiwand dá Ibrahimović 30 e Kaká 29, The National diz Kaká 8.º com 31 pts — usada a ordem da Wikiwand. CAN 2008 (jan–fev) não afeta o top 10. Jogos Olímpicos (Messi) não contam.",
+  "label": "Calendar year 2008 (+ Euro 2008)",
+  "award": "Ballon d’Or (France Football; journalists worldwide)",
+  "winner": "Cristiano Ronaldo",
+  "notes": "Everyone eligible. Top 10 confirmed; 8th/9th disagree: Wikiwand gives Ibrahimović 30 and Kaká 29, The National says Kaká 8th with 31 pts — Wikiwand's order used. AFCON 2008 (Jan–Feb) does not affect the top 10. The Olympic Games (Messi) do not count.",
   "rows": [
    {
     "name": "Cristiano Ronaldo",
@@ -787,7 +787,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "446 pts. Clube no ano civil (liga 33 j/26 g/9 a; UCL 11 j/3 g/1 a) de messivsronaldo.app; Euro 2008 de memória (falhou o jogo com a Suíça). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Final). Alterado: gp 44→43."
+    "note": "446 pts. Club in the calendar year (league 33 gp/26 g/9 a; UCL 11 gp/3 g/1 a) from messivsronaldo.app; Euro 2008 from memory (missed the game against Switzerland). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Final). Changed: gp 44→43."
    },
    {
     "name": "Lionel Messi",
@@ -824,7 +824,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_La_Liga",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
-    "note": "281 pts. Ano civil (liga 27 j/12 g/13 a; UCL 9 j/7 g/3 a) de messivsronaldo.app (site de fãs; fonte única; outra fonte dá 9 golos na liga). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2007–08 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Semi-finals). Alterado: gp 36→38, g 19→23, uG 7→8."
+    "note": "281 pts. Calendar year (league 27 gp/12 g/13 a; UCL 9 gp/7 g/3 a) from messivsronaldo.app (fan site; single source; another source gives 9 league goals). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 36→38, g 19→23, uG 7→8."
    },
    {
     "name": "Fernando Torres",
@@ -861,7 +861,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "179 pts. Golo da final do Euro 2008. Lesões musculares no outono 2008. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2008–09 Liverpool: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Semi-finals). Alterado: gp 36→38, g 22→26."
+    "note": "179 pts. Goal in the Euro 2008 final. Muscle injuries in autumn 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2008–09 Liverpool: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 36→38, g 22→26."
    },
    {
     "name": "Iker Casillas",
@@ -898,7 +898,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "133 pts. Herói nos penáltis vs Itália (quartos do Euro). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Round of 16). Alterado: gp 43→44."
+    "note": "133 pts. Penalty-shoot-out hero vs Italy (Euro quarter-finals). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Round of 16). Changed: gp 43→44."
    },
    {
     "name": "Xavi",
@@ -935,7 +935,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "97 pts. Melhor jogador do Euro 2008. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2007–08 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Semi-finals). Alterado: gp 44→46, g 5→10, uG 1→4."
+    "note": "97 pts. Player of Euro 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Barcelona: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 44→46, g 5→10, uG 1→4."
    },
    {
     "name": "Andrei Arshavin",
@@ -970,7 +970,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "64 pts. Liga russa em ano civil (mar–nov 2008). Venceu a Taça UEFA 2007/08; uG/uA incluem também a fase de grupos da UCL 2008/09. Suspenso nos 2 primeiros jogos do Euro. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Cup: Final). Alterado: gp 38→41, g 10→8, uG 3→2."
+    "note": "64 pts. Russian calendar-year league (Mar–Nov 2008). Won the 2007/08 UEFA Cup; uG/uA also include the UCL 2008/09 group stage. Suspended for the first 2 games of the Euro. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Cup: Final). Changed: gp 38→41, g 10→8, uG 3→2."
    },
    {
     "name": "David Villa",
@@ -1007,7 +1007,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "55 pts. Melhor marcador do Euro 2008 (lesionado na meia-final, falhou a final). Valência eliminado na fase de grupos da UCL 2007/08; uG inclui Taça UEFA 2008/09 (grupos). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Group stage). Alterado: gp 34→35, g 26→21, uG 1→3."
+    "note": "55 pts. Top scorer of Euro 2008 (injured in the semi-final, missed the final). Valencia knocked out in the UCL 2007/08 group stage; uG includes the 2008/09 UEFA Cup (groups). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Group stage). Changed: gp 34→35, g 26→21, uG 1→3."
    },
    {
     "name": "Zlatan Ibrahimović",
@@ -1044,7 +1044,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008"
     ],
-    "note": "30 pts (ordem 8.º/9.º com Kaká duvidosa). Lesão no joelho fev–mai 2008. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Round of 16). Alterado: gp 34→38, g 18→19."
+    "note": "30 pts (8th/9th order with Kaká uncertain). Knee injury Feb–May 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Round of 16). Changed: gp 34→38, g 18→19."
    },
    {
     "name": "Kaká",
@@ -1080,7 +1080,7 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Serie_A",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
-    "note": "29 pts (The National: 8.º com 31). uG inclui Taça UEFA 2008/09 (grupos). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Round of 16). Alterado: gp 32→38, g 14→15, uG 1→0."
+    "note": "29 pts (The National: 8th with 31). uG includes the 2008/09 UEFA Cup (groups). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Round of 16). Changed: gp 32→38, g 14→15, uG 1→0."
    },
    {
     "name": "Steven Gerrard",
@@ -1116,18 +1116,18 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Premier_League",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
-    "note": "28 pts. Inglaterra não se qualificou para o Euro 2008. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2008–09 Liverpool: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2007–08 UEFA Champions League: Semi-finals). Alterado: gp 44→43, g 20→18, uG 5→6."
+    "note": "28 pts. England did not qualify for Euro 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2008–09 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 44→43, g 20→18, uG 5→6."
    }
   ]
  },
  "2009": {
-  "realAll": null,
-  "realAllNote": "",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "label": "Ano civil 2009",
-  "award": "Ballon d’Or (France Football; jornalistas de todo o mundo)",
-  "real": "Lionel Messi",
-  "notes": "Todos elegíveis. Sem torneio de seleções que conte (Taça das Confederações excluída; CAN 2010 já em 2010). Top 10 confirmado (11.º Torres 22 pts). Messi 473 de 480 pts possíveis.",
+  "label": "Calendar year 2009",
+  "award": "Ballon d’Or (France Football; journalists worldwide)",
+  "winner": "Lionel Messi",
+  "notes": "Everyone eligible. No national-team tournament that counts (Confederations Cup excluded; AFCON 2010 was already in 2010). Top 10 confirmed (11th Torres 22 pts). Messi 473 of a possible 480 pts.",
   "rows": [
    {
     "name": "Lionel Messi",
@@ -1163,7 +1163,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "473 pts. Ano civil (liga 30 j/22 g/10 a; UCL 12 j/6 g/2 a) de messivsronaldo.app (site de fãs; fonte única). Ala direita até mai 2009, depois falso 9. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Final). Alterado: gp 42→43."
+    "note": "473 pts. Calendar year (league 30 gp/22 g/10 a; UCL 12 gp/6 g/2 a) from messivsronaldo.app (fan site; single source). Right winger until May 2009, then false 9. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 42→43."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -1199,7 +1199,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "233 pts. Ano civil (liga 26 j/17 g/4 a; UCL 11 j/10 g/2 a) de messivsronaldo.app. Lesão no tornozelo out–nov 2009. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Final). Alterado: gp 37→40."
+    "note": "233 pts. Calendar year (league 26 gp/17 g/4 a; UCL 11 gp/10 g/2 a) from messivsronaldo.app. Ankle injury Oct–Nov 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 37→40."
    },
    {
     "name": "Xavi",
@@ -1234,7 +1234,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "170 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Final). Alterado: gp 45→46, uG 0→1."
+    "note": "170 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 45→46, uG 0→1."
    },
    {
     "name": "Andrés Iniesta",
@@ -1269,7 +1269,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "149 pts. Golo em Stamford Bridge (meias UCL). Lesão na coxa no outono 2009. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Final). Alterado: gp 30→36, g 3→4."
+    "note": "149 pts. Goal at Stamford Bridge (UCL semi-finals). Thigh injury in autumn 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 30→36, g 3→4."
    },
    {
     "name": "Samuel Eto'o",
@@ -1304,7 +1304,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "75 pts. Golo na final da UCL 2009; transferido para o Inter em jul 2009. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Final). Alterado: gp 46→47, g 24→27."
+    "note": "75 pts. Goal in the UCL 2009 final; transferred to Inter in Jul 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 46→47, g 24→27."
    },
    {
     "name": "Kaká",
@@ -1339,7 +1339,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Serie_A",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Cup"
     ],
-    "note": "58 pts. Edição continental que termina em 2009 para o Milan = Taça UEFA 2008/09 (eliminado nos 16 avos); uG inclui grupos da UCL 2009/10 com o Real. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Cup: Round of 32). Alterado: gp 34→33, g 15→13."
+    "note": "58 pts. Continental edition ending in 2009 for Milan = UEFA Cup 2008/09 (knocked out in the round of 32); uG includes the UCL 2009/10 groups with Real. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Cup: Round of 32). Changed: gp 34→33, g 15→13."
    },
    {
     "name": "Zlatan Ibrahimović",
@@ -1374,7 +1374,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Serie_A",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "50 pts. Capocannoniere 2008/09; transferido para o Barcelona em jul 2009. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Round of 16). Alterado: gp 37→38, g 22→27."
+    "note": "50 pts. Capocannoniere 2008/09; transferred to Barcelona in Jul 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Round of 16). Changed: gp 37→38, g 22→27."
    },
    {
     "name": "Wayne Rooney",
@@ -1409,7 +1409,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "35 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Final). Alterado: g 23→22, uG 3→1."
+    "note": "35 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: g 23→22, uG 3→1."
    },
    {
     "name": "Didier Drogba",
@@ -1444,7 +1444,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "33 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Semi-finals). Alterado: gp 44→37, g 24→25."
+    "note": "33 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Semi-finals). Changed: gp 44→37, g 24→25."
    },
    {
     "name": "Steven Gerrard",
@@ -1479,7 +1479,7 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
-    "note": "32 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2008–09 Liverpool: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2008–09 UEFA Champions League: Quarter-finals). Alterado: gp 38→43, g 15→17, uG 3→4."
+    "note": "32 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2008–09 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Quarter-finals). Changed: gp 38→43, g 15→17, uG 3→4."
    }
   ]
  }

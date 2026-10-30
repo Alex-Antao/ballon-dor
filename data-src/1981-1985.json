@@ -1,12 +1,12 @@
 {
  "1981": {
-  "label": "Ano civil 1981 (estatísticas: época 1980/81; sem torneio de seleções)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Karl-Heinz Rummenigge",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa (Zico e Maradona não receberam prémio retroativo da FF em 2016).",
+  "label": "Calendar year 1981 (stats: season 1980/81; no national-team tournament)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Karl-Heinz Rummenigge",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award (Zico and Maradona did not receive a retroactive FF award in 2016).",
   "window": "CY",
-  "notes": "Votação publicada na France Football a 29/12/1981 (26 votantes). Top 10 confirmado: Rummenigge 106, Breitner 64, Schuster 39, Platini 36, Blokhin 14, Zoff 13, Shengelia 10, Chivadze 9, Brady 7 e Wark 7 (9.º ex aequo). Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
+  "notes": "Vote published in France Football on 29/12/1981 (26 voters). Top 10 confirmed: Rummenigge 106, Breitner 64, Schuster 39, Platini 36, Blokhin 14, Zoff 13, Shengelia 10, Chivadze 9, Brady 7 and Wark 7 (tied 9th). CY window requested, but without access to match-by-match lists: European season leagues use the season ending in the year (win \"S\"); calendar-year leagues (URS, BRA, ARG, DEN) use the calendar year. All statistics are estimates (conf C). No retroactive France Football award (2016) this year: the 12 retroactive awards were Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) and Romário (1994).",
   "rows": [
    {
     "name": "Karl-Heinz Rummenigge",
@@ -42,7 +42,7 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Melhor marcador da Bundesliga 1980/81 (29, de memória); UCL 80/81 meias (Liverpool). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1981–82 Bayern Munich: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 European Cup: Semi-finals). Alterado: g 35→26, uG 6→4."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Top scorer of the 1980/81 Bundesliga (29, from memory); UCL 80/81 semi-finals (Liverpool). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1981–82 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 European Cup: Semi-finals). Changed: g 35→26, uG 6→4."
    },
    {
     "name": "Paul Breitner",
@@ -76,7 +76,7 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1980–81 European Cup: Semi-finals). Alterado: g 19→18, uG 2→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1980–81 European Cup: Semi-finals). Changed: g 19→18, uG 2→1."
    },
    {
     "name": "Bernd Schuster",
@@ -112,7 +112,7 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_La_Liga",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Prova europeia de 1980/81 e fase atingida incertas. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: Second round). Alterado: gp 33→28."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). European competition in 1980/81 and stage reached uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup: Second round). Changed: gp 33→28."
    },
    {
     "name": "Michel Platini",
@@ -147,7 +147,7 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_French_Division_1",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão francês 1980/81; Taça UEFA quartos (Ipswich). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: Quarter-finals). Alterado: gp 41→42."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). French champion 1980/81; UEFA Cup quarter-finals (Ipswich). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup: Quarter-finals). Changed: gp 41→42."
    },
    {
     "name": "Oleg Blokhin",
@@ -181,7 +181,7 @@
      "https://en.wikipedia.org/wiki/1981_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga soviética de ano civil (1981, campeão). Participação europeia 1980/81 incerta. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: First round). Alterado: gp 30→35, g 10→20, uG 0→1, uT →UEL."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Soviet calendar-year league (1981, champion). European participation in 1980/81 uncertain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup: First round). Changed: gp 30→35, g 10→20, uG 0→1, uT →UEL."
    },
    {
     "name": "Dino Zoff",
@@ -217,7 +217,7 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Serie_A",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão italiano 1980/81; Taça UEFA eliminado na 2.ª ronda (Widzew). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: Second round)."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Italian champion 1980/81; UEFA Cup knocked out in the 2nd round (Widzew). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup: Second round)."
    },
    {
     "name": "Ramaz Shengelia",
@@ -251,7 +251,7 @@
      "https://en.wikipedia.org/wiki/1981_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Melhor marcador da liga soviética 1981 (23, de memória); Taça das Taças 1981 vencida (só quartos/meias/final no ano civil). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup Winners' Cup: Final). Alterado: gp 35→40, g 26→30, uG 3→7."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Top scorer of the 1981 Soviet league (23, from memory); Cup Winners' Cup 1981 won (only quarter-finals/semi-finals/final in the calendar year). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup Winners' Cup: Final). Changed: gp 35→40, g 26→30, uG 3→7."
    },
    {
     "name": "Aleksandre Chivadze",
@@ -283,7 +283,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
      "https://en.wikipedia.org/wiki/Aleksandre_Chivadze"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capitão; Taça das Taças 1981 vencida. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Captain; Cup Winners' Cup 1981 won. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Liam Brady",
@@ -315,7 +315,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
      "https://en.wikipedia.org/wiki/Liam_Brady"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 9.º ex aequo (7 pts). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 9th (7 pts). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "John Wark",
@@ -347,7 +347,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
      "https://en.wikipedia.org/wiki/John_Wark"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 9.º ex aequo (7 pts). 14 golos na Taça UEFA 1980/81 vencida (de memória). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 9th (7 pts). 14 goals in the 1980/81 UEFA Cup, won (from memory). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Zico",
@@ -378,7 +378,7 @@
      "https://en.wikipedia.org/wiki/1981_Campeonato_Brasileiro_S%C3%A9rie_A",
      "https://en.wikipedia.org/wiki/1981_Copa_Libertadores"
     ],
-    "note": "Inelegível (brasileiro). Libertadores 1981 vencida, melhor marcador (11). Brasileirão 1981 estimado. Campeonato Carioca e Intercontinental não contam. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1981 Copa Libertadores: Finals). Alterado: gp 29→21, g 22→14."
+    "note": "Ineligible (Brazilian). Libertadores 1981 won, top scorer (11). Brasileirão 1981 estimated. Campeonato Carioca and the Intercontinental Cup do not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1981 Copa Libertadores: Finals). Changed: gp 29→21, g 22→14."
    },
    {
     "name": "Diego Maradona",
@@ -409,18 +409,18 @@
      "https://en.wikipedia.org/wiki/1981_Argentine_Primera_Divisi%C3%B3n",
      "https://en.wikipedia.org/wiki/1982_Copa_Libertadores"
     ],
-    "note": "Inelegível (argentino). Metropolitano 1981 + Nacional 1981 somados (estimativa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1982 Copa Libertadores). Alterado: uT →LIB."
+    "note": "Ineligible (Argentine). Metropolitano 1981 + Nacional 1981 added up (estimate). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1982 Copa Libertadores). Changed: uT →LIB."
    }
   ]
  },
  "1982": {
-  "label": "Ano civil 1982 (estatísticas: época 1981/82 + Mundial 1982)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Paolo Rossi",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa (Zico não recebeu prémio retroativo da FF em 2016).",
+  "label": "Calendar year 1982 (stats: season 1981/82 + World Cup 1982)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Paolo Rossi",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award (Zico did not receive a retroactive FF award in 2016).",
   "window": "CY",
-  "notes": "Votação publicada na France Football n.º 1916 (28/12/1982). Top 10: Rossi 115, Giresse 64, Boniek 53, Rummenigge 51, Conti 48, Dasayev 17, Littbarski 10, Zoff 9, Platini 5, Schuster 4 (11.º Antognoni 3). Divergência: nota da Wikipédia EN diz que a FF deu 68 a Giresse e 47 a Rummenigge. Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994). Com janela S perde-se o outono de 1982 (p.ex. Rossi na Taça dos Campeões 1982/83).",
+  "notes": "Vote published in France Football no. 1916 (28/12/1982). Top 10: Rossi 115, Giresse 64, Boniek 53, Rummenigge 51, Conti 48, Dasayev 17, Littbarski 10, Zoff 9, Platini 5, Schuster 4 (11th Antognoni 3). Discrepancy: a note on English Wikipedia says FF gave Giresse 68 and Rummenigge 47. CY window requested, but without access to match-by-match lists: European season leagues use the season ending in the year (win \"S\"); calendar-year leagues (URS, BRA, ARG, DEN) use the calendar year. All statistics are estimates (conf C). No retroactive France Football award (2016) this year: the 12 retroactive awards were Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) and Romário (1994). With the S window, autumn 1982 is lost (e.g. Rossi in the 1982/83 European Cup).",
   "rows": [
    {
     "name": "Paolo Rossi",
@@ -457,7 +457,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Regressou de suspensão no fim de abril de 1982 (3 jogos, 1 golo na Serie A). Mundial: 6 golos, melhor marcador. Campeão italiano mas <1/3 dos jogos → title 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Second round). Alterado: gp 3→16, g 1→7, uG 0→4, uS 0→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Returned from suspension at the end of April 1982 (3 games, 1 Serie A goal). World Cup: 6 goals, top scorer. Italian champion but <1/3 of the games → title 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Second round). Changed: gp 3→16, g 1→7, uG 0→4, uS 0→1."
    },
    {
     "name": "Alain Giresse",
@@ -492,7 +492,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Pontos 64 (ou 68 segundo nota da Wikipédia EN). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 UEFA Cup: Second round). Alterado: gp 40→37, g 12→14, ntGP 6→5."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Points 64 (or 68 according to a note on English Wikipedia). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 UEFA Cup: Second round). Changed: gp 40→37, g 12→14, ntGP 6→5."
    },
    {
     "name": "Zbigniew Boniek",
@@ -528,7 +528,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga polaca 1981/82 (campeão). Mudou-se para a Juventus no verão de 1982. Mundial: hat-trick à Bélgica, suspenso na meia-final. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1981–82 Widzew Łódź: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: First round). Alterado: g 10→7, uG 0→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Polish league 1981/82 (champion). Moved to Juventus in summer 1982. World Cup: hat-trick against Belgium, suspended for the semi-final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1981–82 Widzew Łódź: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: First round). Changed: g 10→7, uG 0→1."
    },
    {
     "name": "Karl-Heinz Rummenigge",
@@ -565,7 +565,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Final da Taça dos Campeões 1982 perdida (Aston Villa). Pontos 51 (ou 47). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Final). Alterado: g 32→20."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). 1982 European Cup final lost (Aston Villa). Points 51 (or 47). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Final). Changed: g 32→20."
    },
    {
     "name": "Bruno Conti",
@@ -598,7 +598,7 @@
      "https://en.wikipedia.org/wiki/Bruno_Conti",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Rinat Dasayev",
@@ -631,7 +631,7 @@
      "https://en.wikipedia.org/wiki/Rinat_Dasayev",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga soviética 1982 (ano civil). Participação europeia incerta. Mundial: 2.ª fase de grupos (=quartos). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Soviet league 1982 (calendar year). European participation uncertain. World Cup: second group stage (=quarter-finals). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Pierre Littbarski",
@@ -666,7 +666,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Participação europeia de 1981/82 incerta (assumido nenhuma). 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1982–83 UEFA Cup); por verificar: clube. Alterado: uT →UEL."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). European participation in 1981/82 uncertain (assumed none). Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1982–83 UEFA Cup); to verify: club. Changed: uT →UEL."
    },
    {
     "name": "Dino Zoff",
@@ -703,7 +703,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capitão campeão do mundo aos 40 anos; campeão italiano 1981/82. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Second round). Alterado: gp 32→35, uS 0→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). World champion captain at 40; Italian champion 1981/82. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Second round). Changed: gp 32→35, uS 0→1."
    },
    {
     "name": "Michel Platini",
@@ -739,7 +739,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Número de jogos no Mundial incerto (4–5). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1981–82 Saint-Étienne: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Preliminary round). Alterado: gp 39→36, g 22→18, uG 0→2."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Number of World Cup games uncertain (4–5). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1981–82 Saint-Étienne: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Preliminary round). Changed: gp 39→36, g 22→18, uG 0→2."
    },
    {
     "name": "Bernd Schuster",
@@ -775,7 +775,7 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_La_Liga",
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Lesão grave em dez. 1981; não jogou a final da Taça das Taças 1982 (vencida). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1981–82 UEFA Cup Winners' Cup: Final). Alterado: gp 16→17, g 4→10, uG 0→2."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Serious injury in Dec. 1981; did not play the 1982 Cup Winners' Cup final (won). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1981–82 UEFA Cup Winners' Cup: Final). Changed: gp 16→17, g 4→10, uG 0→2."
    },
    {
     "name": "Zico",
@@ -807,7 +807,7 @@
      "https://en.wikipedia.org/wiki/1982_Copa_Libertadores",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Inelegível. Campeão brasileiro 1982 e melhor marcador (21, de memória). Libertadores 1982: fase de grupos das meias. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1982 Copa Libertadores: Semifinals). Alterado: gp 26→27, g 23→22."
+    "note": "Ineligible. Brazilian champion 1982 and top scorer (21, from memory). Libertadores 1982: semi-final group stage. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1982 Copa Libertadores: Semifinals). Changed: gp 26→27, g 23→22."
    },
    {
     "name": "Falcão",
@@ -840,18 +840,18 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Inelegível (brasileiro). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 UEFA Cup Winners' Cup: Second round). Alterado: uS 0→1."
+    "note": "Ineligible (Brazilian). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 UEFA Cup Winners' Cup: Second round). Changed: uS 0→1."
    }
   ]
  },
  "1983": {
-  "label": "Ano civil 1983 (estatísticas: época 1982/83; sem torneio de seleções)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Michel Platini",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa.",
+  "label": "Calendar year 1983 (stats: season 1982/83; no national-team tournament)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Michel Platini",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award.",
   "window": "CY",
-  "notes": "Atribuído a 27/12/1983. Top 10: Platini 110, Dalglish 26, Simonsen 25, Strachan 24, Magath 20, Pfaff 15 e Dasayev 15 (6.º ex aequo), Rummenigge 14 e J. Olsen 14 (8.º ex aequo), B. Robson 13 (11.º Schuster 10; uma cópia da Wikipédia põe Fernando Gomes com 10). Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
+  "notes": "Awarded on 27/12/1983. Top 10: Platini 110, Dalglish 26, Simonsen 25, Strachan 24, Magath 20, Pfaff 15 and Dasayev 15 (tied 6th), Rummenigge 14 and J. Olsen 14 (tied 8th), B. Robson 13 (11th Schuster 10; one Wikipedia copy puts Fernando Gomes on 10). CY window requested, but without access to match-by-match lists: European season leagues use the season ending in the year (win \"S\"); calendar-year leagues (URS, BRA, ARG, DEN) use the calendar year. All statistics are estimates (conf C). No retroactive France Football award (2016) this year: the 12 retroactive awards were Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) and Romário (1994).",
   "rows": [
    {
     "name": "Michel Platini",
@@ -887,7 +887,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Serie_A",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capocannoniere 1982/83 (16). Final da Taça dos Campeões perdida (Hamburgo). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1983–84 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 European Cup: Final). Alterado: gp 39→40, g 19→25, uG 3→4."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Capocannoniere 1982/83 (16). European Cup final lost (Hamburg). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1983–84 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 European Cup: Final). Changed: gp 39→40, g 19→25, uG 3→4."
    },
    {
     "name": "Kenny Dalglish",
@@ -923,7 +923,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Football_League",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão inglês 1982/83; Taça dos Campeões: quartos (Widzew). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 European Cup: Quarter-finals). Alterado: gp 48→43, g 19→15, uG 1→3."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). English champion 1982/83; European Cup: quarter-finals (Widzew). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 European Cup: Quarter-finals). Changed: gp 48→43, g 19→15, uG 1→3."
    },
    {
     "name": "Allan Simonsen",
@@ -955,7 +955,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
      "https://en.wikipedia.org/wiki/Allan_Simonsen"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga dinamarquesa de ano civil (1983). Esteve no Charlton no outono de 1982. Números muito incertos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); prova/fase continental verificada: sem prova europeia nas edições consultadas; por verificar: clube, título."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Danish calendar-year league (1983). Was at Charlton in autumn 1982. Numbers very uncertain. Second pass: club statistics not verified (no usable career table); continental competition/stage verified: no European competition in the editions checked; to verify: club, title."
    },
    {
     "name": "Gordon Strachan",
@@ -991,7 +991,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Scottish_Premier_Division",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Taça das Taças 1983 vencida (Real Madrid). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup Winners' Cup: Final). Alterado: gp 43→38, g 15→17."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Cup Winners' Cup 1983 won (Real Madrid). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup Winners' Cup: Final). Changed: gp 43→38, g 15→17."
    },
    {
     "name": "Felix Magath",
@@ -1026,7 +1026,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Marcou o golo da final da Taça dos Campeões 1983; campeão alemão. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 European Cup: Final). Alterado: g 8→6."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Scored the goal in the 1983 European Cup final; German champion. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 European Cup: Final). Changed: g 8→6."
    },
    {
     "name": "Jean-Marie Pfaff",
@@ -1060,7 +1060,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 6.º ex aequo (15 pts). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Alterado: gp 40→31."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 6th (15 pts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 40→31."
    },
    {
     "name": "Rinat Dasayev",
@@ -1092,7 +1092,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
      "https://en.wikipedia.org/wiki/Rinat_Dasayev"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 6.º ex aequo (15 pts). Fase da Taça UEFA 1982/83 incerta. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 6th (15 pts). Stage in the 1982/83 UEFA Cup uncertain. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Karl-Heinz Rummenigge",
@@ -1128,7 +1128,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 8.º ex aequo (14 pts). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Alterado: g 24→21, uG 4→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 8th (14 pts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Changed: g 24→21, uG 4→1."
    },
    {
     "name": "Jesper Olsen",
@@ -1160,7 +1160,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
      "https://en.wikipedia.org/wiki/Jesper_Olsen"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 8.º ex aequo (14 pts). Campeão neerlandês 1982/83. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 8th (14 pts). Dutch champion 1982/83. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Bryan Robson",
@@ -1196,7 +1196,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Football_League",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup: First round). Alterado: gp 35→36, uG 0→2."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup: First round). Changed: gp 35→36, uG 0→2."
    },
    {
     "name": "Falcão",
@@ -1229,7 +1229,7 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Serie_A",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup"
     ],
-    "note": "Inelegível (brasileiro). Campeão italiano 1982/83; Taça UEFA quartos (Benfica). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup: Quarter-finals). Alterado: g 8→9, uG 1→2."
+    "note": "Ineligible (Brazilian). Italian champion 1982/83; UEFA Cup quarter-finals (Benfica). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup: Quarter-finals). Changed: g 8→9, uG 1→2."
    },
    {
     "name": "Zico",
@@ -1260,18 +1260,18 @@
      "https://en.wikipedia.org/wiki/1983_Campeonato_Brasileiro_S%C3%A9rie_A",
      "https://en.wikipedia.org/wiki/1983_Copa_Libertadores"
     ],
-    "note": "Inelegível. Ano civil: Brasileirão 1983 (campeão) + Libertadores 1983 + outono na Udinese. Divisão muito incerta. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1983 Copa Libertadores: Group Stage). Alterado: gp 32→29, g 24→22, uG 2→3, uS 0→2."
+    "note": "Ineligible. Calendar year: Brasileirão 1983 (champion) + Libertadores 1983 + autumn at Udinese. Split very uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1983 Copa Libertadores: Group Stage). Changed: gp 32→29, g 24→22, uG 2→3, uS 0→2."
    }
   ]
  },
  "1984": {
-  "label": "Ano civil 1984 (estatísticas: época 1983/84 + Euro 1984)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Michel Platini",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa.",
+  "label": "Calendar year 1984 (stats: season 1983/84 + Euro 1984)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Michel Platini",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award.",
   "window": "CY",
-  "notes": "Atribuído a 25/12/1984. Confirmados 1.º–8.º: Platini 128, Tigana 57, Elkjær 48, Rush 44, Chalana 18, Souness 16, Schumacher 12, Rummenigge 10; Bossis e Scifo 12.º ex aequo (5), Briegel 14.º ex aequo (3). 9.º Giresse (9), 10.º Bryan Robson (7), 11.º Schuster (6) — confirmados na Wikipédia (2.ª passagem). Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
+  "notes": "Awarded on 25/12/1984. 1st–8th confirmed: Platini 128, Tigana 57, Elkjær 48, Rush 44, Chalana 18, Souness 16, Schumacher 12, Rummenigge 10; Bossis and Scifo tied 12th (5), Briegel tied 14th (3). 9th Giresse (9), 10th Bryan Robson (7), 11th Schuster (6) — confirmed on Wikipedia (second pass). CY window requested, but without access to match-by-match lists: European season leagues use the season ending in the year (win \"S\"); calendar-year leagues (URS, BRA, ARG, DEN) use the calendar year. All statistics are estimates (conf C). No retroactive France Football award (2016) this year: the 12 retroactive awards were Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) and Romário (1994).",
   "rows": [
    {
     "name": "Michel Platini",
@@ -1308,7 +1308,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capocannoniere 1983/84 (20); campeão italiano; Taça das Taças vencida; Euro 1984: 9 golos. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1983–84 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup Winners' Cup: Final). Alterado: gp 37→35, uG 3→6."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Capocannoniere 1983/84 (20); Italian champion; Cup Winners' Cup won; Euro 1984: 9 goals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1983–84 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup Winners' Cup: Final). Changed: gp 37→35, uG 3→6."
    },
    {
     "name": "Jean Tigana",
@@ -1343,7 +1343,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão francês 1983/84. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup: First round). Alterado: gp 37→34, g 2→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). French champion 1983/84. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup: First round). Changed: gp 37→34, g 2→1."
    },
    {
     "name": "Preben Elkjær",
@@ -1376,7 +1376,7 @@
      "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Época 1983/84 no Lokeren; mudou-se para o Verona no verão de 1984 (o outono no Verona contaria numa janela CY verdadeira). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Season 1983/84 at Lokeren; moved to Verona in summer 1984 (the autumn at Verona would count in a true CY window). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Ian Rush",
@@ -1412,7 +1412,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 32 golos na liga 1983/84 (de memória); Taça dos Campeões vencida; Chuteira de Ouro 1984. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 European Cup: Final). Alterado: gp 50→43, g 37→27, uG 5→7."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). 32 league goals in 1983/84 (from memory); European Cup won; Golden Shoe 1984. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 European Cup: Final). Changed: gp 50→43, g 37→27, uG 5→7."
    },
    {
     "name": "Fernando Chalana",
@@ -1445,7 +1445,7 @@
      "https://en.wikipedia.org/wiki/Fernando_Chalana",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão português 1983/84; Taça dos Campeões quartos (Liverpool). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Portuguese champion 1983/84; European Cup quarter-finals (Liverpool). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Graeme Souness",
@@ -1481,7 +1481,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capitão campeão europeu e inglês. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 European Cup: Final). Alterado: gp 46→36, g 9→6, uG 2→0."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). European and English champion captain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 European Cup: Final). Changed: gp 46→36, g 9→6, uG 2→0."
    },
    {
     "name": "Harald Schumacher",
@@ -1516,7 +1516,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Participação europeia 1983/84 incerta. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup Winners' Cup: Second round). Alterado: gp 38→37, uS 0→1."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). European participation in 1983/84 uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup Winners' Cup: Second round). Changed: gp 38→37, uS 0→1."
    },
    {
     "name": "Karl-Heinz Rummenigge",
@@ -1553,7 +1553,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Melhor marcador da Bundesliga 1983/84 (26, de memória). Mudou-se para o Inter em 1984. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup: Third round). Alterado: gp 38→35, g 29→28, uG 3→2."
+    "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Top scorer of the 1983/84 Bundesliga (26, from memory). Moved to Inter in 1984. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup: Third round). Changed: gp 38→35, g 29→28, uG 3→2."
    },
    {
     "name": "Alain Giresse",
@@ -1586,7 +1586,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Votação: 9.º, 9 pontos (Wikipédia). Campeão francês 1983/84 e campeão europeu de seleções. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup: First round). Alterado: gp 40→36, g 12→17, uG 0→1."
+    "note": "Vote: 9th, 9 points (Wikipedia). French champion 1983/84 and European national-team champion. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup: First round). Changed: gp 40→36, g 12→17, uG 0→1."
    },
    {
     "name": "Bryan Robson",
@@ -1620,7 +1620,7 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Votação: 10.º, 7 pontos (Wikipédia). Taça das Taças 1983/84: meias-finais (Juventus). Inglaterra não se qualificou para o Euro 1984. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup Winners' Cup: Semi-finals). Alterado: gp 40→42, g 14→17."
+    "note": "Vote: 10th, 7 points (Wikipedia). Cup Winners' Cup 1983/84: semi-finals (Juventus). England did not qualify for Euro 1984. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 40→42, g 14→17."
    },
    {
     "name": "Zico",
@@ -1650,7 +1650,7 @@
      "https://en.wikipedia.org/wiki/Zico_(footballer)",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Serie_A"
     ],
-    "note": "Inelegível. Serie A 1983/84: 19 golos (2.º atrás de Platini), de memória. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas."
+    "note": "Ineligible. Serie A 1983/84: 19 goals (2nd behind Platini), from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked."
    },
    {
     "name": "Falcão",
@@ -1683,18 +1683,18 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Serie_A",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
-    "note": "Inelegível. Final da Taça dos Campeões 1984 perdida (Liverpool). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1983–84 Roma: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 European Cup: Final). Alterado: gp 33→20, g 6→4."
+    "note": "Ineligible. 1984 European Cup final lost (Liverpool). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1983–84 Roma: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 European Cup: Final). Changed: gp 33→20, g 6→4."
    }
   ]
  },
  "1985": {
-  "label": "Ano civil 1985 (estatísticas: época 1984/85; sem torneio de seleções)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Michel Platini",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa (o primeiro prémio retroativo de Maradona é 1986).",
+  "label": "Calendar year 1985 (stats: season 1984/85; no national-team tournament)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Michel Platini",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award (Maradona's first retroactive award is 1986).",
   "window": "CY",
-  "notes": "Atribuído a 24/12/1985. Votação confirmada na Wikipédia (2.ª passagem): Platini 127, Elkjær 71, Schuster 46, M. Laudrup 14, Rummenigge 13, Boniek 12, Protasov 10, Briegel 9, B. Robson e Dasayev 8 (9.º ex aequo). Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
+  "notes": "Awarded on 24/12/1985. Vote confirmed on Wikipedia (second pass): Platini 127, Elkjær 71, Schuster 46, M. Laudrup 14, Rummenigge 13, Boniek 12, Protasov 10, Briegel 9, B. Robson and Dasayev 8 (tied 9th). CY window requested, but without access to match-by-match lists: European season leagues use the season ending in the year (win \"S\"); calendar-year leagues (URS, BRA, ARG, DEN) use the calendar year. All statistics are estimates (conf C). No retroactive France Football award (2016) this year: the 12 retroactive awards were Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) and Romário (1994).",
   "rows": [
    {
     "name": "Michel Platini",
@@ -1728,7 +1728,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
-    "note": "Votação: 1.º, 127 pontos (Wikipédia). Capocannoniere 1984/85 (18); Taça dos Campeões vencida (Heysel), melhor marcador. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 European Cup: Final). Alterado: gp 39→41, g 25→23, uG 7→4."
+    "note": "Vote: 1st, 127 points (Wikipedia). Capocannoniere 1984/85 (18); European Cup won (Heysel), top scorer. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 European Cup: Final). Changed: gp 39→41, g 25→23, uG 7→4."
    },
    {
     "name": "Preben Elkjær",
@@ -1758,7 +1758,7 @@
      "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
      "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r"
     ],
-    "note": "Votação: 2.º, 71 pontos (Wikipédia). Campeão italiano 1984/85. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Vote: 2nd, 71 points (Wikipedia). Italian champion 1984/85. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Bernd Schuster",
@@ -1792,7 +1792,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_La_Liga",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Votação: 3.º, 46 pontos (Wikipédia). Campeão espanhol 1984/85; Taça das Taças eliminado na 1.ª ronda (Metz). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1985–86 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 UEFA Cup Winners' Cup: First round). Alterado: gp 35→29, uG 0→1."
+    "note": "Vote: 3rd, 46 points (Wikipedia). Spanish champion 1984/85; Cup Winners' Cup knocked out in the 1st round (Metz). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1985–86 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 UEFA Cup Winners' Cup: First round). Changed: gp 35→29, uG 0→1."
    },
    {
     "name": "Michael Laudrup",
@@ -1826,7 +1826,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
-    "note": "Votação: 4.º, 14 pontos (Wikipédia). Lazio (empréstimo) em 1984/85, Juventus a partir do verão de 1985. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1985–86 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1985–86 European Cup). Alterado: gp 30→35, g 8→5, uG 0→1."
+    "note": "Vote: 4th, 14 points (Wikipedia). Lazio (loan) in 1984/85, Juventus from summer 1985. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1985–86 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1985–86 European Cup). Changed: gp 30→35, g 8→5, uG 0→1."
    },
    {
     "name": "Karl-Heinz Rummenigge",
@@ -1860,7 +1860,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup"
     ],
-    "note": "Votação: 5.º, 13 pontos (Wikipédia). Taça UEFA 1984/85: meias-finais (Real Madrid). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1984–85 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 UEFA Cup: Semi-finals). Alterado: gp 34→35, g 11→17, uG 3→5."
+    "note": "Vote: 5th, 13 points (Wikipedia). UEFA Cup 1984/85: semi-finals (Real Madrid). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1984–85 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 UEFA Cup: Semi-finals). Changed: gp 34→35, g 11→17, uG 3→5."
    },
    {
     "name": "Zbigniew Boniek",
@@ -1894,7 +1894,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
-    "note": "Votação: 6.º, 12 pontos (Wikipédia). Campeão europeu com a Juventus (maio de 1985), depois Roma. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1984–85 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 European Cup: Final)."
+    "note": "Vote: 6th, 12 points (Wikipedia). European champion with Juventus (May 1985), then Roma. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1984–85 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 European Cup: Final)."
    },
    {
     "name": "Oleh Protasov",
@@ -1926,7 +1926,7 @@
      "https://en.wikipedia.org/wiki/1985_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
-    "note": "Votação: 7.º, 10 pontos (Wikipédia). Liga soviética de ano civil 1985: melhor marcador (recorde de 35 golos, de memória). Taça dos Campeões 1984/85: quartos (Bordeaux). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 European Cup: Quarter-finals). Alterado: gp 38→39, g 36→39, uG 1→4."
+    "note": "Vote: 7th, 10 points (Wikipedia). Soviet calendar-year league 1985: top scorer (record 35 goals, from memory). European Cup 1984/85: quarter-finals (Bordeaux). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 European Cup: Quarter-finals). Changed: gp 38→39, g 36→39, uG 1→4."
    },
    {
     "name": "Hans-Peter Briegel",
@@ -1960,7 +1960,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
-    "note": "Votação: 8.º, 9 pontos (Wikipédia). Campeão italiano 1984/85 com o Verona. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1985–86 European Cup). Alterado: gp 30→27, uT →UCL."
+    "note": "Vote: 8th, 9 points (Wikipedia). Italian champion 1984/85 with Verona. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1985–86 European Cup). Changed: gp 30→27, uT →UCL."
    },
    {
     "name": "Bryan Robson",
@@ -1994,7 +1994,7 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Football_League",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup"
     ],
-    "note": "Votação: 9.º ex aequo, 8 pontos (Wikipédia). Taça UEFA 1984/85: quartos (Videoton). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 UEFA Cup: Quarter-finals). Alterado: gp 38→29, g 10→6, uG 2→0."
+    "note": "Vote: tied 9th, 8 points (Wikipedia). UEFA Cup 1984/85: quarter-finals (Videoton). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 UEFA Cup: Quarter-finals). Changed: gp 38→29, g 10→6, uG 2→0."
    },
    {
     "name": "Rinat Dasayev",
@@ -2024,7 +2024,7 @@
      "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
      "https://en.wikipedia.org/wiki/Rinat_Dasayev"
     ],
-    "note": "Votação: 9.º ex aequo, 8 pontos (Wikipédia). Liga soviética de ano civil 1985. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Vote: tied 9th, 8 points (Wikipedia). Soviet calendar-year league 1985. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Diego Maradona",
@@ -2056,7 +2056,7 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_SSC_Napoli_season",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A"
     ],
-    "note": "Inelegível (argentino). Serie A 1984/85. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 30→32, g 14→17."
+    "note": "Ineligible (Argentine). Serie A 1984/85. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 30→32, g 14→17."
    }
   ]
  }

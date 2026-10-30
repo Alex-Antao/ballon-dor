@@ -1,19 +1,19 @@
-# Especificação dos dados-fonte (data-src/*.json)
+# Source data specification (data-src/*.json)
 
-Cada ficheiro `data-src/AAAA-BBBB.json` cobre um bloco de anos. `gen-data.js` junta todos em `data.js` (sem fontes) e `sources.json` (só fontes).
+Each `data-src/YYYY-YYYY.json` file covers a block of years. `gen-data.js` merges them into `data.js` (no sources) and `sources.json` (sources only). `tests/unit/data.test.js` checks the rules below.
 
-## Formato
+## Format
 
 ```json
 {
   "1998": {
-    "label": "Ano civil 1998 (+ Mundial 1998)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus)",
-    "real": "Zinedine Zidane",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 1998 (+ World Cup 1998)",
+    "award": "Ballon d’Or (France Football; European journalists)",
+    "winner": "Zinedine Zidane",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "texto livre (pt-PT) sobre particularidades do ano",
+    "notes": "free text (English) about the year's particulars",
     "rows": [
       { "name": "Zinedine Zidane", "club": "Juventus", "lg": "SA", "pos": "AM",
         "gp": 0, "g": 0, "a": 0, "uT": "UCL", "uG": 0, "uA": 0, "uS": 4,
@@ -26,58 +26,58 @@ Cada ficheiro `data-src/AAAA-BBBB.json` cobre um bloco de anos. `gen-data.js` ju
 }
 ```
 
-## Ano / janela
-- `window`: `CY` = ano civil (1 jan–31 dez do ano Y). Vale para TODOS os anos até 2021 (incl. 2010–2015, FIFA Ballon d’Or). `P` = época oficial (2022+: época que termina em Y; 2023 inclui o Mundial 2022).
-- `real`: vencedor oficial da Bola de Ouro nesse ano (`null` se não atribuído, p.ex. 2020).
-- `realAll`: só preencher quando a France Football (2016) atribuiu RETROATIVAMENTE o prémio a um jogador inelegível nesse ano (p.ex. Pelé, Maradona). Senão `null`. Confirmar na web.
-- `label`, `award`, `notes` em português de Portugal.
+## Year / window
+- `window`: `CY` = calendar year (1 Jan–31 Dec of year Y). Applies to EVERY year up to 2021 (incl. 2010–2015, FIFA Ballon d’Or). `P` = official season (2022+: the season ending in Y; 2023 includes the 2022 World Cup).
+- `winner`: official Ballon d'Or winner that year (`null` if not awarded, e.g. 2020).
+- `winnerAll`: only set when France Football (2016) RETROACTIVELY gave the award to a player who was ineligible that year (e.g. Pelé, Maradona). Otherwise `null`. Confirm on the web.
+- `label`, `award`, `notes` in English.
 
-## Linhas (candidatos)
-- Top 10 da votação oficial (empates contam: incluir todos os empatados no 10.º lugar).
-- Mais, quando relevante, 1–3 jogadores INELEGÍVEIS que teriam sido candidatos fortes (`elig: 0`, `rank: null`). O vencedor retroativo da FF, se existir, tem de estar.
-- `elig`: 1956–1994 só jogadores europeus; 1995–2006 qualquer nacionalidade mas em clube europeu; 2007+ todos. 1 = podia ganhar segundo as regras desse ano.
+## Rows (candidates)
+- Top 10 of the official vote (ties count: include everyone tied for 10th).
+- Plus, when relevant, 1–3 INELIGIBLE players who would have been strong candidates (`elig: 0`, `rank: null`). France Football's retroactive winner, if any, must be there.
+- `elig`: 1956–1994 European players only; 1995–2006 any nationality but at a European club; 2007+ everyone. 1 = could win under that year's rules.
 
-## Âmbito das estatísticas (igual para todos)
-Só LIGA nacional + COMPETIÇÃO CONTINENTAL DE CLUBES + FASE FINAL de torneio de seleções. Taças nacionais, supertaças, Intercontinental/Mundial de Clubes, qualificações e particulares NÃO entram.
+## Scope of the statistics (the same for everyone)
+Only the national LEAGUE + CONTINENTAL CLUB COMPETITION + FINAL TOURNAMENT of a national-team competition. Domestic cups, super cups, Intercontinental/Club World Cup, qualifiers and friendlies do NOT count.
 
-Com `window: CY`, conta-se o que foi jogado entre 1 jan e 31 dez de Y (2.ª metade da época Y-1/Y + 1.ª metade de Y/Y+1; ligas de ano civil, como Brasil/URSS/Escandinávia, contam o ano). Se não for possível obter a divisão, usa-se a época que termina em Y (`win: "S"`, e `conf` passa a "C"). Com `window: P`, `win: "P"`.
+With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second half of season Y-1/Y + first half of Y/Y+1; calendar-year leagues, such as Brazil/USSR/Scandinavia, count the year). If the split cannot be obtained, use the season ending in Y (`win: "S"`, and `conf` becomes "C"). With `window: P`, `win: "P"`.
 
-- `name`: como no data.js atual quando o jogador já existe (p.ex. "Lionel Messi", "Cristiano Ronaldo", "Andrés Iniesta").
-- `club`: clube principal na janela (se mudou, "Clube A / Clube B"). `lg` = liga do clube onde fez mais jogos.
-- `lg` (códigos): EPL (Inglaterra 1.º escalão, incl. First Division), LL, BL (RFA Bundesliga; antes de 1963 Oberliga = GER), SA, L1, ERE, POR, SCO, BEL, AUT, SUI, SWE, DEN, NOR, TUR, GRE, URS, RUS, UKR, YUG, TCH, HUN, POL, ROU, BUL, DDR, BRA, ARG, URU, MEX, MLS, KSA. Outro → código de 3 letras e explicar em `note`.
-- `pos`: FW (ponta de lança), W (extremo/avançado de ala), AM (médio ofensivo/10), CM, DM, DF, GK.
-- `gp/g/a`: jogos/golos/assistências na liga + competição continental.
-- `uT`: competição continental cuja fase a eliminar decorreu na janela (para CY, a edição que termina em Y; se o jogador estava em duas, a mais importante). Códigos: UCL (Taça dos Campeões Europeus / Liga dos Campeões), CWC (Taça das Taças), UEL (Taça UEFA / Liga Europa / Taça das Cidades com Feiras), ECL (Liga Conferência), LIB (Libertadores), SUD (Sul-Americana), "" nenhuma.
-- `uG/uA`: golos/assistências continentais na janela (subconjunto de g/a).
-- `uS`: fase atingida nessa edição, contada pela distância à final: 0 = eliminado antes dos oitavos ou não jogou, 1 = oitavos (ou ronda equivalente: 16 equipas), 2 = quartos, 3 = meias, 4 = final perdida, 5 = vencedor. Formatos com grupos (UCL 1992/93, 1993/94; Libertadores antiga) → equivalente pela distância à final. NÃO aplicar descontos por prova: o peso de cada prova é tratado no models.js.
-- `ntT`: WC, EURO, COPA, AFCON, ASIAN, GOLD ou "" (Taça das Confederações e Jogos Olímpicos NÃO contam). `ntGP/ntG/ntA` jogos/golos/assistências só na fase final. `ntS` fase final pela mesma escala 0–5 (fase de grupos = 0; formatos com 2.ª fase de grupos/liga → equivalente pela distância à final; Copa América em liga: 1.º = 5, 2.º = 4, 3.º/4.º = 3, resto = 1). Euro 1960–1976 (4 equipas): meias = 3.
-- `title`: 1 se foi campeão nacional numa liga cuja época terminou na janela, com papel relevante (≥1/3 dos jogos).
-- `cont`: só para CM/DM/DF/GK (null em FW/W/AM). Contributo não ofensivo 0–10, ESTIMATIVA SUBJETIVA. Calibração dos dados atuais: Neuer 2014 = 10, Rodri 2024 = 10, Buffon 2017 = 9,5, Van Dijk 2019 = 9,5, Modrić 2018 = 9,5, Kanté 2021 = 9,5, Xavi = 9, Thiago Silva 2013 = 9, Carvajal 2024 = 9, Iniesta = 8,5, Jorginho 2021 = 8,5, Vitinha 2025 = 8,5, Hakimi 2025 = 8,5. Um candidato de elite fica tipicamente entre 7 e 10.
-- `rank`: posição na votação oficial (empates = mesma posição). `null` se não votado/inelegível.
-- `conf` (números sem ser assistências): A = verificado em ≥1 fonte fiável para essa janela; B = parcialmente verificado (p.ex. totais por época verificados, divisão do ano civil estimada a partir de jogos conhecidos); C = estimativa, ou `win: "S"` em ano CY.
-- `aConf`: confiança de a/uA/ntA (antes de ~2005 normalmente C = estimado).
-- `sources`: URLs efetivamente consultados para essa linha. `note`: dúvidas, divergências entre fontes, etc.
+- `name`: as in the current data.js when the player already exists (e.g. "Lionel Messi", "Cristiano Ronaldo", "Andrés Iniesta").
+- `club`: main club in the window (if they moved, "Club A / Club B"). `lg` = league of the club where they played most games.
+- `lg` (codes): EPL (English top flight, incl. First Division), LL, BL (West German Bundesliga; before 1963 Oberliga = GER), SA, L1, ERE, POR, SCO, BEL, AUT, SUI, SWE, DEN, NOR, TUR, GRE, URS, RUS, UKR, YUG, TCH, HUN, POL, ROU, BUL, DDR, BRA, ARG, URU, MEX, MLS, KSA. Other → 3-letter code, explained in `note`.
+- `pos`: FW (centre-forward), W (winger/wide forward), AM (attacking midfielder/10), CM, DM, DF, GK.
+- `gp/g/a`: games/goals/assists in the league + continental competition.
+- `uT`: continental competition whose knockout phase took place in the window (for CY, the edition ending in Y; if the player was in two, the more important one). Codes: UCL (European Champion Clubs' Cup / Champions League), CWC (Cup Winners' Cup), UEL (UEFA Cup / Europa League / Inter-Cities Fairs Cup), ECL (Conference League), LIB (Libertadores), SUD (Sudamericana), "" none.
+- `uG/uA`: continental goals/assists in the window (a subset of g/a).
+- `uS`: stage reached in that edition, counted by distance to the final: 0 = out before the round of 16 or did not play, 1 = round of 16 (or equivalent round: 16 teams), 2 = quarter-finals, 3 = semi-finals, 4 = lost final, 5 = winner. Formats with groups (UCL 1992/93, 1993/94; old Libertadores) → equivalent by distance to the final. Do NOT discount by competition: the weight of each competition is handled in models.js.
+- `ntT`: WC, EURO, COPA, AFCON, ASIAN, GOLD or "" (the Confederations Cup and the Olympic Games do NOT count). `ntGP/ntG/ntA` games/goals/assists in the final tournament only. `ntS` final-tournament stage on the same 0–5 scale (group stage = 0; formats with a second group/league stage → equivalent by distance to the final; Copa América as a league: 1st = 5, 2nd = 4, 3rd/4th = 3, rest = 1). Euro 1960–1976 (4 teams): semi-finals = 3.
+- `title`: 1 if they were league champion in a league whose season ended in the window, with a relevant role (≥1/3 of the games).
+- `cont`: only for CM/DM/DF/GK (null for FW/W/AM). Non-attacking contribution 0–10, a SUBJECTIVE ESTIMATE. Calibration of the current data: Neuer 2014 = 10, Rodri 2024 = 10, Buffon 2017 = 9.5, Van Dijk 2019 = 9.5, Modrić 2018 = 9.5, Kanté 2021 = 9.5, Xavi = 9, Thiago Silva 2013 = 9, Carvajal 2024 = 9, Iniesta = 8.5, Jorginho 2021 = 8.5, Vitinha 2025 = 8.5, Hakimi 2025 = 8.5. An elite candidate is typically between 7 and 10.
+- `rank`: position in the official vote (ties = same position). `null` if not voted for/ineligible.
+- `conf` (numbers other than assists): A = verified in ≥1 reliable source for that window; B = partly verified (e.g. season totals verified, calendar-year split estimated from known games); C = estimate, or `win: "S"` in a CY year.
+- `aConf`: confidence of a/uA/ntA (before ~2005 usually C = estimated).
+- `sources`: URLs actually consulted for that row. `note`: doubts, disagreements between sources, etc.
 
-## Regras decididas depois da primeira passagem
-- **Europa sem edição a terminar em Y:** `uT` = prova jogada no outono de Y, `uS` = 0. Em `g`/`uG` (e `gp`) entram TODOS os jogos continentais do ano civil (das duas edições); `uT`/`uS` referem-se à edição que termina em Y quando existe.
-- **Títulos retirados:** conta o que se sabia na altura da votação (dezembro de Y). Juventus 2004/05 conta em 2005 (retirado só em 2006); Juventus 2005/06 não conta em 2006; Marselha 1992/93 não conta em 1993.
-- **Dois torneios de seleções no mesmo ano** (p.ex. CAN + Mundial): fica o de maior `ntS` × NTMULT (empate → maior produção); o outro vai para `note`.
-- **Brasil antes de 1971:** campeonato estadual + torneio nacional como `lg: "BRA"`.
-- Ligas extra aceites: EN2 (2.º escalão inglês), ITB (Serie B), CZE, PER, CHN.
+## Rules decided after the first pass
+- **Europe without an edition ending in Y:** `uT` = competition played in the autumn of Y, `uS` = 0. `g`/`uG` (and `gp`) include ALL continental games of the calendar year (from both editions); `uT`/`uS` refer to the edition ending in Y when there is one.
+- **Revoked titles:** what was known at the time of the vote (December of Y) counts. Juventus 2004/05 counts in 2005 (only revoked in 2006); Juventus 2005/06 does not count in 2006; Marseille 1992/93 does not count in 1993.
+- **Two national-team tournaments in the same year** (e.g. AFCON + World Cup): keep the one with the higher `ntS` × NTMULT (tie → higher output); the other goes in `note`.
+- **Brazil before 1971:** state championship + national tournament as `lg: "BRA"`.
+- Extra leagues accepted: EN2 (English second tier), ITB (Serie B), CZE, PER, CHN.
 
-## Método de verificação (2.ª passagem)
-- Ler a Wikipédia por wikitext: `curl -s "https://en.wikipedia.org/w/index.php?title=TÍTULO&action=raw"` (outras línguas: trocar `en`). Encontrar títulos com `https://en.wikipedia.org/w/api.php?action=opensearch&search=...&format=json`.
-- Fontes úteis: páginas de época dos clubes (`2012–13 FC Barcelona season`, com marcadores jogo a jogo → permitem contar o ano civil), páginas dos torneios de seleções e de cada edição europeia, estatísticas de carreira do jogador, RSSSF (`www.rsssf.org`), eu-football.info (jogos de seleção).
-- NÃO usar transfermarkt, fbref nem worldfootball (protecção anti-bots) e nunca falsear o user-agent. Evitar WebSearch (quota partilhada).
-- Confiança por linha = componente mais fraca de (gp/g, uG/uS, nt*, title):
-  - A: números do ano civil (ou da época, se window P) contados a partir de dados jogo a jogo ou de totais oficiais para essa janela exata.
-  - B: totais por época verificados e divisão do ano civil estimada com dados parciais.
-  - C: estimativa.
-- `aConf`: A/B só quando há registo de assistências numa fonte; senão C.
+## Verification method (second pass)
+- Read Wikipedia as wikitext: `curl -s "https://en.wikipedia.org/w/index.php?title=TITLE&action=raw"` (other languages: swap `en`). Find titles with `https://en.wikipedia.org/w/api.php?action=opensearch&search=...&format=json`.
+- Useful sources: club season pages (`2012–13 FC Barcelona season`, with match-by-match scorers → allow counting the calendar year), the pages of the national-team tournaments and of each European edition, the player's career statistics, RSSSF (`www.rsssf.org`), eu-football.info (national-team games).
+- Do NOT use transfermarkt, fbref or worldfootball (anti-bot protection) and never fake the user agent. Avoid WebSearch (shared quota).
+- Confidence per row = the weakest component of (gp/g, uG/uS, nt*, title):
+  - A: calendar-year numbers (or season numbers, if window P) counted from match-by-match data or from official totals for that exact window.
+  - B: season totals verified and calendar-year split estimated with partial data.
+  - C: estimate.
+- `aConf`: A/B only when a source records assists; otherwise C.
 
-### Ferramentas (verify/)
-`node verify/resolve.js` (nomes → títulos da Wikipédia em `verify/titles.json`; homónimos por época com chave `Nome@2010`), depois por bloco `node verify/verify.js 2010-2014.json [anos]` (propostas em `verify/work/prop/`, relatório no ecrã), `node verify/big.js 2010-2014.json` (diferenças grandes para rever à mão) e `node verify/apply.js 2010-2014.json` (escreve no data-src; correções manuais em `verify/overrides.json`). Cache das páginas em `verify/work/` (não versionada). Para reaplicar um bloco partir sempre do ficheiro limpo (`git checkout`), senão a nota "Alterado: …" perde os valores antigos.
-- Clube (`club.js`): tabela "Career statistics" do jogador (liga + coluna Europa por época) + caixas de jogo das páginas de época (`{{football box}}`, tabelas Data/Marcadores, modelos `{{X matches|…}}` expandidos pela API). Golos do ano civil contados jogo a jogo (escalados se a página não bater com a tabela); jogos = jogos da época × proporção de jogos do clube no ano (por isso CY fica no máximo B). Página incompleta → 50%; sem nenhuma página → época que termina no ano (`win: "S"`, C). Equipas B/reservas ignoradas.
-- Título (`club.js`): campo `champions` da caixa da página da liga dessa época; conta com ≥ 10 jogos de liga.
-- Prova/fase europeia (`eu.js`): secções de ronda da página da edição que termina em Y (e subpáginas), fase = distância à final; campeão pelo campo `champion(s)`/`champion_other`. Se o clube jogou a fase a eliminar de uma prova, fica essa (ex.: Atlético 2009/10 → UEL vencida, não UCL fase de grupos). Sem edição a terminar em Y → prova do outono com `uS` 0.
-- Seleção (`nt.js`): subpáginas do torneio (grupos, eliminatórias, final e jogos com artigo próprio); jogos = presença no onze ou entrada como suplente (`{{subon}}`); golos pelas caixas; fase da equipa pela ronda mais avançada (campeão pela caixa do torneio). Jogos sem onze na Wikipédia → `ntGP` não baixa e a componente fica B. Formatos com 2.ª fase de grupos (Mundiais 1974–82, Euro 1980, Copa América < 1993) → `ntS` fica manual.
+### Tools (verify/)
+`node verify/resolve.js` (names → Wikipedia titles in `verify/titles.json`; namesakes per era with a `Name@2010` key), then per block `node verify/verify.js 2010-2014.json [years]` (proposals in `verify/work/prop/`, report on screen), `node verify/big.js 2010-2014.json` (large differences to review by hand) and `node verify/apply.js 2010-2014.json` (writes to data-src; manual corrections in `verify/overrides.json`). Page cache in `verify/work/` (not versioned). To re-apply a block, always start from the clean file (`git checkout`), otherwise the "Changed: …" note loses the old values.
+- Club (`club.js`): the player's "Career statistics" table (league + Europe column per season) + the match boxes of the season pages (`{{football box}}`, Date/Scorers tables, `{{X matches|…}}` templates expanded through the API). Calendar-year goals counted match by match (scaled if the page does not match the table); games = season games × share of the club's games in the year (so CY is at most B). Incomplete page → 50%; no page at all → season ending in the year (`win: "S"`, C). B teams/reserves ignored.
+- Title (`club.js`): `champions` field of the infobox of that season's league page; counts with ≥ 10 league games.
+- European competition/stage (`eu.js`): round sections of the page of the edition ending in Y (and sub-pages), stage = distance to the final; champion from the `champion(s)`/`champion_other` field. If the club played the knockout phase of a competition, that one stays (e.g. Atlético 2009/10 → UEL won, not the UCL group stage). No edition ending in Y → the autumn competition with `uS` 0.
+- National team (`nt.js`): the tournament's sub-pages (groups, knockout stage, final and matches with an article of their own); games = in the starting line-up or on as a substitute (`{{subon}}`); goals from the boxes; the team's stage from the furthest round (champion from the tournament infobox). Games without a line-up on Wikipedia → `ntGP` does not go down and the component stays B. Formats with a second group stage (World Cups 1974–82, Euro 1980, Copa América < 1993) → `ntS` stays manual.

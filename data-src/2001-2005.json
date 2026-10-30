@@ -1,12 +1,12 @@
 {
  "2001": {
-  "label": "Ano civil 2001",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Michael Owen",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa: a regra 1995–2006 já admitia qualquer nacionalidade em clubes europeus (o retroativo da FF de 2016 só abrange anos anteriores a 1995).",
+  "label": "Calendar year 2001",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Michael Owen",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award: the 1995–2006 rule already admitted any nationality at European clubs (FF's 2016 retroactive list only covers years before 1995).",
   "window": "CY",
-  "notes": "Votação publicada na France Football (18/12/2001): Owen 176, Raúl 140, Kahn 114, Beckham 102, Totti 57, Figo 56, Rivaldo 20, Shevchenko 18, Henry 14, Zidane 14 (9.º ex aequo; 11.º Lizarazu 10). Pontos confirmados por pesquisa (Wikipédia/RSSSF/Topendsports). Sem torneio de seleções que conte (Copa América 2001 sem nenhum candidato relevante; Argentina desistiu). Liverpool ganhou a Taça UEFA 2000/01 (uT UEL); golos europeus de out–dez (UCL 2001/02) incluídos em g/uG.",
+  "notes": "Vote published in France Football (18/12/2001): Owen 176, Raúl 140, Kahn 114, Beckham 102, Totti 57, Figo 56, Rivaldo 20, Shevchenko 18, Henry 14, Zidane 14 (tied 9th; 11th Lizarazu 10). Points confirmed by search (Wikipedia/RSSSF/Topendsports). No national-team tournament that counts (2001 Copa América without any relevant candidate; Argentina withdrew). Liverpool won the 2000/01 UEFA Cup (uT UEL); Oct–Dec European goals (UCL 2001/02) included in g/uG.",
   "rows": [
    {
     "name": "Michael Owen",
@@ -45,7 +45,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup"
     ],
-    "note": "11v11/StatMuse: PL 2000/01 16 golos (20–28 j.), Taça UEFA 2000/01 10 j./4 g.; PL 2001/02 19 golos (25–29 j.), UCL 2001/02 10 j./5 g. Referência: 36 golos em 54 jogos em 2001 em todas as provas (clube+seleção). uG inclui UCL out–dez 2001. Totais por época parcialmente verificados via pesquisa; divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Cup: Final). Alterado: gp 42→40, g 22→26, uG 5→8."
+    "note": "11v11/StatMuse: PL 2000/01 16 goals (20–28 gp), UEFA Cup 2000/01 10 gp/4 g; PL 2001/02 19 goals (25–29 gp), UCL 2001/02 10 gp/5 g. Reference: 36 goals in 54 games in 2001 in all competitions (club + national team). uG includes UCL Oct–Dec 2001. Season totals partly verified via search; calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Cup: Final). Changed: gp 42→40, g 22→26, uG 5→8."
    },
    {
     "name": "Raúl",
@@ -83,7 +83,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_La_Liga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Pesquisa: Liga 2000/01 36 j./24 g., UCL 2000/01 11 j./7 g.; Liga 2001/02 34 j./14 g. (só 11v11), UCL 2001/02 12 j./~6 g. Nome como \"Raúl\" (verificar se data.js usa outra grafia). Totais por época parcialmente verificados via pesquisa; divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: Semi-finals). Alterado: gp 50→48, g 27→31."
+    "note": "Search: Liga 2000/01 36 gp/24 g, UCL 2000/01 11 gp/7 g; League 2001/02 34 gp/14 g. (11v11 only), UCL 2001/02 12 gp/~6 g. Name as \"Raúl\" (check whether data.js uses another spelling). Season totals partly verified via search; calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Semi-finals). Changed: gp 50→48, g 27→31."
    },
    {
     "name": "Oliver Kahn",
@@ -119,7 +119,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Bundesliga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Herói da final da UCL 2001 (3 penáltis defendidos). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: Final). Alterado: gp 49→48."
+    "note": "Hero of the UCL 2001 final (3 penalties saved). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Final). Changed: gp 49→48."
    },
    {
     "name": "David Beckham",
@@ -155,7 +155,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Ala direito/médio direito. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: Quarter-finals). Alterado: gp 44→40, g 14→8, uG 4→2."
+    "note": "Right winger/right midfielder. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Quarter-finals). Changed: gp 44→40, g 14→8, uG 4→2."
    },
    {
     "name": "Francesco Totti",
@@ -191,7 +191,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Serie_A",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup"
     ],
-    "note": "Roma eliminada pelo Liverpool na 4.ª ronda da Taça UEFA 2000/01 (16 equipas → uS 1); uG inclui UCL 2001/02 out–dez. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Cup: Fourth round). Alterado: gp 41→39, g 14→15, uG 1→3."
+    "note": "Roma knocked out by Liverpool in the 4th round of the 2000/01 UEFA Cup (16 teams → uS 1); uG includes UCL 2001/02 Oct–Dec. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Cup: Fourth round). Changed: gp 41→39, g 14→15, uG 1→3."
    },
    {
     "name": "Luís Figo",
@@ -227,7 +227,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_La_Liga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Venceu o FIFA World Player 2001. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: Semi-finals). Alterado: gp 45→46, g 10→15, uG 2→6."
+    "note": "Won FIFA World Player 2001. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Semi-finals). Changed: gp 45→46, g 10→15, uG 2→6."
    },
    {
     "name": "Rivaldo",
@@ -263,7 +263,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_La_Liga",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup"
     ],
-    "note": "Barça caiu na 1.ª fase de grupos da UCL 2000/01 e chegou às meias da Taça UEFA 2000/01; uG inclui UCL 2001/02 out–dez. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Cup: Semi-finals). Alterado: gp 44→43, uG 7→9."
+    "note": "Barça went out in the first group stage of the UCL 2000/01 and reached the semi-finals of the 2000/01 UEFA Cup; uG includes UCL 2001/02 Oct–Dec. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Cup: Semi-finals). Changed: gp 44→43, uG 7→9."
    },
    {
     "name": "Andriy Shevchenko",
@@ -299,7 +299,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Serie_A",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Milan eliminado na 2.ª fase de grupos da UCL 2000/01 (16 equipas → uS 1); uG inclui Taça UEFA 2001/02 out–dez. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: Second group stage). Alterado: gp 42→43, g 25→29."
+    "note": "Milan knocked out in the second group stage of the UCL 2000/01 (16 teams → uS 1); uG includes the 2001/02 UEFA Cup Oct–Dec. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Second group stage). Changed: gp 42→43, g 25→29."
    },
    {
     "name": "Thierry Henry",
@@ -335,7 +335,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: Quarter-finals). Alterado: gp 48→46, g 26→28, uG 6→8."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: Quarter-finals). Changed: gp 48→46, g 26→28, uG 6→8."
    },
    {
     "name": "Zinedine Zidane",
@@ -371,7 +371,7 @@
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_Serie_A",
      "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
-    "note": "Juventus eliminada na 1.ª fase de grupos da UCL 2000/01 (em 2000), por isso uS 0; uG = UCL 2001/02 out–dez com o Real Madrid. lg: SA (Juve jan–jun) ~ LL (Real ago–dez), jogos semelhantes. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2000–01 UEFA Champions League: First group stage). Alterado: gp 41→40, g 9→8."
+    "note": "Juventus knocked out in the first group stage of the UCL 2000/01 (in 2000), so uS 0; uG = UCL 2001/02 Oct–Dec with Real Madrid. lg: SA (Juve Jan–Jun) ~ LL (Real Aug–Dec), similar games. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2000–01 UEFA Champions League: First group stage). Changed: gp 41→40, g 9→8."
    },
    {
     "name": "Juan Román Riquelme",
@@ -404,18 +404,18 @@
      "https://en.wikipedia.org/wiki/Juan_Rom%C3%A1n_Riquelme",
      "https://en.wikipedia.org/wiki/2001_Copa_Libertadores"
     ],
-    "note": "Inelegível (clube fora da Europa). Ano civil = Clausura 2001 + Apertura 2001 (nenhum ganho pelo Boca). Campeão da Libertadores 2001; Futebolista Sul-Americano do Ano 2001. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (2001 Copa Libertadores: Finals); por verificar: título. Alterado: gp 40→41, g 11→13."
+    "note": "Ineligible (club outside Europe). Calendar year = Clausura 2001 + Apertura 2001 (neither won by Boca). Libertadores champion 2001; South American Footballer of the Year 2001. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (2001 Copa Libertadores: Finals); to verify: title. Changed: gp 40→41, g 11→13."
    }
   ]
  },
  "2002": {
-  "label": "Ano civil 2002 (+ Mundial 2002)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Ronaldo",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa: a regra 1995–2006 já admitia qualquer nacionalidade em clubes europeus (o retroativo da FF de 2016 só abrange anos anteriores a 1995).",
+  "label": "Calendar year 2002 (+ World Cup 2002)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Ronaldo",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award: the 1995–2006 rule already admitted any nationality at European clubs (FF's 2016 retroactive list only covers years before 1995).",
   "window": "CY",
-  "notes": "Votação (France Football n.º 2958, 17/12/2002): Ronaldo 169, Roberto Carlos 145, Kahn 110, Zidane 78, Ballack 71, Henry 54, Raúl 38, Rivaldo 31, Baştürk 13, Del Piero 12 (11.º Hasan Şaş 10). A própria FF publicou Ronaldo 171, Kahn 114, Ballack 67, Rivaldo 29 (um boletim escocês terá sido contado ao contrário) — a ordem não muda. Mundial 2002 conta (ntT WC).",
+  "notes": "Vote (France Football no. 2958, 17/12/2002): Ronaldo 169, Roberto Carlos 145, Kahn 110, Zidane 78, Ballack 71, Henry 54, Raúl 38, Rivaldo 31, Baştürk 13, Del Piero 12 (11th Hasan Şaş 10). FF itself published Ronaldo 171, Kahn 114, Ballack 67, Rivaldo 29 (a Scottish ballot was apparently counted backwards) — the order does not change. The 2002 World Cup counts (ntT WC).",
   "rows": [
    {
     "name": "Ronaldo",
@@ -452,7 +452,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Inter jan–mai (regresso de lesão), Real Madrid desde out 2002. uT = Taça UEFA 2001/02 do Inter (meias); jogou pouco na fase a eliminar. Mundial: 8 golos, Chuteira de Ouro. lg LL (mais jogos no Real). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2001–02 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Cup: Semi-finals). Alterado: g 14→9."
+    "note": "Inter Jan–May (back from injury), Real Madrid from Oct 2002. uT = Inter's 2001/02 UEFA Cup (semi-finals); played little in the knockout phase. World Cup: 8 goals, Golden Boot. lg LL (more games at Real). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2001–02 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Cup: Semi-finals). Changed: g 14→9."
    },
    {
     "name": "Roberto Carlos",
@@ -489,7 +489,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Final). Alterado: gp 48→44, g 5→2, uG 1→0, ntGP 7→6."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final). Changed: gp 48→44, g 5→2, uG 1→0, ntGP 7→6."
    },
    {
     "name": "Oliver Kahn",
@@ -526,7 +526,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Bola de Ouro e Prémio Yashin do Mundial 2002. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Quarter-finals). Alterado: gp 42→44."
+    "note": "Golden Ball and Yashin Award at the 2002 World Cup. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Quarter-finals). Changed: gp 42→44."
    },
    {
     "name": "Zinedine Zidane",
@@ -563,7 +563,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Golo da final da UCL 2002. Lesionado no Mundial (1 jogo, França eliminada na fase de grupos). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Final). Alterado: gp 44→39, g 11→10."
+    "note": "Goal in the UCL 2002 final. Injured at the World Cup (1 game, France knocked out in the group stage). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final). Changed: gp 44→39, g 11→10."
    },
    {
     "name": "Michael Ballack",
@@ -600,7 +600,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Final da UCL 2002 perdida com o Leverkusen; falhou a final do Mundial por castigo. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2002–03 Bayern Munich: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Final). Alterado: gp 43→38, g 19→18."
+    "note": "UCL 2002 final lost with Leverkusen; missed the World Cup final through suspension. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2002–03 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final). Changed: gp 43→38, g 19→18."
    },
    {
     "name": "Thierry Henry",
@@ -637,7 +637,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Arsenal eliminado na 2.ª fase de grupos da UCL 2001/02 (uS 1). Campeão 2001/02. Expulso no Mundial. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2002–03 Arsenal: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Second group stage). Alterado: gp 47→44, g 30→26, uG 7→6."
+    "note": "Arsenal knocked out in the second group stage of the UCL 2001/02 (uS 1). Champion 2001/02. Sent off at the World Cup. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2002–03 Arsenal: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Second group stage). Changed: gp 47→44, g 30→26, uG 7→6."
    },
    {
     "name": "Raúl",
@@ -673,7 +673,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_La_Liga",
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League"
     ],
-    "note": "Golo na final da UCL 2002. Falhou os quartos do Mundial por lesão. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Final); por verificar: seleção. Alterado: gp 48→47."
+    "note": "Goal in the UCL 2002 final. Missed the World Cup quarter-final through injury. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Final); to verify: national team. Changed: gp 48→47."
    },
    {
     "name": "Rivaldo",
@@ -710,7 +710,7 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Milan desde jul 2002. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Semi-finals). Alterado: gp 39→33, g 14→7, uG 5→0."
+    "note": "Milan since Jul 2002. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Semi-finals). Changed: gp 39→33, g 14→7, uG 5→0."
    },
    {
     "name": "Yıldıray Baştürk",
@@ -743,7 +743,7 @@
      "https://en.wikipedia.org/wiki/Y%C4%B1ld%C4%B1ray_Ba%C5%9Ft%C3%BCrk",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Turquia 3.ª no Mundial (meias perdidas → 3). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntGP 6→7."
+    "note": "Turkey 3rd at the World Cup (semi-final lost → 3). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 6→7."
    },
    {
     "name": "Alessandro Del Piero",
@@ -780,18 +780,18 @@
      "https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
     ],
-    "note": "Juve eliminada na 2.ª fase de grupos da UCL 2001/02 (uS 1). Campeão 2001/02. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2001–02 UEFA Champions League: Second group stage). Alterado: gp 38→37, g 18→21, ntGP 4→3, ntS 1→0."
+    "note": "Juve knocked out in the second group stage of the UCL 2001/02 (uS 1). Champion 2001/02. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2001–02 UEFA Champions League: Second group stage). Changed: gp 38→37, g 18→21, ntGP 4→3, ntS 1→0."
    }
   ]
  },
  "2003": {
-  "label": "Ano civil 2003",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Pavel Nedvěd",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa: a regra 1995–2006 já admitia qualquer nacionalidade em clubes europeus (o retroativo da FF de 2016 só abrange anos anteriores a 1995).",
+  "label": "Calendar year 2003",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Pavel Nedvěd",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award: the 1995–2006 rule already admitted any nationality at European clubs (FF's 2016 retroactive list only covers years before 1995).",
   "window": "CY",
-  "notes": "Votação: Nedvěd 190 (45 votos, 27 primeiros lugares), Henry 128, Maldini 123, Shevchenko 67, Zidane 64, Van Nistelrooy 61, Raúl 32, Roberto Carlos 27, Buffon 19, Beckham 17 (11.º Ronaldo 11). Sem torneio de seleções que conte. Final da UCL 2003 Milan–Juventus (Nedvěd castigado).",
+  "notes": "Vote: Nedvěd 190 (45 votes, 27 first places), Henry 128, Maldini 123, Shevchenko 67, Zidane 64, Van Nistelrooy 61, Raúl 32, Roberto Carlos 27, Buffon 19, Beckham 17 (11th Ronaldo 11). No national-team tournament that counts. UCL 2003 final Milan–Juventus (Nedvěd suspended).",
   "rows": [
    {
     "name": "Pavel Nedvěd",
@@ -827,7 +827,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Serie_A",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Castigado na final da UCL 2003 (perdida). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Final). Alterado: gp 42→41, g 13→14."
+    "note": "Suspended for the UCL 2003 final (lost). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Final). Changed: gp 42→41, g 13→14."
    },
    {
     "name": "Thierry Henry",
@@ -863,7 +863,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Arsenal eliminado na 2.ª fase de grupos da UCL 2002/03 (uS 1). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2002–03 Arsenal: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Second group stage). Alterado: gp 45→49, g 30→31, uG 5→7."
+    "note": "Arsenal knocked out in the second group stage of the UCL 2002/03 (uS 1). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2002–03 Arsenal: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Second group stage). Changed: gp 45→49, g 30→31, uG 5→7."
    },
    {
     "name": "Paolo Maldini",
@@ -899,7 +899,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Serie_A",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Capitão campeão europeu 2003. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Final). Alterado: gp 41→42."
+    "note": "European champion captain 2003. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Final). Changed: gp 41→42."
    },
    {
     "name": "Andriy Shevchenko",
@@ -935,7 +935,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Serie_A",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Penálti decisivo na final da UCL 2003. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Final). Alterado: gp 42→36, g 20→17, uG 6→3."
+    "note": "Decisive penalty in the UCL 2003 final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Final). Changed: gp 42→36, g 20→17, uG 6→3."
    },
    {
     "name": "Zinedine Zidane",
@@ -971,7 +971,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "FIFA World Player 2003. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Semi-finals). Alterado: gp 45→49, g 12→11, uG 3→2."
+    "note": "FIFA World Player 2003. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Semi-finals). Changed: gp 45→49, g 12→11, uG 3→2."
    },
    {
     "name": "Ruud van Nistelrooy",
@@ -1007,7 +1007,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Quarter-finals). Alterado: gp 42→41, g 34→38."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Quarter-finals). Changed: gp 42→41, g 34→38."
    },
    {
     "name": "Raúl",
@@ -1043,7 +1043,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Semi-finals). Alterado: gp 45→43, g 21→25, uG 7→9."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Semi-finals). Changed: gp 45→43, g 21→25, uG 7→9."
    },
    {
     "name": "Roberto Carlos",
@@ -1079,7 +1079,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_La_Liga",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Semi-finals). Alterado: gp 47→50, g 6→8, uG 1→2."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Semi-finals). Changed: gp 47→50, g 6→8, uG 1→2."
    },
    {
     "name": "Gianluigi Buffon",
@@ -1115,7 +1115,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Serie_A",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Final da UCL 2003 perdida nos penáltis. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Final). Alterado: gp 45→44."
+    "note": "UCL 2003 final lost on penalties. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Final). Changed: gp 45→44."
    },
    {
     "name": "David Beckham",
@@ -1151,7 +1151,7 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2002/03 com o United (≥1/3 dos jogos); Real Madrid desde jul 2003, aí médio centro. lg LL por ter mais jogos no Real na janela (estimado). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2002–03 UEFA Champions League: Quarter-finals). Alterado: gp 39→37."
+    "note": "English champion 2002/03 with United (≥1/3 of the games); Real Madrid since Jul 2003, as a central midfielder there. lg LL because of more games at Real in the window (estimated). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2002–03 UEFA Champions League: Quarter-finals). Changed: gp 39→37."
    },
    {
     "name": "Carlos Tevez",
@@ -1185,18 +1185,18 @@
      "https://en.wikipedia.org/wiki/2002%E2%80%9303_Club_Atl%C3%A9tico_Boca_Juniors_season",
      "https://en.wikipedia.org/wiki/2003_Copa_Libertadores"
     ],
-    "note": "Inelegível (clube fora da Europa). Ano civil = Clausura 2003 + Apertura 2003 (Boca campeão do Apertura). Campeão da Libertadores 2003; Sul-Americano do Ano 2003. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (2003 Copa Libertadores: Finals); por verificar: título. Alterado: gp 45→41, g 18→16."
+    "note": "Ineligible (club outside Europe). Calendar year = Clausura 2003 + Apertura 2003 (Boca won the Apertura). Libertadores champion 2003; South American of the Year 2003. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (2003 Copa Libertadores: Finals); to verify: title. Changed: gp 45→41, g 18→16."
    }
   ]
  },
  "2004": {
-  "label": "Ano civil 2004 (+ Euro 2004 e Copa América 2004)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Andriy Shevchenko",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa: a regra 1995–2006 já admitia qualquer nacionalidade em clubes europeus (o retroativo da FF de 2016 só abrange anos anteriores a 1995).",
+  "label": "Calendar year 2004 (+ Euro 2004 and Copa América 2004)",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Andriy Shevchenko",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award: the 1995–2006 rule already admitted any nationality at European clubs (FF's 2016 retroactive list only covers years before 1995).",
   "window": "CY",
-  "notes": "Votação: Shevchenko 175, Deco 139, Ronaldinho 133, Henry 80, Zagorakis 44, Adriano 27, Nedvěd 23, Rooney 22, Ricardo Carvalho 18 e Van Nistelrooy 18 (9.º ex aequo; o site oficial põe Van Nistelrooy em 10.º). C. Ronaldo 12.º com 11. Euro 2004 e Copa América 2004 contam. Porto campeão europeu 2004.",
+  "notes": "Vote: Shevchenko 175, Deco 139, Ronaldinho 133, Henry 80, Zagorakis 44, Adriano 27, Nedvěd 23, Rooney 22, Ricardo Carvalho 18 and Van Nistelrooy 18 (tied 9th; the official site puts Van Nistelrooy 10th). C. Ronaldo 12th with 11. Euro 2004 and the 2004 Copa América count. Porto European champions 2004.",
   "rows": [
    {
     "name": "Andriy Shevchenko",
@@ -1232,7 +1232,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Serie_A",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
     ],
-    "note": "Capocannoniere 2003/04. Ucrânia não foi ao Euro 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Quarter-finals). Alterado: gp 41→40, g 27→29, uG 4→6."
+    "note": "Capocannoniere 2003/04. Ukraine did not go to Euro 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Quarter-finals). Changed: gp 41→40, g 27→29, uG 4→6."
    },
    {
     "name": "Deco",
@@ -1269,7 +1269,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Barcelona desde jul 2004. Golo na final da UCL 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Final). Alterado: g 11→9, uG 3→4."
+    "note": "Barcelona since Jul 2004. Goal in the UCL 2004 final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Final). Changed: g 11→9, uG 3→4."
    },
    {
     "name": "Ronaldinho",
@@ -1305,7 +1305,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_La_Liga",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Cup"
     ],
-    "note": "Barça eliminado pelo Celtic na 4.ª ronda da Taça UEFA 2003/04 (uS 1); uG inclui UCL 2004/05 set–dez. FIFA World Player 2004. Não jogou a Copa América 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Cup: Fourth round). Alterado: gp 43→42, g 18→17, uG 2→3."
+    "note": "Barça knocked out by Celtic in the 4th round of the 2003/04 UEFA Cup (uS 1); uG includes UCL 2004/05 Sep–Dec. FIFA World Player 2004. Did not play the 2004 Copa América. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Cup: Fourth round). Changed: gp 43→42, g 18→17, uG 2→3."
    },
    {
     "name": "Thierry Henry",
@@ -1342,7 +1342,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Invencíveis 2003/04; Bota de Ouro europeia 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Quarter-finals). Alterado: g 34→40, uG 4→6."
+    "note": "Invincibles 2003/04; European Golden Shoe 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Quarter-finals). Changed: g 34→40, uG 4→6."
    },
    {
     "name": "Theodoros Zagorakis",
@@ -1378,7 +1378,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Capitão da Grécia campeã europeia e melhor jogador do Euro 2004. AEK fora das provas europeias na fase a eliminar; Bologna desde ago 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2004–05 Bologna: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Group stage). Alterado: gp 23→30, g 1→0, uT →UCL."
+    "note": "Captain of European champions Greece and player of Euro 2004. AEK out of the European competitions in the knockout phase; Bologna since Aug 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2004–05 Bologna: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Group stage). Changed: gp 23→30, g 1→0, uT →UCL."
    },
    {
     "name": "Adriano",
@@ -1415,7 +1415,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_Serie_A",
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Cup"
     ],
-    "note": "Inter desde jan 2004. Inter na Taça UEFA 2003/04 (quartos). Copa América 2004: melhor marcador (7) e melhor jogador; Brasil campeão. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Cup: Quarter-finals); por verificar: seleção. Alterado: gp 39→34, g 25→31, uG 6→7."
+    "note": "Inter since Jan 2004. Inter in the 2003/04 UEFA Cup (quarter-finals). Copa América 2004: top scorer (7) and best player; Brazil champions. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Cup: Quarter-finals); to verify: national team. Changed: gp 39→34, g 25→31, uG 6→7."
    },
    {
     "name": "Pavel Nedvěd",
@@ -1452,7 +1452,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Lesionado na meia-final do Euro 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Round of 16). Alterado: gp 36→37, g 7→9, uG 1→3."
+    "note": "Injured in the Euro 2004 semi-final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Round of 16). Changed: gp 36→37, g 7→9, uG 1→3."
    },
    {
     "name": "Wayne Rooney",
@@ -1489,7 +1489,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Everton sem provas europeias em 2003/04; uG = hat-trick na estreia pelo United na UCL 2004/05 (set 2004). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (2004–05 UEFA Champions League). Alterado: gp 34→37, uT →UCL."
+    "note": "Everton without European competition in 2003/04; uG = hat-trick on his United debut in the UCL 2004/05 (Sep 2004). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (2004–05 UEFA Champions League). Changed: gp 34→37, uT →UCL."
    },
    {
     "name": "Ricardo Carvalho",
@@ -1526,7 +1526,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Chelsea desde jul 2004. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2003–04 Porto: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Final). Alterado: gp 36→38, g 1→2, uG 0→1."
+    "note": "Chelsea since Jul 2004. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2003–04 Porto: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Final). Changed: gp 36→38, g 1→2, uG 0→1."
    },
    {
     "name": "Ruud van Nistelrooy",
@@ -1563,7 +1563,7 @@
      "https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
     ],
-    "note": "Lesionado a partir de dez 2004; 4 golos ao Sparta Praga na UCL (nov 2004). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2003–04 UEFA Champions League: Round of 16). Alterado: gp 30→32, g 20→19, uG 6→8, ntGP 5→4."
+    "note": "Injured from Dec 2004; 4 goals against Sparta Prague in the UCL (Nov 2004). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2003–04 UEFA Champions League: Round of 16). Changed: gp 30→32, g 20→19, uG 6→8, ntGP 5→4."
    },
    {
     "name": "Carlos Tevez",
@@ -1596,18 +1596,18 @@
      "https://en.wikipedia.org/wiki/Carlos_Tevez",
      "https://en.wikipedia.org/wiki/2004_Copa_Libertadores"
     ],
-    "note": "Inelegível. Final da Libertadores 2004 perdida; Copa América 2004 finalista; Sul-Americano do Ano 2004. Sul-Americana 2004 (ganha) não discriminada. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (2004 Copa Libertadores: Finals); por verificar: seleção, título. Alterado: gp 42→37, g 17→15, uG 4→3."
+    "note": "Ineligible. 2004 Libertadores final lost; Copa América 2004 finalist; South American of the Year 2004. Copa Sudamericana 2004 (won) not broken down. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (2004 Copa Libertadores: Finals); to verify: national team, title. Changed: gp 42→37, g 17→15, uG 4→3."
    }
   ]
  },
  "2005": {
-  "label": "Ano civil 2005",
-  "award": "Ballon d’Or (France Football; jornalistas europeus)",
-  "real": "Ronaldinho",
-  "realAll": null,
-  "realAllNote": "Sem atribuição retroativa: a regra 1995–2006 já admitia qualquer nacionalidade em clubes europeus (o retroativo da FF de 2016 só abrange anos anteriores a 1995).",
+  "label": "Calendar year 2005",
+  "award": "Ballon d’Or (France Football; European journalists)",
+  "winner": "Ronaldinho",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive award: the 1995–2006 rule already admitted any nationality at European clubs (FF's 2016 retroactive list only covers years before 1995).",
   "window": "CY",
-  "notes": "Votação (52 votantes, 5-4-3-2-1): Ronaldinho 225, Lampard 148, Gerrard 142, Henry 41, Shevchenko 33, Maldini 23, Adriano 22, Ibrahimović 21, Kaká 19, Eto’o 18 e Terry 18 (empatados; Topendsports põe Terry 11.º — incluído como 10.º ex aequo por igualdade de pontos). Sem torneio de seleções que conte (Taça das Confederações 2005 excluída). Final da UCL 2005 Liverpool–Milan.",
+  "notes": "Vote (52 voters, 5-4-3-2-1): Ronaldinho 225, Lampard 148, Gerrard 142, Henry 41, Shevchenko 33, Maldini 23, Adriano 22, Ibrahimović 21, Kaká 19, Eto’o 18 and Terry 18 (tied; Topendsports puts Terry 11th — included as tied 10th on equal points). No national-team tournament that counts (2005 Confederations Cup excluded). UCL 2005 final Liverpool–Milan.",
   "rows": [
    {
     "name": "Ronaldinho",
@@ -1643,7 +1643,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_La_Liga",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Barça eliminado pelo Chelsea nos oitavos 2004/05. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Round of 16). Alterado: g 20→22, uG 5→7."
+    "note": "Barça knocked out by Chelsea in the round of 16 2004/05. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Round of 16). Changed: g 20→22, uG 5→7."
    },
    {
     "name": "Frank Lampard",
@@ -1679,7 +1679,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Semi-finals). Alterado: g 22→24, uG 5→4."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Semi-finals). Changed: g 22→24, uG 5→4."
    },
    {
     "name": "Steven Gerrard",
@@ -1715,7 +1715,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Golo e capitão na final de Istambul. Golos em pré-eliminatórias UCL 2005/06 excluídos. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 2004–05 Liverpool: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Final). Alterado: gp 41→45, g 12→18, uG 4→9."
+    "note": "Goal and captain in the Istanbul final. Goals in the UCL 2005/06 qualifying rounds excluded. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2004–05 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 41→45, g 12→18, uG 4→9."
    },
    {
     "name": "Thierry Henry",
@@ -1751,7 +1751,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Bota de Ouro europeia 2004/05. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Round of 16). Alterado: gp 34→38, g 27→23."
+    "note": "European Golden Shoe 2004/05. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Round of 16). Changed: gp 34→38, g 27→23."
    },
    {
     "name": "Andriy Shevchenko",
@@ -1787,7 +1787,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "4 golos ao Fenerbahçe (nov 2005). Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Final). Alterado: gp 39→41, g 27→24."
+    "note": "4 goals against Fenerbahçe (Nov 2005). Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 39→41, g 27→24."
    },
    {
     "name": "Paolo Maldini",
@@ -1823,7 +1823,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Golo no 1.º minuto da final de 2005. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Final). Alterado: gp 40→37, g 1→3."
+    "note": "Goal in the 1st minute of the 2005 final. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 40→37, g 1→3."
    },
    {
     "name": "Adriano",
@@ -1859,7 +1859,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Quarter-finals). Alterado: gp 35→41, uG 5→8."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Quarter-finals). Changed: gp 35→41, uG 5→8."
    },
    {
     "name": "Zlatan Ibrahimović",
@@ -1897,7 +1897,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Título 2004/05 da Juventus revogado depois (Calciopoli); title=1 pelo resultado em campo. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Quarter-finals); título da Juventus 2004/05 conta em 2005 (só foi revogado em 2006). Alterado: gp 41→46, g 16→15."
+    "note": "Juventus's 2004/05 title later revoked (Calciopoli); title=1 on the result on the pitch. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; continental competition/stage from the edition page (2004–05 UEFA Champions League: Quarter-finals); Juventus's 2004/05 title counts in 2005 (only revoked in 2006). Changed: gp 41→46, g 16→15."
    },
    {
     "name": "Kaká",
@@ -1933,7 +1933,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_Serie_A",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Final). Alterado: gp 45→50, g 15→12, uG 3→4."
+    "note": "Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Final). Changed: gp 45→50, g 15→12, uG 3→4."
    },
    {
     "name": "Samuel Eto’o",
@@ -1969,7 +1969,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_La_Liga",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "Nome com apóstrofo tipográfico; ajustar ao data.js se existir. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Round of 16). Alterado: gp 40→42, g 27→32, uG 2→4."
+    "note": "Name with a typographic apostrophe; match data.js if it exists. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Round of 16). Changed: gp 40→42, g 27→32, uG 2→4."
    },
    {
     "name": "John Terry",
@@ -2005,7 +2005,7 @@
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League"
     ],
-    "note": "18 pontos, igual a Eto’o; Topendsports lista-o em 11.º. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2004–05 UEFA Champions League: Semi-finals). Alterado: gp 47→48, g 5→4."
+    "note": "18 points, level with Eto’o; Topendsports lists him 11th. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2004–05 UEFA Champions League: Semi-finals). Changed: gp 47→48, g 5→4."
    },
    {
     "name": "Carlos Tevez",
@@ -2040,7 +2040,7 @@
      "https://en.wikipedia.org/wiki/2005_Campeonato_Brasileiro_S%C3%A9rie_A",
      "https://en.wikipedia.org/wiki/2005_Copa_Libertadores"
     ],
-    "note": "Inelegível (clube fora da Europa). Brasileirão 2005 campeão e melhor jogador; Sul-Americano do Ano 2005. Estatísticas de memória (não verificadas na web: WebFetch bloqueado e orçamento de pesquisa esgotado); divisão por ano civil estimada. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (2005 Copa Libertadores: Quarterfinals). Alterado: gp 31→48, g 20→24, uG 0→2, uT →LIB, uS 0→2."
+    "note": "Ineligible (club outside Europe). Brasileirão 2005 champion and best player; South American of the Year 2005. Statistics from memory (NOT verified on the web: WebFetch blocked and search budget exhausted); calendar-year split estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2005 Copa Libertadores: Quarterfinals). Changed: gp 31→48, g 20→24, uG 0→2, uT →LIB, uS 0→2."
    }
   ]
  }

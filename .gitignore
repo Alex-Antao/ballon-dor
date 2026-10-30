@@ -1,6 +1,11 @@
-feats.json
-index.html
+/feats.json
+/index.html
+dist/
 *.zip
 node_modules/
 __pycache__/
 verify/work/
+test-results/
+playwright-report/
+blob-report/
+model-selection-extra.json

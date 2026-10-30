@@ -1,0 +1,18 @@
+{
+  "name": "ballon-dor-lab",
+  "private": true,
+  "description": "Ballon d'Or lab: three algorithms that pick the winner, compared with the real vote every year since 1956.",
+  "scripts": {
+    "data": "node gen-data.js",
+    "build": "node build.js",
+    "serve": "node tools/serve.js dist 4173",
+    "test": "node --test \"tests/unit/*.test.js\"",
+    "test:e2e": "node build.js && playwright test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}

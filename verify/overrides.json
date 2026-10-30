@@ -4,7 +4,7 @@
    "title": 1,
    "_titleOk": true,
    "_noTitle": true,
-   "_note": "campeão sueco 1973 com o Åtvidaberg (11 de 26 jornadas, ≥ 1/3) antes de ir para o PSV"
+   "_note": "Swedish champion 1973 with Åtvidaberg (11 of 26 rounds, ≥ 1/3) before moving to PSV"
   }
  },
  "2005": {
@@ -12,41 +12,41 @@
    "title": 1,
    "_titleOk": true,
    "_noTitle": true,
-   "_note": "título da Juventus 2004/05 conta em 2005 (só foi revogado em 2006)"
+   "_note": "Juventus's 2004/05 title counts in 2005 (only revoked in 2006)"
   }
  },
  "2011": {
   "Wayne Rooney": {
    "_uOk": true,
-   "_note": "UCL 2010/11 finalista (página da edição: campeão Barcelona; meias Man United–Schalke)"
+   "_note": "UCL 2010/11 finalist (edition page: champion Barcelona; semi-final Man United–Schalke)"
   },
   "Luis Suárez": {
    "_noU": true,
    "uT": "UCL",
    "uS": 0,
    "_uOk": true,
-   "_note": "jogou a fase de grupos da UCL 2010/11 pelo Ajax; saiu em janeiro e não jogou as eliminatórias"
+   "_note": "played the UCL 2010/11 group stage for Ajax; left in January and did not play the knockout rounds"
   },
   "Neymar": {
    "_uOk": true,
    "_titleOk": true,
-   "_note": "Libertadores 2011 vencida (página da edição); campeão brasileiro 2011 foi o Corinthians"
+   "_note": "won the 2011 Libertadores (edition page); the 2011 Brazilian champion was Corinthians"
   }
  },
  "2012": {
   "Didier Drogba": {
    "_uOk": true,
-   "_note": "UCL 2011/12 vencida (página da edição)"
+   "_note": "won the UCL 2011/12 (edition page)"
   },
   "Zlatan Ibrahimović": {
    "_uOk": true,
-   "_note": "UCL 2011/12: Milan eliminado nos quartos (Barcelona)"
+   "_note": "UCL 2011/12: Milan knocked out in the quarter-finals (Barcelona)"
   },
   "Lionel Messi": {
    "_skip": [
     "gp"
    ],
-   "_note": "jogos mantidos em 38+12 (fcbarcelona.com), melhor do que a estimativa por proporção"
+   "_note": "games kept at 38+12 (fcbarcelona.com), better than the share-based estimate"
   }
  },
  "2013": {
@@ -55,55 +55,55 @@
    "uS": 0,
    "_uOk": true,
    "_titleOk": true,
-   "_note": "sem edição europeia a terminar em 2013 (Santos fora da Libertadores 2013); UCL 2013/14 só fase de grupos no outono"
+   "_note": "no European edition ending in 2013 (Santos not in the 2013 Libertadores); UCL 2013/14 group stage only, in the autumn"
   },
   "Robin van Persie": {
    "_uOk": true,
-   "_note": "UCL 2012/13: Man United eliminado nos oitavos (Real Madrid)"
+   "_note": "UCL 2012/13: Man United knocked out in the round of 16 (Real Madrid)"
   },
   "Gareth Bale": {
    "_uOk": true,
-   "_note": "Liga Europa 2012/13: Tottenham eliminado nos quartos (Basel)"
+   "_note": "Europa League 2012/13: Tottenham knocked out in the quarter-finals (Basel)"
   }
  },
  "2014": {
   "Manuel Neuer": {
    "_uOk": true,
-   "_note": "UCL 2013/14: Bayern eliminado nas meias (Real Madrid)"
+   "_note": "UCL 2013/14: Bayern knocked out in the semi-finals (Real Madrid)"
   },
   "Arjen Robben": {
    "_uOk": true,
-   "_note": "UCL 2013/14: Bayern eliminado nas meias (Real Madrid)"
+   "_note": "UCL 2013/14: Bayern knocked out in the semi-finals (Real Madrid)"
   },
   "Thomas Müller": {
    "_uOk": true,
-   "_note": "UCL 2013/14: Bayern eliminado nas meias (Real Madrid)"
+   "_note": "UCL 2013/14: Bayern knocked out in the semi-finals (Real Madrid)"
   },
   "Philipp Lahm": {
    "_uOk": true,
-   "_note": "UCL 2013/14: Bayern eliminado nas meias (Real Madrid)"
+   "_note": "UCL 2013/14: Bayern knocked out in the semi-finals (Real Madrid)"
   },
   "Toni Kroos": {
    "_uOk": true,
-   "_note": "UCL 2013/14: Bayern eliminado nas meias (Real Madrid)"
+   "_note": "UCL 2013/14: Bayern knocked out in the semi-finals (Real Madrid)"
   }
  },
  "2015": {
   "Robert Lewandowski": {
    "_uOk": true,
-   "_note": "UCL 2014/15: Bayern eliminado nas meias (Barcelona)"
+   "_note": "UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona)"
   },
   "Thomas Müller": {
    "_uOk": true,
-   "_note": "UCL 2014/15: Bayern eliminado nas meias (Barcelona)"
+   "_note": "UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona)"
   },
   "Manuel Neuer": {
    "_uOk": true,
-   "_note": "UCL 2014/15: Bayern eliminado nas meias (Barcelona)"
+   "_note": "UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona)"
   },
   "Alexis Sánchez": {
    "_uOk": true,
-   "_note": "UCL 2014/15: Arsenal eliminado nos oitavos (Monaco)"
+   "_note": "UCL 2014/15: Arsenal knocked out in the round of 16 (Monaco)"
   },
   "Luis Suárez": {
    "ntT": "",
@@ -112,25 +112,25 @@
    "ntA": 0,
    "ntS": 0,
    "_ntOk": true,
-   "_note": "suspenso, não jogou a Copa América 2015"
+   "_note": "suspended, did not play the 2015 Copa América"
   }
  },
  "2016": {
   "Cristiano Ronaldo": {
    "_uOk": true,
-   "_note": "UCL 2015/16 vencida (página da edição)"
+   "_note": "won the UCL 2015/16 (edition page)"
   },
   "Gareth Bale": {
    "_uOk": true,
-   "_note": "UCL 2015/16 vencida (página da edição)"
+   "_note": "won the UCL 2015/16 (edition page)"
   },
   "Pepe": {
    "_uOk": true,
-   "_note": "UCL 2015/16 vencida (página da edição)"
+   "_note": "won the UCL 2015/16 (edition page)"
   },
   "Antoine Griezmann": {
    "_uOk": true,
-   "_note": "UCL 2015/16 finalista (campeão Real Madrid; meias Bayern–Atlético)"
+   "_note": "UCL 2015/16 finalist (champion Real Madrid; semi-final Bayern–Atlético)"
   },
   "Luis Suárez": {
    "ntT": "",
@@ -139,7 +139,7 @@
    "ntA": 0,
    "ntS": 0,
    "_ntOk": true,
-   "_note": "lesionado, não jogou a Copa América Centenário"
+   "_note": "injured, did not play the Copa América Centenario"
   }
  },
  "2022": {
@@ -148,25 +148,25 @@
    "uT": "UCL",
    "uS": 0,
    "_uOk": true,
-   "_note": "jogou a fase de grupos da UCL 2021/22; lesionado, não jogou o play-off da Liga Europa (Rangers)"
+   "_note": "played the UCL 2021/22 group stage; injured, did not play the Europa League play-off (Rangers)"
   }
  },
  "2026": {
   "Khvicha Kvaratskhelia": {
    "_uOk": true,
-   "_note": "UCL 2025/26 vencida pelo PSG (página da edição)"
+   "_note": "UCL 2025/26 won by PSG (edition page)"
   },
   "Ousmane Dembélé": {
    "_uOk": true,
-   "_note": "UCL 2025/26 vencida pelo PSG (página da edição)"
+   "_note": "UCL 2025/26 won by PSG (edition page)"
   },
   "Fabián Ruiz": {
    "_uOk": true,
-   "_note": "UCL 2025/26 vencida pelo PSG (página da edição)"
+   "_note": "UCL 2025/26 won by PSG (edition page)"
   },
   "Vitinha": {
    "_uOk": true,
-   "_note": "UCL 2025/26 vencida pelo PSG (página da edição)"
+   "_note": "UCL 2025/26 won by PSG (edition page)"
   }
  }
 }

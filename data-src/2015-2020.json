@@ -1,12 +1,12 @@
 {
  "2015": {
-  "label": "Ano civil 2015 (+ Copa América 2015)",
-  "award": "FIFA Ballon d’Or (jornalistas + selecionadores + capitães)",
-  "real": "Lionel Messi",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 2015 (+ Copa América 2015)",
+  "award": "FIFA Ballon d’Or (journalists + national-team coaches + captains)",
+  "winner": "Lionel Messi",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Top 10 oficial verificado na web (FIFA: % de votos; 8.º Hazard 1,33 %, 9.º Iniesta 1,24 %, 10.º Alexis Sánchez 1,18 %). UCL na janela: fase a eliminar 2014/15 (Fev–Jun) + fase de grupos 2015/16 (Set–Dez). Estatísticas de Messi/Ronaldo parcialmente confirmadas por totais de ano civil (Goal.com); restantes divididas de memória.",
+  "notes": "Official top 10 verified on the web (FIFA: % of votes; 8th Hazard 1.33%, 9th Iniesta 1.24%, 10th Alexis Sánchez 1.18%). UCL in the window: knockout phase 2014/15 (Feb–Jun) + group stage 2015/16 (Sep–Dec). Messi/Ronaldo statistics partly confirmed by calendar-year totals (Goal.com); the rest split from memory.",
   "rows": [
    {
     "name": "Lionel Messi",
@@ -44,7 +44,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica"
     ],
-    "note": "Liga 2015 verificada (Goal.com): 33 j, 34 g, 15 a. UCL 5 golos verificados (Ronaldo 16–5 Messi); jogos/assist. UCL contados de memória (7 KO 14/15 + 3 grupos 15/16). Copa América: 3 assistências na meia-final vs Paraguai (data.js tinha 1). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final). Alterado: gp 43→47, g 39→40, uG 5→6."
+    "note": "League 2015 verified (Goal.com): 33 gp, 34 g, 15 a. UCL 5 goals verified (Ronaldo 16–5 Messi); games/assists. UCL counted from memory (7 KO 14/15 + 3 groups 15/16). Copa América: 3 assists in the semi-final vs Paraguay (data.js had 1). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final). Changed: gp 43→47, g 39→40, uG 5→6."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -81,7 +81,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Golos verificados (Goal.com): 37 na Liga e 16 na UCL em 2015 (11 deles na fase de grupos 2015/16, recorde). Jogos e assistências estimados (Goal.com: 17 assist. em todas as provas). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals). Alterado: gp 48→49."
+    "note": "Goals verified (Goal.com): 37 in the Liga and 16 in the UCL in 2015 (11 of them in the 2015/16 group stage, a record). Games and assists estimated (Goal.com: 17 assists in all competitions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals). Changed: gp 48→49."
    },
    {
     "name": "Neymar",
@@ -118,7 +118,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica"
     ],
-    "note": "Goal.com: 41 golos e 16 assist. em 53 jogos em 2015 (todas as provas); divisão liga/UCL estimada. Copa 2015: expulso vs Colômbia e suspenso; Brasil caiu nos quartos (penáltis). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final). Alterado: g 32→34, uG 8→9."
+    "note": "Goal.com: 41 goals and 16 assists in 53 games in 2015 (all competitions); league/UCL split estimated. Copa 2015: sent off vs Colombia and suspended; Brazil went out in the quarter-finals (penalties). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final). Changed: g 32→34, uG 8→9."
    },
    {
     "name": "Robert Lewandowski",
@@ -153,7 +153,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Inclui os 5 golos em 9 minutos vs Wolfsburg (Set 2015) e o hat-trick vs Dinamo Zagreb. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern eliminado nas meias (Barcelona). Alterado: gp 43→44, g 34→35."
+    "note": "Includes the 5 goals in 9 minutes vs Wolfsburg (Sep 2015) and the hat-trick vs Dinamo Zagreb. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona). Changed: gp 43→44, g 34→35."
    },
    {
     "name": "Luis Suárez",
@@ -188,7 +188,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "NÃO jogou a Copa América 2015 (castigo pela mordidela no Mundial 2014) — data.js tinha 4 jogos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final); suspenso, não jogou a Copa América 2015. Alterado: gp 44→41, g 38→40, uG 9→10, ntT COPA→."
+    "note": "Did NOT play the 2015 Copa América (ban for the bite at the 2014 World Cup) — data.js had 4 games. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final); suspended, did not play the 2015 Copa América. Changed: gp 44→41, g 38→40, uG 9→10, ntT COPA→."
    },
    {
     "name": "Thomas Müller",
@@ -223,7 +223,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern eliminado nas meias (Barcelona). Alterado: g 28→29."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona). Changed: g 28→29."
    },
    {
     "name": "Manuel Neuer",
@@ -258,7 +258,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern eliminado nas meias (Barcelona). Alterado: gp 44→45."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona). Changed: gp 44→45."
    },
    {
     "name": "Eden Hazard",
@@ -293,7 +293,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2014/15 (PFA); 2.ª metade de 2015 sem golos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Round of 16). Alterado: uG 0→1."
+    "note": "English champion 2014/15 (PFA); No goals in the second half of 2015. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Round of 16). Changed: uG 0→1."
    },
    {
     "name": "Andrés Iniesta",
@@ -328,7 +328,7 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Lesionado Set–Out 2015. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final)."
+    "note": "Injured Sep–Oct 2015. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final)."
    },
    {
     "name": "Alexis Sánchez",
@@ -364,18 +364,18 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica"
     ],
-    "note": "Campeão da Copa América 2015 (marcou o penálti decisivo na final). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Round of 16); UCL 2014/15: Arsenal eliminado nos oitavos (Monaco). Alterado: gp 37→40, g 12→15, uG 1→3."
+    "note": "2015 Copa América champion (scored the decisive penalty in the final). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Round of 16); UCL 2014/15: Arsenal knocked out in the round of 16 (Monaco). Changed: gp 37→40, g 12→15, uG 1→3."
    }
   ]
  },
  "2016": {
-  "label": "Ano civil 2016 (+ Euro 2016 + Copa América Centenário)",
-  "award": "Ballon d’Or (France Football; jornalistas)",
-  "real": "Cristiano Ronaldo",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 2016 (+ Euro 2016 + Copa América Centenario)",
+  "award": "Ballon d’Or (France Football; journalists)",
+  "winner": "Cristiano Ronaldo",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Top 10 oficial verificado (pontos FF): Ronaldo 745, Messi 316, Griezmann 198, Suárez 91, Neymar 68, Bale 60, Mahrez 20, Vardy 11, Buffon 8 e Pepe 8 (empatados em 9.º). A Copa América Centenário (Jun 2016) conta como COPA. Os Jogos Olímpicos (Neymar) não contam. UCL: KO 2015/16 + grupos 2016/17.",
+  "notes": "Official top 10 verified (FF points): Ronaldo 745, Messi 316, Griezmann 198, Suárez 91, Neymar 68, Bale 60, Mahrez 20, Vardy 11, Buffon 8 and Pepe 8 (tied 9th). The Copa América Centenario (Jun 2016) counts as COPA. The Olympic Games (Neymar) do not count. UCL: KO 2015/16 + groups 2016/17.",
   "rows": [
    {
     "name": "Cristiano Ronaldo",
@@ -411,7 +411,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Mundial de Clubes (Dez 2016, 4 golos) não conta. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 vencida (página da edição). Alterado: gp 46→44."
+    "note": "Club World Cup (Dec 2016, 4 goals) does not count. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); won the UCL 2015/16 (edition page). Changed: gp 46→44."
    },
    {
     "name": "Lionel Messi",
@@ -447,7 +447,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/Copa_Am%C3%A9rica_Centenario"
     ],
-    "note": "Copa Centenário: 5 jogos (falhou o 1.º), 5 golos, 4 assist.; final perdida nos penáltis. data.js tinha 6 jogos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Quarter-finals). Alterado: gp 43→42."
+    "note": "Copa Centenario: 5 games (missed the 1st), 5 goals, 4 assists; final lost on penalties. data.js had 6 games. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Quarter-finals). Changed: gp 43→42."
    },
    {
     "name": "Antoine Griezmann",
@@ -483,7 +483,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Euro 2016: melhor marcador e melhor jogador; final UCL perdida. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 finalista (campeão Real Madrid; meias Bayern–Atlético). Alterado: g 28→25."
+    "note": "Euro 2016: top scorer and best player; UCL final lost. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); UCL 2015/16 finalist (champion Real Madrid; semi-final Bayern–Atlético). Changed: g 28→25."
    },
    {
     "name": "Luis Suárez",
@@ -518,7 +518,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
-    "note": "Lesionado na final da Taça do Rei; NÃO jogou a Copa Centenário (data.js tinha 3 jogos). Pichichi e Bota de Ouro 2015/16 (40 golos na liga). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Quarter-finals); lesionado, não jogou a Copa América Centenário. Alterado: g 41→42, uG 6→5, ntT COPA→."
+    "note": "Injured in the Copa del Rey final; Did NOT play the Copa Centenario (data.js had 3 games). Pichichi and Golden Shoe 2015/16 (40 league goals). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Quarter-finals); injured, did not play the Copa América Centenario. Changed: g 41→42, uG 6→5, ntT COPA→."
    },
    {
     "name": "Neymar",
@@ -553,7 +553,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
-    "note": "Não jogou a Copa Centenário (foi aos Jogos Olímpicos, que não contam). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Quarter-finals). Alterado: gp 43→41, g 18→17."
+    "note": "Did not play the Copa Centenario (went to the Olympic Games, which do not count). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Quarter-finals). Changed: gp 43→41, g 18→17."
    },
    {
     "name": "Gareth Bale",
@@ -589,7 +589,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Lesões (gémeo Jan–Mar; tornozelo Nov 2016). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 vencida (página da edição). Alterado: gp 33→28, g 17→18, uG 1→2."
+    "note": "Injuries (calf Jan–Mar; ankle Nov 2016). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); won the UCL 2015/16 (edition page). Changed: gp 33→28, g 17→18, uG 1→2."
    },
    {
     "name": "Riyad Mahrez",
@@ -624,7 +624,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2015/16 (PFA). uS = 0 porque o Leicester não jogou a edição 2015/16; uG/uA = fase de grupos UCL 2016/17. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (2016–17 UEFA Champions League)."
+    "note": "English champion 2015/16 (PFA). uS = 0 because Leicester did not play the 2015/16 edition; uG/uA = UCL 2016/17 group stage. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (2016–17 UEFA Champions League)."
    },
    {
     "name": "Jamie Vardy",
@@ -660,7 +660,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "uS = 0 (Leicester não jogou a edição 2015/16); jogos de grupos UCL 2016/17 incluídos em gp. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (2016–17 UEFA Champions League). Alterado: gp 39→41."
+    "note": "uS = 0 (Leicester did not play the 2015/16 edition); UCL 2016/17 group games included in gp. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (2016–17 UEFA Champions League). Changed: gp 39→41."
    },
    {
     "name": "Gianluigi Buffon",
@@ -696,7 +696,7 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Recorde de imbatibilidade na Serie A (974 min, Jan–Mar 2016). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Round of 16). Alterado: gp 42→40."
+    "note": "Serie A clean-sheet record (974 min, Jan–Mar 2016). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Round of 16). Changed: gp 42→40."
    },
    {
     "name": "Pepe",
@@ -732,18 +732,18 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Falhou a meia-final do Euro (lesão); homem do jogo na final. cont estimado (sem calibração prévia). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 vencida (página da edição). Alterado: gp 34→23, g 1→2."
+    "note": "Missed the Euro semi-final (injury); man of the match in the final. cont estimated (no previous calibration). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); won the UCL 2015/16 (edition page). Changed: gp 34→23, g 1→2."
    }
   ]
  },
  "2017": {
-  "label": "Ano civil 2017",
-  "award": "Ballon d’Or (France Football; jornalistas)",
-  "real": "Cristiano Ronaldo",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 2017",
+  "award": "Ballon d’Or (France Football; journalists)",
+  "winner": "Cristiano Ronaldo",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Top 10 oficial verificado: Ronaldo 946, Messi 670, Neymar 361, Buffon 221, Modrić 84, Ramos, Mbappé 48, Kanté, Lewandowski, Kane (posições 6, 8, 9, 10 confirmadas; pontos parciais). Sem fase final de seleções (Taça das Confederações não conta). UCL: KO 2016/17 + grupos 2017/18.",
+  "notes": "Official top 10 verified: Ronaldo 946, Messi 670, Neymar 361, Buffon 221, Modrić 84, Ramos, Mbappé 48, Kanté, Lewandowski, Kane (positions 6, 8, 9, 10 confirmed; points partial). No national-team finals (the Confederations Cup does not count). UCL: KO 2016/17 + groups 2017/18.",
   "rows": [
    {
     "name": "Cristiano Ronaldo",
@@ -779,7 +779,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Só 4 golos na Liga Ago–Dez 2017 mas 9 na fase de grupos (marcou em todos os jogos); 10 golos na fase a eliminar 2016/17. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final)."
+    "note": "Only 4 Liga goals Aug–Dec 2017 but 9 in the group stage (scored in every game); 10 goals in the 2016/17 knockout phase. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final)."
    },
    {
     "name": "Lionel Messi",
@@ -815,7 +815,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Quarter-finals). Alterado: gp 47→45, g 43→44."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Quarter-finals). Changed: gp 47→45, g 43→44."
    },
    {
     "name": "Neymar",
@@ -851,7 +851,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Transferência recorde para o PSG em Ago 2017; uS = edição 2016/17 com o Barcelona (quartos). Divisão de jogos LL/L1 próxima; lg = LL. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Quarter-finals). Alterado: gp 38→36, g 27→28."
+    "note": "Record transfer to PSG in Aug 2017; uS = 2016/17 edition with Barcelona (quarter-finals). LL/L1 games split close; lg = LL. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Quarter-finals). Changed: gp 38→36, g 27→28."
    },
    {
     "name": "Gianluigi Buffon",
@@ -887,7 +887,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Serie_A",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final). Alterado: gp 42→39."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final). Changed: gp 42→39."
    },
    {
     "name": "Luka Modrić",
@@ -923,7 +923,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final). Alterado: gp 41→37, uG 0→1."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final). Changed: gp 41→37, uG 0→1."
    },
    {
     "name": "Sergio Ramos",
@@ -959,7 +959,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "cont estimado. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final). Alterado: gp 40→39, g 6→5, uG 1→2."
+    "note": "cont estimated. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final). Changed: gp 40→39, g 6→5, uG 1→2."
    },
    {
     "name": "Kylian Mbappé",
@@ -996,7 +996,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Ligue_1",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Quase todos os golos de 2016/17 foram de Jan a Mai; os 6 golos UCL 2016/17 são todos da fase a eliminar. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Semi-finals). Alterado: gp 40→38, g 28→30."
+    "note": "Almost all of the 2016/17 goals were Jan to May; the 6 UCL 2016/17 goals are all from the knockout phase. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Semi-finals). Changed: gp 40→38, g 28→30."
    },
    {
     "name": "N’Golo Kanté",
@@ -1032,7 +1032,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2016/17 (PFA/FWA). Chelsea não jogou competições europeias em 2016/17 (uS = 0); jogos de grupos UCL 2017/18 incluídos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Group stage). Alterado: gp 38→41."
+    "note": "English champion 2016/17 (PFA/FWA). Chelsea did not play European competitions in 2016/17 (uS = 0); UCL 2017/18 group games included. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Group stage). Changed: gp 38→41."
    },
    {
     "name": "Robert Lewandowski",
@@ -1068,7 +1068,7 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Bundesliga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Falhou a 1.ª mão dos quartos vs Real Madrid (lesão). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Quarter-finals). Alterado: g 38→39."
+    "note": "Missed the first leg of the quarter-final vs Real Madrid (injury). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Quarter-finals). Changed: g 38→39."
    },
    {
     "name": "Harry Kane",
@@ -1104,18 +1104,18 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Europa_League"
     ],
-    "note": "Recorde de 39 golos na Premier League num ano civil (2017) e 56 golos em todas as provas — números muito conhecidos, mas não verificados na web nesta sessão. gp inclui 2 jogos da Liga Europa (16 avos vs Gent, Fev 2017); uS = 0. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Europa League: Round of 32). Alterado: gp 44→42, g 46→45, uG 7→6, uT UCL→UEL."
+    "note": "Record 39 Premier League goals in a calendar year (2017) and 56 goals in all competitions — well-known numbers, but not verified on the web in this session. gp includes 2 Europa League games (round of 32 vs Gent, Feb 2017); uS = 0. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Europa League: Round of 32). Changed: gp 44→42, g 46→45, uG 7→6, uT UCL→UEL."
    }
   ]
  },
  "2018": {
-  "label": "Ano civil 2018 (+ Mundial 2018)",
-  "award": "Ballon d’Or (France Football; jornalistas)",
-  "real": "Luka Modrić",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 2018 (+ World Cup 2018)",
+  "award": "Ballon d’Or (France Football; journalists)",
+  "winner": "Luka Modrić",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Top 10 oficial verificado (pontos): Modrić 753, Ronaldo 476 (uma fonte dá 478), Griezmann 414, Mbappé 347, Messi 280, Salah 188, Varane 121, Hazard 119, De Bruyne 29, Kane 25. Continental: KO 2017/18 + grupos 2018/19.",
+  "notes": "Official top 10 verified (points): Modrić 753, Ronaldo 476 (one source gives 478), Griezmann 414, Mbappé 347, Messi 280, Salah 188, Varane 121, Hazard 119, De Bruyne 29, Kane 25. Continental: KO 2017/18 + groups 2018/19.",
   "rows": [
    {
     "name": "Luka Modrić",
@@ -1151,7 +1151,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Bola de Ouro do Mundial 2018. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final)."
+    "note": "Golden Ball of the 2018 World Cup. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final)."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -1187,7 +1187,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Transferência para a Juventus em Jul 2018; lg = SA (mais jogos de liga na janela, por pouco). Melhor marcador UCL 2017/18 (15). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final). Alterado: gp 43→44, g 43→41, uG 7→6."
+    "note": "Transfer to Juventus in Jul 2018; lg = SA (more league games in the window, narrowly). UCL top scorer 2017/18 (15). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final). Changed: gp 43→44, g 43→41, uG 7→6."
    },
    {
     "name": "Antoine Griezmann",
@@ -1223,7 +1223,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Europa_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "uT = UEL 2017/18 (vencida; 2 golos na final). uG/uA incluem também a fase de grupos UCL 2018/19. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Europa League: Final). Alterado: gp 47→49, g 30→31."
+    "note": "uT = UEL 2017/18 (won; 2 goals in the final). uG/uA also include the UCL 2018/19 group stage. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Europa League: Final). Changed: gp 47→49, g 30→31."
    },
    {
     "name": "Kylian Mbappé",
@@ -1260,7 +1260,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Mundial: 4 golos; assistências registadas = 0 segundo a minha memória (data.js tinha 1) — por confirmar. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Round of 16). Alterado: gp 34→35, g 22→21."
+    "note": "World Cup: 4 goals; recorded assists = 0 from my memory (data.js had 1) — to confirm. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Round of 16). Changed: gp 34→35, g 22→21."
    },
    {
     "name": "Lionel Messi",
@@ -1296,7 +1296,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Braço partido em Out 2018 (3 semanas fora). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Quarter-finals). Alterado: gp 41→44."
+    "note": "Broken arm in Oct 2018 (3 weeks out). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Quarter-finals). Changed: gp 41→44."
    },
    {
     "name": "Mohamed Salah",
@@ -1332,7 +1332,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Recorde de 32 golos na PL 2017/18 (38 jogos); lesão no ombro na final UCL. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final). Alterado: gp 48→49."
+    "note": "Record 32 goals in the 2017/18 PL (38 games); shoulder injury in the UCL final. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final). Changed: gp 48→49."
    },
    {
     "name": "Raphaël Varane",
@@ -1368,7 +1368,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "cont estimado (Mundial + UCL). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final). Alterado: gp 39→38."
+    "note": "cont estimated (World Cup + UCL). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final). Changed: gp 39→38."
    },
    {
     "name": "Eden Hazard",
@@ -1404,7 +1404,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Bola de Prata do Mundial. gp inclui jogos da fase de grupos da Liga Europa 2018/19. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Round of 16). Alterado: g 14→17."
+    "note": "Silver Ball at the World Cup. gp includes Europa League 2018/19 group-stage games. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Round of 16). Changed: g 14→17."
    },
    {
     "name": "Kevin De Bruyne",
@@ -1440,7 +1440,7 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Lesões no joelho (Ago e Nov 2018) reduziram muito a 2.ª metade do ano. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Quarter-finals). Alterado: gp 27→32."
+    "note": "Knee injuries (Aug and Nov 2018) cut much of the second half of the year. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Quarter-finals). Changed: gp 27→32."
    },
    {
     "name": "Harry Kane",
@@ -1476,18 +1476,18 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Bota de Ouro do Mundial 2018. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Round of 16). Alterado: gp 44→38, g 29→30, uG 4→5."
+    "note": "Golden Boot at the 2018 World Cup. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Round of 16). Changed: gp 44→38, g 29→30, uG 4→5."
    }
   ]
  },
  "2019": {
-  "label": "Ano civil 2019 (+ Copa América 2019 / CAN 2019)",
-  "award": "Ballon d’Or (France Football; jornalistas)",
-  "real": "Lionel Messi",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 2019 (+ Copa América 2019 / AFCON 2019)",
+  "award": "Ballon d’Or (France Football; journalists)",
+  "winner": "Lionel Messi",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Top 10 oficial verificado (pontos): Messi 686, Van Dijk 679, Ronaldo 476, Mané 347, Salah 178, Mbappé 89, Alisson 67, Lewandowski 44, Bernardo Silva 41, Mahrez 33. Final four da Liga das Nações não conta. UCL: KO 2018/19 + grupos 2019/20.",
+  "notes": "Official top 10 verified (points): Messi 686, Van Dijk 679, Ronaldo 476, Mané 347, Salah 178, Mbappé 89, Alisson 67, Lewandowski 44, Bernardo Silva 41, Mahrez 33. The Nations League final four does not count. UCL: KO 2018/19 + groups 2019/20.",
   "rows": [
    {
     "name": "Lionel Messi",
@@ -1523,7 +1523,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Copa_Am%C3%A9rica"
     ],
-    "note": "Lesão na barriga da perna Ago–Set 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Semi-finals). Alterado: gp 43→45, g 41→42."
+    "note": "Calf injury Aug–Sep 2019. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Semi-finals). Changed: gp 43→45, g 41→42."
    },
    {
     "name": "Virgil van Dijk",
@@ -1558,7 +1558,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 50→49, g 6→8, uG 1→2."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 50→49, g 6→8, uG 1→2."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -1593,7 +1593,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Serie_A",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Hat-trick vs Atlético (oitavos 2018/19). Liga das Nações (Jun 2019) excluída. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Quarter-finals). Alterado: gp 37→40, g 23→26, uG 7→8."
+    "note": "Hat-trick vs Atlético (round of 16 2018/19). Nations League (Jun 2019) excluded. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: gp 37→40, g 23→26, uG 7→8."
    },
    {
     "name": "Sadio Mané",
@@ -1629,7 +1629,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations"
     ],
-    "note": "Bota de Ouro partilhada da PL 2018/19 (22). CAN: suspenso no 1.º jogo. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 49→48, g 30→29, uG 6→5."
+    "note": "Shared PL Golden Boot 2018/19 (22). AFCON: suspended for the 1st game. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 49→48, g 30→29, uG 6→5."
    },
    {
     "name": "Mohamed Salah",
@@ -1665,7 +1665,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations"
     ],
-    "note": "Golo de penálti na final UCL 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 48→47, g 25→24."
+    "note": "Penalty goal in the UCL 2019 final. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 48→47, g 25→24."
    },
    {
     "name": "Kylian Mbappé",
@@ -1700,7 +1700,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Melhor marcador da Ligue 1 2018/19 (33); lesão Ago–Set 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Round of 16). Alterado: gp 31→33, g 34→37."
+    "note": "Top scorer of the 2018/19 Ligue 1 (33); injury Aug–Sep 2019. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Round of 16). Changed: gp 31→33, g 34→37."
    },
    {
     "name": "Alisson",
@@ -1736,7 +1736,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Copa_Am%C3%A9rica"
     ],
-    "note": "Lesão na barriga da perna (Ago–Out 2019). cont estimado (Troféu Yashin 2019). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 42→43."
+    "note": "Calf injury (Aug–Oct 2019). cont estimated (2019 Yashin Trophy). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 42→43."
    },
    {
     "name": "Robert Lewandowski",
@@ -1771,7 +1771,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Bundesliga",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "19 golos na 1.ª volta da Bundesliga 2019/20; 4 golos num jogo vs Estrela Vermelha. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Round of 16). Alterado: gp 41→39, g 39→41."
+    "note": "19 goals in the first half of the 2019/20 Bundesliga; 4 goals in one game vs Red Star. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Round of 16). Changed: gp 41→39, g 39→41."
    },
    {
     "name": "Bernardo Silva",
@@ -1806,7 +1806,7 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Joga ala/médio; classificado AM (cont null). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Quarter-finals). Alterado: gp 42→43, g 8→9."
+    "note": "Plays winger/midfielder; classified AM (cont null). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: gp 42→43, g 8→9."
    },
    {
     "name": "Riyad Mahrez",
@@ -1842,18 +1842,18 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations"
     ],
-    "note": "Campeão africano 2019 (livre decisivo na meia-final vs Nigéria). title = 1 (27 jogos em 38). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Quarter-finals). Alterado: uG 2→1."
+    "note": "African champion 2019 (decisive free kick in the semi-final vs Nigeria). title = 1 (27 games out of 38). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: uG 2→1."
    }
   ]
  },
  "2020": {
-  "label": "Ano civil 2020 (Bola de Ouro NÃO atribuída – COVID)",
-  "award": "Não atribuída (France Football cancelou a edição de 2020)",
-  "real": null,
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 2020 (Ballon d'Or NOT awarded – COVID)",
+  "award": "Not awarded (France Football cancelled the 2020 edition)",
+  "winner": null,
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Sem votação: rank = null para todos. Candidatos mais óbvios do ano civil. Janela: 2.ª metade de 2019/20 (retomada Mai–Ago após a pausa COVID; Ligue 1 terminou em Mar; UCL acabou em Ago com final a oito em Lisboa) + Set–Dez de 2020/21 (UCL: grupos Out–Dez). Sem fase final de seleções (Euro e Copa adiados para 2021).",
+  "notes": "No vote: rank = null for everyone. The most obvious candidates of the calendar year. Window: second half of 2019/20 (resumed May–Aug after the COVID pause; Ligue 1 ended in Mar; the UCL finished in Aug with a final eight in Lisbon) + Sep–Dec of 2020/21 (UCL: groups Oct–Dec). No national-team finals (Euro and Copa postponed to 2021).",
   "rows": [
    {
     "name": "Robert Lewandowski",
@@ -1886,7 +1886,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Bundesliga",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Tripleta com o Bayern; melhor marcador UCL 2019/20 (15). FIFA The Best 2020. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final)."
+    "note": "Treble with Bayern; UCL top scorer 2019/20 (15). FIFA The Best 2020. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final)."
    },
    {
     "name": "Lionel Messi",
@@ -1919,7 +1919,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_La_Liga",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "2-8 vs Bayern nos quartos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Quarter-finals). Alterado: gp 40→38, g 22→23, uG 3→4."
+    "note": "2-8 vs Bayern in the quarter-finals. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Quarter-finals). Changed: gp 40→38, g 22→23, uG 3→4."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -1952,7 +1952,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Serie_A",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Falhou jogos em Out–Nov 2020 (COVID). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Round of 16). Alterado: g 38→39, uG 5→6."
+    "note": "Missed games in Oct–Nov 2020 (COVID). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Round of 16). Changed: g 38→39, uG 5→6."
    },
    {
     "name": "Kevin De Bruyne",
@@ -1985,7 +1985,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Recorde igualado de 20 assist. na PL 2019/20. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Quarter-finals). Alterado: gp 37→32, uG 3→2."
+    "note": "Equalled the record of 20 assists in the 2019/20 PL. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Quarter-finals). Changed: gp 37→32, uG 3→2."
    },
    {
     "name": "Neymar",
@@ -2018,7 +2018,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Ligue_1",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Ligue 1 2019/20 terminada em Mar (PSG campeão por média; Neymar 15 de 27 jogos). Final UCL perdida. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final). Alterado: gp 23→19, g 18→16."
+    "note": "Ligue 1 2019/20 ended in Mar (PSG champions on points per game; Neymar 15 of 27 games). UCL final lost. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final). Changed: gp 23→19, g 18→16."
    },
    {
     "name": "Mohamed Salah",
@@ -2051,7 +2051,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Round of 16). Alterado: gp 39→41, g 24→26, uG 2→3."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Round of 16). Changed: gp 39→41, g 24→26, uG 2→3."
    },
    {
     "name": "Kylian Mbappé",
@@ -2084,7 +2084,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Ligue_1",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final). Alterado: gp 32→28, g 25→21, uG 4→2."
+    "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final). Changed: gp 32→28, g 25→21, uG 4→2."
    },
    {
     "name": "Manuel Neuer",
@@ -2117,7 +2117,7 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Bundesliga",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
-    "note": "Tripleta; acrescentado (não estava no data.js). cont estimado. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final). Alterado: gp 40→39."
+    "note": "Treble; added (was not in data.js). cont estimated. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final). Changed: gp 40→39."
    }
   ]
  }

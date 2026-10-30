@@ -1,30 +1,30 @@
-// Algoritmos de decisão da Bola de Ouro. Código partilhado entre Node (validação) e browser (site).
+// Ballon d'Or decision algorithms. Shared between Node (pipeline, tests) and the browser (site).
 (function (root) {
   const DATA = (typeof module !== 'undefined' && typeof require !== 'undefined') ? require('./data.js') : root.BDO_DATA;
   const { leagueStrength, cupWeight, NTMULT } = DATA;
 
   const tanh = Math.tanh;
   const isAtt = p => p === 'FW' || p === 'W' || p === 'AM';
-  // Produção "de referência" por jogo de um candidato de elite em cada posição (ajuste por posição)
+  // Reference output per game of an elite candidate in each position (position adjustment)
   const POS_BENCH = { FW: 1.0, W: 0.85, AM: 0.80, CM: 0.50, DM: 0.40, DF: 0.35, GK: 0 };
 
-  // ---------- Peças comuns ----------
-  // Peso da competição continental na época (Taça dos Campeões/UCL = 1). Sem prova indicada, a produção conta como UCL.
+  // ---------- Shared pieces ----------
+  // Weight of the continental competition in that era (European Cup/UCL = 1). With no competition given, output counts as UCL.
   const cupW = r => cupWeight(r.uT || 'UCL', r.y);
-  // Fase continental na escala UCL (0–5): fase atingida × peso da prova nessa época
+  // Continental stage on the UCL scale (0–5): stage reached × weight of the competition in that era
   const uStageEff = r => r.uS * cupWeight(r.uT, r.y);
   const ntWinW = r => r.ntS === 5 ? ({ AFCON: 0.6, ASIAN: 0.5, GOLD: 0.5 }[r.ntT] || 1) : 0;
 
   function parts(r, o) {
     const aw = o.assistW, lm = leagueStrength(r.lg, r.y), nm = NTMULT[r.ntT] || 1, cw = cupW(r);
     const club = (r.g + aw * r.a) * lm;
-    const eu = o.euBonus * cw * (r.uG + aw * r.uA) * lm;  // crédito extra pela oposição europeia
+    const eu = o.euBonus * cw * (r.uG + aw * r.uA) * lm;  // extra credit for European opposition
     const nt = (r.ntG + aw * r.ntA) * nm * (o.ntBoost || 1);
     return { club, eu, nt, total: club + eu + nt, games: r.gp + r.ntGP,
              uProd: cw * (r.uG + aw * r.uA), nProd: r.ntG + aw * r.ntA };
   }
 
-  // Pontuação individual 0–100 ajustada por posição, força da liga e minutos (encolhimento bayesiano)
+  // Individual score 0–100 adjusted for position, league strength and games played (Bayesian shrinkage)
   function individual(r, o) {
     const p = parts(r, o), bench = POS_BENCH[r.pos];
     let out = 0, rateS = 0, volS = 0;
@@ -44,17 +44,17 @@
     return { final, out, rateS, volS, contPart, prod: p };
   }
 
-  // ---------- Algoritmo 2: "Justo" (só desempenho individual) ----------
+  // ---------- Algorithm 2: "Fair" (individual performance only) ----------
   const FAIR_DEFAULT = { assistW: 0.75, euBonus: 0.15, ntBoost: 1, shrinkK: 10, rateShare: 0.55, wCont: 0.22, wContGK: 0.45 };
   function fair(r, o) {
     o = Object.assign({}, FAIR_DEFAULT, o);
     const s = individual(r, o);
-    return { score: s.final, parts: { 'Produção ajustada (golos+assist.)': s.out * (isAtt(r.pos) ? 1 : (1 - (r.pos === 'GK' ? o.wContGK : o.wCont))),
-                                       'Contributo não ofensivo (estimado)': s.contPart } };
+    return { score: s.final, parts: { 'Adjusted output (goals + assists)': s.out * (isAtt(r.pos) ? 1 : (1 - (r.pos === 'GK' ? o.wContGK : o.wCont))),
+                                       'Non-attacking contribution (estimated)': s.contPart } };
   }
 
-  // ---------- Algoritmo 3: "O meu" ----------
-  // Individual (≈80%) + crédito de equipa PROPORCIONAL ao contributo do próprio jogador (≈20%)
+  // ---------- Algorithm 3: "Mine" ----------
+  // Individual (≈80%) + team credit PROPORTIONAL to the player's own contribution (≈20%)
   const MINE_DEFAULT = { assistW: 0.70, euBonus: 0.30, ntBoost: 1.10, shrinkK: 12, rateShare: 0.50, wCont: 0.22, wContGK: 0.40, wTeam: 0.20 };
   function mine(r, o) {
     o = Object.assign({}, MINE_DEFAULT, o);
@@ -68,40 +68,40 @@
     const team = 100 * (euCredit + ntCredit + lgCredit);
     const score = (1 - o.wTeam) * s.final + o.wTeam * team;
     return { score, parts: {
-      'Produção ajustada (golos+assist.)': (1 - o.wTeam) * s.out * (na ? (1 - (r.pos === 'GK' ? o.wContGK : o.wCont)) : 1),
-      'Contributo não ofensivo (estimado)': (1 - o.wTeam) * s.contPart,
-      'Crédito de equipa (proporcional ao contributo)': o.wTeam * team } };
+      'Adjusted output (goals + assists)': (1 - o.wTeam) * s.out * (na ? (1 - (r.pos === 'GK' ? o.wContGK : o.wCont)) : 1),
+      'Non-attacking contribution (estimated)': (1 - o.wTeam) * s.contPart,
+      'Team credit (proportional to contribution)': o.wTeam * team } };
   }
 
-  // ---------- Algoritmo 1: "Previsão" (antes "Histórico": regras calibradas com os vencedores dos anos anteriores) ----------
-  const HIST_FEATURES = [
-    ['prod',      'Produção total (golos+assist., ajustada à liga)'],
-    ['uStage',    'Fase atingida na Europa'],
-    ['uWin',      'Campeão europeu (UCL)'],
-    ['uProd',     'Golos+assist. na Europa'],
-    ['ntStage',   'Fase no torneio de seleções'],
-    ['ntWin',     'Campeão de seleções'],
-    ['wcFinal',   'Finalista/campeão do Mundial'],
-    ['ntProd',    'Golos+assist. no torneio de seleções'],
-    ['title',     'Campeão nacional'],
-    ['cont',      'Contributo não ofensivo (estimado)'],
-    ['prodRel',   'Produção relativa aos rivais do ano'],
-    ['uProdRel',  'Produção europeia relativa aos rivais'],
-    ['isAtt',     'Posição ofensiva (viés dos votantes)'],
-    ['goalsRel',  'Golos relativos ao melhor marcador do ano'],
-    ['uFinal',    'Chegou à final europeia'],
-    ['uWinXprod', 'Campeão europeu × produção relativa'],
-    ['ntWinXatt', 'Campeão de seleções × atacante'],
-    ['ntFinal',   'Chegou à final do torneio de seleções'],
-    ['prodXtitle','Produção relativa × campeão nacional'],
+  // ---------- Algorithm 1: "Prediction" (weights fitted to the winners of earlier years) ----------
+  const PRED_FEATURES = [
+    ['prod',      'Total output (goals + assists, league-adjusted)'],
+    ['uStage',    'Stage reached in Europe'],
+    ['uWin',      'European champion (UCL)'],
+    ['uProd',     'Goals + assists in Europe'],
+    ['ntStage',   'Stage in the national-team tournament'],
+    ['ntWin',     'National-team champion'],
+    ['wcFinal',   'World Cup finalist/champion'],
+    ['ntProd',    'Goals + assists in the national-team tournament'],
+    ['title',     'League champion'],
+    ['cont',      'Non-attacking contribution (estimated)'],
+    ['prodRel',   "Output relative to the year's rivals"],
+    ['uProdRel',  'European output relative to rivals'],
+    ['isAtt',     'Attacking position (voter bias)'],
+    ['goalsRel',  "Goals relative to the year's top scorer"],
+    ['uFinal',    'Reached the European final'],
+    ['uWinXprod', 'European champion × relative output'],
+    ['ntWinXatt', 'National-team champion × attacker'],
+    ['ntFinal',   'Reached the national-team final'],
+    ['prodXtitle','Relative output × league champion'],
   ];
-  // ctx = máximos do ano (para features relativas)
-  function histCtx(rows) {
+  // ctx = the year's maxima (for the relative features)
+  function predCtx(rows) {
     const o = { assistW: 0.75, euBonus: 0, ntBoost: 1 };
     return { mx: Math.max(...rows.map(r => parts(r, o).total / 50)), mu: Math.max(...rows.map(r => Math.min(parts(r, o).uProd, 20) / 10)),
              gm: Math.max(...rows.map(r => r.g)) };
   }
-  function histFeatures(r, c) {
+  function predFeatures(r, c) {
     const p = parts(r, { assistW: 0.75, euBonus: 0, ntBoost: 1 });
     const prod = p.total / 50, uProd = Math.min(p.uProd, 20) / 10, ntProd = Math.min(p.nProd, 14) / 8;
     const att = isAtt(r.pos) ? 1 : 0, cs = cupWeight(r.uT, r.y), uWin = r.uS === 5 ? cs : 0;
@@ -111,25 +111,25 @@
             (!att && r.cont != null) ? r.cont / 10 : 0, prodRel, c.mu ? uProd / c.mu : 0, att, c.gm ? r.g / c.gm : 0,
             r.uS >= 4 ? cs : 0, prodRel * uWin, ntWin * att, r.ntS >= 4 ? 1 : 0, prodRel * title];
   }
-  function hist(r, w, c) {
-    const f = histFeatures(r, c);
+  function predict(r, w, c) {
+    const f = predFeatures(r, c);
     let s = 0; const parts_ = {};
-    f.forEach((x, i) => { s += w[i] * x; if (w[i] * x) parts_[HIST_FEATURES[i][1]] = w[i] * x; });
+    f.forEach((x, i) => { s += w[i] * x; if (w[i] * x) parts_[PRED_FEATURES[i][1]] = w[i] * x; });
     return { score: s, parts: parts_ };
   }
 
-  // ---------- Utilitários ----------
-  // Duas listas por ano: 'elig' = só quem podia ganhar segundo as regras do ano; 'all' = todos (incl. inelegíveis).
+  // ---------- Utilities ----------
+  // Two lists per year: 'elig' = only those who could win under that year's rules; 'all' = everyone (incl. ineligible).
   const listRows = (Y, list) => list === 'all' ? Y.rows : Y.rows.filter(r => r.elig !== 0);
-  // Alvo de cada lista: vencedor oficial; na lista 'all', o retroativo da France Football quando existe.
-  const target = (Y, list) => list === 'all' ? (Y.realAll || Y.real) : Y.real;
+  // Target of each list: the official winner; in the 'all' list, France Football's retroactive winner when there is one.
+  const target = (Y, list) => list === 'all' ? (Y.winnerAll || Y.winner) : Y.winner;
   function rankYear(rows, fn) {
     const sc = rows.map(r => ({ r, ...fn(r) }));
     sc.sort((a, b) => b.score - a.score);
     return sc;
   }
 
-  const api = { POS_BENCH, isAtt, parts, uStageEff, listRows, target, individual, fair, mine, hist, histFeatures, histCtx, HIST_FEATURES, rankYear,
+  const api = { POS_BENCH, isAtt, parts, uStageEff, listRows, target, individual, fair, mine, predict, predFeatures, predCtx, PRED_FEATURES, rankYear,
                 FAIR_DEFAULT, MINE_DEFAULT };
   if (typeof module !== 'undefined') module.exports = api; else root.BDO_MODELS = api;
 })(typeof window !== 'undefined' ? window : globalThis);

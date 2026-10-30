@@ -1,12 +1,12 @@
 {
   "1971": {
-    "label": "Ano civil 1971 (sem fase final de seleções)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Johan Cruyff",
-    "realAll": null,
-    "realAllNote": "Revisão da France Football (2016, 39 edições 1956–1994): 12 prémios passariam para sul-americanos — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes e Romário (anos destes três não confirmados na pesquisa, mas fora de 1971–1975). Nenhuma atribuição retroativa em 1971–1975: o vencedor original mantém-se.",
+    "label": "Calendar year 1971 (no national-team finals)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Johan Cruyff",
+    "winnerAll": null,
+    "winnerAllNote": "France Football's review (2016, 39 editions 1956–1994): 12 awards would go to South Americans — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes and Romário (the years of these three not confirmed in the search, but outside 1971–1975). No retroactive award in 1971–1975: the original winner stands.",
     "window": "CY",
-    "notes": "Resultados publicados a 28/12/1971. Ranking e pontos confirmados via resultados de pesquisa (Wikipédia EN, Topend Sports, RSSSF, ballondor.com); WebFetch bloqueado nesta sessão (Wikipédia, RSSSF, wikiwand, topendsports) e orçamento de pesquisa esgotado, por isso TODAS as estatísticas são de memória, por época (win S) e conf C; repetir com acesso à web para obter a divisão por ano civil. Empates: 6.º Müller/Skoblar (18), 10.º Moore/Bene (7). Chivers tem 12 pts no ranking (uma fonte cita 13 pts na France Football).",
+    "notes": "Results published on 28/12/1971. Ranking and points confirmed via search results (English Wikipedia, Topend Sports, RSSSF, ballondor.com); WebFetch blocked in this session (Wikipedia, RSSSF, wikiwand, topendsports) and search budget exhausted, so ALL statistics are from memory, per season (win S) and conf C; repeat with web access to get the calendar-year split. Ties: 6th Müller/Skoblar (18), 10th Moore/Bene (7). Chivers has 12 pts in the ranking (one source quotes 13 pts in France Football).",
     "rows": [
       {
         "name": "Johan Cruyff",
@@ -41,7 +41,7 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Eredivisie",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
         ],
-        "note": "116 pts. Eredivisie 1970/71 ~25 j/21 g; Taça dos Campeões 1970/71 vencida (golos europeus estimados). Ajax 2.º (Feyenoord campeão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1970–71 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1970–71 European Cup: Final). Alterado: gp 33→36, g 23→22, uG 2→4."
+        "note": "116 pts. Eredivisie 1970/71 ~25 gp/21 g; European Cup 1970/71 won (European goals estimated). Ajax 2nd (Feyenoord champions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 European Cup: Final). Changed: gp 33→36, g 23→22, uG 2→4."
       },
       {
         "name": "Sandro Mazzola",
@@ -77,7 +77,7 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Serie_A",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup"
         ],
-        "note": "57 pts. Inter campeão 1970/71; eliminado cedo na Taça das Cidades com Feiras 1970/71 (Newcastle, memória). Golos de liga incertos. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1971–72 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1970–71 Inter-Cities Fairs Cup: First round). Alterado: gp 31→37, g 7→11, uG 0→1."
+        "note": "57 pts. Inter champions 1970/71; knocked out early in the 1970/71 Inter-Cities Fairs Cup (Newcastle, memory). League goals uncertain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1971–72 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: First round). Changed: gp 31→37, g 7→11, uG 0→1."
       },
       {
         "name": "George Best",
@@ -112,7 +112,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division"
         ],
-        "note": "56 pts. Liga 1970/71 ~40 j/18 g; Man United sem Europa. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: g 18→26."
+        "note": "56 pts. League 1970/71 ~40 gp/18 g; Man United without Europe. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: g 18→26."
       },
       {
         "name": "Günter Netzer",
@@ -144,7 +144,7 @@
           "https://ballondor.com/all-rankings?year=1971",
           "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer"
         ],
-        "note": "30 pts. Campeão 1970/71; Taça dos Campeões 1970/71 eliminado pelo Everton nos penáltis (2.ª ronda = oitavos). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "30 pts. Champion 1970/71; European Cup 1970/71 knocked out by Everton on penalties (2nd round = round of 16). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Franz Beckenbauer",
@@ -180,7 +180,7 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Bundesliga",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup"
         ],
-        "note": "27 pts. Bayern 2.º 1970/71; Taça das Feiras: eliminado nos quartos pelo Liverpool. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1970–71 Inter-Cities Fairs Cup: Quarter-finals). Alterado: gp 42→39, g 3→7, uG 1→0."
+        "note": "27 pts. Bayern 2nd 1970/71; Fairs Cup: knocked out in the quarter-finals by Liverpool. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: Quarter-finals). Changed: gp 42→39, g 3→7, uG 1→0."
       },
       {
         "name": "Gerd Müller",
@@ -216,7 +216,7 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Bundesliga",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup"
         ],
-        "note": "18 pts (empatado). Bundesliga 1970/71 ~32 j/22 g; golos na Taça das Feiras estimados. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1970–71 Inter-Cities Fairs Cup: Quarter-finals). Alterado: gp 40→39, g 28→33, uG 6→4."
+        "note": "18 pts (tied). Bundesliga 1970/71 ~32 gp/22 g; Fairs Cup goals estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: Quarter-finals). Changed: gp 40→39, g 28→33, uG 6→4."
       },
       {
         "name": "Josip Skoblar",
@@ -250,7 +250,7 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_French_Division_1",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
-        "note": "18 pts (empatado). 44 golos na Division 1 1970/71 (recorde), Marseille campeão. Participação europeia 1970/71 (Taça das Feiras, eliminação precoce) é incerta. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1971–72 European Cup). Alterado: gp 39→38, uT UEL→UCL."
+        "note": "18 pts (tied). 44 goals in the 1970/71 Division 1 (record), Marseille champions. European participation in 1970/71 (Fairs Cup, early exit) is uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1971–72 European Cup). Changed: gp 39→38, uT UEL→UCL."
       },
       {
         "name": "Martin Chivers",
@@ -282,7 +282,7 @@
           "https://ballondor.com/all-rankings?year=1971",
           "https://en.wikipedia.org/wiki/Martin_Chivers"
         ],
-        "note": "12 pts. Liga 1970/71 ~42 j/21 g; Spurs sem Europa 1970/71 (os golos da Taça UEFA 1971/72, outono 1971, ficam fora da janela S). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "12 pts. League 1970/71 ~42 gp/21 g; Spurs without Europe in 1970/71 (the 1971/72 UEFA Cup goals, autumn 1971, fall outside the S window). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Piet Keizer",
@@ -317,7 +317,7 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Eredivisie",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
         ],
-        "note": "9 pts. Taça dos Campeões 1970/71 vencida. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1970–71 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1970–71 European Cup: Final). Alterado: gp 38→41, g 12→15, uG 2→4."
+        "note": "9 pts. European Cup 1970/71 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 European Cup: Final). Changed: gp 38→41, g 12→15, uG 2→4."
       },
       {
         "name": "Bobby Moore",
@@ -351,7 +351,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_West_Ham_United_F.C._season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division"
         ],
-        "note": "7 pts (empatado). West Ham na metade inferior da tabela 1970/71. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1970–71 West Ham United: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 39→41."
+        "note": "7 pts (tied). West Ham in the bottom half of the table 1970/71. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 West Ham United: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 39→41."
       },
       {
         "name": "Ferenc Bene",
@@ -383,7 +383,7 @@
           "https://ballondor.com/all-rankings?year=1971",
           "https://en.wikipedia.org/wiki/Ferenc_Bene"
         ],
-        "note": "7 pts (empatado). Formato da liga húngara 1970/71 (época outono-primavera) e números do Bene muito incertos; Újpest campeão. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "7 pts (tied). Format of the 1970/71 Hungarian league (autumn–spring season) and Bene's numbers very uncertain; Újpest champions. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Tostão",
@@ -414,18 +414,18 @@
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
           "https://en.wikipedia.org/wiki/Tost%C3%A3o"
         ],
-        "note": "Inelegível (brasileiro). Melhor jogador sul-americano 1971 (El Mundo, memória). Campeonato Nacional 1971; números grosseiramente estimados. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Ineligible (Brazilian). South American player of the year 1971 (El Mundo, memory). Campeonato Nacional 1971; numbers roughly estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       }
     ]
   },
   "1972": {
-    "label": "Ano civil 1972 (+ Euro 1972)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Franz Beckenbauer",
-    "realAll": null,
-    "realAllNote": "Revisão da France Football (2016, 39 edições 1956–1994): 12 prémios passariam para sul-americanos — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes e Romário (anos destes três não confirmados na pesquisa, mas fora de 1971–1975). Nenhuma atribuição retroativa em 1971–1975: o vencedor original mantém-se.",
+    "label": "Calendar year 1972 (+ Euro 1972)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Franz Beckenbauer",
+    "winnerAll": null,
+    "winnerAllNote": "France Football's review (2016, 39 editions 1956–1994): 12 awards would go to South Americans — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes and Romário (the years of these three not confirmed in the search, but outside 1971–1975). No retroactive award in 1971–1975: the original winner stands.",
     "window": "CY",
-    "notes": "Publicado na France Football a 26/12/1972, 25 votantes. Ranking e pontos confirmados via resultados de pesquisa (Wikipédia EN, Topend Sports, RSSSF, ballondor.com); WebFetch bloqueado nesta sessão (Wikipédia, RSSSF, wikiwand, topendsports) e orçamento de pesquisa esgotado, por isso TODAS as estatísticas são de memória, por época (win S) e conf C; repetir com acesso à web para obter a divisão por ano civil. Empates: 2.º Müller/Netzer (79), 7.º Banks/Hulshoff/Lubański/Moore (4). Euro 1972: fase final de 4 equipas (meias = 3); RFA campeã.",
+    "notes": "Published in France Football on 26/12/1972, 25 voters. Ranking and points confirmed via search results (English Wikipedia, Topend Sports, RSSSF, ballondor.com); WebFetch blocked in this session (Wikipedia, RSSSF, wikiwand, topendsports) and search budget exhausted, so ALL statistics are from memory, per season (win S) and conf C; repeat with web access to get the calendar-year split. Ties: 2nd Müller/Netzer (79), 7th Banks/Hulshoff/Lubański/Moore (4). Euro 1972: 4-team finals (semi-finals = 3); West Germany champions.",
     "rows": [
       {
         "name": "Franz Beckenbauer",
@@ -462,7 +462,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1972"
         ],
-        "note": "81 pts. Bayern campeão 1971/72; Taça das Taças: meias (Rangers). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1971–72 UEFA Cup Winners' Cup: Semi-finals). Alterado: g 7→6."
+        "note": "81 pts. Bayern champions 1971/72; Cup Winners' Cup: semi-finals (Rangers). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup Winners' Cup: Semi-finals). Changed: g 7→6."
       },
       {
         "name": "Gerd Müller",
@@ -499,7 +499,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1972"
         ],
-        "note": "79 pts (empatado). 40 golos na Bundesliga 1971/72; 4 golos no Euro (2 à Bélgica, 2 à URSS na final). Golos na Taça das Taças estimados. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1971–72 UEFA Cup Winners' Cup: Semi-finals). Alterado: gp 41→42, g 45→53, uG 5→11."
+        "note": "79 pts (tied). 40 goals in the 1971/72 Bundesliga; 4 goals at the Euro (2 against Belgium, 2 against the USSR in the final). Cup Winners' Cup goals estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 41→42, g 45→53, uG 5→11."
       },
       {
         "name": "Günter Netzer",
@@ -532,7 +532,7 @@
           "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1972"
         ],
-        "note": "79 pts (empatado). Gladbach 3.º; Taça dos Campeões 1971/72: 7-1 ao Inter anulado (não contado), eliminado nos oitavos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "79 pts (tied). Gladbach 3rd; European Cup 1971/72: 7-1 against Inter annulled (not counted), knocked out in the round of 16. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Johan Cruyff",
@@ -567,7 +567,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
-        "note": "73 pts. Melhor marcador da Eredivisie 1971/72 (~25 g); 2 golos na final da Taça dos Campeões contra o Inter. Holanda não chegou à fase final do Euro. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1972–73 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1971–72 European Cup: Final). Alterado: gp 41→39, g 30→29, uG 5→4."
+        "note": "73 pts. Top scorer of the 1971/72 Eredivisie (~25 g); 2 goals in the European Cup final against Inter. The Netherlands did not reach the Euro finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1972–73 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1971–72 European Cup: Final). Changed: gp 41→39, g 30→29, uG 5→4."
       },
       {
         "name": "Piet Keizer",
@@ -602,7 +602,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
-        "note": "13 pts. Taça dos Campeões e Eredivisie 1971/72. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1972–73 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1971–72 European Cup: Final). Alterado: gp 40→38, g 12→15, uG 2→1."
+        "note": "13 pts. European Cup and Eredivisie 1971/72. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1972–73 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1971–72 European Cup: Final). Changed: gp 40→38, g 12→15, uG 2→1."
       },
       {
         "name": "Kazimierz Deyna",
@@ -636,7 +636,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup"
         ],
-        "note": "6 pts. Ouro olímpico 1972 não conta. Participação europeia da Legia 1971/72 incerta (deixada a 0). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1971–72 UEFA Cup: Second round). Alterado: gp 26→30, uT →UEL."
+        "note": "6 pts. 1972 Olympic gold does not count. Legia's 1971/72 European participation uncertain (left at 0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup: Second round). Changed: gp 26→30, uT →UEL."
       },
       {
         "name": "Gordon Banks",
@@ -672,7 +672,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
         ],
-        "note": "4 pts (empatado). Taça da Liga 1972 não conta; acidente de viação em out/1972 terminou a carreira. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1972–73 UEFA Cup). Alterado: gp 36→22, uT →UEL."
+        "note": "4 pts (tied). The 1972 League Cup does not count; a car crash in Oct 1972 ended his career. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1972–73 UEFA Cup). Changed: gp 36→22, uT →UEL."
       },
       {
         "name": "Barry Hulshoff",
@@ -704,7 +704,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy72.html",
           "https://en.wikipedia.org/wiki/Barry_Hulshoff"
         ],
-        "note": "4 pts (empatado). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "4 pts (tied). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Włodzimierz Lubański",
@@ -738,7 +738,7 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
-        "note": "4 pts (empatado). Górnik campeão; números e percurso europeu 1971/72 muito incertos. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1971–72 European Cup: First round). Alterado: gp 28→27, g 18→15."
+        "note": "4 pts (tied). Górnik champions; numbers and 1971/72 European run very uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 European Cup: First round). Changed: gp 28→27, g 18→15."
       },
       {
         "name": "Bobby Moore",
@@ -773,7 +773,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_West_Ham_United_F.C._season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Football_League_First_Division"
         ],
-        "note": "4 pts (empatado). Inglaterra eliminada nos quartos do Euro (fase de qualificação, não conta). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 40→43, g 1→3."
+        "note": "4 pts (tied). England knocked out in the Euro quarter-finals (qualifying phase, does not count). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 40→43, g 1→3."
       },
       {
         "name": "Teófilo Cubillas",
@@ -805,18 +805,18 @@
           "https://en.wikipedia.org/wiki/Te%C3%B3filo_Cubillas",
           "https://en.wikipedia.org/wiki/1972_Copa_Libertadores"
         ],
-        "note": "Inelegível (peruano). lg PER = Campeonato Descentralizado do Peru. Melhor jogador sul-americano 1972 (El Mundo, memória). Números grosseiramente estimados. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; prova/fase continental pela página da edição (1972 Copa Libertadores: Group Stage); por verificar: título. Alterado: gp 30→29, g 20→14, uT →LIB, uS 0→2."
+        "note": "Ineligible (Peruvian). lg PER = Peru's Campeonato Descentralizado. South American player of the year 1972 (El Mundo, memory). Numbers roughly estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1972 Copa Libertadores: Group Stage); to verify: title. Changed: gp 30→29, g 20→14, uT →LIB, uS 0→2."
       }
     ]
   },
   "1973": {
-    "label": "Ano civil 1973 (sem fase final de seleções)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Johan Cruyff",
-    "realAll": null,
-    "realAllNote": "Revisão da France Football (2016, 39 edições 1956–1994): 12 prémios passariam para sul-americanos — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes e Romário (anos destes três não confirmados na pesquisa, mas fora de 1971–1975). Nenhuma atribuição retroativa em 1971–1975: o vencedor original mantém-se.",
+    "label": "Calendar year 1973 (no national-team finals)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Johan Cruyff",
+    "winnerAll": null,
+    "winnerAllNote": "France Football's review (2016, 39 editions 1956–1994): 12 awards would go to South Americans — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes and Romário (the years of these three not confirmed in the search, but outside 1971–1975). No retroactive award in 1971–1975: the original winner stands.",
     "window": "CY",
-    "notes": "France Football n.º 1447 (25/12/1973); 24 votantes (o júri soviético não enviou o voto). Ranking e pontos confirmados via resultados de pesquisa (Wikipédia EN, Topend Sports, RSSSF, ballondor.com); WebFetch bloqueado nesta sessão (Wikipédia, RSSSF, wikiwand, topendsports) e orçamento de pesquisa esgotado, por isso TODAS as estatísticas são de memória, por época (win S) e conf C; repetir com acesso à web para obter a divisão por ano civil. Empate: 9.º Edström/Netzer (11). Cruyff mudou-se para o Barcelona (estreia out/1973) e Netzer para o Real Madrid no verão: a janela S só conta a época 1972/73.",
+    "notes": "France Football no. 1447 (25/12/1973); 24 voters (the Soviet juror did not send a vote). Ranking and points confirmed via search results (English Wikipedia, Topend Sports, RSSSF, ballondor.com); WebFetch blocked in this session (Wikipedia, RSSSF, wikiwand, topendsports) and search budget exhausted, so ALL statistics are from memory, per season (win S) and conf C; repeat with web access to get the calendar-year split. Tie: 9th Edström/Netzer (11). Cruyff moved to Barcelona (debut Oct 1973) and Netzer to Real Madrid in the summer: the S window only counts the 1972/73 season.",
     "rows": [
       {
         "name": "Johan Cruyff",
@@ -851,7 +851,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Eredivisie",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
-        "note": "96 pts. Ajax 1972/73: Eredivisie (~26 j/16 g) e Taça dos Campeões vencida. Jogos pelo Barcelona no outono 1973 NÃO incluídos (janela S). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1972–73 European Cup: Final). Alterado: gp 32→38, g 19→20."
+        "note": "96 pts. Ajax 1972/73: Eredivisie (~26 gp/16 g) and European Cup won. Barcelona games in autumn 1973 NOT included (S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Final). Changed: gp 32→38, g 19→20."
       },
       {
         "name": "Dino Zoff",
@@ -887,7 +887,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Serie_A",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
-        "note": "47 pts. Juventus campeã 1972/73; final da Taça dos Campeões perdida com o Ajax. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1972–73 European Cup: Final). Alterado: gp 39→35."
+        "note": "47 pts. Juventus champions 1972/73; European Cup final lost to Ajax. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Final). Changed: gp 39→35."
       },
       {
         "name": "Gerd Müller",
@@ -923,7 +923,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
-        "note": "44 pts. Bundesliga 1972/73 ~36 g; melhor marcador da Taça dos Campeões 1972/73 (~11 g, memória); eliminado pelo Ajax nos quartos. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1972–73 European Cup: Quarter-finals). Alterado: g 47→37, uG 11→5."
+        "note": "44 pts. Bundesliga 1972/73 ~36 g; top scorer of the 1972/73 European Cup (~11 g, memory); knocked out by Ajax in the quarter-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Quarter-finals). Changed: g 47→37, uG 11→5."
       },
       {
         "name": "Franz Beckenbauer",
@@ -959,7 +959,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
-        "note": "30 pts. Bayern campeão 1972/73. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1972–73 European Cup: Quarter-finals). Alterado: gp 40→39, g 7→4, uG 1→0."
+        "note": "30 pts. Bayern champions 1972/73. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Quarter-finals). Changed: gp 40→39, g 7→4, uG 1→0."
       },
       {
         "name": "Billy Bremner",
@@ -993,7 +993,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "22 pts. Final da Taça das Taças 1973 perdida com o Milan (Bremner suspenso na final). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1972–73 UEFA Cup Winners' Cup: Final). Alterado: g 5→4, uG 1→0."
+        "note": "22 pts. 1973 Cup Winners' Cup final lost to Milan (Bremner suspended for the final). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Final). Changed: g 5→4, uG 1→0."
       },
       {
         "name": "Kazimierz Deyna",
@@ -1027,7 +1027,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "16 pts. Apuramento da Polónia para o Mundial 1974 (Wembley, out/1973) não conta. Percurso europeu incerto (0). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1972–73 UEFA Cup Winners' Cup: Second round). Alterado: uG 0→3, uT →CWC, uS 0→1."
+        "note": "16 pts. Poland's qualification for the 1974 World Cup (Wembley, Oct 1973) does not count. European run uncertain (0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Second round). Changed: uG 0→3, uT →CWC, uS 0→1."
       },
       {
         "name": "Eusébio",
@@ -1063,7 +1063,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
-        "note": "14 pts. ~40 golos na liga 1972/73 (Bota de Ouro); Benfica campeão; eliminado pelo Derby na 2.ª ronda (oitavos). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1972–73 European Cup: Second round). Alterado: gp 32→27, g 41→28."
+        "note": "14 pts. ~40 league goals in 1972/73 (Golden Boot); Benfica champions; knocked out by Derby in the 2nd round (round of 16). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Second round). Changed: gp 32→27, g 41→28."
       },
       {
         "name": "Gianni Rivera",
@@ -1099,7 +1099,7 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Serie_A",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "12 pts. Melhor marcador da Serie A 1972/73 (17 g, empatado); Taça das Taças vencida; Milan perdeu o título na última jornada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1972–73 UEFA Cup Winners' Cup: Final). Alterado: gp 35→34, g 19→13, uG 2→0."
+        "note": "12 pts. Top scorer of the 1972/73 Serie A (17 g, tied); Cup Winners' Cup won; Milan lost the title on the last matchday. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Final). Changed: gp 35→34, g 19→13, uG 2→0."
       },
       {
         "name": "Ralf Edström",
@@ -1133,7 +1133,7 @@
           "https://en.wikipedia.org/wiki/1973_Allsvenskan",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
         ],
-        "note": "11 pts (empatado). Allsvenskan (ano civil) 1973 com Åtvidaberg campeão; data da transferência para o PSV e números incertos. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (1972–73 UEFA Cup: First round); campeão sueco 1973 com o Åtvidaberg (11 de 26 jornadas, ≥ 1/3) antes de ir para o PSV. Alterado: gp 20→11, g 12→6, uT →UEL."
+        "note": "11 pts (tied). Allsvenskan (calendar year) 1973 with Åtvidaberg champions; transfer date to PSV and numbers uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1972–73 UEFA Cup: First round); Swedish champion 1973 with Åtvidaberg (11 of 26 rounds, ≥ 1/3) before moving to PSV. Changed: gp 20→11, g 12→6, uT →UEL."
       },
       {
         "name": "Günter Netzer",
@@ -1165,7 +1165,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy73.html",
           "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer"
         ],
-        "note": "11 pts (empatado). Final da Taça UEFA 1973 perdida com o Liverpool. Jogos pelo Real Madrid no outono 1973 não incluídos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "11 pts (tied). 1973 UEFA Cup final lost to Liverpool. Real Madrid games in autumn 1973 not included. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Pelé",
@@ -1196,18 +1196,18 @@
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
           "https://en.wikipedia.org/wiki/Pel%C3%A9"
         ],
-        "note": "Inelegível (brasileiro). Melhor jogador sul-americano 1973 (El Mundo, memória). Campeonato Nacional 1973; números estimados. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Ineligible (Brazilian). South American player of the year 1973 (El Mundo, memory). Campeonato Nacional 1973; numbers estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       }
     ]
   },
   "1974": {
-    "label": "Ano civil 1974 (+ Mundial 1974)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Johan Cruyff",
-    "realAll": null,
-    "realAllNote": "Revisão da France Football (2016, 39 edições 1956–1994): 12 prémios passariam para sul-americanos — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes e Romário (anos destes três não confirmados na pesquisa, mas fora de 1971–1975). Nenhuma atribuição retroativa em 1971–1975: o vencedor original mantém-se.",
+    "label": "Calendar year 1974 (+ World Cup 1974)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Johan Cruyff",
+    "winnerAll": null,
+    "winnerAllNote": "France Football's review (2016, 39 editions 1956–1994): 12 awards would go to South Americans — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes and Romário (the years of these three not confirmed in the search, but outside 1971–1975). No retroactive award in 1971–1975: the original winner stands.",
     "window": "CY",
-    "notes": "France Football n.º 1500 (31/12/1974); 26 votantes. Ranking e pontos confirmados via resultados de pesquisa (Wikipédia EN, Topend Sports, RSSSF, ballondor.com); WebFetch bloqueado nesta sessão (Wikipédia, RSSSF, wikiwand, topendsports) e orçamento de pesquisa esgotado, por isso TODAS as estatísticas são de memória, por época (win S) e conf C; repetir com acesso à web para obter a divisão por ano civil. Empate: 10.º Edström/Sparwasser/Vogts (4). Mundial 1974 com 2.ª fase de grupos de 8 equipas (= quartos, ntS 2); Polónia 3.ª (ntS 3).",
+    "notes": "France Football no. 1500 (31/12/1974); 26 voters. Ranking and points confirmed via search results (English Wikipedia, Topend Sports, RSSSF, ballondor.com); WebFetch blocked in this session (Wikipedia, RSSSF, wikiwand, topendsports) and search budget exhausted, so ALL statistics are from memory, per season (win S) and conf C; repeat with web access to get the calendar-year split. Tie: 10th Edström/Sparwasser/Vogts (4). 1974 World Cup with an 8-team second group stage (= quarter-finals, ntS 2); Poland 3rd (ntS 3).",
     "rows": [
       {
         "name": "Johan Cruyff",
@@ -1245,7 +1245,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "116 pts. La Liga 1973/74 (~26 j/16 g desde out/1973), Barcelona campeão; final do Mundial perdida. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 UEFA Cup: First round). Alterado: gp 26→28, g 16→19, uT →UEL."
+        "note": "116 pts. La Liga 1973/74 (~26 gp/16 g from Oct 1973), Barcelona champions; World Cup final lost. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup: First round). Changed: gp 26→28, g 16→19, uT →UEL."
       },
       {
         "name": "Franz Beckenbauer",
@@ -1282,7 +1282,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "105 pts. Bayern campeão 1973/74 e vencedor da Taça dos Campeões (final + finalíssima com o Atlético); campeão do mundo como capitão. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 European Cup: Final). Alterado: gp 44→42, g 4→5, uG 0→1."
+        "note": "105 pts. Bayern champions 1973/74 and European Cup winners (final + replay against Atlético); world champion as captain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 4→5, uG 0→1."
       },
       {
         "name": "Kazimierz Deyna",
@@ -1317,7 +1317,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "35 pts. Mundial: 3.º lugar, 2 golos (Haiti, penálti à Jugoslávia — memória). Números da liga estimados. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 UEFA Cup Winners' Cup: First round). Alterado: gp 35→32, g 13→10, uG 0→2, ntG 2→3, uT →CWC."
+        "note": "35 pts. World Cup: 3rd place, 2 goals (Haiti, penalty against Yugoslavia — memory). League numbers estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: First round). Changed: gp 35→32, g 13→10, uG 0→2, ntG 2→3, uT →CWC."
       },
       {
         "name": "Paul Breitner",
@@ -1354,7 +1354,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "32 pts. 3 golos no Mundial (Chile, Jugoslávia, penálti na final). Mudou-se para o Real Madrid no verão 1974. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1974–75 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 European Cup: Final). Alterado: gp 41→35, g 6→8."
+        "note": "32 pts. 3 goals at the World Cup (Chile, Yugoslavia, penalty in the final). Moved to Real Madrid in summer 1974. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1974–75 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 41→35, g 6→8."
       },
       {
         "name": "Johan Neeskens",
@@ -1390,7 +1390,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "21 pts. Ajax eliminado pelo CSKA Sófia na 2.ª ronda (oitavos) 1973/74; 5 golos no Mundial. Barcelona a partir do verão 1974 (fora da janela S). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 European Cup: Second round). Alterado: gp 37→33, g 13→14, uG 2→0."
+        "note": "21 pts. Ajax knocked out by CSKA Sofia in the 2nd round (round of 16) 1973/74; 5 goals at the World Cup. Barcelona from summer 1974 (outside the S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Second round). Changed: gp 37→33, g 13→14, uG 2→0."
       },
       {
         "name": "Grzegorz Lato",
@@ -1424,7 +1424,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "16 pts. Melhor marcador do Mundial (7 g). Números da liga e percurso europeu estimados. 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; seleção contada pelos onzes da Wikipédia; prova/fase continental pela página da edição (1973–74 European Cup: First round); por verificar: clube, título."
+        "note": "16 pts. World Cup top scorer (7 g). League numbers and European run estimated. Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1973–74 European Cup: First round); to verify: club, title."
       },
       {
         "name": "Gerd Müller",
@@ -1461,7 +1461,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "14 pts. Bundesliga 1973/74 ~30 g; golo da vitória na final do Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 European Cup: Final). Alterado: gp 44→42, g 38→32."
+        "note": "14 pts. Bundesliga 1973/74 ~30 g; winning goal in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 38→32."
       },
       {
         "name": "Robert Gadocha",
@@ -1494,7 +1494,7 @@
           "https://en.wikipedia.org/wiki/Robert_Gadocha",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "11 pts. Mundial: muitas assistências, sem golos (memória). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "11 pts. World Cup: many assists, no goals (memory). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Billy Bremner",
@@ -1530,7 +1530,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "9 pts. Leeds campeão 1973/74; Taça UEFA: eliminado na 3.ª ronda (oitavos). Escócia eliminada invicta na fase de grupos. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 UEFA Cup: Third round). Alterado: gp 44→46."
+        "note": "9 pts. Leeds champions 1973/74; UEFA Cup: knocked out in the 3rd round (round of 16). Scotland knocked out unbeaten in the group stage. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup: Third round). Changed: gp 44→46."
       },
       {
         "name": "Ralf Edström",
@@ -1565,7 +1565,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "4 pts (empatado). 4 golos no Mundial (Suécia na 2.ª fase). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1974–75 UEFA Cup Winners' Cup). Alterado: gp 28→33, g 14→19, uT →CWC."
+        "note": "4 pts (tied). 4 goals at the World Cup (Sweden in the second round). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1974–75 UEFA Cup Winners' Cup). Changed: gp 28→33, g 14→19, uT →CWC."
       },
       {
         "name": "Jürgen Sparwasser",
@@ -1598,7 +1598,7 @@
           "https://en.wikipedia.org/wiki/J%C3%BCrgen_Sparwasser",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "4 pts (empatado). Magdeburg vencedor da Taça das Taças 1974 e campeão da DDR-Oberliga 1973/74; golo à RFA no Mundial. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "4 pts (tied). Magdeburg 1974 Cup Winners' Cup winners and DDR-Oberliga champions 1973/74; goal against West Germany at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Berti Vogts",
@@ -1635,7 +1635,7 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "4 pts (empatado). Gladbach 2.º; meias da Taça das Taças (Milan). Marcou Cruyff na final do Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1973–74 UEFA Cup Winners' Cup: Semi-finals). Alterado: gp 42→38, g 2→5, uG 0→2."
+        "note": "4 pts (tied). Gladbach 2nd; Cup Winners' Cup semi-finals (Milan). Marked Cruyff in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 42→38, g 2→5, uG 0→2."
       },
       {
         "name": "Héctor Yazalde",
@@ -1667,7 +1667,7 @@
           "https://en.wikipedia.org/wiki/H%C3%A9ctor_Yazalde",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "Inelegível (argentino) num clube europeu. 46 golos na liga 1973/74 (Bota de Ouro, memória); Sporting campeão; meias da Taça das Taças (Magdeburg). 2 golos ao Haiti no Mundial. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntGP 4→3."
+        "note": "Ineligible (Argentine) at a European club. 46 league goals in 1973/74 (Golden Boot, memory); Sporting champions; Cup Winners' Cup semi-finals (Magdeburg). 2 goals against Haiti at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 4→3."
       },
       {
         "name": "Elías Figueroa",
@@ -1699,18 +1699,18 @@
           "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
         ],
-        "note": "Inelegível (chileno). Melhor jogador sul-americano 1974 (El Mundo, memória). Chile eliminado na fase de grupos do Mundial. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Ineligible (Chilean). South American player of the year 1974 (El Mundo, memory). Chile knocked out in the World Cup group stage. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       }
     ]
   },
   "1975": {
-    "label": "Ano civil 1975 (Copa América 1975 só para inelegíveis)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Oleg Blokhin",
-    "realAll": null,
-    "realAllNote": "Revisão da France Football (2016, 39 edições 1956–1994): 12 prémios passariam para sul-americanos — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes e Romário (anos destes três não confirmados na pesquisa, mas fora de 1971–1975). Nenhuma atribuição retroativa em 1971–1975: o vencedor original mantém-se.",
+    "label": "Calendar year 1975 (Copa América 1975 for ineligible players only)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Oleg Blokhin",
+    "winnerAll": null,
+    "winnerAllNote": "France Football's review (2016, 39 editions 1956–1994): 12 awards would go to South Americans — Pelé (1958, 1959, 1960, 1961, 1963, 1964, 1970), Maradona (1986, 1990), Garrincha, Kempes and Romário (the years of these three not confirmed in the search, but outside 1971–1975). No retroactive award in 1971–1975: the original winner stands.",
     "window": "CY",
-    "notes": "Publicado a 30/12/1975; 26 votantes. Ranking e pontos confirmados via resultados de pesquisa (Wikipédia EN, Topend Sports, RSSSF, ballondor.com); WebFetch bloqueado nesta sessão (Wikipédia, RSSSF, wikiwand, topendsports) e orçamento de pesquisa esgotado, por isso TODAS as estatísticas são de memória, por época (win S) e conf C; repetir com acesso à web para obter a divisão por ano civil. 11.º lugar empatado com 9 pts (Lorimer, Pirri, Oblak), por isso o top 10 tem exatamente 10 jogadores. A liga soviética é de ano civil (1975); para Blokhin a janela S = liga 1975 + Taça das Taças 1974/75.",
+    "notes": "Published on 30/12/1975; 26 voters. Ranking and points confirmed via search results (English Wikipedia, Topend Sports, RSSSF, ballondor.com); WebFetch blocked in this session (Wikipedia, RSSSF, wikiwand, topendsports) and search budget exhausted, so ALL statistics are from memory, per season (win S) and conf C; repeat with web access to get the calendar-year split. 11th place tied on 9 pts (Lorimer, Pirri, Oblak), so the top 10 has exactly 10 players. The Soviet league is a calendar-year league (1975); for Blokhin the S window = 1975 league + Cup Winners' Cup 1974/75.",
     "rows": [
       {
         "name": "Oleg Blokhin",
@@ -1743,7 +1743,7 @@
           "https://en.wikipedia.org/wiki/Oleg_Blokhin",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "122 pts. Campeão soviético 1975 e melhor marcador (~18 g, memória); Taça das Taças 1975 vencida (golo na final contra o Ferencváros). Supertaça Europeia não conta. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; prova/fase continental pela página da edição (1974–75 UEFA Cup Winners' Cup: Final); por verificar: título. Alterado: gp 37→36."
+        "note": "122 pts. Soviet champion 1975 and top scorer (~18 g, memory); Cup Winners' Cup 1975 won (goal in the final against Ferencváros). The European Super Cup does not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→36."
       },
       {
         "name": "Franz Beckenbauer",
@@ -1779,7 +1779,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
-        "note": "42 pts. Taça dos Campeões 1975 vencida (final com o Leeds); Bayern a meio da tabela na Bundesliga. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1974–75 European Cup: Final). Alterado: gp 40→42, g 1→3, uG 0→1."
+        "note": "42 pts. European Cup 1975 won (final against Leeds); Bayern mid-table in the Bundesliga. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Final). Changed: gp 40→42, g 1→3, uG 0→1."
       },
       {
         "name": "Johan Cruyff",
@@ -1815,7 +1815,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_La_Liga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
-        "note": "27 pts. Meias da Taça dos Campeões 1974/75 (Leeds). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1974–75 European Cup: Semi-finals). Alterado: g 9→7, uG 2→0."
+        "note": "27 pts. European Cup semi-finals 1974/75 (Leeds). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Semi-finals). Changed: g 9→7, uG 2→0."
       },
       {
         "name": "Berti Vogts",
@@ -1851,7 +1851,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
-        "note": "25 pts. Gladbach campeão 1974/75 e vencedor da Taça UEFA (Twente). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1974–75 UEFA Cup: Final). Alterado: gp 46→45, g 3→1."
+        "note": "25 pts. Gladbach champions 1974/75 and UEFA Cup winners (Twente). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Final). Changed: gp 46→45, g 3→1."
       },
       {
         "name": "Sepp Maier",
@@ -1887,7 +1887,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
-        "note": "20 pts. Taça dos Campeões 1975 vencida. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1974–75 Bayern Munich: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1974–75 European Cup: Final). Alterado: gp 41→42."
+        "note": "20 pts. European Cup 1975 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1974–75 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Final). Changed: gp 41→42."
       },
       {
         "name": "Ruud Geels",
@@ -1921,7 +1921,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Eredivisie",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
-        "note": "18 pts. Melhor marcador da Eredivisie 1974/75 (~30 g, memória); percurso na Taça UEFA estimado (oitavos). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1974–75 UEFA Cup: Third round). Alterado: gp 38→37, g 33→31, uG 3→1."
+        "note": "18 pts. Top scorer of the 1974/75 Eredivisie (~30 g, memory); UEFA Cup run estimated (round of 16). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Third round). Changed: gp 38→37, g 33→31, uG 3→1."
       },
       {
         "name": "Jupp Heynckes",
@@ -1957,7 +1957,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
-        "note": "17 pts. Melhor marcador da Bundesliga 1974/75 (~27 g) e da Taça UEFA (~11 g, incl. hat-trick na 2.ª mão da final) — memória. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1975–76 Borussia Mönchengladbach: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1974–75 UEFA Cup: Final). Alterado: gp 46→36, g 38→31, uG 11→8."
+        "note": "17 pts. Top scorer of the 1974/75 Bundesliga (~27 g) and the UEFA Cup (~11 g, incl. a hat-trick in the second leg of the final) — memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1975–76 Borussia Mönchengladbach: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Final). Changed: gp 46→36, g 38→31, uG 11→8."
       },
       {
         "name": "Paul Breitner",
@@ -1993,7 +1993,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_La_Liga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "14 pts. Real Madrid campeão 1974/75; Taça das Taças: quartos (Estrela Vermelha, penáltis). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1974–75 UEFA Cup Winners' Cup: Quarter-finals). Alterado: gp 39→35, g 5→3, uG 1→0."
+        "note": "14 pts. Real Madrid champions 1974/75; Cup Winners' Cup: quarter-finals (Red Star, penalties). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 39→35, g 5→3, uG 1→0."
       },
       {
         "name": "Colin Todd",
@@ -2025,7 +2025,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy75.html",
           "https://en.wikipedia.org/wiki/Colin_Todd"
         ],
-        "note": "12 pts. Derby campeão 1974/75; Taça UEFA eliminado na 3.ª ronda (oitavos, Velež). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "12 pts. Derby champions 1974/75; UEFA Cup knocked out in the 3rd round (round of 16, Velež). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Dudu Georgescu",
@@ -2061,7 +2061,7 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Divizia_A",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
-        "note": "11 pts. Bota de Ouro 1975 (~33 golos na liga 1974/75, memória); Dinamo campeão; percurso europeu incerto. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1974–75 UEFA Cup: Second round). Alterado: gp 33→34."
+        "note": "11 pts. Golden Boot 1975 (~33 league goals in 1974/75, memory); Dinamo champions; European run uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Second round). Changed: gp 33→34."
       },
       {
         "name": "Elías Figueroa",
@@ -2092,7 +2092,7 @@
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
           "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa"
         ],
-        "note": "Inelegível (chileno). Melhor jogador sul-americano 1975 (El Mundo, memória); Internacional campeão brasileiro 1975 (golo de Figueroa na final). Chile eliminado na fase de grupos da Copa América 1975. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, seleção, título, fase europeia."
+        "note": "Ineligible (Chilean). South American player of the year 1975 (El Mundo, memory); Internacional Brazilian champions 1975 (Figueroa's goal in the final). Chile knocked out in the group stage of the 1975 Copa América. Second pass: club statistics not verified (no usable career table); to verify: club, national team, title, European stage."
       }
     ]
   }

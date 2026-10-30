@@ -1,12 +1,12 @@
 {
  "2026": {
-  "label": "2025/26 + Mundial 2026",
-  "award": "Ballon d’Or (época; 100 jornalistas)",
-  "real": "Harry Kane",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "2025/26 + World Cup 2026",
+  "award": "Ballon d’Or (season; 100 journalists)",
+  "winner": "Harry Kane",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "P",
-  "notes": "Dados de 2026 mantidos da versão anterior (fora do top 3 são estimativas C).",
+  "notes": "2026 data kept from the previous version (outside the top 3 they are C estimates).",
   "rows": [
    {
     "name": "Harry Kane",
@@ -39,7 +39,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Semi-finals)."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals)."
    },
    {
     "name": "Kylian Mbappé",
@@ -72,7 +72,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Quarter-finals)."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals)."
    },
    {
     "name": "Lamine Yamal",
@@ -105,7 +105,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Quarter-finals)."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals)."
    },
    {
     "name": "Rodri",
@@ -138,7 +138,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Round of 16). Alterado: gp 38→26, g 2→1, uS 2→1."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: gp 38→26, g 2→1, uS 2→1."
    },
    {
     "name": "Lionel Messi",
@@ -168,7 +168,7 @@
      "https://en.wikipedia.org/wiki/Lionel_Messi",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntGP 7→8, ntG 4→8."
+    "note": "Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 7→8, ntG 4→8."
    },
    {
     "name": "Khvicha Kvaratskhelia",
@@ -200,7 +200,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Final); UCL 2025/26 vencida pelo PSG (página da edição). Alterado: gp 47→44, g 21→18."
+    "note": "Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 47→44, g 21→18."
    },
    {
     "name": "Ousmane Dembélé",
@@ -233,7 +233,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Final); UCL 2025/26 vencida pelo PSG (página da edição). Alterado: g 19→18, uG 7→8, ntGP 7→8."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: g 19→18, uG 7→8, ntGP 7→8."
    },
    {
     "name": "Erling Haaland",
@@ -266,7 +266,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Round of 16). Alterado: g 33→35, uG 7→8, ntGP 6→5."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: g 33→35, uG 7→8, ntGP 6→5."
    },
    {
     "name": "Luis Díaz",
@@ -299,7 +299,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Semi-finals). Alterado: gp 42→44, g 23→22, uG 8→7, ntGP 4→5."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 42→44, g 23→22, uG 8→7, ntGP 4→5."
    },
    {
     "name": "Michael Olise",
@@ -332,7 +332,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Semi-finals). Alterado: gp 44→45, g 15→20, ntGP 7→8, ntG 2→0."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 44→45, g 15→20, ntGP 7→8, ntG 2→0."
    },
    {
     "name": "Fabián Ruiz",
@@ -365,7 +365,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Final); UCL 2025/26 vencida pelo PSG (página da edição). Alterado: gp 45→29, g 8→2, uG 3→1, ntGP 7→8."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→29, g 8→2, uG 3→1, ntGP 7→8."
    },
    {
     "name": "Vitinha",
@@ -398,7 +398,7 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2025–26 UEFA Champions League: Final); UCL 2025/26 vencida pelo PSG (página da edição). Alterado: gp 45→46, uG 2→6, ntGP 4→5."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→46, uG 2→6, ntGP 4→5."
    }
   ]
  }

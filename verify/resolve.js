@@ -1,4 +1,4 @@
-// Nome no data-src → título da Wikipédia (en) com {{Infobox football biography}}.
+// Name in data-src → English Wikipedia title with {{Infobox football biography}}.
 const W = require('./wp.js');
 const fs = require('fs');
 const path = require('path');

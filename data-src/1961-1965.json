@@ -1,12 +1,12 @@
 {
   "1961": {
-    "label": "Ano civil 1961",
-    "award": "Ballon d’Or (France Football; jornalistas europeus)",
-    "real": "Omar Sívori",
-    "realAll": "Pelé",
-    "realAllNote": "Reavaliação da France Football em 2016 (60.º aniversário): Pelé teria ganho em 1961 se fosse elegível (em vez de Sívori). Prémio oficial inalterado.",
+    "label": "Calendar year 1961",
+    "award": "Ballon d’Or (France Football; European journalists)",
+    "winner": "Omar Sívori",
+    "winnerAll": "Pelé",
+    "winnerAllNote": "France Football's 2016 review (60th anniversary): Pelé would have won in 1961 had he been eligible (instead of Sívori). Official award unchanged.",
     "window": "CY",
-    "notes": "Votação publicada na France Football n.º 822 (12/12/1961), 19 votantes (RSSSF). Sem fase final de seleções em 1961. Di Stéfano e Seeler empatados com 13 pontos (6.º na Wikipédia/Topendsports; ballondor.com põe Seeler em 7.º). Águas, Charlton e Grosics empatados no 10.º lugar com 5 pontos (Topendsports). Ligas brasileiras: conta-se o campeonato estadual (Paulista/Carioca), que era o campeonato principal; a Taça Brasil (formato de taça) não entra.",
+    "notes": "Vote published in France Football no. 822 (12/12/1961), 19 voters (RSSSF). No national-team finals in 1961. Di Stéfano and Seeler tied on 13 points (6th on Wikipedia/Topendsports; ballondor.com puts Seeler 7th). Águas, Charlton and Grosics tied 10th with 5 points (Topendsports). Brazilian leagues: the state championship (Paulista/Carioca), which was the main championship, is counted; the Taça Brasil (a cup format) is not.",
     "rows": [
       {
         "name": "Omar Sívori",
@@ -42,7 +42,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Serie_A",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "46 pts. Juve campeã 1960/61; eliminada da Taça dos Campeões 1960/61 no outono de 1960 (fora da janela); uG = jogos de out./nov. 1961 da edição 1961/62. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1961–62 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1960–61 European Cup: Preliminary round). Alterado: gp 33→32, g 24→30, uG 2→1, uS 1→0."
+        "note": "46 pts. Juve champions 1960/61; knocked out of the 1960/61 European Cup in autumn 1960 (outside the window); uG = Oct./Nov. games. 1961 of the 1961/62 edition. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Preliminary round). Changed: gp 33→32, g 24→30, uG 2→1, uS 1→0."
       },
       {
         "name": "Luis Suárez",
@@ -74,7 +74,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
         ],
-        "note": "40 pts. Barcelona até jun. 1961 (final da Taça dos Campeões perdida com o Benfica a 31/5/1961), Inter a partir de 1961/62. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "40 pts. Barcelona until Jun. 1961 (European Cup final lost with Benfica on 31/5/1961), Inter from 1961/62. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Johnny Haynes",
@@ -107,7 +107,7 @@
           "https://en.wikipedia.org/wiki/Johnny_Haynes",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Football_League_First_Division"
         ],
-        "note": "22 pts. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 40→39, g 7→9."
+        "note": "22 pts. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 40→39, g 7→9."
       },
       {
         "name": "Lev Yashin",
@@ -139,7 +139,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
           "https://en.wikipedia.org/wiki/Lev_Yashin"
         ],
-        "note": "21 pts. Liga soviética de ano civil; clubes soviéticos não jogavam provas europeias. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; prova/fase continental verificada: sem prova europeia nas edições consultadas; por verificar: título. Alterado: gp 27→19."
+        "note": "21 pts. Soviet calendar-year league; Soviet clubs did not play European competitions. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 27→19."
       },
       {
         "name": "Ferenc Puskás",
@@ -175,7 +175,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "16 pts. Real Madrid eliminado pelo Barcelona em nov. 1960 (edição 1960/61, fora da janela); uG = pré-eliminatória/1.ª ronda de 1961/62 (out.–nov. 1961). Pichichi 1960/61. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1961–62 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1960–61 European Cup: First round). Alterado: gp 30→31, g 29→28."
+        "note": "16 pts. Real Madrid knocked out by Barcelona in Nov. 1960 (1960/61 edition, outside the window); uG = preliminary/1st round of 1961/62 (Oct.–Nov. 1961). Pichichi 1960/61. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 30→31, g 29→28."
       },
       {
         "name": "Alfredo Di Stéfano",
@@ -211,7 +211,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "13 pts (empate com Seeler). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1960–61 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1960–61 European Cup: First round). Alterado: gp 32→30, g 20→22, uG 3→6."
+        "note": "13 pts (tied with Seeler). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1960–61 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 32→30, g 20→22, uG 3→6."
       },
       {
         "name": "Uwe Seeler",
@@ -244,7 +244,7 @@
           "https://en.wikipedia.org/wiki/Uwe_Seeler",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "13 pts; ballondor.com lista-o em 7.º. Oberliga Nord + fase final do campeonato alemão; meia-final da Taça dos Campeões 1960/61 com o Barcelona (desempate). Números muito incertos. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (1960–61 European Cup: Semi-finals); por verificar: título. Alterado: gp 39→29, g 38→37, uG 4→8."
+        "note": "13 pts; ballondor.com lists him 7th. Oberliga Nord + final round of the German championship; semi-final of the 1960/61 European Cup against Barcelona (play-off). Numbers very uncertain. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1960–61 European Cup: Semi-finals); to verify: title. Changed: gp 39→29, g 38→37, uG 4→8."
       },
       {
         "name": "John Charles",
@@ -280,7 +280,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Serie_A",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "10 pts. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1961–62 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1960–61 European Cup: Preliminary round). Alterado: gp 33→34, g 14→13, uG 2→0, uS 1→0."
+        "note": "10 pts. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Preliminary round). Changed: gp 33→34, g 14→13, uG 2→0, uS 1→0."
       },
       {
         "name": "Francisco Gento",
@@ -316,7 +316,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "8 pts. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1960–61 European Cup: First round). Alterado: gp 32→30, g 11→10, uG 2→1."
+        "note": "8 pts. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 32→30, g 11→10, uG 2→1."
       },
       {
         "name": "José Águas",
@@ -352,7 +352,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "5 pts. Capitão do Benfica campeão europeu 1960/61 (marcou na final) e melhor marcador da prova (11 golos na edição; parte foi no outono de 1960). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1961–62 Benfica: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1960–61 European Cup: Final). Alterado: gp 32→33, g 27→35, uG 6→9."
+        "note": "5 pts. Captain of Benfica, European champions 1960/61 (scored in the final), and the competition's top scorer (11 goals in the edition; some in autumn 1960). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Final). Changed: gp 32→33, g 27→35, uG 6→9."
       },
       {
         "name": "Bobby Charlton",
@@ -387,7 +387,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Football_League_First_Division"
         ],
-        "note": "5 pts. Jogava sobretudo como extremo esquerdo nesta fase. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 40→36, g 15→13."
+        "note": "5 pts. Played mostly as a left winger at this stage. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 40→36, g 15→13."
       },
       {
         "name": "Gyula Grosics",
@@ -419,7 +419,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
           "https://en.wikipedia.org/wiki/Gyula_Grosics"
         ],
-        "note": "5 pts. Liga húngara 1960/61 (primavera) + 1961/62 (outono). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "5 pts. Hungarian league 1960/61 (spring) + 1961/62 (autumn). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Pelé",
@@ -453,7 +453,7 @@
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Pel%C3%A9"
         ],
-        "note": "Inelegível (não europeu). Vencedor retroativo FF 2016. Campeonato Paulista 1961 (campeão; melhor marcador). Santos não jogou a Libertadores 1961. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Campeonato Paulista 1961 (champion; top scorer). Santos did not play the 1961 Libertadores. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Garrincha",
@@ -488,18 +488,18 @@
           "https://en.wikipedia.org/wiki/Garrincha",
           "https://en.wikipedia.org/wiki/1961_Campeonato_Carioca"
         ],
-        "note": "Inelegível (não europeu). Campeonato Carioca 1961 (Botafogo campeão). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 20→21, g 8→6."
+        "note": "Ineligible (non-European). Campeonato Carioca 1961 (Botafogo champions). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 20→21, g 8→6."
       }
     ]
   },
   "1962": {
-    "label": "Ano civil 1962 (+ Mundial 1962)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus)",
-    "real": "Josef Masopust",
-    "realAll": "Garrincha",
-    "realAllNote": "Reavaliação da France Football em 2016: Garrincha (campeão do mundo no Chile) teria ganho em 1962 em vez de Masopust. Prémio oficial inalterado.",
+    "label": "Calendar year 1962 (+ World Cup 1962)",
+    "award": "Ballon d’Or (France Football; European journalists)",
+    "winner": "Josef Masopust",
+    "winnerAll": "Garrincha",
+    "winnerAllNote": "France Football's 2016 review: Garrincha (world champion in Chile) would have won in 1962 instead of Masopust. Official award unchanged.",
     "window": "CY",
-    "notes": "Mundial 1962 (Chile): Brasil campeão, Checoslováquia finalista, Jugoslávia 4.º. Galić e John Charles empatados com 10 pontos (8.º partilhado na Topendsports; a RSSSF lista Galić primeiro). Göröcs 10.º com 6 pontos. Portugal (Eusébio) não se qualificou para o Mundial.",
+    "notes": "1962 World Cup (Chile): Brazil champions, Czechoslovakia finalists, Yugoslavia 4th. Galić and John Charles tied on 10 points (shared 8th on Topendsports; RSSSF lists Galić first). Göröcs 10th with 6 points. Portugal (Eusébio) did not qualify for the World Cup.",
     "rows": [
       {
         "name": "Josef Masopust",
@@ -534,7 +534,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "65 pts. Dukla campeão 1961/62; quartos da Taça dos Campeões 1961/62 (Tottenham). Marcou na final do Mundial. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1961–62 European Cup: Quarter-finals). Alterado: gp 29→32, g 4→3."
+        "note": "65 pts. Dukla champions 1961/62; European Cup quarter-finals 1961/62 (Tottenham). Scored in the World Cup final. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Quarter-finals). Changed: gp 29→32, g 4→3."
       },
       {
         "name": "Eusébio",
@@ -570,7 +570,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
-        "note": "53 pts. Bicampeão europeu (2 golos na final de 2/5/1962 com o Real Madrid). Sporting campeão nacional 1961/62. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1961–62 Benfica: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1961–62 European Cup: Final). Alterado: gp 29→22, g 27→18, uG 6→7."
+        "note": "53 pts. Two-time European champion (2 goals in the final of 2/5/1962 against Real Madrid). Sporting national champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Final). Changed: gp 29→22, g 27→18, uG 6→7."
       },
       {
         "name": "Karl-Heinz Schnellinger",
@@ -603,7 +603,7 @@
           "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "33 pts. Köln campeão alemão 1962 (Oberliga West + fase final); pré-eliminatória da Taça dos Campeões 1962/63 com o Dundee em set. 1962 (eliminado). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "33 pts. Köln German champions 1962 (Oberliga West + final round); 1962/63 European Cup preliminary round against Dundee in Sep. 1962 (knocked out). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Dragoslav Šekularac",
@@ -636,7 +636,7 @@
           "https://en.wikipedia.org/wiki/Dragoslav_%C5%A0ekularac",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "26 pts. Taça das Cidades com Feiras 1961/62 (meia-final, de memória). Partizan campeão 1961/62. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "26 pts. Inter-Cities Fairs Cup 1961/62 (semi-final, from memory). Partizan champions 1961/62. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Jef Jurion",
@@ -668,7 +668,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy62.html",
           "https://en.wikipedia.org/wiki/Armand_Jurion"
         ],
-        "note": "15 pts. Anderlecht campeão 1961/62; não jogou a edição 1961/62 da Taça dos Campeões (uS = 0); os jogos europeus contados são do outono de 1962 (edição 1962/63: eliminou o Real Madrid). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "15 pts. Anderlecht champions 1961/62; did not play the 1961/62 European Cup (uS = 0); the European games counted are from autumn 1962 (1962/63 edition: knocked out Real Madrid). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Gianni Rivera",
@@ -705,7 +705,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Inter-Cities_Fairs_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "14 pts. Milan campeão 1961/62; jogos europeus do outono de 1962 pertencem à edição 1962/63 (que o Milan ganhou em 1963). Itália eliminada na fase de grupos do Mundial. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1962–63 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1961–62 Inter-Cities Fairs Cup: First round). Alterado: gp 34→29, g 13→11, uG 2→1, uT UCL→UEL."
+        "note": "14 pts. Milan champions 1961/62; European games in autumn 1962 belong to the 1962/63 edition (which Milan won in 1963). Italy knocked out in the World Cup group stage. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1962–63 AC Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 Inter-Cities Fairs Cup: First round). Changed: gp 34→29, g 13→11, uG 2→1, uT UCL→UEL."
       },
       {
         "name": "Jimmy Greaves",
@@ -744,7 +744,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "11 pts. Meia-final da Taça dos Campeões 1961/62 (Benfica); uG inclui 1.ª ronda da Taça das Taças 1962/63 (Rangers, out.–dez. 1962). 37 golos na liga 1962/63. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1961–62 European Cup: Semi-finals); por verificar: clube."
+        "note": "11 pts. Semi-final of the 1961/62 European Cup (Benfica); uG includes the 1st round of the 1962/63 Cup Winners' Cup (Rangers, Oct.–Dec. 1962). 37 league goals in 1962/63. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Semi-finals); to verify: club."
       },
       {
         "name": "Milan Galić",
@@ -781,7 +781,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "10 pts (empate com Charles). Partizan campeão 1961/62. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1961–62 European Cup: First round). Alterado: gp 25→23, g 16→19, uS 0→1."
+        "note": "10 pts (tied with Charles). Partizan champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: First round). Changed: gp 25→23, g 16→19, uS 0→1."
       },
       {
         "name": "John Charles",
@@ -816,7 +816,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Serie_A",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
-        "note": "10 pts. Juventus até jun. 1962 (quartos da Taça dos Campeões com o Real Madrid, desempate), Leeds (2.ª divisão inglesa, ago.–out. 1962, contada como liga nacional), Roma (a partir de nov. 1962). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1961–62 European Cup: Quarter-finals). Alterado: gp 35→27, g 11→8."
+        "note": "10 pts. Juventus until Jun. 1962 (European Cup quarter-finals with Real Madrid, play-off), Leeds (English second tier, Aug.–Oct. 1962, counted as the national league), Roma (from Nov. 1962). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Quarter-finals). Changed: gp 35→27, g 11→8."
       },
       {
         "name": "János Göröcs",
@@ -849,7 +849,7 @@
           "https://en.wikipedia.org/wiki/J%C3%A1nos_G%C3%B6r%C3%B6cs",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "6 pts. Meia-final da Taça das Taças 1961/62 (Atlético Madrid). Presença no Mundial 1962 incerta (1 jogo estimado). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntGP 1→2."
+        "note": "6 pts. Semi-final of the 1961/62 Cup Winners' Cup (Atlético Madrid). Presence at the 1962 World Cup uncertain (1 game estimated). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 1→2."
       },
       {
         "name": "Garrincha",
@@ -885,7 +885,7 @@
           "https://en.wikipedia.org/wiki/1963_Copa_Libertadores",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "Inelegível (não europeu). Vencedor retroativo FF 2016. Melhor jogador do Mundial 1962 (4 golos). Carioca 1962 (Botafogo campeão). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; prova/fase continental verificada: só outono (1963 Copa Libertadores); por verificar: clube, título. Alterado: uT →LIB."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Best player of the 1962 World Cup (4 goals). Carioca 1962 (Botafogo champions). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1963 Copa Libertadores); to verify: club, title. Changed: uT →LIB."
       },
       {
         "name": "Pelé",
@@ -920,18 +920,18 @@
           "https://en.wikipedia.org/wiki/Pel%C3%A9",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "Inelegível (não europeu). Paulista 1962 (campeão) + Libertadores 1962 (vencedor). Lesionou-se no 2.º jogo do Mundial. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Ineligible (non-European). Paulista 1962 (champion) + Libertadores 1962 (winner). Got injured in the 2nd World Cup game. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       }
     ]
   },
   "1963": {
-    "label": "Ano civil 1963",
-    "award": "Ballon d’Or (France Football; jornalistas europeus)",
-    "real": "Lev Yashin",
-    "realAll": "Pelé",
-    "realAllNote": "Reavaliação da France Football em 2016: Pelé teria ganho em 1963 (um dos seus 7 prémios retroativos: 1958–61, 1963, 1964, 1970). A lista que vi confirma explicitamente 1958–61 e o total de 7; 1963 deduz-se do total.",
+    "label": "Calendar year 1963",
+    "award": "Ballon d’Or (France Football; European journalists)",
+    "winner": "Lev Yashin",
+    "winnerAll": "Pelé",
+    "winnerAllNote": "France Football's 2016 review: Pelé would have won in 1963 (one of his 7 retroactive awards: 1958–61, 1963, 1964, 1970). The list I saw explicitly confirms 1958–61 and the total of 7; 1963 follows from the total.",
     "window": "CY",
-    "notes": "Votação com 21 votantes (RSSSF). Pontos de Rivera/Greaves: 56/51 em ballondor.com, 55/50 na Wikipédia/Topendsports. Charlton, Suárez e Trapattoni empatados no 8.º lugar com 5 pontos (não há 9.º/10.º). Inverno rigoroso de 1963 em Inglaterra adiou muitos jogos de jan.–fev. para mar.–mai. Sem fase final de seleções em 1963.",
+    "notes": "Vote with 21 voters (RSSSF). Rivera/Greaves points: 56/51 on ballondor.com, 55/50 on Wikipedia/Topendsports. Charlton, Suárez and Trapattoni tied 8th with 5 points (there is no 9th/10th). The harsh winter of 1963 in England postponed many Jan.–Feb. games to Mar.–May. No national-team finals in 1963.",
     "rows": [
       {
         "name": "Lev Yashin",
@@ -964,7 +964,7 @@
           "https://en.wikipedia.org/wiki/Lev_Yashin",
           "https://en.wikipedia.org/wiki/1963_Soviet_Top_League"
         ],
-        "note": "73 pts (ballondor.com). Dínamo Moscovo campeão soviético 1963. Único guarda-redes vencedor. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas."
+        "note": "73 pts (ballondor.com). Dynamo Moscow Soviet champions 1963. The only goalkeeper to win. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked."
       },
       {
         "name": "Gianni Rivera",
@@ -1000,7 +1000,7 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Serie_A",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
-        "note": "56 pts (ballondor.com) / 55 (Wikipédia). Milan campeão europeu 1962/63 (2 assistências para Altafini na final, de memória). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1962–63 European Cup: Final). Alterado: gp 37→34, g 12→11."
+        "note": "56 pts (ballondor.com) / 55 (Wikipedia). Milan European champions 1962/63 (2 assists for Altafini in the final, from memory). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 37→34, g 12→11."
       },
       {
         "name": "Jimmy Greaves",
@@ -1036,7 +1036,7 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "51 / 50 pts. Tottenham venceu a Taça das Taças 1962/63 (2 golos na final com o Atlético Madrid); 1.ª ronda 1963/64 com o Man United (dez. 1963). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; título pela página da liga; prova/fase continental pela página da edição (1962–63 UEFA Cup Winners' Cup: Final); por verificar: clube."
+        "note": "51 / 50 pts. Tottenham won the 1962/63 Cup Winners' Cup (2 goals in the final against Atlético Madrid); 1st round 1963/64 with Man United (Dec. 1963). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage from the edition page (1962–63 UEFA Cup Winners' Cup: Final); to verify: club."
       },
       {
         "name": "Denis Law",
@@ -1072,7 +1072,7 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "45 pts. Sem provas europeias em 1962/63 (uS = 0 para a edição que termina em 1963); uG = Taça das Taças 1963/64 no outono de 1963. Taça de Inglaterra 1963 não conta. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1963–64 UEFA Cup Winners' Cup). Alterado: gp 41→38, g 34→31, uG 4→3."
+        "note": "45 pts. No European competition in 1962/63 (uS = 0 for the edition ending in 1963); uG = Cup Winners' Cup 1963/64 in autumn 1963. The 1963 FA Cup does not count. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup). Changed: gp 41→38, g 34→31, uG 4→3."
       },
       {
         "name": "Eusébio",
@@ -1108,7 +1108,7 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
-        "note": "19 pts. Final da Taça dos Campeões 1962/63 perdida com o Milan (marcou). Benfica campeão 1962/63. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1962–63 European Cup: Final). Alterado: gp 34→32, g 33→29, uG 7→6."
+        "note": "19 pts. 1962/63 European Cup final lost to Milan (scored). Benfica champions 1962/63. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 34→32, g 33→29, uG 7→6."
       },
       {
         "name": "Karl-Heinz Schnellinger",
@@ -1140,7 +1140,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
           "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger"
         ],
-        "note": "16 pts. Köln (Oberliga West + fase final, finalista 1963) até jun. 1963; Mantova (Serie A) a partir de 1963/64. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "16 pts. Köln (Oberliga West + final round, finalists 1963) until Jun. 1963; Mantova (Serie A) from 1963/64. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Uwe Seeler",
@@ -1174,7 +1174,7 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Hamburger_SV_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "9 pts. Oberliga Nord (primavera) + Bundesliga 1963/64 (outono; melhor marcador dessa época). HSV ganhou a Taça da RFA 1963; Taça das Taças 1963/64 no outono (Barcelona). lg = GER/BL quase empatados. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental verificada: só outono (1963–64 UEFA Cup Winners' Cup); por verificar: título. Alterado: g 38→34."
+        "note": "9 pts. Oberliga Nord (spring) + Bundesliga 1963/64 (autumn; top scorer that season). HSV won the 1963 West German Cup; Cup Winners' Cup 1963/64 in the autumn (Barcelona). lg = GER/BL almost tied. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup); to verify: title. Changed: g 38→34."
       },
       {
         "name": "Bobby Charlton",
@@ -1210,7 +1210,7 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "5 pts (8.º empatado). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1963–64 UEFA Cup Winners' Cup). Alterado: gp 44→40, uG 2→3."
+        "note": "5 pts (tied 8th). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup). Changed: gp 44→40, uG 2→3."
       },
       {
         "name": "Luis Suárez",
@@ -1242,7 +1242,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
         ],
-        "note": "5 pts (8.º empatado). Inter campeão 1962/63; não jogou a edição 1962/63; jogos europeus do outono de 1963 (edição 1963/64, que o Inter ganhou). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "5 pts (tied 8th). Inter champions 1962/63; did not play the 1962/63 edition; European games in autumn 1963 (1963/64 edition, which Inter won). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Giovanni Trapattoni",
@@ -1274,7 +1274,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
           "https://en.wikipedia.org/wiki/Giovanni_Trapattoni"
         ],
-        "note": "5 pts (8.º empatado). Marcou Eusébio na final da Taça dos Campeões 1963. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "5 pts (tied 8th). Marked Eusébio in the 1963 European Cup final. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Pelé",
@@ -1308,18 +1308,18 @@
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Pel%C3%A9"
         ],
-        "note": "Inelegível (não europeu). Vencedor retroativo FF 2016. Libertadores 1963 (vencedor; Santos entrava nas meias-finais como detentor). Paulista 1963 ganho pelo Palmeiras. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Libertadores 1963 (winner; Santos entered at the semi-finals as holders). Paulista 1963 won by Palmeiras. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       }
     ]
   },
   "1964": {
-    "label": "Ano civil 1964 (+ Euro 1964)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus)",
-    "real": "Denis Law",
-    "realAll": "Pelé",
-    "realAllNote": "Reavaliação da France Football em 2016: Pelé teria ganho em 1964 se fosse elegível (confirmado na página da Topendsports de 1964). Prémio oficial inalterado.",
+    "label": "Calendar year 1964 (+ Euro 1964)",
+    "award": "Ballon d’Or (France Football; European journalists)",
+    "winner": "Denis Law",
+    "winnerAll": "Pelé",
+    "winnerAllNote": "France Football's 2016 review: Pelé would have won in 1964 had he been eligible (confirmed on Topendsports' 1964 page). Official award unchanged.",
     "window": "CY",
-    "notes": "Euro 1964 (fase final com 4 equipas em Espanha): Espanha campeã (5), URSS finalista (4). Inter e Bologna empataram a Serie A 1963/64; o Bologna ganhou o jogo de desempate (jun. 1964, contado como jogo de liga).",
+    "notes": "Euro 1964 (4-team finals in Spain): Spain champions (5), USSR finalists (4). Inter and Bologna finished level in the 1963/64 Serie A; Bologna won the play-off (Jun. 1964, counted as a league game).",
     "rows": [
       {
         "name": "Denis Law",
@@ -1355,7 +1355,7 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "61 pts. Quartos da Taça das Taças 1963/64 (Sporting); uG inclui Taça das Cidades com Feiras 1964/65 no outono (Djurgården, Borussia Dortmund). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1963–64 UEFA Cup Winners' Cup: Quarter-finals). Alterado: g 36→39."
+        "note": "61 pts. Cup Winners' Cup quarter-finals 1963/64 (Sporting); uG includes the 1964/65 Inter-Cities Fairs Cup in the autumn (Djurgården, Borussia Dortmund). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 UEFA Cup Winners' Cup: Quarter-finals). Changed: g 36→39."
       },
       {
         "name": "Luis Suárez",
@@ -1388,7 +1388,7 @@
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
           "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
         ],
-        "note": "43 pts. Inter campeão europeu 1963/64; Espanha campeã europeia. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "43 pts. Inter European champions 1963/64; Spain European champions. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Amancio",
@@ -1425,7 +1425,7 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
           "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
         ],
-        "note": "38 pts. Real Madrid campeão 1963/64 e finalista europeu. Golo decisivo no prolongamento da meia-final do Euro com a Hungria. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1963–64 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1963–64 European Cup: Final). Alterado: gp 37→30, g 16→19, uG 4→7."
+        "note": "38 pts. Real Madrid champions 1963/64 and European finalists. Decisive extra-time goal in the Euro semi-final against Hungary. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1963–64 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: Final). Changed: gp 37→30, g 16→19, uG 4→7."
       },
       {
         "name": "Eusébio",
@@ -1461,7 +1461,7 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
-        "note": "31 pts. Benfica eliminado pelo Dortmund em dez. 1963 (1.ª ronda/oitavos da edição 1963/64); uG = outono de 1964 (edição 1964/65). Benfica campeão 1963/64. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1964–65 Benfica: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1963–64 European Cup: First round). Alterado: gp 28→25, g 34→42, uG 6→5."
+        "note": "31 pts. Benfica knocked out by Dortmund in Dec. 1963 (1st round/round of 16 of the 1963/64 edition); uG = autumn 1964 (1964/65 edition). Benfica champions 1963/64. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1964–65 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: First round). Changed: gp 28→25, g 34→42, uG 6→5."
       },
       {
         "name": "Paul Van Himst",
@@ -1494,7 +1494,7 @@
           "https://en.wikipedia.org/wiki/Paul_Van_Himst",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
-        "note": "28 pts. Anderlecht campeão 1963/64; eliminado na pré-eliminatória 1963/64 (set. 1963, fora da janela); jogos do outono de 1964 (Bologna, Liverpool) pertencem a 1964/65. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental verificada: só outono (1964–65 European Cup); por verificar: título. Alterado: gp 33→29, g 20→25, uG 1→0."
+        "note": "28 pts. Anderlecht champions 1963/64; knocked out in the 1963/64 preliminary round (Sep. 1963, outside the window); games in autumn 1964 (Bologna, Liverpool) belong to 1964/65. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage verified: autumn only (1964–65 European Cup); to verify: title. Changed: gp 33→29, g 20→25, uG 1→0."
       },
       {
         "name": "Jimmy Greaves",
@@ -1530,7 +1530,7 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "19 pts. Eliminado da Taça das Taças 1963/64 pelo Man United em dez. 1963. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; título pela página da liga; prova/fase continental pela página da edição (1963–64 UEFA Cup Winners' Cup: Second round); por verificar: clube."
+        "note": "19 pts. Knocked out of the 1963/64 Cup Winners' Cup by Man United in Dec. 1963. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage from the edition page (1963–64 UEFA Cup Winners' Cup: Second round); to verify: club."
       },
       {
         "name": "Mario Corso",
@@ -1562,7 +1562,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
           "https://en.wikipedia.org/wiki/Mario_Corso"
         ],
-        "note": "17 pts. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "17 pts. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Lev Yashin",
@@ -1596,7 +1596,7 @@
           "https://en.wikipedia.org/wiki/1964_Soviet_Top_League",
           "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
         ],
-        "note": "15 pts. URSS finalista do Euro 1964. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 25→28."
+        "note": "15 pts. USSR Euro 1964 finalists. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 25→28."
       },
       {
         "name": "Gianni Rivera",
@@ -1632,7 +1632,7 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
-        "note": "14 pts. Quartos da Taça dos Campeões 1963/64 (Real Madrid). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1963–64 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1963–64 European Cup: Quarter-finals). Alterado: gp 31→26, g 10→5, uG 0→1."
+        "note": "14 pts. European Cup quarter-finals 1963/64 (Real Madrid). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1963–64 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: Quarter-finals). Changed: gp 31→26, g 10→5, uG 0→1."
       },
       {
         "name": "Valery Voronin",
@@ -1665,7 +1665,7 @@
           "https://en.wikipedia.org/wiki/Valery_Voronin",
           "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
         ],
-        "note": "11 pts. Torpedo perdeu o título de 1964 no jogo de desempate com o Dínamo Tbilisi. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntG 0→1."
+        "note": "11 pts. Torpedo lost the 1964 title in the play-off against Dinamo Tbilisi. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntG 0→1."
       },
       {
         "name": "Pelé",
@@ -1699,18 +1699,18 @@
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Pel%C3%A9"
         ],
-        "note": "Inelegível (não europeu). Vencedor retroativo FF 2016. Paulista 1964 (campeão); Libertadores 1964 meia-final (Independiente). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Paulista 1964 (champion); Libertadores 1964 semi-final (Independiente). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       }
     ]
   },
   "1965": {
-    "label": "Ano civil 1965",
-    "award": "Ballon d’Or (France Football; jornalistas europeus)",
-    "real": "Eusébio",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 1965",
+    "award": "Ballon d’Or (France Football; European journalists)",
+    "winner": "Eusébio",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "Sem fase final de seleções em 1965. Asparuhov, Mazzola e Voronin empatados com 9 pontos (8.º partilhado; a Topendsports não numera Mazzola/Voronin). A reavaliação da FF em 2016 não mexeu em 1965 (12 casos: Pelé 7, Garrincha, Kempes, Maradona 2, Romário).",
+    "notes": "No national-team finals in 1965. Asparuhov, Mazzola and Voronin tied on 9 points (shared 8th; Topendsports does not number Mazzola/Voronin). FF's 2016 review did not touch 1965 (12 cases: Pelé 7, Garrincha, Kempes, Maradona 2, Romário).",
     "rows": [
       {
         "name": "Eusébio",
@@ -1746,7 +1746,7 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
-        "note": "67 pts. Final da Taça dos Campeões 1964/65 perdida com o Inter; outono de 1965: Stade Dudelange e Levski (edição 1965/66). Benfica campeão 1964/65. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1964–65 Benfica: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1964–65 European Cup: Final). Alterado: gp 34→28, g 37→38."
+        "note": "67 pts. 1964/65 European Cup final lost to Inter; autumn 1965: Stade Dudelange and Levski (1965/66 edition). Benfica champions 1964/65. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1964–65 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 34→28, g 37→38."
       },
       {
         "name": "Giacinto Facchetti",
@@ -1782,7 +1782,7 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
-        "note": "59 pts. Inter campeão europeu e italiano 1964/65; golo na meia-final com o Liverpool. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1964–65 European Cup: Final). Alterado: gp 40→38, g 9→3."
+        "note": "59 pts. Inter European and Italian champions 1964/65; goal in the semi-final against Liverpool. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 40→38, g 9→3."
       },
       {
         "name": "Luis Suárez",
@@ -1814,7 +1814,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
         ],
-        "note": "45 pts. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "45 pts. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Paul Van Himst",
@@ -1847,7 +1847,7 @@
           "https://en.wikipedia.org/wiki/Paul_Van_Himst",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
-        "note": "25 pts. Anderlecht campeão 1964/65; eliminado pelo Liverpool em dez. 1964 (edição 1964/65). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (1964–65 European Cup: First round); por verificar: título. Alterado: gp 30→34, g 22→28, uG 3→4."
+        "note": "25 pts. Anderlecht champions 1964/65; knocked out by Liverpool in Dec. 1964 (1964/65 edition). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1964–65 European Cup: First round); to verify: title. Changed: gp 30→34, g 22→28, uG 3→4."
       },
       {
         "name": "Bobby Charlton",
@@ -1883,7 +1883,7 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
         ],
-        "note": "19 pts. Man United campeão 1964/65; meia-final da Taça das Cidades com Feiras 1964/65 (Ferencváros, desempate em jun. 1965); outono de 1965 na Taça dos Campeões 1965/66. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1964–65 Inter-Cities Fairs Cup: Semi-finals). Alterado: gp 49→48, g 16→18, uG 5→2."
+        "note": "19 pts. Man United champions 1964/65; semi-final of the 1964/65 Inter-Cities Fairs Cup (Ferencváros, play-off in Jun. 1965); autumn 1965 in the 1965/66 European Cup. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: Semi-finals). Changed: gp 49→48, g 16→18, uG 5→2."
       },
       {
         "name": "Flórián Albert",
@@ -1917,7 +1917,7 @@
           "https://en.wikipedia.org/wiki/1965_Nemzeti_Bajnoks%C3%A1g_I",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
         ],
-        "note": "14 pts. Ferencváros venceu a Taça das Cidades com Feiras 1964/65 (final com a Juventus, 23/6/1965). Liga húngara de ano civil em 1965 (campeão Vasas). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1964–65 Inter-Cities Fairs Cup: Final). Alterado: gp 35→33, g 33→28, uG 7→1."
+        "note": "14 pts. Ferencváros won the 1964/65 Inter-Cities Fairs Cup (final against Juventus, 23/6/1965). Hungarian calendar-year league in 1965 (champions Vasas). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: Final). Changed: gp 35→33, g 33→28, uG 7→1."
       },
       {
         "name": "Gianni Rivera",
@@ -1953,7 +1953,7 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
         ],
-        "note": "10 pts. Participação europeia do Milan na janela incerta. Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1965–66 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1964–65 Inter-Cities Fairs Cup: First round). Alterado: gp 31→35, g 8→5, uG 0→1."
+        "note": "10 pts. Milan's European participation in the window uncertain. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1965–66 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: First round). Changed: gp 31→35, g 8→5, uG 0→1."
       },
       {
         "name": "Georgi Asparuhov",
@@ -1987,7 +1987,7 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_A_Group",
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
-        "note": "9 pts (8.º empatado). Levski campeão 1964/65; outono de 1965 na Taça dos Campeões 1965/66 (Djurgården, Benfica). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1965–66 European Cup). Alterado: gp 31→29, g 30→27, uG 5→0."
+        "note": "9 pts (tied 8th). Levski champions 1964/65; autumn 1965 in the 1965/66 European Cup (Djurgården, Benfica). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1965–66 European Cup). Changed: gp 31→29, g 30→27, uG 5→0."
       },
       {
         "name": "Sandro Mazzola",
@@ -2023,7 +2023,7 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
-        "note": "9 pts (8.º empatado). Melhor marcador da Serie A 1964/65 (de memória). Classificação/pontos verificados na web (excertos de pesquisa). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1964–65 European Cup: Final). Alterado: gp 38→39, g 22→20, uG 4→3."
+        "note": "9 pts (tied 8th). Top scorer of the 1964/65 Serie A (from memory). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 38→39, g 22→20, uG 4→3."
       },
       {
         "name": "Valery Voronin",
@@ -2055,7 +2055,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://en.wikipedia.org/wiki/Valery_Voronin"
         ],
-        "note": "9 pts (8.º empatado). Torpedo campeão soviético 1965. Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "9 pts (tied 8th). Torpedo Soviet champions 1965. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Pelé",
@@ -2089,7 +2089,7 @@
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Pel%C3%A9"
         ],
-        "note": "Inelegível (não europeu); sem prémio retroativo em 1965. Paulista 1965 (campeão; melhor marcador) + Libertadores 1965 (meia-final com o Peñarol, desempate). Classificação/pontos verificados na web (excertos de pesquisa). Estatísticas de jogo NÃO verificadas na web (limite de pesquisas esgotado e domínios de estatísticas bloqueados na sessão): estimativa de memória, com divisão do ano civil estimada a partir do calendário das provas. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Ineligible (non-European); no retroactive award in 1965. Paulista 1965 (champion; top scorer) + Libertadores 1965 (semi-final against Peñarol, play-off). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       }
     ]
   }
