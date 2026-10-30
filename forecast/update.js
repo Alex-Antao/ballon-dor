@@ -153,7 +153,7 @@ async function main() {
       name, club: team.shortName || team.name, lg, pos,
       gp: L.gp + cl.gp, g: L.g + cl.g, a: L.a + (cl.a || 0),
       gpNow: league.gp + cl.gp, gNow: league.g + cl.g, aNow: league.a == null ? null : league.a + (cl.a || 0),
-      uT: CLT ? 'UCL' : '', uG: cl.g, uA: cl.a || 0, uS: CLT ? CLT.stage : 0,
+      uT: CLT ? 'UCL' : '', uG: cl.g, uA: cl.a || 0, uANow: cl.a ?? null, uS: CLT ? CLT.stage : 0,
       ntGP: 0, ntG: 0, ntA: 0, ntT: '', ntS: 0,
       title: T.position === 1 ? 1 : 0, cup: 0, lgTop: P && league.g > 0 && league.g === leaders[lg] ? 1 : 0, gs: 0,
       uTop: P && cl.g > 0 && cl.g === clTop ? 1 : 0, ntTop: 0, ntBest: 0,
@@ -226,7 +226,7 @@ function wiki(W, r, team, notes, warnings, handKept) {
         r.uT = e.uT; r.uS = e.uS; r.sources.push('https://en.wikipedia.org/wiki/' + encodeURI(ed.replace(/ /g, '_')));
         // football-data.org only covers the Champions League: games and goals in this competition from its match boxes
         const so = euSoFar(W, ed, r.name, team);
-        Object.assign(r, { gp: r.gp + so.gp, g: r.g + so.g, gpNow: r.gpNow + so.gp, gNow: r.gNow + so.g, uG: so.g });
+        Object.assign(r, { gp: r.gp + so.gp, g: r.g + so.g, gpNow: r.gpNow + so.gp, gNow: r.gNow + so.g, uG: so.g, uANow: null });
         notes.push(`${ed}: ${e.reached.toLowerCase()}, ${so.g} goal${so.g === 1 ? '' : 's'} in the club's ${so.gp} matches so far (Wikipedia match boxes; assists unknown)`);
       }
     }

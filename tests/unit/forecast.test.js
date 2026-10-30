@@ -46,6 +46,8 @@ test('aliases, positions and the hand-kept candidates', () => {
   assert.equal(rodri.club, 'Barça', '"FC Barcelona" is matched exactly, not to "RCD Espanyol de Barcelona"');
   assert.equal(rodri.gpNow, Math.round(0.85 * 10) + (rodri.uT ? Math.round(0.85 * 1) : 0));
   assert.equal(rodri.aNow, null, 'assists unknown for a player on no scorer list');
+  assert.equal(rodri.uANow, null, 'so are his Champions League assists (the site shows a dash)');
+  assert.equal(row('Harry Kane').uANow, 1, 'known for a Champions League scorer');
   assert.equal(rodri.cont, 9.5);
   assert.equal(row('Achraf Hakimi').club, 'PSG', 'club matched by name, not by a code inside another name');
 });
