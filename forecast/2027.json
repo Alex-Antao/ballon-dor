@@ -20,7 +20,7 @@
    "lg": "LL",
    "pos": "W",
    "gp": 36,
-   "g": 51,
+   "g": 42,
    "a": 8,
    "gpNow": 11,
    "gNow": 15,
@@ -55,7 +55,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; league numbers projected to the full season (9 games, 13 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 37428,
    "y": 2027
   },
@@ -65,8 +65,8 @@
    "lg": "LL",
    "pos": "W",
    "gp": 41,
-   "g": 32,
-   "a": 27,
+   "g": 29,
+   "a": 24,
    "gpNow": 13,
    "gNow": 10,
    "aNow": 10,
@@ -100,9 +100,10 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; league numbers projected to the full season (10 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.58 goals and 0.39 assists a game); 2026 Ballon d'Or nominee.",
    "fdId": 202283,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Kylian Mbappé",
@@ -110,8 +111,8 @@
    "lg": "LL",
    "pos": "FW",
    "gp": 41,
-   "g": 45,
-   "a": 9,
+   "g": 43,
+   "a": 8,
    "gpNow": 13,
    "gNow": 14,
    "aNow": 3,
@@ -145,9 +146,10 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; league numbers projected to the full season (10 games, 11 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.95 goals and 0.14 assists a game); 2026 Ballon d'Or nominee.",
    "fdId": 3374,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Erling Haaland",
@@ -155,11 +157,11 @@
    "lg": "EPL",
    "pos": "FW",
    "gp": 41,
-   "g": 47,
-   "a": 0,
+   "g": 41,
+   "a": 5,
    "gpNow": 11,
    "gNow": 13,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 4,
    "uA": 0,
@@ -190,9 +192,10 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Man City, 1st in the league; league numbers projected to the full season (8 games, 9 goals so far).",
+   "note": "As of 2026-10-30: 8 of 38 league games played by Man City, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.78 goals and 0.13 assists a game); 2026 Ballon d'Or nominee.",
    "fdId": 38101,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Harry Kane",
@@ -200,8 +203,8 @@
    "lg": "BL",
    "pos": "FW",
    "gp": 37,
-   "g": 23,
-   "a": 21,
+   "g": 32,
+   "a": 15,
    "gpNow": 10,
    "gNow": 8,
    "aNow": 6,
@@ -235,9 +238,10 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; league numbers projected to the full season (7 games, 4 goals so far).",
+   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (1.14 goals and 0.16 assists a game); 2026 Ballon d'Or nominee.",
    "fdId": 8004,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Donyell Malen",
@@ -245,8 +249,8 @@
    "lg": "SA",
    "pos": "FW",
    "gp": 37,
-   "g": 33,
-   "a": 6,
+   "g": 31,
+   "a": 8,
    "gpNow": 11,
    "gNow": 10,
    "aNow": 3,
@@ -280,7 +284,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 9 of 38 league games played by Roma, 3rd in the league; league numbers projected to the full season (8 games, 7 goals so far).",
+   "note": "As of 2026-10-30: 9 of 38 league games played by Roma, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 7457,
    "y": 2027
   },
@@ -290,8 +294,8 @@
    "lg": "BL",
    "pos": "W",
    "gp": 36,
-   "g": 31,
-   "a": 16,
+   "g": 25,
+   "a": 18,
    "gpNow": 9,
    "gNow": 8,
    "aNow": 4,
@@ -325,9 +329,10 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; league numbers projected to the full season (7 games, 6 goals so far).",
+   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.44 goals and 0.58 assists a game); 2026 Ballon d'Or nominee.",
    "fdId": 113765,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Luis Suárez",
@@ -335,8 +340,8 @@
    "lg": "POR",
    "pos": "FW",
    "gp": 37,
-   "g": 34,
-   "a": 4,
+   "g": 32,
+   "a": 6,
    "gpNow": 12,
    "gNow": 12,
    "aNow": 1,
@@ -370,7 +375,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 9 of 34 league games played by Sporting CP, 3rd in the league; league numbers projected to the full season (9 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 9 of 34 league games played by Sporting CP, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 32386,
    "y": 2027
   },
@@ -379,14 +384,14 @@
    "club": "SL Benfica",
    "lg": "POR",
    "pos": "FW",
-   "gp": 34,
-   "g": 34,
-   "a": 11,
-   "gpNow": 9,
-   "gNow": 9,
+   "gp": 37,
+   "g": 32,
+   "a": 10,
+   "gpNow": 12,
+   "gNow": 11,
    "aNow": 3,
-   "uT": "",
-   "uG": 0,
+   "uT": "UEL",
+   "uG": 2,
    "uA": 0,
    "uS": 0,
    "ntGP": 0,
@@ -410,11 +415,12 @@
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ta%C3%A7a_de_Portugal",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 9 of 34 league games played by SL Benfica, 2nd in the league; league numbers projected to the full season (9 games, 9 goals so far).",
+   "note": "As of 2026-10-30: 9 of 34 league games played by SL Benfica, 2nd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026–27 UEFA Europa League: league phase, 2 goals in the club's 3 matches so far (Wikipedia match boxes; assists unknown).",
    "fdId": 67299,
    "y": 2027
   },
@@ -424,8 +430,8 @@
    "lg": "L1",
    "pos": "FW",
    "gp": 37,
-   "g": 18,
-   "a": 34,
+   "g": 21,
+   "a": 23,
    "gpNow": 11,
    "gNow": 5,
    "aNow": 8,
@@ -459,7 +465,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by RC Lens, 7th in the league; league numbers projected to the full season (8 games, 4 goals so far).",
+   "note": "As of 2026-10-30: 8 of 34 league games played by RC Lens, 7th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 3370,
    "y": 2027
   },
@@ -469,11 +475,11 @@
    "lg": "LL",
    "pos": "FW",
    "gp": 38,
-   "g": 30,
-   "a": 0,
+   "g": 29,
+   "a": 10,
    "gpNow": 10,
    "gNow": 8,
-   "aNow": 0,
+   "aNow": null,
    "uT": "",
    "uG": 0,
    "uA": 0,
@@ -503,7 +509,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Santander, 13th in the league; league numbers projected to the full season (10 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Santander, 13th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 265516,
    "y": 2027
   },
@@ -513,8 +519,8 @@
    "lg": "SA",
    "pos": "FW",
    "gp": 34,
-   "g": 34,
-   "a": 4,
+   "g": 30,
+   "a": 6,
    "gpNow": 8,
    "gNow": 8,
    "aNow": 1,
@@ -547,7 +553,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coppa_Italia",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 9 of 38 league games played by Monza, 16th in the league; league numbers projected to the full season (8 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 9 of 38 league games played by Monza, 16th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 252836,
    "y": 2027
   },
@@ -556,9 +562,9 @@
    "club": "Rayo Vallecano",
    "lg": "LL",
    "pos": "FW",
-   "gp": 42,
-   "g": 30,
-   "a": 4,
+   "gp": 39,
+   "g": 28,
+   "a": 6,
    "gpNow": 10,
    "gNow": 7,
    "aNow": 1,
@@ -591,7 +597,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 9 of 38 league games played by Rayo Vallecano, 16th in the league; league numbers projected to the full season (10 games, 7 goals so far).",
+   "note": "As of 2026-10-30: 9 of 38 league games played by Rayo Vallecano, 16th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 115175,
    "y": 2027
   },
@@ -601,11 +607,11 @@
    "lg": "BL",
    "pos": "FW",
    "gp": 34,
-   "g": 39,
-   "a": 0,
+   "g": 32,
+   "a": 9,
    "gpNow": 7,
    "gNow": 8,
-   "aNow": 0,
+   "aNow": null,
    "uT": "",
    "uG": 0,
    "uA": 0,
@@ -635,7 +641,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 7 of 34 league games played by Bremen, 6th in the league; league numbers projected to the full season (7 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 7 of 34 league games played by Bremen, 6th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 304,
    "y": 2027
   },
@@ -644,13 +650,13 @@
    "club": "Paris FC",
    "lg": "L1",
    "pos": "FW",
-   "gp": 34,
-   "g": 26,
-   "a": 17,
-   "gpNow": 8,
+   "gp": 37,
+   "g": 25,
+   "a": 14,
+   "gpNow": 11,
    "gNow": 6,
    "aNow": 4,
-   "uT": "",
+   "uT": "UCL",
    "uG": 0,
    "uA": 0,
    "uS": 0,
@@ -675,11 +681,12 @@
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by Paris FC, 6th in the league; league numbers projected to the full season (8 games, 6 goals so far).",
+   "note": "As of 2026-10-30: 8 of 34 league games played by Paris FC, 6th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026–27 UEFA Champions League: league phase, 0 goals in the club's 3 matches so far (Wikipedia match boxes; assists unknown).",
    "fdId": 552,
    "y": 2027
   },
@@ -689,8 +696,8 @@
    "lg": "EPL",
    "pos": "FW",
    "gp": 29,
-   "g": 24,
-   "a": 14,
+   "g": 22,
+   "a": 11,
    "gpNow": 6,
    "gNow": 5,
    "aNow": 3,
@@ -723,7 +730,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Chelsea, 5th in the league; league numbers projected to the full season (6 games, 5 goals so far).",
+   "note": "As of 2026-10-30: 8 of 38 league games played by Chelsea, 5th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 103125,
    "y": 2027
   },
@@ -733,11 +740,11 @@
    "lg": "SA",
    "pos": "FW",
    "gp": 38,
-   "g": 34,
-   "a": 0,
+   "g": 31,
+   "a": 10,
    "gpNow": 9,
    "gNow": 8,
-   "aNow": 0,
+   "aNow": null,
    "uT": "",
    "uG": 0,
    "uA": 0,
@@ -767,7 +774,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coppa_Italia",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 9 of 38 league games played by Frosinone, 6th in the league; league numbers projected to the full season (9 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 9 of 38 league games played by Frosinone, 6th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 169216,
    "y": 2027
   },
@@ -776,14 +783,14 @@
    "club": "SL Benfica",
    "lg": "POR",
    "pos": "FW",
-   "gp": 34,
-   "g": 23,
-   "a": 15,
-   "gpNow": 9,
-   "gNow": 6,
+   "gp": 37,
+   "g": 25,
+   "a": 13,
+   "gpNow": 12,
+   "gNow": 7,
    "aNow": 4,
-   "uT": "",
-   "uG": 0,
+   "uT": "UEL",
+   "uG": 1,
    "uA": 0,
    "uS": 0,
    "ntGP": 0,
@@ -807,11 +814,12 @@
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ta%C3%A7a_de_Portugal",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 9 of 34 league games played by SL Benfica, 2nd in the league; league numbers projected to the full season (9 games, 6 goals so far).",
+   "note": "As of 2026-10-30: 9 of 34 league games played by SL Benfica, 2nd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026–27 UEFA Europa League: league phase, 1 goal in the club's 3 matches so far (Wikipedia match boxes; assists unknown).",
    "fdId": 182123,
    "y": 2027
   },
@@ -821,7 +829,7 @@
    "lg": "LL",
    "pos": "AM",
    "gp": 41,
-   "g": 16,
+   "g": 21,
    "a": 12,
    "gpNow": 13,
    "gNow": 5,
@@ -856,7 +864,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; league numbers projected to the full season (10 games, 4 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 214533,
    "y": 2027
   },
@@ -865,14 +873,14 @@
    "club": "Leverkusen",
    "lg": "BL",
    "pos": "FW",
-   "gp": 34,
+   "gp": 37,
    "g": 29,
-   "a": 10,
-   "gpNow": 7,
-   "gNow": 6,
+   "a": 9,
+   "gpNow": 10,
+   "gNow": 8,
    "aNow": 2,
-   "uT": "",
-   "uG": 0,
+   "uT": "UEL",
+   "uG": 2,
    "uA": 0,
    "uS": 0,
    "ntGP": 0,
@@ -896,11 +904,12 @@
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 7 of 34 league games played by Leverkusen, 4th in the league; league numbers projected to the full season (7 games, 6 goals so far).",
+   "note": "As of 2026-10-30: 7 of 34 league games played by Leverkusen, 4th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026–27 UEFA Europa League: league phase, 2 goals in the club's 3 matches so far (Wikipedia match boxes; assists unknown).",
    "fdId": 1826,
    "y": 2027
   },
@@ -911,10 +920,10 @@
    "pos": "FW",
    "gp": 38,
    "g": 27,
-   "a": 0,
+   "a": 10,
    "gpNow": 10,
    "gNow": 7,
-   "aNow": 0,
+   "aNow": null,
    "uT": "",
    "uG": 0,
    "uA": 0,
@@ -944,7 +953,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Osasuna, 12th in the league; league numbers projected to the full season (10 games, 7 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Osasuna, 12th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 2237,
    "y": 2027
   },
@@ -954,8 +963,8 @@
    "lg": "SA",
    "pos": "AM",
    "gp": 41,
-   "g": 15,
-   "a": 16,
+   "g": 21,
+   "a": 15,
    "gpNow": 12,
    "gNow": 5,
    "aNow": 6,
@@ -989,7 +998,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 9 of 38 league games played by Como 1907, 4th in the league; league numbers projected to the full season (9 games, 3 goals so far).",
+   "note": "As of 2026-10-30: 9 of 38 league games played by Como 1907, 4th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 203511,
    "y": 2027
   },
@@ -999,8 +1008,8 @@
    "lg": "ERE",
    "pos": "FW",
    "gp": 34,
-   "g": 27,
-   "a": 7,
+   "g": 26,
+   "a": 8,
    "gpNow": 10,
    "gNow": 8,
    "aNow": 2,
@@ -1033,7 +1042,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_KNVB_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 10 of 34 league games played by Go Ahead, 9th in the league; league numbers projected to the full season (10 games, 8 goals so far).",
+   "note": "As of 2026-10-30: 10 of 34 league games played by Go Ahead, 9th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 121280,
    "y": 2027
   },
@@ -1042,13 +1051,13 @@
    "club": "Atalanta",
    "lg": "SA",
    "pos": "FW",
-   "gp": 38,
-   "g": 25,
-   "a": 8,
-   "gpNow": 9,
+   "gp": 40,
+   "g": 26,
+   "a": 9,
+   "gpNow": 11,
    "gNow": 6,
    "aNow": 2,
-   "uT": "",
+   "uT": "ECL",
    "uG": 0,
    "uA": 0,
    "uS": 0,
@@ -1073,11 +1082,12 @@
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coppa_Italia",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 9 of 38 league games played by Atalanta, 12th in the league; league numbers projected to the full season (9 games, 6 goals so far).",
+   "note": "As of 2026-10-30: 9 of 38 league games played by Atalanta, 12th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026–27 UEFA Conference League: league phase, 0 goals in the club's 2 matches so far (Wikipedia match boxes; assists unknown).",
    "fdId": 120679,
    "y": 2027
   },
@@ -1088,7 +1098,7 @@
    "pos": "FW",
    "gp": 27,
    "g": 19,
-   "a": 8,
+   "a": 7,
    "gpNow": 7,
    "gNow": 5,
    "aNow": 2,
@@ -1121,7 +1131,7 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Deportivo, 11th in the league; league numbers projected to the full season (7 games, 5 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Deportivo, 11th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 7801,
    "y": 2027
   },
@@ -1131,8 +1141,8 @@
    "lg": "LL",
    "pos": "AM",
    "gp": 38,
-   "g": 19,
-   "a": 8,
+   "g": 22,
+   "a": 9,
    "gpNow": 10,
    "gNow": 5,
    "aNow": 2,
@@ -1166,7 +1176,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Atleti, 2nd in the league; league numbers projected to the full season (10 games, 5 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Atleti, 2nd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 213278,
    "y": 2027
   },
@@ -1176,8 +1186,8 @@
    "lg": "BL",
    "pos": "FW",
    "gp": 34,
-   "g": 15,
-   "a": 24,
+   "g": 19,
+   "a": 17,
    "gpNow": 7,
    "gNow": 3,
    "aNow": 5,
@@ -1211,7 +1221,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 7 of 34 league games played by RB Leipzig, 5th in the league; league numbers projected to the full season (7 games, 3 goals so far).",
+   "note": "As of 2026-10-30: 7 of 34 league games played by RB Leipzig, 5th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 169295,
    "y": 2027
   },
@@ -1221,8 +1231,8 @@
    "lg": "ERE",
    "pos": "AM",
    "gp": 37,
-   "g": 18,
-   "a": 14,
+   "g": 21,
+   "a": 12,
    "gpNow": 13,
    "gNow": 6,
    "aNow": 4,
@@ -1256,7 +1266,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 34 league games played by Feyenoord, 1st in the league; league numbers projected to the full season (10 games, 5 goals so far).",
+   "note": "As of 2026-10-30: 10 of 34 league games played by Feyenoord, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 215554,
    "y": 2027
   },
@@ -1266,11 +1276,11 @@
    "lg": "EPL",
    "pos": "FW",
    "gp": 33,
-   "g": 29,
-   "a": 0,
+   "g": 27,
+   "a": 9,
    "gpNow": 7,
    "gNow": 6,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1301,7 +1311,7 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Liverpool, 4th in the league; league numbers projected to the full season (7 games, 6 goals so far).",
+   "note": "As of 2026-10-30: 8 of 38 league games played by Liverpool, 4th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game).",
    "fdId": 6486,
    "y": 2027
   },
@@ -1310,13 +1320,13 @@
    "club": "Brighton Hove",
    "lg": "EPL",
    "pos": "AM",
-   "gp": 38,
-   "g": 14,
-   "a": 19,
-   "gpNow": 8,
+   "gp": 40,
+   "g": 20,
+   "a": 15,
+   "gpNow": 10,
    "gNow": 3,
    "aNow": 4,
-   "uT": "",
+   "uT": "ECL",
    "uG": 0,
    "uA": 0,
    "uS": 0,
@@ -1341,25 +1351,26 @@
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Brighton Hove, 3rd in the league; league numbers projected to the full season (8 games, 3 goals so far).",
+   "note": "As of 2026-10-30: 8 of 38 league games played by Brighton Hove, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026–27 UEFA Conference League: league phase, 0 goals in the club's 2 matches so far (Wikipedia match boxes; assists unknown).",
    "fdId": 8273,
    "y": 2027
   },
   {
    "name": "Rodri",
-   "club": "Man City",
-   "lg": "EPL",
+   "club": "Barça",
+   "lg": "LL",
    "pos": "DM",
-   "gp": 36,
-   "g": 0,
-   "a": 0,
-   "gpNow": 10,
-   "gNow": 0,
-   "aNow": 0,
+   "gp": 37,
+   "g": 3,
+   "a": 5,
+   "gpNow": 12,
+   "gNow": 1,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1380,33 +1391,35 @@
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
    "aConf": "C",
    "awConf": "A",
    "sources": [
     "https://www.football-data.org",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Rodri"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Man City, 1st in the league; league numbers projected to the full season (7 games, 0 goals so far); not on a scorer list: games estimated as 85% of the club's.",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.04 goals and 0.15 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
    "fdId": null,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
-   "name": "Vitinha",
+   "name": "Khvicha Kvaratskhelia",
    "club": "PSG",
    "lg": "L1",
-   "pos": "CM",
-   "gp": 37,
-   "g": 6,
-   "a": 4,
-   "gpNow": 11,
-   "gNow": 3,
+   "pos": "W",
+   "gp": 30,
+   "g": 8,
+   "a": 5,
+   "gpNow": 7,
+   "gNow": 1,
    "aNow": 1,
    "uT": "UCL",
-   "uG": 2,
+   "uG": 0,
    "uA": 0,
    "uS": 0,
    "ntGP": 0,
@@ -1421,7 +1434,7 @@
    "uTop": 0,
    "ntTop": 0,
    "ntBest": 0,
-   "cont": 8.5,
+   "cont": null,
    "rank": null,
    "elig": 1,
    "win": "P",
@@ -1435,9 +1448,56 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; league numbers projected to the full season (8 games, 1 goals so far).",
-   "fdId": 178722,
-   "y": 2027
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.41 goals and 0.20 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 113285,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Ousmane Dembélé",
+   "club": "PSG",
+   "lg": "L1",
+   "pos": "W",
+   "gp": 3,
+   "g": 3,
+   "a": 3,
+   "gpNow": 3,
+   "gNow": 3,
+   "aNow": 3,
+   "uT": "UCL",
+   "uG": 3,
+   "uA": 3,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.51 goals and 0.31 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 3373,
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Fabián Ruiz",
@@ -1480,21 +1540,394 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; league numbers projected to the full season (0 games, 0 goals so far).",
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.07 goals and 0.24 assists a game); 2026 Ballon d'Or nominee.",
    "fdId": 22,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Jude Bellingham",
+   "club": "Real Madrid",
+   "lg": "LL",
+   "pos": "AM",
+   "gp": 38,
+   "g": 17,
+   "a": 11,
+   "gpNow": 10,
+   "gNow": 3,
+   "aNow": 3,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 125010,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Pau Cubarsí",
+   "club": "Barça",
+   "lg": "LL",
+   "pos": "DF",
+   "gp": 30,
+   "g": 1,
+   "a": 3,
+   "gpNow": 10,
+   "gNow": 0,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "B",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD"
+   ],
+   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown; cont 5 by default (not rated).",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Achraf Hakimi",
+   "club": "PSG",
+   "lg": "L1",
+   "pos": "DF",
+   "gp": 33,
+   "g": 1,
+   "a": 4,
+   "gpNow": 10,
+   "gNow": 0,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 8.5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "B",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Achraf_Hakimi"
+   ],
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Vitinha",
+   "club": "PSG",
+   "lg": "L1",
+   "pos": "CM",
+   "gp": 37,
+   "g": 7,
+   "a": 6,
+   "gpNow": 11,
+   "gNow": 3,
+   "aNow": 1,
+   "uT": "UCL",
+   "uG": 2,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 8.5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.15 goals and 0.22 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 178722,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Declan Rice",
+   "club": "Arsenal",
+   "lg": "EPL",
+   "pos": "CM",
+   "gp": 36,
+   "g": 2,
+   "a": 4,
+   "gpNow": 10,
+   "gNow": 1,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 1,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 8.5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "B",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Declan_Rice"
+   ],
+   "note": "As of 2026-10-30: 8 of 38 league games played by Arsenal, 2nd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Ferrán Torres",
+   "club": "PSG",
+   "lg": "L1",
+   "pos": "FW",
+   "gp": 37,
+   "g": 23,
+   "a": 6,
+   "gpNow": 11,
+   "gNow": 7,
+   "aNow": 1,
+   "uT": "UCL",
+   "uG": 3,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 33154,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Vinícius Júnior",
+   "club": "Real Madrid",
+   "lg": "LL",
+   "pos": "W",
+   "gp": 30,
+   "g": 11,
+   "a": 10,
+   "gpNow": 8,
+   "gNow": 1,
+   "aNow": 3,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 1556,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Marc Cucurella",
+   "club": "Real Madrid",
+   "lg": "LL",
+   "pos": "DF",
+   "gp": 41,
+   "g": 1,
+   "a": 5,
+   "gpNow": 13,
+   "gNow": 0,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "B",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Marc_Cucurella"
+   ],
+   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown; cont 5 by default (not rated).",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "João Neves",
    "club": "PSG",
    "lg": "L1",
    "pos": "CM",
-   "gp": 33,
-   "g": 0,
-   "a": 0,
-   "gpNow": 10,
+   "gp": 32,
+   "g": 1,
+   "a": 4,
+   "gpNow": 9,
    "gNow": 0,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1515,7 +1948,7 @@
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
    "aConf": "C",
    "awConf": "A",
    "sources": [
@@ -1523,23 +1956,25 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Jo%C3%A3o_Neves"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; league numbers projected to the full season (7 games, 0 goals so far); not on a scorer list: games estimated as 85% of the club's.",
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
    "fdId": null,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
-   "name": "Achraf Hakimi",
+   "name": "Willian Pacho",
    "club": "PSG",
    "lg": "L1",
    "pos": "DF",
-   "gp": 33,
-   "g": 0,
-   "a": 0,
-   "gpNow": 10,
+   "gp": 29,
+   "g": 1,
+   "a": 3,
+   "gpNow": 9,
    "gNow": 0,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1556,11 +1991,11 @@
    "uTop": 0,
    "ntTop": 0,
    "ntBest": 0,
-   "cont": 8.5,
+   "cont": 5,
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
    "aConf": "C",
    "awConf": "A",
    "sources": [
@@ -1568,23 +2003,118 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Willian_Pacho"
+   ],
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown; cont 5 by default (not rated).",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Gabriel Magalhães",
+   "club": "Arsenal",
+   "lg": "EPL",
+   "pos": "DF",
+   "gp": 41,
+   "g": 3,
+   "a": 5,
+   "gpNow": 11,
+   "gNow": 1,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "B",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Gabriel_Magalh%C3%A3es"
+   ],
+   "note": "As of 2026-10-30: 8 of 38 league games played by Arsenal, 2nd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown; cont 5 by default (not rated).",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Lautaro Martínez",
+   "club": "Inter",
+   "lg": "SA",
+   "pos": "FW",
+   "gp": 27,
+   "g": 20,
+   "a": 8,
+   "gpNow": 8,
+   "gNow": 6,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 2,
+   "uA": 1,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coppa_Italia",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; league numbers projected to the full season (7 games, 0 goals so far); not on a scorer list: games estimated as 85% of the club's.",
-   "fdId": null,
-   "y": 2027
+   "note": "As of 2026-10-30: 9 of 38 league games played by Inter, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 3220,
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Nuno Mendes",
    "club": "PSG",
    "lg": "L1",
    "pos": "DF",
-   "gp": 33,
+   "gp": 15,
    "g": 0,
-   "a": 0,
-   "gpNow": 10,
+   "a": 2,
+   "gpNow": 5,
    "gNow": 0,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1605,7 +2135,100 @@
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Nuno_Mendes_(footballer,_born_2002)"
+   ],
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
+   "fdId": null,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Luis Díaz",
+   "club": "Bayern",
+   "lg": "BL",
+   "pos": "W",
+   "gp": 32,
+   "g": 18,
+   "a": 8,
+   "gpNow": 9,
+   "gNow": 5,
+   "aNow": 1,
+   "uT": "UCL",
+   "uG": 1,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; end of season estimated from the pace so far pulled towards their 2026 season (0.50 goals and 0.39 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 22396,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Marquinhos",
+   "club": "PSG",
+   "lg": "L1",
+   "pos": "DF",
+   "gp": 26,
+   "g": 7,
+   "a": 3,
+   "gpNow": 6,
+   "gNow": 3,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
    "aConf": "C",
    "awConf": "A",
    "sources": [
@@ -1615,9 +2238,148 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; league numbers projected to the full season (7 games, 0 goals so far); not on a scorer list: games estimated as 85% of the club's.",
+   "note": "As of 2026-10-30: 8 of 34 league games played by PSG, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; cont 5 by default (not rated).",
+   "fdId": 3225,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Dayot Upamecano",
+   "club": "Bayern",
+   "lg": "BL",
+   "pos": "DF",
+   "gp": 34,
+   "g": 6,
+   "a": 4,
+   "gpNow": 7,
+   "gNow": 2,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 1,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; cont 5 by default (not rated).",
+   "fdId": 9541,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "Bruno Fernandes",
+   "club": "Man United",
+   "lg": "EPL",
+   "pos": "AM",
+   "gp": 41,
+   "g": 21,
+   "a": 7,
+   "gpNow": 11,
+   "gNow": 4,
+   "aNow": 1,
+   "uT": "UCL",
+   "uG": 1,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": null,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "A",
+   "aConf": "A",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 8 of 38 league games played by Man United, 16th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.73 goals and 0.27 assists a game); 2026 Ballon d'Or nominee.",
+   "fdId": 3257,
+   "y": 2027,
+   "nominee": 1
+  },
+  {
+   "name": "William Saliba",
+   "club": "Arsenal",
+   "lg": "EPL",
+   "pos": "DF",
+   "gp": 36,
+   "g": 1,
+   "a": 4,
+   "gpNow": 10,
+   "gNow": 0,
+   "aNow": null,
+   "uT": "UCL",
+   "uG": 0,
+   "uA": 0,
+   "uS": 0,
+   "ntGP": 0,
+   "ntG": 0,
+   "ntA": 0,
+   "ntT": "",
+   "ntS": 0,
+   "title": 0,
+   "cup": 0,
+   "lgTop": 0,
+   "gs": 0,
+   "uTop": 0,
+   "ntTop": 0,
+   "ntBest": 0,
+   "cont": 5,
+   "rank": null,
+   "elig": 1,
+   "win": "P",
+   "conf": "C",
+   "aConf": "C",
+   "awConf": "A",
+   "sources": [
+    "https://www.football-data.org",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+   ],
+   "note": "As of 2026-10-30: 8 of 38 league games played by Arsenal, 2nd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); 2026 Ballon d'Or nominee; not on a scorer list: games estimated as 85% of the club's; cont 5 by default (not rated).",
    "fdId": null,
-   "y": 2027
+   "y": 2027,
+   "nominee": 1
   },
   {
    "name": "Pedri",
@@ -1625,8 +2387,8 @@
    "lg": "LL",
    "pos": "CM",
    "gp": 38,
-   "g": 4,
-   "a": 8,
+   "g": 3,
+   "a": 7,
    "gpNow": 10,
    "gNow": 1,
    "aNow": 2,
@@ -1660,53 +2422,8 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; league numbers projected to the full season (10 games, 1 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Barça, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game).",
    "fdId": 133860,
-   "y": 2027
-  },
-  {
-   "name": "Declan Rice",
-   "club": "Arsenal",
-   "lg": "EPL",
-   "pos": "CM",
-   "gp": 36,
-   "g": 0,
-   "a": 0,
-   "gpNow": 10,
-   "gNow": 0,
-   "aNow": 0,
-   "uT": "UCL",
-   "uG": 0,
-   "uA": 0,
-   "uS": 0,
-   "ntGP": 0,
-   "ntG": 0,
-   "ntA": 0,
-   "ntT": "",
-   "ntS": 0,
-   "title": 0,
-   "cup": 0,
-   "lgTop": 0,
-   "gs": 0,
-   "uTop": 0,
-   "ntTop": 0,
-   "ntBest": 0,
-   "cont": 8.5,
-   "rank": null,
-   "elig": 1,
-   "win": "P",
-   "conf": "C",
-   "aConf": "C",
-   "awConf": "A",
-   "sources": [
-    "https://www.football-data.org",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
-   ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Arsenal, 2nd in the league; league numbers projected to the full season (7 games, 0 goals so far); not on a scorer list: games estimated as 90% of the club's.",
-   "fdId": null,
    "y": 2027
   },
   {
@@ -1715,11 +2432,11 @@
    "lg": "EPL",
    "pos": "DF",
    "gp": 41,
-   "g": 0,
-   "a": 0,
+   "g": 1,
+   "a": 5,
    "gpNow": 11,
    "gNow": 0,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1740,7 +2457,7 @@
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
    "aConf": "C",
    "awConf": "A",
    "sources": [
@@ -1748,9 +2465,10 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Virgil_van_Dijk"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Liverpool, 4th in the league; league numbers projected to the full season (8 games, 0 goals so far); not on a scorer list: games estimated as 95% of the club's.",
+   "note": "As of 2026-10-30: 8 of 38 league games played by Liverpool, 4th in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
    "fdId": null,
    "y": 2027
   },
@@ -1759,12 +2477,12 @@
    "club": "Man City",
    "lg": "EPL",
    "pos": "GK",
-   "gp": 41,
-   "g": 0,
-   "a": 0,
-   "gpNow": 11,
+   "gp": 36,
+   "g": 1,
+   "a": 4,
+   "gpNow": 10,
    "gNow": 0,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1785,7 +2503,7 @@
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
    "aConf": "C",
    "awConf": "A",
    "sources": [
@@ -1793,9 +2511,10 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_FA_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma"
    ],
-   "note": "As of 2026-10-30: 8 of 38 league games played by Man City, 1st in the league; league numbers projected to the full season (8 games, 0 goals so far); not on a scorer list: games estimated as 95% of the club's.",
+   "note": "As of 2026-10-30: 8 of 38 league games played by Man City, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
    "fdId": null,
    "y": 2027
   },
@@ -1804,12 +2523,12 @@
    "club": "Bayern",
    "lg": "BL",
    "pos": "DM",
-   "gp": 32,
-   "g": 0,
-   "a": 0,
-   "gpNow": 9,
+   "gp": 31,
+   "g": 1,
+   "a": 4,
+   "gpNow": 8,
    "gNow": 0,
-   "aNow": 0,
+   "aNow": null,
    "uT": "UCL",
    "uG": 0,
    "uA": 0,
@@ -1830,7 +2549,7 @@
    "rank": null,
    "elig": 1,
    "win": "P",
-   "conf": "C",
+   "conf": "B",
    "aConf": "C",
    "awConf": "A",
    "sources": [
@@ -1838,9 +2557,10 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+    "https://en.wikipedia.org/wiki/Joshua_Kimmich"
    ],
-   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; league numbers projected to the full season (6 games, 0 goals so far); not on a scorer list: games estimated as 90% of the club's.",
+   "note": "As of 2026-10-30: 7 of 34 league games played by Bayern, 1st in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game); not on a scorer list: games and goals from the Wikipedia career table, assists unknown.",
    "fdId": null,
    "y": 2027
   },
@@ -1885,579 +2605,706 @@
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
    ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; league numbers projected to the full season (0 games, 0 goals so far).",
+   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; end of season estimated from the pace so far pulled towards a typical candidate (0.05 goals and 0.13 assists a game).",
    "fdId": 96,
-   "y": 2027
-  },
-  {
-   "name": "Jude Bellingham",
-   "club": "Real Madrid",
-   "lg": "LL",
-   "pos": "AM",
-   "gp": 38,
-   "g": 11,
-   "a": 11,
-   "gpNow": 10,
-   "gNow": 3,
-   "aNow": 3,
-   "uT": "UCL",
-   "uG": 0,
-   "uA": 0,
-   "uS": 0,
-   "ntGP": 0,
-   "ntG": 0,
-   "ntA": 0,
-   "ntT": "",
-   "ntS": 0,
-   "title": 0,
-   "cup": 0,
-   "lgTop": 0,
-   "gs": 0,
-   "uTop": 0,
-   "ntTop": 0,
-   "ntBest": 0,
-   "cont": null,
-   "rank": null,
-   "elig": 1,
-   "win": "P",
-   "conf": "A",
-   "aConf": "A",
-   "awConf": "A",
-   "sources": [
-    "https://www.football-data.org",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League"
-   ],
-   "note": "As of 2026-10-30: 10 of 38 league games played by Real Madrid, 3rd in the league; league numbers projected to the full season (10 games, 3 goals so far).",
-   "fdId": 125010,
    "y": 2027
   }
  ],
  "rankings": {
   "pred": [
    [
-    "Raphinha",
-    2.2062
-   ],
-   [
     "Lamine Yamal",
-    2.1995
+    0.9524
    ],
    [
     "Erling Haaland",
-    2.1758
-   ],
-   [
-    "Kylian Mbappé",
-    2.1564
-   ],
-   [
-    "Michael Olise",
-    2.1416
+    0.9391
    ],
    [
     "Harry Kane",
-    2.137
+    0.9363
    ],
    [
-    "Rodri",
-    2.1348
+    "Raphinha",
+    0.9325
+   ],
+   [
+    "Kylian Mbappé",
+    0.9076
+   ],
+   [
+    "Michael Olise",
+    0.9014
    ],
    [
     "Donyell Malen",
-    2.0997
-   ],
-   [
-    "Florian Thauvin",
-    2.0915
-   ],
-   [
-    "Niclas Füllkrug",
-    2.0893
-   ],
-   [
-    "Luis Suárez",
-    2.0834
-   ],
-   [
-    "João Pedro",
-    2.0832
-   ],
-   [
-    "Patrik Schick",
-    2.0813
-   ],
-   [
-    "Vangelis Pavlidis",
-    2.0808
-   ],
-   [
-    "Gustavo Varela",
-    2.0791
-   ],
-   [
-    "Sergio Camello",
-    2.077
+    0.8785
    ],
    [
     "Fermín López",
-    2.0745
-   ],
-   [
-    "Lassine Sinayoko",
-    2.0739
-   ],
-   [
-    "Antonio Nusa",
-    2.0702
-   ],
-   [
-    "Antonio Raimondo",
-    2.0699
-   ],
-   [
-    "Yassir Zabiri",
-    2.0668
+    0.8745
    ],
    [
     "Nico Paz",
-    2.0663
+    0.8668
    ],
    [
-    "Alexander Isak",
-    2.0644
+    "Luis Suárez",
+    0.8653
    ],
    [
-    "Pascal Groß",
-    2.0618
+    "Lautaro Martínez",
+    0.8624
    ],
    [
-    "Nikola Krstović",
-    2.0606
+    "Ferrán Torres",
+    0.8616
    ],
    [
-    "Gianluca Prestianni",
-    2.0589
+    "Patrik Schick",
+    0.8531
+   ],
+   [
+    "Yassir Zabiri",
+    0.8505
+   ],
+   [
+    "Niclas Füllkrug",
+    0.8503
+   ],
+   [
+    "Vangelis Pavlidis",
+    0.8493
+   ],
+   [
+    "Florian Thauvin",
+    0.8472
+   ],
+   [
+    "Antonio Raimondo",
+    0.8471
    ],
    [
     "Ante Budimir",
-    2.0566
+    0.846
+   ],
+   [
+    "Luis Díaz",
+    0.8456
+   ],
+   [
+    "Alexander Isak",
+    0.8451
    ],
    [
     "Gjivai Zechiël",
-    2.0539
+    0.8433
    ],
    [
-    "Pierre-Emerick Aubameyang",
-    2.0498
+    "Sergio Camello",
+    0.8414
+   ],
+   [
+    "Pascal Groß",
+    0.8393
+   ],
+   [
+    "Gustavo Varela",
+    0.8389
+   ],
+   [
+    "João Pedro",
+    0.837
+   ],
+   [
+    "Gianluca Prestianni",
+    0.836
+   ],
+   [
+    "Bruno Fernandes",
+    0.8355
+   ],
+   [
+    "Antonio Nusa",
+    0.8354
+   ],
+   [
+    "Nikola Krstović",
+    0.8353
+   ],
+   [
+    "Lassine Sinayoko",
+    0.8344
    ],
    [
     "Álex Baena",
-    2.0498
-   ],
-   [
-    "Søren Tengstedt",
-    2.0446
+    0.8329
    ],
    [
     "Jude Bellingham",
-    2.0304
+    0.825
    ],
    [
-    "Virgil van Dijk",
-    2.0225
+    "Pierre-Emerick Aubameyang",
+    0.8227
    ],
    [
-    "Gianluigi Donnarumma",
-    2.0225
+    "Ousmane Dembélé",
+    0.8215
    ],
    [
-    "Pedri",
-    1.9509
+    "Søren Tengstedt",
+    0.8205
+   ],
+   [
+    "Vinícius Júnior",
+    0.8097
+   ],
+   [
+    "Khvicha Kvaratskhelia",
+    0.798
    ],
    [
     "Vitinha",
-    1.949
+    0.045
    ],
    [
     "Fabián Ruiz",
-    1.9311
+    0.0282
    ],
    [
-    "Federico Valverde",
-    1.9177
+    "Dayot Upamecano",
+    0.0263
    ],
    [
-    "Achraf Hakimi",
-    1.9101
+    "Pedri",
+    0.0257
    ],
    [
-    "Nuno Mendes",
-    1.9101
+    "Marquinhos",
+    0.0239
+   ],
+   [
+    "Rodri",
+    0.021
    ],
    [
     "Declan Rice",
-    1.9101
+    0.0191
+   ],
+   [
+    "Gabriel Magalhães",
+    0.0155
+   ],
+   [
+    "Gianluigi Donnarumma",
+    0.0126
    ],
    [
     "Joshua Kimmich",
-    1.9101
+    0.0117
+   ],
+   [
+    "Virgil van Dijk",
+    0.0109
+   ],
+   [
+    "Marc Cucurella",
+    0.0108
+   ],
+   [
+    "Achraf Hakimi",
+    0.0103
    ],
    [
     "João Neves",
-    1.7978
+    0.0103
+   ],
+   [
+    "Pau Cubarsí",
+    0.0101
+   ],
+   [
+    "Federico Valverde",
+    0.0099
+   ],
+   [
+    "William Saliba",
+    0.0092
+   ],
+   [
+    "Willian Pacho",
+    0.0084
+   ],
+   [
+    "Nuno Mendes",
+    0.0039
    ]
   ],
   "fair": [
    [
     "Raphinha",
-    82.3211
+    75.7771
    ],
    [
     "Lamine Yamal",
-    76.993
+    72.7491
    ],
    [
     "Kylian Mbappé",
-    69.7713
+    67.4929
    ],
    [
     "Michael Olise",
-    68.7999
+    64.202
    ],
    [
     "Erling Haaland",
-    66.2089
-   ],
-   [
-    "João Pedro",
-    60.0572
-   ],
-   [
-    "Niclas Füllkrug",
-    58.7503
+    64.1614
    ],
    [
     "Harry Kane",
-    57.5934
+    62.0408
    ],
    [
-    "Florian Thauvin",
-    56.4628
-   ],
-   [
-    "Patrik Schick",
-    56.07
-   ],
-   [
-    "Vangelis Pavlidis",
-    55.8988
+    "Niclas Füllkrug",
+    58.4878
    ],
    [
     "Pascal Groß",
-    55.3755
-   ],
-   [
-    "Gustavo Varela",
-    55.3047
-   ],
-   [
-    "Donyell Malen",
-    54.8216
-   ],
-   [
-    "Lassine Sinayoko",
-    53.4576
-   ],
-   [
-    "Antonio Nusa",
-    52.1114
+    58.4322
    ],
    [
     "Alexander Isak",
-    50.553
-   ],
-   [
-    "Sergio Camello",
-    50.349
-   ],
-   [
-    "Álex Baena",
-    50.215
-   ],
-   [
-    "Antonio Raimondo",
-    49.8008
-   ],
-   [
-    "Luis Suárez",
-    49.6752
-   ],
-   [
-    "Fermín López",
-    49.1427
-   ],
-   [
-    "Nico Paz",
-    48.9382
-   ],
-   [
-    "Pierre-Emerick Aubameyang",
-    48.6896
+    56.4567
    ],
    [
     "Yassir Zabiri",
-    48.685
+    56.3019
    ],
    [
-    "Gianluca Prestianni",
-    47.8687
+    "Fermín López",
+    56.2083
+   ],
+   [
+    "Nico Paz",
+    55.7176
+   ],
+   [
+    "Álex Baena",
+    55.6762
+   ],
+   [
+    "João Pedro",
+    54.7982
+   ],
+   [
+    "Antonio Raimondo",
+    54.6192
+   ],
+   [
+    "Donyell Malen",
+    54.2982
+   ],
+   [
+    "Ante Budimir",
+    54.0482
+   ],
+   [
+    "Patrik Schick",
+    53.7203
+   ],
+   [
+    "Gustavo Varela",
+    52.561
+   ],
+   [
+    "Vangelis Pavlidis",
+    51.7225
+   ],
+   [
+    "Florian Thauvin",
+    51.4112
+   ],
+   [
+    "Sergio Camello",
+    51.2029
+   ],
+   [
+    "Bruno Fernandes",
+    51.2005
+   ],
+   [
+    "Antonio Nusa",
+    50.6398
+   ],
+   [
+    "Jude Bellingham",
+    50.5927
+   ],
+   [
+    "Luis Suárez",
+    49.1745
+   ],
+   [
+    "Lassine Sinayoko",
+    48.4555
+   ],
+   [
+    "Luis Díaz",
+    47.7266
+   ],
+   [
+    "Pierre-Emerick Aubameyang",
+    47.6006
+   ],
+   [
+    "Nikola Krstović",
+    47.4297
+   ],
+   [
+    "Lautaro Martínez",
+    47.2511
    ],
    [
     "Fabián Ruiz",
     47.1345
    ],
    [
-    "Nikola Krstović",
-    46.4052
-   ],
-   [
-    "Pedri",
-    46.3041
-   ],
-   [
-    "Ante Budimir",
-    44.8894
-   ],
-   [
-    "Gjivai Zechiël",
-    44.1306
-   ],
-   [
-    "Søren Tengstedt",
-    42.1393
+    "Gianluca Prestianni",
+    46.871
    ],
    [
     "Vitinha",
-    41.3801
+    46.1277
    ],
    [
-    "Jude Bellingham",
-    41.0089
+    "Marquinhos",
+    45.933
+   ],
+   [
+    "Gjivai Zechiël",
+    45.9132
+   ],
+   [
+    "Rodri",
+    45.2876
+   ],
+   [
+    "Dayot Upamecano",
+    44.6308
+   ],
+   [
+    "Pedri",
+    42.3597
+   ],
+   [
+    "Vinícius Júnior",
+    41.9559
+   ],
+   [
+    "Søren Tengstedt",
+    41.8843
    ],
    [
     "Gianluigi Donnarumma",
     40.5
    ],
    [
+    "Ferrán Torres",
+    40.2297
+   ],
+   [
+    "Virgil van Dijk",
+    39.4846
+   ],
+   [
     "Federico Valverde",
     38.7314
    ],
    [
-    "Rodri",
-    24.6276
+    "Ousmane Dembélé",
+    38.7029
    ],
    [
-    "Virgil van Dijk",
-    23.1626
-   ],
-   [
-    "Joshua Kimmich",
-    22.782
-   ],
-   [
-    "Achraf Hakimi",
-    22.6872
-   ],
-   [
-    "Nuno Mendes",
-    22.6872
+    "Gabriel Magalhães",
+    37.1252
    ],
    [
     "Declan Rice",
-    22.4276
+    35.6262
+   ],
+   [
+    "Joshua Kimmich",
+    35.6199
+   ],
+   [
+    "Achraf Hakimi",
+    35.1813
+   ],
+   [
+    "Nuno Mendes",
+    32.224
    ],
    [
     "João Neves",
-    21.5872
+    30.6076
+   ],
+   [
+    "Marc Cucurella",
+    30.5276
+   ],
+   [
+    "William Saliba",
+    29.3266
+   ],
+   [
+    "Pau Cubarsí",
+    28.0601
+   ],
+   [
+    "Willian Pacho",
+    26.1806
+   ],
+   [
+    "Khvicha Kvaratskhelia",
+    25.5513
    ]
   ],
   "mine": [
    [
     "Raphinha",
-    69.1031
+    63.7883
    ],
    [
     "Lamine Yamal",
-    64.6928
-   ],
-   [
-    "Michael Olise",
-    57.9452
+    61.3311
    ],
    [
     "Erling Haaland",
-    56.8831
+    55.0872
+   ],
+   [
+    "Michael Olise",
+    54.1577
    ],
    [
     "Kylian Mbappé",
-    55.3674
+    53.5851
    ],
    [
     "Harry Kane",
-    49.1937
-   ],
-   [
-    "João Pedro",
-    46.1994
-   ],
-   [
-    "Niclas Füllkrug",
-    46.1478
-   ],
-   [
-    "Patrik Schick",
-    43.5946
-   ],
-   [
-    "Donyell Malen",
-    43.4923
-   ],
-   [
-    "Vangelis Pavlidis",
-    43.4818
-   ],
-   [
-    "Florian Thauvin",
-    43.3591
-   ],
-   [
-    "Gustavo Varela",
-    43.2554
-   ],
-   [
-    "Pascal Groß",
-    42.6213
+    52.9636
    ],
    [
     "Fermín López",
-    42.4958
+    48.1315
    ],
    [
-    "Lassine Sinayoko",
-    41.2899
+    "Niclas Füllkrug",
+    45.564
    ],
    [
-    "Antonio Nusa",
-    39.7972
-   ],
-   [
-    "Sergio Camello",
-    39.7262
-   ],
-   [
-    "Alexander Isak",
-    39.6271
-   ],
-   [
-    "Luis Suárez",
-    39.4598
-   ],
-   [
-    "Antonio Raimondo",
-    39.2935
-   ],
-   [
-    "Álex Baena",
-    39.1404
-   ],
-   [
-    "Nico Paz",
-    38.527
+    "Pascal Groß",
+    45.4323
    ],
    [
     "Yassir Zabiri",
-    38.4133
+    43.9921
+   ],
+   [
+    "Nico Paz",
+    43.9647
+   ],
+   [
+    "Alexander Isak",
+    43.852
+   ],
+   [
+    "Álex Baena",
+    43.4366
+   ],
+   [
+    "Donyell Malen",
+    42.9981
+   ],
+   [
+    "Antonio Raimondo",
+    42.69
+   ],
+   [
+    "Ante Budimir",
+    42.1934
+   ],
+   [
+    "João Pedro",
+    42.1548
+   ],
+   [
+    "Patrik Schick",
+    42.1041
+   ],
+   [
+    "Luis Díaz",
+    41.0613
+   ],
+   [
+    "Gustavo Varela",
+    40.9971
+   ],
+   [
+    "Lautaro Martínez",
+    40.6841
+   ],
+   [
+    "Vangelis Pavlidis",
+    40.5151
+   ],
+   [
+    "Bruno Fernandes",
+    40.308
+   ],
+   [
+    "Sergio Camello",
+    40.1678
    ],
    [
     "Gjivai Zechiël",
-    38.2598
+    39.765
    ],
    [
-    "Pedri",
-    37.9683
+    "Florian Thauvin",
+    39.7215
    ],
    [
-    "Pierre-Emerick Aubameyang",
-    37.3555
+    "Jude Bellingham",
+    39.2607
    ],
    [
-    "Gianluca Prestianni",
-    36.9453
+    "Luis Suárez",
+    38.9883
+   ],
+   [
+    "Antonio Nusa",
+    38.95
+   ],
+   [
+    "Vitinha",
+    38.4354
+   ],
+   [
+    "Lassine Sinayoko",
+    37.609
+   ],
+   [
+    "Nikola Krstović",
+    37.1158
+   ],
+   [
+    "Marquinhos",
+    37.0349
    ],
    [
     "Fabián Ruiz",
     36.9197
    ],
    [
-    "Nikola Krstović",
-    36.2509
+    "Rodri",
+    36.6978
    ],
    [
-    "Ante Budimir",
-    35.4222
+    "Pierre-Emerick Aubameyang",
+    36.5594
    ],
    [
-    "Vitinha",
-    34.4755
+    "Gianluca Prestianni",
+    36.4795
+   ],
+   [
+    "Dayot Upamecano",
+    36.3808
+   ],
+   [
+    "Ferrán Torres",
+    35.8496
+   ],
+   [
+    "Pedri",
+    34.6034
    ],
    [
     "Søren Tengstedt",
-    32.8019
+    32.5615
    ],
    [
-    "Jude Bellingham",
-    31.6371
+    "Vinícius Júnior",
+    32.0588
+   ],
+   [
+    "Virgil van Dijk",
+    30.8396
    ],
    [
     "Federico Valverde",
     30.1979
    ],
    [
+    "Ousmane Dembélé",
+    29.973
+   ],
+   [
     "Gianluigi Donnarumma",
-    28.8
+    29.56
    ],
    [
-    "Rodri",
-    19.8374
-   ],
-   [
-    "Virgil van Dijk",
-    18.6637
+    "Gabriel Magalhães",
+    28.9006
    ],
    [
     "Joshua Kimmich",
-    18.3603
-   ],
-   [
-    "Achraf Hakimi",
-    18.2848
-   ],
-   [
-    "Nuno Mendes",
-    18.2848
+    28.5026
    ],
    [
     "Declan Rice",
-    18.0774
+    28.2684
+   ],
+   [
+    "Achraf Hakimi",
+    28.1207
+   ],
+   [
+    "Nuno Mendes",
+    25.3155
    ],
    [
     "João Neves",
-    17.4048
+    24.6671
+   ],
+   [
+    "Marc Cucurella",
+    23.682
+   ],
+   [
+    "William Saliba",
+    22.7462
+   ],
+   [
+    "Pau Cubarsí",
+    22.3764
+   ],
+   [
+    "Khvicha Kvaratskhelia",
+    21.5963
+   ],
+   [
+    "Willian Pacho",
+    20.873
    ]
   ]
  },
- "warnings": []
+ "warnings": [
+  "Lionel Messi: club \"Inter Miami\" not found in the covered leagues",
+  "Julián Quiñones: club \"Al-Qadsiah\" not found in the covered leagues",
+  "Sadio Mané: club \"Al-Nassr\" not found in the covered leagues"
+ ]
 }
