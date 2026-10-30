@@ -1,0 +1,65 @@
+# Recomputes the Prediction weights and the model selection and fails if the committed results are stale.
+# Runs only when the data, the models or the fitting scripts change (about 4 minutes).
+name: Weights
+
+on:
+  push:
+    paths:
+      - data-src/**
+      - eras.js
+      - gen-data.js
+      - models.js
+      - dump.js
+      - fit_weights.py
+      - model_selection.py
+      - extra_criteria.py
+      - requirements.txt
+      - fit-result.json
+      - model-selection.json
+      - tools/check_results.py
+      - .github/workflows/weights.yml
+  pull_request:
+    branches: [main]
+    paths:
+      - data-src/**
+      - eras.js
+      - gen-data.js
+      - models.js
+      - dump.js
+      - fit_weights.py
+      - model_selection.py
+      - extra_criteria.py
+      - requirements.txt
+      - fit-result.json
+      - model-selection.json
+      - tools/check_results.py
+      - .github/workflows/weights.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reproduce:
+    name: Reproduce fit-result.json and model-selection.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: node gen-data.js && node dump.js > feats.json
+      - name: Single fit (fit_weights.py)
+        run: |
+          python fit_weights.py --out "$RUNNER_TEMP/fit.json"
+          python tools/check_results.py fit-result.json "$RUNNER_TEMP/fit.json"
+      - name: Model selection (model_selection.py; the slow --nested block is not rerun)
+        run: |
+          python model_selection.py --out "$RUNNER_TEMP/selection.json"
+          python tools/check_results.py model-selection.json "$RUNNER_TEMP/selection.json" --ignore nested

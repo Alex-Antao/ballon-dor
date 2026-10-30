@@ -1,8 +1,9 @@
 # Model selection for the Prediction model: which training window, how much weight on recent years and which criteria.
 # TEMPORAL evaluation (as in a real forecast): to predict year Y, train only on years < Y.
-# Reads feats.json (node dump.js > feats.json). Usage: PYTHONUTF8=1 python model_selection.py [--nested] [--extra]
+# Reads feats.json (node dump.js > feats.json). Usage: python model_selection.py [--nested] [--extra] [--out FILE]
 # Writes model-selection.json (model-selection-extra.json with --extra). Does not touch fit-result.json.
 import json, sys, time
+sys.stdout.reconfigure(encoding="utf-8")  # names and arrows print fine on Windows consoles too
 import numpy as np
 from scipy.optimize import linprog
 
@@ -22,7 +23,7 @@ F = {y: np.hstack([F[y], extra_criteria.extra_matrix(D, L, y, H)]) for y in YS}
 BASE = list(range(len(NAMES)))
 NAMES = NAMES + [k for k, _ in extra_criteria.EXTRA]
 EXTRA_ON = '--extra' in sys.argv
-OUTF = 'model-selection-extra.json' if EXTRA_ON else 'model-selection.json'
+OUTF = sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else 'model-selection-extra.json' if EXTRA_ON else 'model-selection.json'
 WIN = {y: [r['n'] for r in D[str(y)][L]['rows']].index(D[str(y)][L]['winner']) for y in YS}
 _cache = {}
 

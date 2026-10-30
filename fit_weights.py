@@ -1,8 +1,9 @@
 # Fits the Prediction weights: linear program with a hinge (each winner must beat every other candidate of their
 # year by a margin; minimises the sum of the violations + L1 regularisation).
 # Reads feats.json (node dump.js > feats.json). Always reports in-sample and leave-one-year-out (LOO).
-# Usage: PYTHONUTF8=1 python fit_weights.py   → writes fit-result.json
-import json, numpy as np
+# Usage: python fit_weights.py [--out FILE]   → writes fit-result.json
+import json, sys, numpy as np
+sys.stdout.reconfigure(encoding="utf-8")  # names and arrows print fine on Windows consoles too
 from scipy.optimize import linprog
 D = json.load(open('feats.json', encoding='utf8'))
 names = ['prod','uStage','uWin','uProd','ntStage','ntWin','wcFinal','ntProd','title','cont','prodRel','uProdRel',
@@ -52,4 +53,4 @@ fits = {'recent': run('recent', 2010, 2025, 'elig'),
         'all': run('all', 1956, 2025, 'all')}
 main = fits['elig']
 json.dump({'weights': main['weights'], 'inSample': main['inSample'], 'loo': main['loo'], 'n': main['n'],
-           'train': main['train'], 'fits': fits}, open('fit-result.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)
+           'train': main['train'], 'fits': fits}, open(sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else 'fit-result.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)
