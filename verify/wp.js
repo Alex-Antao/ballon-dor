@@ -26,7 +26,9 @@ function rawT(title, lang = 'en', depth = 0) {
   const key = lang + '_' + title.replace(/[^A-Za-z0-9\-.]+/g, '_').slice(0, 120) + '_' + require('crypto').createHash('md5').update(title).digest('hex').slice(0, 8);
   const f = path.join(CACHE, key + '.txt');
   let t;
-  if (fs.existsSync(f)) t = fs.readFileSync(f, 'utf8');
+  // WP_MAX_AGE_H: re-fetch cached pages older than that many hours (the live forecast needs this season's tables)
+  const maxAge = +process.env.WP_MAX_AGE_H || 0;
+  if (fs.existsSync(f) && !(maxAge && Date.now() - fs.statSync(f).mtimeMs > maxAge * 3600e3)) t = fs.readFileSync(f, 'utf8');
   else {
     const url = `https://${lang}.wikipedia.org/w/index.php?title=${encodeURIComponent(title.replace(/ /g, '_'))}&action=raw`;
     t = get(url);

@@ -20,7 +20,7 @@
     { k: 'real', n: 'Actual result', short: 'Actual', c: 'var(--c-real)', d: 'Official vote' },
     { k: 'pred', n: 'Prediction', short: 'Prediction', c: 'var(--c-pred)', d: 'Weights trained only on earlier years' },
     { k: 'fair', n: 'Fair', short: 'Fair', c: 'var(--c-fair)', d: 'Individual performance only' },
-    { k: 'mine', n: 'My model', short: 'Mine', c: 'var(--c-mine)', d: 'Individual + proportional team credit' },
+    { k: 'mine', n: 'Custom', short: 'Custom', c: 'var(--c-mine)', d: 'Individual + proportional team credit' },
   ];
   const MODELS = ['pred', 'fair', 'mine'];
   const LISTS = [['elig', 'Eligible only'], ['all', 'Everyone']];
@@ -42,7 +42,7 @@
   ];
   const MQ = { phone: matchMedia('(max-width: 699px)'), desk: matchMedia('(min-width: 1100px)') };
 
-  // ---------- state (list choice and "My model" weights persist per viewer) ----------
+  // ---------- state (list choice and "Custom" weights persist per viewer) ----------
   const MINE0 = Object.assign({}, M.MINE_DEFAULT);
   const stored = (() => { try { return JSON.parse(localStorage.getItem('bdo-lab') || '{}'); } catch (e) { return {}; } })();
   const st = {
@@ -153,8 +153,8 @@
     const Y = YEARS[y], rows = rowsOf(y), t = targetOf(y);
     let items;
     if (a.k === 'real' && Y.forecast) {
-      const g = r => r.gNow ?? r.g, a = r => r.aNow ?? r.a;
-      items = rows.slice().sort((p, q) => g(q) + a(q) - g(p) - a(p) || g(q) - g(p)).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${g(r)}+${a(r)}` }));
+      const g = r => r.gNow ?? r.g, a = r => r.aNow ?? 0;
+      items = rows.slice().sort((p, q) => g(q) + a(q) - g(p) - a(p) || g(q) - g(p)).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${g(r)}+${r.aNow == null && r.gNow != null ? '?' : a(r)}` }));
     } else if (a.k === 'real') {
       const ranked = rows.filter(r => r.rank).sort((p, q) => p.rank - q.rank).map(r => ({ r, pos: r.rank, score: null }));
       const rest = rows.filter(r => !r.rank).sort((p, q) => (q.name === t) - (p.name === t)).map(r => ({ r, pos: '–', score: null, faded: r.name !== t, retro: r.name === t }));
@@ -192,8 +192,8 @@
   function tuneHtml() {
     const m = st.mine;
     return `<details class="tune panel" id="tune"${MQ.desk.matches ? ' open' : ''}>
-      <summary><h2><span class="swatch" style="--c:var(--c-mine)" aria-hidden="true"></span>Tune my model</h2></summary>
-      <p class="note">Move the weights and watch “My model” change in every year, including the Summary.</p>
+      <summary><h2><span class="swatch" style="--c:var(--c-mine)" aria-hidden="true"></span>Tune Custom</h2></summary>
+      <p class="note">Move the weights and watch “Custom” change in every year, including the Summary.</p>
       <div class="sliders">${SLIDERS.map(([k, l, min, max, step, f]) => `<label for="s_${k}">${l}<b><span></span><span id="v_${k}" class="num">${f(m[k])}</span></b>
         <input type="range" id="s_${k}" data-k="${k}" min="${min}" max="${max}" step="${step}" value="${m[k]}"></label>`).join('')}</div>
       <button type="button" class="btn" id="reset">Reset to defaults</button></details>`;
@@ -334,9 +334,13 @@
     const fact = (k, body, sub) => `<div class="fact"><span class="kicker">${k}</span>${body}${sub ? `<small>${esc(sub)}</small>` : ''}</div>`;
     const NONE = '<p class="nums"><span><b>—</b></span></p>';
     const reg = region(r);
+    const lgK = r.uT ? `League + ${reg}` : 'League';
     const facts = [
-      fact(r.uT ? `League + ${reg}` : 'League', nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists']),
-        r.gNow != null ? `projected to the full season; so far ${r.gpNow} gp · ${r.gNow} g · ${r.aNow} a` : ''),
+      // Forecast: the real numbers so far in big type; the end-of-season estimate the models score is the footnote.
+      r.gNow != null
+        ? fact(`${lgK} · so far`, nums([r.gpNow, 'games'], [r.gNow, 'goals'], [r.aNow ?? '—', 'assists']),
+          `models score the expected end of season: ${r.gp} gp · ${r.g} g · ${r.a} a`)
+        : fact(lgK, nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists'])),
       fact(reg, r.uT ? nums([r.uG, 'goals'], [r.uA, 'assists']) : NONE,
         r.uT ? `${CUPN[r.uT]}: ${STAGE[r.uS]} · weight ${fmt(cupWeight(r.uT, y))}` : reg === 'North America' ? 'CONCACAF cups are not counted' : 'no continental competition'),
       fact('National team', r.ntT ? nums([r.ntGP, 'games'], [r.ntG, 'goals'], [r.ntA, 'assists']) : NONE,
@@ -407,12 +411,12 @@
       return `<tr><td class="num"><a href="#/${o.y}">${o.y}</a></td><td data-k="Winner"><b>${o.t ? esc(o.t) : 'not awarded'}</b></td>${cell('pred')}${cell('fair')}${cell('mine')}</tr>`;
     }).join('');
     $('#main').innerHTML = `<div class="page-head"><span class="kicker">Summary</span><h1>How often each model gets it right</h1>
-        <p>${st.list === 'all' ? 'All candidates; the target is France Football’s retroactive winner when the best player was ineligible.' : 'Only players who could win under each year’s rules.'} “My model” follows the sliders in the Years view.</p>${listToggle()}</div>
+        <p>${st.list === 'all' ? 'All candidates; the target is France Football’s retroactive winner when the best player was ineligible.' : 'Only players who could win under each year’s rules.'} “Custom” follows the sliders in the Years view.</p>${listToggle()}</div>
       <div class="stats">${cards}</div>
       <section class="panel chart-panel"><header><h2>Winners called right, cumulative</h2>
         <div class="legend">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n}</span>`).join('')}</div></header>
         <div class="chart" id="cum-chart" role="img" aria-label="Cumulative number of winners called right by each model from ${done[0]} to ${DONE}: ${MODELS.map(k => `${alg(k).n} ${s[k].cum[s[k].cum.length - 1][1]}`).join(', ')}. The table below has every year."></div></section>
-      <p class="note" style="margin-bottom:16px">${note} The Fair and My models were not fitted to the winners.</p>
+      <p class="note" style="margin-bottom:16px">${note} The Fair and Custom models were not fitted to the winners.</p>
       <section class="panel"><h2 style="margin-bottom:8px">Every year</h2><div class="scroll"><table class="years-table"><thead><tr><th>Year</th><th>Winner</th>${MODELS.map(k => `<th>${alg(k).n}</th>`).join('')}</tr></thead><tbody>${tbl}</tbody></table></div></section>`;
     $$('[data-list]').forEach(b => b.onclick = () => { st.list = b.dataset.list; save(); viewSummary(); });
     drawCum(s);
@@ -476,13 +480,14 @@
     const AWARD_NOTE = !AS.length ? '' : gain.length
       ? `Only ${gain.map(v => v.desc.toLowerCase()).join(' and ')} gained anything: ${gain.map(v => `${v.old[0]} of ${v.old[1]} in 1961–2009 instead of ${AB.old[0]}, ${v.hits} of ${n} in 2010–2026 instead of ${AB.hits}, but with the real winner ranked ${fmt(v.meanRank)} on average instead of ${fmt(AB.meanRank)}`).join('; ')}. With ${AS.length - 1} criteria tried, a year or two more is within what luck gives, so the Prediction keeps its ${M.PRED_FEATURES.length} criteria.`
       : `None of them predicts more winners in both periods, so the Prediction keeps its ${M.PRED_FEATURES.length} criteria.`;
+    const CS = SEL.contStudy, CV = CS ? Object.fromEntries(CS.variants.map(v => [v.key, v])) : {}, CA = CS && CV[CS.adopted];
     const V = SEL.memorisedFit || [], base = V.find(v => !v.extra), full = V.filter(v => v.extra && v.inSample === n);
     $('#main').innerHTML = `<div class="page-head"><span class="kicker">Method</span><h1>How it works</h1>
       <p>Three ways to pick the winner from the same numbers: one learnt from past votes, one that looks only at individual performance, and one of my own that mixes the two. Every year since 1956 has the official top 10 plus a few strong players who were not eligible at the time.</p></div>
       <div class="method"><div class="panel prose">
       <h3><span class="swatch" style="--c:var(--c-pred)"></span>Prediction</h3>
-      <p>A linear score over ${M.PRED_FEATURES.length} criteria (attacking output, continental-cup stage, national team, league title, position, non-attacking contribution, and versions relative to the year's rivals). The weights come from a linear program that tries to put each winner ahead of every other candidate of their year. For years already awarded the answer is the real vote; what matters is predicting the next year. So the Prediction is judged the way it would be used: to predict year Y it is trained only on years before Y.</p>
-      ${SEL.temporal ? `<p>How the training is chosen: for each year, among several windows (from 1956, 1970, 1980, 1990, 2000 or 2005, or only the last 10–25 years), recency weights and regularisation, the combination that would best have predicted the previous 12 years is kept. With this rule it calls ${SEL.nestedWindow.hits} of ${n} in 2010–2026 (real winner ranked ${fmt(SEL.nestedWindow.meanRank)} on average), against ${SEL.baseline.hits} of ${n} when always training on every year since 1956. Old votes hurt the forecast of recent ones: from 2013 on, the rule always picks “train from 2000”. For the next Ballon d'Or the model is: ${esc(SEL.final.label)}, training ${SEL.final.train[0]}–${SEL.final.train[1]} (weights alongside).</p>` : ''}
+      <p>A linear score over ${M.PRED_FEATURES.length} criteria (attacking output, continental-cup stage, national team, league title, position, non-attacking contribution weighted by the team's stage, and versions relative to the year's rivals). The weights come from a linear program that tries to put each winner ahead of every other candidate of their year. For years already awarded the answer is the real vote; what matters is predicting the next year. So the Prediction is judged the way it would be used: to predict year Y it is trained only on years before Y.</p>
+      ${SEL.temporal ? `<p>How the training is chosen: for each year, among several windows (from 1956, 1970, 1980, 1990, 2000 or 2005, or only the last 10–25 years), recency weights and regularisation, the combination that would best have predicted the previous 12 years is kept. With this rule it calls ${SEL.nestedWindow.hits} of ${n} in 2010–2026 (real winner ranked ${fmt(SEL.nestedWindow.meanRank)} on average), against ${SEL.baseline.hits} of ${n} when always training on every year since 1956. Old votes hurt the forecast of recent ones: for 2010–2026 the rule never trains on anything before ${Math.min(...SEL.targets.map(y => SEL.temporal[y].train[0]))}. For the next Ballon d'Or the model is: ${esc(SEL.final.label)}, training ${SEL.final.train[0]}–${SEL.final.train[1]} (weights alongside).</p>` : ''}
       ${SEL.nested ? `<p>I also tried keeping only some criteria. Looking at the same years it seemed much better (${SEL.selection.res[0]} of ${n} with ${SEL.selection.chosen.length} criteria), but making that choice only with each year's past drops it to ${SEL.nested.hits} of ${n}, with the real winner ranked ${fmt(SEL.nested.meanRank)} on average: it was overfitting. All ${M.PRED_FEATURES.length} criteria stay.</p>` : ''}
       ${base ? `<p>Fitting the weights to the very years they are judged on makes any model look good. With the ${M.PRED_FEATURES.length} criteria, a fit to 2010–2026 calls ${base.inSample} of ${n} of those same years; adding a single reputation or “star of the tournament” criterion gets ${n} of ${n} (any of: ${full.map(v => esc(v.desc)).join('; ')}). But calling years the model has already seen is memorising them. Predicting each year without seeing it, none of these criteria improves the Prediction: with them it gets between ${Math.min(...full.map(v => v.temporal))} and ${Math.max(...full.map(v => v.temporal))} of ${n}, against ${base.temporal} of ${n} without. So the Prediction does without them.</p>
       <div class="scroll"><table><thead><tr><th>Criteria</th><th>Fitted to 2010–2026 (in-sample)</th><th>Predicting unseen years</th></tr></thead><tbody>${V.map(v => `<tr><td>${v.extra ? `${M.PRED_FEATURES.length} + ` + esc(v.desc) : `The ${M.PRED_FEATURES.length} criteria only`}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.temporal}/${n}</td></tr>`).join('')}</tbody></table></div>` : ''}
@@ -490,11 +495,14 @@
       ${AS.length ? `<h3><span class="swatch" style="--c:var(--c-real)"></span>Trophies and individual awards</h3>
       <p>Every row also records the domestic cup, the league top-scorer title, the European Golden Shoe, the continental and national-team tournament top-scorer titles and the tournament's best-player award, read from Wikipedia. Each was tested on top of the ${M.PRED_FEATURES.length} criteria with the same rule as above (window chosen only with each year's past), on every year from 1961: 1961–2009 decides, 2010–2026 confirms.${AWARD_NOTE ? ' ' + AWARD_NOTE : ''}</p>
       <div class="scroll"><table><thead><tr><th>Added criterion</th><th>Fitted to 2010–2026</th><th>2010–2026 unseen</th><th>1961–2009 unseen</th></tr></thead><tbody>${AS.map(v => `<tr><td>${esc(v.extra.length ? v.desc : `The ${M.PRED_FEATURES.length} criteria only`)}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.hits}/${n}</td><td class="num">${v.old[0]}/${v.old[1]}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      ${CA && CA !== CV.V0 ? `<h3><span class="swatch" style="--c:var(--c-pred)"></span>The non-attacking rating</h3>
+      <p>For midfielders, defenders and goalkeepers the non-attacking contribution is my own estimate out of 10. As a criterion on its own, the fitted weights leaned on it so much that moving one player's rating by half a point changed the pick in ${CV.V0.fragile} of the ${CV.V0.old[1] + n} years from 1961. Four alternatives were compared with a rule written down before the first run: 1961–2009 decides, 2010–2026 confirms, and there must be fewer of those fragile years. The one adopted counts the rating only in proportion to how far the player's team went in the continental cup or the national-team tournament: ${CA.old[0]} of ${CA.old[1]} in 1961–2009 instead of ${CV.V0.old[0]}, ${CA.hits} of ${n} in 2010–2026 instead of ${CV.V0.hits}, and ${CA.fragile} fragile years instead of ${CV.V0.fragile}. A couple more hits after four tries is within luck; the reason to keep it is that a half-point guess now moves fewer picks. Early in a season, before the knockout rounds, the rating counts for almost nothing.</p>
+      <div class="scroll"><table><thead><tr><th>The rating in the Prediction</th><th>1961–2009 unseen</th><th>2010–2026 unseen</th><th>Fragile years</th></tr></thead><tbody>${CS.variants.map(v => `<tr><td>${esc(v.desc)}</td><td class="num">${v.old[0]}/${v.old[1]}</td><td class="num">${v.hits}/${n}</td><td class="num">${v.fragile}</td></tr>`).join('')}</tbody></table></div>` : ''}
       ${FC ? `<h3><span class="swatch" style="--c:var(--gold)"></span>The ${FC.year} forecast</h3>
-      <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. League numbers are projected to a full season, because the models were fitted on whole seasons; league leaders count as champions until the season ends. Candidates are the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
+      <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. The models were fitted on whole seasons, so they score the expected end of the season: the numbers so far plus the remaining league games at the player's pace, pulled towards their previous season (or a typical candidate's) with the weight of 10 games, so a hot start of a few games does not run to a 40-goal season. The detail shows the real numbers so far. League leaders count as champions until the season ends. Candidates are the leading scorers of the covered leagues, the previous year's 30 Ballon d'Or nominees (club from their Wikipedia page; games and goals from their career table when they are on no scorer list) and a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. Players outside the covered leagues are left out. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
       <h3><span class="swatch" style="--c:var(--c-fair)"></span>Fair</h3>
       <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for continental club cups, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
-      <h3><span class="swatch" style="--c:var(--c-mine)"></span>My model</h3>
+      <h3><span class="swatch" style="--c:var(--c-mine)"></span>Custom</h3>
       <p>About 80% individual performance and 20% team credit. Team credit only counts in proportion to what the player produced in continental cups, for the national team and in the league, so winning without contributing earns nothing. Output against top opposition (continental cups and national-team tournaments) weighs more. Every weight can be changed in the Years view.</p>
       <h2>Data limits</h2>
       <ul>
@@ -503,7 +511,7 @@
         <li>Window: until 2021 voters judged the calendar year, so the numbers run January to December. When the season could not be split, the season ending that year is used, marked with confidence C. Since 2022 the season counts.</li>
         <li>Confidence: A verified in sources, B partly verified, C estimate. Assists have their own confidence: before about 2005 they are almost always estimated.</li>
         <li>League strength and the weight of the continental cups (Cup Winners' Cup, UEFA Cup, Libertadores) change by decade. They are my estimates, not fitted to the winners.</li>
-        <li>The non-attacking contribution is my estimate and weighs a lot for midfielders and defenders.</li>
+        <li>The non-attacking contribution is my estimate. Fair and Custom count it in full; the Prediction only in proportion to how far the player's team went.</li>
         <li>The models measure performance, not the narrative that sways voters, and with such a small sample any fit to the winners can overfit.</li>
       </ul>
       <h2>Sources</h2>

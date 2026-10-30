@@ -33,12 +33,15 @@ test('opens on the 2027 forecast (built from the test fixtures)', async ({ page 
   await noHorizontalScroll(page);
 });
 
-test('forecast detail shows projected and current numbers with inline sources', async ({ page }) => {
+test('forecast detail shows the numbers so far with inline sources', async ({ page }) => {
   await page.goto('/#/forecast');
   await page.locator('#col-real .row', { hasText: 'Harry Kane' }).click();
   const detail = page.locator('#detail');
   await expect(detail.locator('h2')).toHaveText('Harry Kane');
-  await expect(detail).toContainText('projected to the full season; so far 12 gp · 20 g · 5 a');
+  // the season so far, as the models score it (no projection to a full season)
+  await expect(detail.locator('.fact').first().locator('.kicker')).toHaveText('League + Europe · so far');
+  await expect(detail.locator('.fact').first().locator('.nums b')).toHaveText(['12', '20', '5']);
+  await expect(detail).not.toContainText('projected');
   await expect(detail.locator('.src a').first()).toHaveText('football-data.org');
 });
 
@@ -105,7 +108,7 @@ test('phone: model tabs switch the visible list', async ({ page }) => {
   await expect(page.locator('#col-fair')).toBeVisible();
   await expect(page.locator('#col-real')).toBeHidden();
   await page.getByRole('tab', { name: 'Fair' }).press('ArrowRight');
-  await expect(page.getByRole('tab', { name: 'Mine' })).toHaveAttribute('aria-selected', 'true');
+  await expect(page.getByRole('tab', { name: 'Custom' })).toHaveAttribute('aria-selected', 'true');
   await expect(page.locator('#col-mine')).toBeVisible();
 });
 
@@ -170,7 +173,7 @@ test('"Everyone" list shows retroactive winners and is remembered', async ({ pag
   await expect(page.locator('#winner strong')).toHaveText('Igor Belanov');
 });
 
-test('tuning "My model" re-ranks it without losing the slider', async ({ page }) => {
+test('tuning "Custom" re-ranks it without losing the slider', async ({ page }) => {
   await page.goto('/#/2018');
   const tune = page.locator('#tune');
   if (!(await tune.evaluate(d => d.open))) await tune.locator('summary').click();

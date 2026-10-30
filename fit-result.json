@@ -1,27 +1,27 @@
 {
  "weights": [
-  0.0491,
+  0.0295,
+  0.0098,
+  0.0,
+  0.0527,
+  0.0,
+  0.0319,
+  0.0458,
+  0.0373,
+  0.0055,
+  0.1232,
+  0.0,
   0.0138,
-  0.0,
-  0.0279,
-  0.0,
-  0.0403,
-  0.0697,
-  0.0482,
-  0.0,
-  1.0867,
-  0.0,
-  0.0344,
-  0.9553,
+  0.0767,
   0.0,
   0.0,
-  0.0417,
-  0.0,
-  0.0,
-  0.0423
+  0.0381,
+  0.0138,
+  0.0017,
+  0.0447
  ],
  "inSample": 30,
- "loo": 27,
+ "loo": 21,
  "n": 69,
  "train": [
   1956,
@@ -83,34 +83,34 @@
    ],
    "n": 69,
    "weights": [
-    0.0491,
+    0.0295,
+    0.0098,
+    0.0,
+    0.0527,
+    0.0,
+    0.0319,
+    0.0458,
+    0.0373,
+    0.0055,
+    0.1232,
+    0.0,
     0.0138,
-    0.0,
-    0.0279,
-    0.0,
-    0.0403,
-    0.0697,
-    0.0482,
-    0.0,
-    1.0867,
-    0.0,
-    0.0344,
-    0.9553,
+    0.0767,
     0.0,
     0.0,
-    0.0417,
-    0.0,
-    0.0,
-    0.0423
+    0.0381,
+    0.0138,
+    0.0017,
+    0.0447
    ],
    "inSample": 30,
-   "loo": 27,
+   "loo": 21,
    "inSample2010": [
     8,
     15
    ],
    "loo2010": [
-    8,
+    6,
     15
    ],
    "misses": [
@@ -135,14 +135,14 @@
      "José Águas"
     ],
     [
+     "1963",
+     "Lev Yashin",
+     "Eusébio"
+    ],
+    [
      "1964",
      "Denis Law",
      "Amancio"
-    ],
-    [
-     "1966",
-     "Bobby Charlton",
-     "Bobby Moore"
     ],
     [
      "1967",
@@ -157,7 +157,7 @@
     [
      "1969",
      "Gianni Rivera",
-     "Pierino Prati"
+     "Ove Kindvall"
     ],
     [
      "1972",
@@ -185,14 +185,9 @@
      "Rob Rensenbrink"
     ],
     [
-     "1979",
-     "Kevin Keegan",
-     "Trevor Francis"
-    ],
-    [
-     "1982",
-     "Paolo Rossi",
-     "Karl-Heinz Rummenigge"
+     "1981",
+     "Karl-Heinz Rummenigge",
+     "John Wark"
     ],
     [
      "1983",
@@ -210,14 +205,14 @@
      "Emilio Butragueño"
     ],
     [
+     "1988",
+     "Marco van Basten",
+     "Ronald Koeman"
+    ],
+    [
      "1989",
      "Marco van Basten",
      "Gheorghe Hagi"
-    ],
-    [
-     "1990",
-     "Lothar Matthäus",
-     "Jürgen Klinsmann"
     ],
     [
      "1991",
@@ -230,11 +225,6 @@
      "Hristo Stoichkov"
     ],
     [
-     "1994",
-     "Hristo Stoichkov",
-     "Paolo Maldini"
-    ],
-    [
      "1995",
      "George Weah",
      "Jari Litmanen"
@@ -243,11 +233,6 @@
      "1996",
      "Matthias Sammer",
      "Jürgen Klinsmann"
-    ],
-    [
-     "1998",
-     "Zinedine Zidane",
-     "Ronaldo"
     ],
     [
      "2000",
@@ -260,6 +245,11 @@
      "Raúl"
     ],
     [
+     "2002",
+     "Ronaldo",
+     "Roberto Carlos"
+    ],
+    [
      "2003",
      "Pavel Nedvěd",
      "Ruud van Nistelrooy"
@@ -270,14 +260,19 @@
      "Thierry Henry"
     ],
     [
+     "2005",
+     "Ronaldinho",
+     "Steven Gerrard"
+    ],
+    [
+     "2006",
+     "Fabio Cannavaro",
+     "Ronaldinho"
+    ],
+    [
      "2007",
      "Kaká",
      "Robinho"
-    ],
-    [
-     "2010",
-     "Lionel Messi",
-     "David Villa"
     ],
     [
      "2012",
@@ -305,6 +300,11 @@
      "Robert Lewandowski"
     ],
     [
+     "2024",
+     "Rodri",
+     "Vinícius Júnior"
+    ],
+    [
      "2025",
      "Ousmane Dembélé",
      "Raphinha"
@@ -320,28 +320,28 @@
    ],
    "n": 69,
    "weights": [
-    0.1111,
-    0.0393,
+    0.1106,
+    0.0216,
     0.0,
-    0.0253,
-    0.0081,
-    0.0362,
-    0.0857,
-    0.0457,
+    0.0215,
     0.0,
-    1.2291,
+    0.034,
+    0.09,
+    0.0473,
+    0.0093,
+    1.3896,
     0.0,
+    0.0032,
+    1.2169,
     0.0,
-    1.0832,
+    0.0142,
+    0.0357,
     0.0,
-    0.0075,
-    0.0303,
-    0.0,
-    0.0075,
-    0.0503
+    0.0043,
+    0.0367
    ],
-   "inSample": 28,
-   "loo": 27,
+   "inSample": 30,
+   "loo": 26,
    "inSample2010": [
     8,
     15
@@ -409,11 +409,6 @@
     [
      "1972",
      "Franz Beckenbauer",
-     "Gerd Müller"
-    ],
-    [
-     "1973",
-     "Johan Cruyff",
      "Gerd Müller"
     ],
     [
@@ -512,11 +507,6 @@
      "Thierry Henry"
     ],
     [
-     "2006",
-     "Fabio Cannavaro",
-     "Thierry Henry"
-    ],
-    [
      "2007",
      "Kaká",
      "Robinho"
@@ -534,7 +524,7 @@
     [
      "2014",
      "Cristiano Ronaldo",
-     "Thomas Müller"
+     "Manuel Neuer"
     ],
     [
      "2016",

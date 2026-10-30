@@ -1,7 +1,8 @@
 # Model selection for the Prediction model: which training window, how much weight on recent years and which criteria.
 # TEMPORAL evaluation (as in a real forecast): to predict year Y, train only on years < Y.
-# Reads feats.json (node dump.js > feats.json). Usage: python model_selection.py [--nested] [--extra] [--awards] [--out FILE]
-# --awards adds the trophies/awards study (slow; stored under awardStudy and not re-checked by the Weights workflow).
+# Reads feats.json (node dump.js > feats.json). Usage: python model_selection.py [--nested] [--extra] [--awards] [--cont] [--out FILE]
+# --awards adds the trophies/awards study and --cont the study of the subjective rating (slow; stored under awardStudy /
+# contStudy and not re-checked by the Weights workflow).
 # Writes model-selection.json (model-selection-extra.json with --extra). Does not touch fit-result.json.
 import json, sys, time
 sys.stdout.reconfigure(encoding="utf-8")  # names and arrows print fine on Windows consoles too
@@ -9,7 +10,7 @@ import numpy as np
 from scipy.optimize import linprog
 
 D = json.load(open('feats.json', encoding='utf8'))
-NAMES = ['prod', 'uStage', 'uWin', 'uProd', 'ntStage', 'ntWin', 'wcFinal', 'ntProd', 'title', 'cont', 'prodRel', 'uProdRel',
+NAMES = ['prod', 'uStage', 'uWin', 'uProd', 'ntStage', 'ntWin', 'wcFinal', 'ntProd', 'title', 'contTeam', 'prodRel', 'uProdRel',
          'isAtt', 'goalsRel', 'uFinal', 'uWinXprod', 'ntWinXatt', 'ntFinal', 'prodXtitle']
 FREE = {12}  # isAtt may be negative
 L = 'elig'
@@ -252,6 +253,67 @@ if '--awards' in sys.argv:
         st.append({'extra': ks, 'desc': desc, 'inSample': ins, **p})
         print(f"  {desc[:58]:58s} in-sample {ins}/{len(TARGETS)} | 2010–2026 {p['hits']}/{len(TARGETS)} (rank {p['meanRank']:.2f}) | 1961–2009 {p['old'][0]}/{p['old'][1]} ({time.time() - t0:.0f}s)")
     out['awardStudy'] = st
+
+# 7) the subjective non-attacking rating (cont). The 2027 weights were almost only isAtt and cont, so a ±0.5 change
+#    in one rating could move a midfielder from 1st to 33rd. Variants that lean less on the rating, judged with the
+#    official procedure on every year from 1961. Rule written down BEFORE the first run (30/10/2026):
+#    adopt a variant only if (1) 1961–2009 hits >= V0 (decides), (2) 2010–2026 hits >= V0 (confirms) and
+#    (3) fewer fragile years than V0 (a year is fragile when moving any single player's cont by ±0.5 changes the
+#    pick); among those, fewest fragile years, then more 1961–2009 hits, then the one without cont.
+#    V3 was adopted, so criterion 9 is now contTeam (cont × team stage) and V0 rebuilds the raw cont from feats.json.
+CONTTEAM, ISATT, USTAGE, NTSTAGE = NAMES.index('contTeam'), NAMES.index('isAtt'), NAMES.index('uStage'), NAMES.index('ntStage')
+for y in YS:   # derived columns: how far a non-attacker's team went (continental cup or national team), and the raw cont
+    f = F[y]; team = (1 - f[:, ISATT]) * np.maximum(f[:, USTAGE], f[:, NTSTAGE])
+    raw = [(r['x']['cont'] or 0) / 10 if not f[i, ISATT] else 0 for i, r in enumerate(D[str(y)][L]['rows'])]
+    F[y] = np.c_[f, team, raw]
+NAMES = NAMES + ['naTeam', 'cont']
+NATEAM, CONT = NAMES.index('naTeam'), NAMES.index('cont')
+CONT_RULE = ('adopt only if 1961–2009 hits >= V0, 2010–2026 hits >= V0 and fewer fragile years (±0.5 cont on any one '
+             'player changes the pick); then fewest fragile years, more 1961–2009 hits, no cont')
+def procedure_weights(idx):
+    """Official procedure on every year from 1961: {Y: (weights, rank of the winner)}."""
+    res = {}
+    for Y in [y for y in YS if y > YS[0] + 4]:
+        val = [y for y in YS if Y - 12 <= y < Y and y >= 1990]
+        c1 = max({k: rolling(k, idx, val) for k in GRID if k[0] < val[0]}.items(), key=lambda kv: score(kv[1]))[0] if len(val) >= 6 else (1956, None, 0.02)
+        tr = train_years(c1[0], Y)
+        if len(tr) < 5: continue
+        w = fit(tr, idx, c1[2], c1[1], Y)
+        res[Y] = (w, rank_of_winner(w, Y, idx))
+    return res
+def fragile(Y, w, idx):
+    """Does moving one non-attacker's cont by ±0.5 change the year's pick?"""
+    f0 = F[Y]; pick = int(np.argmax(f0[:, idx] @ w))
+    for i in np.where(f0[:, CONT] > 0)[0]:
+        for d in (-0.05, 0.05):
+            f = f0.copy(); f[i, CONT] = min(1, max(0, f[i, CONT] + d))
+            f[i, CONTTEAM] = f[i, CONT] * max(f[i, USTAGE], f[i, NTSTAGE])
+            if int(np.argmax(f[:, idx] @ w)) != pick: return True
+    return False
+if '--cont' in sys.argv:
+    print(f'\nThe subjective rating (cont): rule fixed beforehand — {CONT_RULE}')
+    noC = [k for k in BASE if k != CONTTEAM]
+    VARIANTS = [('V0', 'The 19 criteria with the rating as it is (before)', [CONT if k == CONTTEAM else k for k in BASE]),
+                ('V1', 'Without the rating', noC),
+                ('V2', 'Without the rating, + non-attacker × team stage', noC + [NATEAM]),
+                ('V3', 'Rating × team stage (adopted)', noC + [CONTTEAM]),
+                ('V4', 'The 19 with the rating as it is + non-attacker × team stage', [CONT if k == CONTTEAM else k for k in BASE] + [NATEAM])]
+    cs = []
+    for key, desc, idx in VARIANTS:
+        R = procedure_weights(idx)
+        old = [r for Y, (w, r) in R.items() if Y < 2010]; new = [r for Y, (w, r) in R.items() if Y in TARGETS]
+        fr = [Y for Y, (w, r) in R.items() if CONT in idx or CONTTEAM in idx if fragile(Y, w, idx)]
+        e = {'key': key, 'desc': desc, 'features': [NAMES[k] for k in idx],
+             'old': [int(sum(r == 1 for r in old)), len(old)], 'oldRank': float(np.mean(old)),
+             'hits': int(sum(r == 1 for r in new)), 'meanRank': float(np.mean(new)),
+             'fragile': len(fr), 'fragileYears': fr, 'ranks': {str(Y): r for Y, (w, r) in R.items() if Y in TARGETS}}
+        cs.append(e)
+        print(f"  {key} {desc:52s} 1961–2009 {e['old'][0]}/{e['old'][1]} (rank {e['oldRank']:.2f}) | 2010–2026 {e['hits']}/{len(TARGETS)} (rank {e['meanRank']:.2f}) | fragile years {e['fragile']} ({time.time() - t0:.0f}s)")
+    v0 = cs[0]
+    ok = [e for e in cs[1:] if e['old'][0] >= v0['old'][0] and e['hits'] >= v0['hits'] and e['fragile'] < v0['fragile']]
+    ok.sort(key=lambda e: (e['fragile'], -e['old'][0], 'cont' in e['features']))
+    out['contStudy'] = {'rule': CONT_RULE, 'variants': cs, 'adopted': ok[0]['key'] if ok else 'V0'}
+    print(f"  → adopted: {out['contStudy']['adopted']}")
 
 json.dump(out, open(OUTF, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 print(f'\n({time.time() - t0:.0f}s)')

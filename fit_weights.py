@@ -6,7 +6,7 @@ import json, sys, numpy as np
 sys.stdout.reconfigure(encoding="utf-8")  # names and arrows print fine on Windows consoles too
 from scipy.optimize import linprog
 D = json.load(open('feats.json', encoding='utf8'))
-names = ['prod','uStage','uWin','uProd','ntStage','ntWin','wcFinal','ntProd','title','cont','prodRel','uProdRel',
+names = ['prod','uStage','uWin','uProd','ntStage','ntWin','wcFinal','ntProd','title','contTeam','prodRel','uProdRel',
          'isAtt','goalsRel','uFinal','uWinXprod','ntWinXatt','ntFinal','prodXtitle']
 free = {12}  # isAtt may be negative
 YS = sorted(D, key=int)

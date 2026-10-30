@@ -10,7 +10,7 @@ fs.mkdirSync(DIR, { recursive: true });
 const T = (id, name, shortName, tla) => ({ id, name, shortName, tla });
 const teams = {
   PL: [T(65, 'Manchester City FC', 'Man City', 'MCI'), T(64, 'Liverpool FC', 'Liverpool', 'LIV'), T(57, 'Arsenal FC', 'Arsenal', 'ARS')],
-  PD: [T(86, 'Real Madrid CF', 'Real Madrid', 'RMA'), T(81, 'FC Barcelona', 'Barça', 'FCB')],
+  PD: [T(86, 'Real Madrid CF', 'Real Madrid', 'RMA'), T(81, 'FC Barcelona', 'Barça', 'FCB'), T(80, 'RCD Espanyol de Barcelona', 'Espanyol', 'ESP')],
   BL1: [T(5, 'FC Bayern München', 'Bayern', 'FCB'), T(4, 'Borussia Dortmund', 'Dortmund', 'BVB')],
   SA: [T(108, 'FC Internazionale Milano', 'Inter', 'INT'), T(109, 'Juventus FC', 'Juventus', 'JUV')],
   FL1: [T(524, 'Paris Saint-Germain FC', 'PSG', 'PSG'), T(548, 'AS Monaco FC', 'Monaco', 'ASM')],

@@ -84,7 +84,7 @@
     ['wcFinal',   'World Cup finalist/champion'],
     ['ntProd',    'Goals + assists in the national-team tournament'],
     ['title',     'League champion'],
-    ['cont',      'Non-attacking contribution (estimated)'],
+    ['contTeam',  'Non-attacking contribution (estimated) × team stage'],
     ['prodRel',   "Output relative to the year's rivals"],
     ['uProdRel',  'Continental output relative to rivals'],
     ['isAtt',     'Attacking position (voter bias)'],
@@ -108,7 +108,7 @@
     const ntWin = ntWinW(r), title = r.title;
     const prodRel = c.mx ? prod / c.mx : 0;
     return [prod, uStageEff(r) / 5, uWin, uProd, r.ntS / 5, ntWin, (r.ntT === 'WC' && r.ntS >= 4) ? 1 : 0, ntProd, title,
-            (!att && r.cont != null) ? r.cont / 10 : 0, prodRel, c.mu ? uProd / c.mu : 0, att, c.gm ? r.g / c.gm : 0,
+            (!att && r.cont != null) ? r.cont / 10 * Math.max(uStageEff(r), r.ntS) / 5 : 0, prodRel, c.mu ? uProd / c.mu : 0, att, c.gm ? r.g / c.gm : 0,
             r.uS >= 4 ? cs : 0, prodRel * uWin, ntWin * att, r.ntS >= 4 ? 1 : 0, prodRel * title];
   }
   function predict(r, w, c) {
