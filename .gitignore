@@ -3,3 +3,4 @@ index.html
 *.zip
 node_modules/
 __pycache__/
+verify/work/
