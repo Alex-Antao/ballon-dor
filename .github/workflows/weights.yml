@@ -51,7 +51,7 @@ jobs:
           node-version: 22
       - uses: actions/setup-python@v7
         with:
-          python-version: '3.11'
+          python-version: '3.14'
           cache: pip
       - run: pip install -r requirements.txt
       - run: node gen-data.js && node dump.js > feats.json

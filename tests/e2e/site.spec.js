@@ -87,7 +87,12 @@ test('layout matches the device', async ({ page }) => {
     const rows = new Set(boxes.map(Math.round)).size;
     expect(rows).toBe(L === 'tablet' ? 2 : 1);
   }
-  if (L === 'desktop') await expect(page.locator('#detail .empty-detail')).toBeVisible();
+  if (L === 'desktop') {
+    await expect(page.locator('#detail .empty-detail')).toBeVisible();
+    // the page uses the width of large screens instead of a fixed column
+    const used = await page.evaluate(() => document.querySelector('#main').getBoundingClientRect().width / document.documentElement.clientWidth);
+    expect(used).toBeGreaterThan(0.9);
+  }
   else await expect(page.locator('#detail')).toBeHidden();
   await noHorizontalScroll(page);
 });
