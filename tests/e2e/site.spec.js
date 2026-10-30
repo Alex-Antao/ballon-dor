@@ -33,15 +33,15 @@ test('opens on the 2027 forecast (built from the test fixtures)', async ({ page 
   await noHorizontalScroll(page);
 });
 
-test('forecast detail shows projected and current numbers with inline sources', async ({ page }) => {
+test('forecast detail shows the numbers so far with inline sources', async ({ page }) => {
   await page.goto('/#/forecast');
   await page.locator('#col-real .row', { hasText: 'Harry Kane' }).click();
   const detail = page.locator('#detail');
   await expect(detail.locator('h2')).toHaveText('Harry Kane');
-  // the big numbers are the season so far; the projection the models use is the footnote
+  // the season so far, as the models score it (no projection to a full season)
   await expect(detail.locator('.fact').first().locator('.kicker')).toHaveText('League + Europe · so far');
   await expect(detail.locator('.fact').first().locator('.nums b')).toHaveText(['12', '20', '5']);
-  await expect(detail.locator('.fact').first()).toContainText('projected to the full season (what the models score)');
+  await expect(detail).not.toContainText('projected');
   await expect(detail.locator('.src a').first()).toHaveText('football-data.org');
 });
 
