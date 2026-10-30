@@ -8,6 +8,8 @@ const path = require('path');
 const { execFileSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..', '..');
+const { YEARS } = require('../../data.js');
+const { expectLeague, nominees, samePerson } = require('../../forecast/update.js');
 const POS = ['FW', 'W', 'AM', 'CM', 'DM', 'DF', 'GK'];
 
 function run() {
@@ -21,9 +23,13 @@ const row = n => fc.rows.find(r => r.name === n);
 
 test('builds rows from scorer lists, standings and Champions League matches', () => {
   const kane = row('Harry Kane');
-  // league + Champions League so far, as they are (no projection to a full season)
-  assert.deepEqual([kane.gp, kane.g, kane.a, kane.uG, kane.uA, kane.uT], [12, 20, 5, 5, 1, 'UCL']);
-  assert.ok(fc.rows.every(r => !('gNow' in r)), 'no projected copies of the numbers');
+  // league + Champions League so far, as they are
+  assert.deepEqual([kane.gpNow, kane.gNow, kane.aNow, kane.uG, kane.uA, kane.uT], [12, 20, 5, 5, 1, 'UCL']);
+  // what the models score: Bundesliga 9 of 34 games played, the rest at a pace pulled towards his 2026 season
+  const k26 = YEARS[2026].rows.find(r => r.name === 'Harry Kane');
+  const L = expectLeague({ gp: 9, g: 15, a: 4 }, 9, 34, 1, { g: k26.g / k26.gp, a: k26.a / k26.gp });
+  assert.deepEqual([kane.gp, kane.g, kane.a], [L.gp + 3, L.g + 5, L.a + 1]);
+  assert.ok(kane.g > kane.gNow && kane.g < Math.round(15 * 34 / 9) + 5, 'between the goals so far and a straight-line projection');
   assert.equal(kane.title, 1, 'Bayern lead their league');
   assert.equal(kane.lgTop, 1, 'most Bundesliga goals so far');
   assert.equal(kane.uTop, 1, 'most Champions League goals so far');
@@ -38,9 +44,28 @@ test('aliases, positions and the hand-kept candidates', () => {
   const rodri = row('Rodri');
   assert.equal(rodri.conf, 'C', 'not on a scorer list: games estimated');
   assert.equal(rodri.club, 'Barça', '"FC Barcelona" is matched exactly, not to "RCD Espanyol de Barcelona"');
-  assert.equal(rodri.gp, Math.round(0.85 * 10) + (rodri.uT ? Math.round(0.85 * 1) : 0));
+  assert.equal(rodri.gpNow, Math.round(0.85 * 10) + (rodri.uT ? Math.round(0.85 * 1) : 0));
+  assert.equal(rodri.aNow, null, 'assists unknown for a player on no scorer list');
   assert.equal(rodri.cont, 9.5);
   assert.equal(row('Achraf Hakimi').club, 'PSG', 'club matched by name, not by a code inside another name');
+});
+
+test('end-of-season estimate shrinks a hot start towards the prior', () => {
+  const prior = { g: 0.5, a: 0.2 };
+  const hot = expectLeague({ gp: 7, g: 8, a: 0 }, 7, 34, 1, prior);
+  assert.equal(hot.gp, 34);
+  assert.ok(hot.g < Math.round(8 * 34 / 7) && hot.g > 8 + 27 * 0.5, 'below the straight line, above the prior pace');
+  assert.deepEqual(expectLeague({ gp: 34, g: 30, a: 9 }, 34, 34, 1, prior), { gp: 34, g: 30, a: 9 }, 'a finished season is unchanged');
+  assert.equal(expectLeague({ gp: 5, g: 0, a: null }, 10, 38, 0.5, prior).a, Math.round(19 * 0.2), 'unknown assists from the prior');
+});
+
+test('Ballon d\'Or nominees table and name matching', () => {
+  const text = `{|\n|-\n!scope="row" | 1\n|'''{{sortname|Harry|Kane}}'''\n|{{sort|3|[[Forward (association football)|Forward]]}}\n|-\n!scope="row" | 4\n|{{sortname|Rodri|}}\n|{{sort|2|[[Midfielder]]}}\n|}`;
+  assert.deepEqual(nominees(text), [{ name: 'Harry Kane', pos: 'FW' }, { name: 'Rodri', pos: 'CM' }]);
+  assert.ok(samePerson('Lamine Yamal Nasraoui Ebana', 'Lamine Yamal'));
+  assert.ok(samePerson('Kylian Mbappe', 'Kylian Mbappé'));
+  assert.ok(!samePerson('Rodri Sánchez', 'Rodri'), 'one-word names match only exactly');
+  assert.ok(!samePerson('Luis Díaz', 'Luis Suárez'));
 });
 
 test('rows follow the data-src format and every model ranks every candidate', () => {

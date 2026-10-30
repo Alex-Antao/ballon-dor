@@ -153,7 +153,8 @@
     const Y = YEARS[y], rows = rowsOf(y), t = targetOf(y);
     let items;
     if (a.k === 'real' && Y.forecast) {
-      items = rows.slice().sort((p, q) => q.g + q.a - p.g - p.a || q.g - p.g).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${r.g}+${r.a}` }));
+      const g = r => r.gNow ?? r.g, a = r => r.aNow ?? 0;
+      items = rows.slice().sort((p, q) => g(q) + a(q) - g(p) - a(p) || g(q) - g(p)).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${g(r)}+${r.aNow == null && r.gNow != null ? '?' : a(r)}` }));
     } else if (a.k === 'real') {
       const ranked = rows.filter(r => r.rank).sort((p, q) => p.rank - q.rank).map(r => ({ r, pos: r.rank, score: null }));
       const rest = rows.filter(r => !r.rank).sort((p, q) => (q.name === t) - (p.name === t)).map(r => ({ r, pos: '–', score: null, faded: r.name !== t, retro: r.name === t }));
@@ -335,7 +336,11 @@
     const reg = region(r);
     const lgK = r.uT ? `League + ${reg}` : 'League';
     const facts = [
-      fact(YEARS[y].forecast ? `${lgK} · so far` : lgK, nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists'])),
+      // Forecast: the real numbers so far in big type; the end-of-season estimate the models score is the footnote.
+      r.gNow != null
+        ? fact(`${lgK} · so far`, nums([r.gpNow, 'games'], [r.gNow, 'goals'], [r.aNow ?? '—', 'assists']),
+          `models score the expected end of season: ${r.gp} gp · ${r.g} g · ${r.a} a`)
+        : fact(lgK, nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists'])),
       fact(reg, r.uT ? nums([r.uG, 'goals'], [r.uA, 'assists']) : NONE,
         r.uT ? `${CUPN[r.uT]}: ${STAGE[r.uS]} · weight ${fmt(cupWeight(r.uT, y))}` : reg === 'North America' ? 'CONCACAF cups are not counted' : 'no continental competition'),
       fact('National team', r.ntT ? nums([r.ntGP, 'games'], [r.ntG, 'goals'], [r.ntA, 'assists']) : NONE,
@@ -490,7 +495,7 @@
       <p>Every row also records the domestic cup, the league top-scorer title, the European Golden Shoe, the continental and national-team tournament top-scorer titles and the tournament's best-player award, read from Wikipedia. Each was tested on top of the ${M.PRED_FEATURES.length} criteria with the same rule as above (window chosen only with each year's past), on every year from 1961: 1961–2009 decides, 2010–2026 confirms.${AWARD_NOTE ? ' ' + AWARD_NOTE : ''}</p>
       <div class="scroll"><table><thead><tr><th>Added criterion</th><th>Fitted to 2010–2026</th><th>2010–2026 unseen</th><th>1961–2009 unseen</th></tr></thead><tbody>${AS.map(v => `<tr><td>${esc(v.extra.length ? v.desc : `The ${M.PRED_FEATURES.length} criteria only`)}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.hits}/${n}</td><td class="num">${v.old[0]}/${v.old[1]}</td></tr>`).join('')}</tbody></table></div>` : ''}
       ${FC ? `<h3><span class="swatch" style="--c:var(--gold)"></span>The ${FC.year} forecast</h3>
-      <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. The models score the numbers so far as they are, with no projection to a full season, so early in the season output weighs less against titles, stages and position; league leaders count as champions until the season ends. Candidates are the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
+      <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. The models were fitted on whole seasons, so they score the expected end of the season: the numbers so far plus the remaining league games at the player's pace, pulled towards their previous season (or a typical candidate's) with the weight of 10 games, so a hot start of a few games does not run to a 40-goal season. The detail shows the real numbers so far. League leaders count as champions until the season ends. Candidates are the leading scorers of the covered leagues, the previous year's 30 Ballon d'Or nominees (club from their Wikipedia page; games and goals from their career table when they are on no scorer list) and a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. Players outside the covered leagues are left out. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
       <h3><span class="swatch" style="--c:var(--c-fair)"></span>Fair</h3>
       <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for continental club cups, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
       <h3><span class="swatch" style="--c:var(--c-mine)"></span>Custom</h3>

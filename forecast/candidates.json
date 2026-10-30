@@ -1,5 +1,5 @@
 {
- "_doc": "Hand-kept part of the 2027 candidate pool. Attackers come in automatically from the scorer lists of football-data.org; list here the players who score little (midfielders, defenders, goalkeepers) or who play outside the covered leagues, with their current club as football-data.org names it (name, short name or three-letter code). cont = estimated non-attacking contribution 0–10 (same scale as data-src/SPEC.md). share = estimated share of the club's league games they play (used only when they are not on a scorer list). aliases maps football-data.org names to the names used in data-src. exclude drops players from the automatic pool. Clubs are checked against the Wikipedia infobox on every run (a mismatch is a warning in 2027.json); last updated 30/10/2026 (Rodri → Barcelona).",
+ "_doc": "Hand-kept part of the 2027 candidate pool. Attackers come in automatically from the scorer lists of football-data.org; list here the players who score little (midfielders, defenders, goalkeepers) or who play outside the covered leagues, with their current club as football-data.org names it (name, short name or three-letter code). cont = estimated non-attacking contribution 0–10 (same scale as data-src/SPEC.md). share = estimated share of the club's league games they play (used only when they are not on a scorer list). aliases maps football-data.org names to the names used in data-src; clubAliases maps a club name from a Wikipedia infobox to the football-data.org name when they differ (an infobox club needs an exact match). exclude drops players from the automatic pool. Clubs are checked against the Wikipedia infobox on every run (a mismatch is a warning in 2027.json); last updated 30/10/2026 (Rodri → Barcelona).",
  "season": 2026,
  "year": 2027,
  "players": [
@@ -27,6 +27,13 @@
   "Vinícius Júnior": "Vinícius Júnior",
   "Vinicius Junior": "Vinícius Júnior",
   "Raphael Dias Belloli": "Raphinha"
+ },
+ "clubAliases": {
+  "Bayern Munich": "FC Bayern München",
+  "Inter Milan": "FC Internazionale Milano",
+  "Bayer Leverkusen": "Bayer 04 Leverkusen",
+  "PSV Eindhoven": "PSV",
+  "Sporting CP": "Sporting Clube de Portugal"
  },
  "exclude": []
 }
