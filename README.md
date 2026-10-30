@@ -18,6 +18,8 @@ npm run serve          # http://localhost:4173
 
 ## Data and models
 
+The fitting scripts need Python 3.14 and `pip install -r requirements.txt`.
+
 | Step | Command | Output |
 |---|---|---|
 | Merge the source data | `node gen-data.js` | `data.js`, `sources.json` |
