@@ -25,12 +25,17 @@
   const MODELS = ['pred', 'fair', 'mine'];
   const LISTS = [['elig', 'Eligible only'], ['all', 'Everyone']];
   const CUPN = { UCL: 'European Cup/UCL', CWC: "Cup Winners' Cup", UEL: 'UEFA Cup/Europa League', ECL: 'Conference League', LIB: 'Libertadores', SUD: 'Sudamericana' };
+  // Where a player's continental club competition is played: from the cup when there is one, else from the league
+  // (MLS and South American clubs have no European cup, so "Europe" would be wrong for them).
+  const UEFA_CUPS = ['UCL', 'CWC', 'UEL', 'ECL'];
+  const LG_REGION = { BRA: 'South America', ARG: 'South America', PER: 'South America', MLS: 'North America' };
+  const region = r => r.uT ? (UEFA_CUPS.includes(r.uT) ? 'Europe' : 'South America') : LG_REGION[r.lg] || 'Europe';
   const WIN = { CY: 'calendar year', S: 'season ending in the year (fallback)', P: 'season' };
   const STAGE = ['group stage/out', 'round of 16', 'quarter-finals', 'semi-finals', 'lost final', 'winner'];
   const POS = { FW: 'Forward', W: 'Winger', AM: 'Attacking midfielder', CM: 'Midfielder', DM: 'Defensive midfielder', DF: 'Defender', GK: 'Goalkeeper' };
   const SLIDERS = [
     ['wTeam', 'Team credit weight', 0, 0.6, 0.01, x => Math.round(x * 100) + '%'],
-    ['euBonus', 'Europe bonus (top opposition)', 0, 0.8, 0.05, x => '+' + Math.round(x * 100) + '%'],
+    ['euBonus', 'Continental-cup bonus (top opposition)', 0, 0.8, 0.05, x => '+' + Math.round(x * 100) + '%'],
     ['ntBoost', 'National-team tournament weight', 0.6, 1.6, 0.05, x => '×' + (+x).toFixed(2)],
     ['assistW', 'Value of an assist vs a goal', 0.3, 1, 0.05, x => (+x).toFixed(2)],
     ['wCont', 'Non-attacking contribution weight', 0, 0.6, 0.02, x => Math.round(x * 100) + '%'],
@@ -324,23 +329,42 @@
       return `<div style="--c:${a.c}"><h3><span class="swatch" aria-hidden="true"></span>${a.n}<span class="num">${ord(place(k))} of ${res[k].length}</span></h3>
         ${e.length ? e.map(([n, v]) => `<div class="brk-row"><em title="${esc(n)}">${esc(n)}</em><span class="num">${fmt(v, k === 'pred' ? 2 : 0)}</span><span class="bb" aria-hidden="true"><i style="width:${(v / mx * 100).toFixed(1)}%"></i></span></div>`).join('') : '<p class="meta">No positive parts.</p>'}</div>`;
     };
-    const nt = r.ntT ? `${r.ntGP} gp · ${r.ntG} g · ${r.ntA} a` : '—';
-    const ntSub = r.ntT ? `${r.ntT}: ${STAGE[r.ntS]}` : 'no national-team tournament';
-    const eu = r.uT ? `${CUPN[r.uT]} (weight ${fmt(cupWeight(r.uT, y))})` : 'no continental competition';
+    // Stat tiles: each number with its unit under it; the numbers wrap as a group instead of running out of the tile.
+    const nums = (...p) => `<p class="nums">${p.map(([v, u]) => `<span><b>${v}</b>${u}</span>`).join('')}</p>`;
+    const fact = (k, body, sub) => `<div class="fact"><span class="kicker">${k}</span>${body}${sub ? `<small>${esc(sub)}</small>` : ''}</div>`;
+    const NONE = '<p class="nums"><span><b>—</b></span></p>';
+    const reg = region(r);
+    const facts = [
+      fact(r.uT ? `League + ${reg}` : 'League', nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists']),
+        r.gNow != null ? `projected to the full season; so far ${r.gpNow} gp · ${r.gNow} g · ${r.aNow} a` : ''),
+      fact(reg, r.uT ? nums([r.uG, 'goals'], [r.uA, 'assists']) : NONE,
+        r.uT ? `${CUPN[r.uT]}: ${STAGE[r.uS]} · weight ${fmt(cupWeight(r.uT, y))}` : reg === 'North America' ? 'CONCACAF cups are not counted' : 'no continental competition'),
+      fact('National team', r.ntT ? nums([r.ntGP, 'games'], [r.ntG, 'goals'], [r.ntA, 'assists']) : NONE,
+        r.ntT ? `${r.ntT}: ${STAGE[r.ntS]}` : 'no national-team tournament'),
+      r.cont != null ? fact('Non-attacking*', nums([r.cont, 'of 10']), 'subjective estimate') : '',
+    ].join('');
+    const spec = [
+      ['League', `${esc(r.lg)} <small>strength ${fmt(leagueStrength(r.lg, y))}</small>`],
+      ['League title', r.title ? '<span class="mark-ok">Champion</span>' : 'No'],
+      ['Window', WIN[r.win]],
+    ].map(([k, v]) => `<div><dt class="kicker">${k}</dt><dd>${v}</dd></div>`).join('');
+    // Wikipedia links are labelled with the article (one host repeated five times says nothing).
+    const srcLabel = u => {
+      try {
+        const x = new URL(u), h = x.hostname.replace(/^www\./, ''), m = h.match(/^([\w-]+)\.wikipedia\.org$/);
+        if (m && x.pathname.startsWith('/wiki/')) return decodeURIComponent(x.pathname.slice(6)).replace(/_/g, ' ') + (m[1] === 'en' ? '' : ` (${m[1]})`);
+        return h;
+      } catch (e) { return u; }
+    };
     const sr = YEARS[y].forecast ? { sources: r.sources || [], note: r.note || '' } : sources ? (sources[y] || {})[r.name] : null;
-    const srcH = !sr && !sources ? '<p class="src">Loading sources…</p>' : sr && (sr.sources.length || sr.note) ? `<div class="src"><b>Sources:</b>${sr.sources.map(u => { let h = u; try { h = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { /* keep url */ } return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join('')}</div>${sr.note ? `<details class="data-note"><summary>Data notes</summary><p>${esc(sr.note)}</p></details>` : ''}` : '';
-    return `<div class="detail-head"><div><h2>${esc(r.name)}</h2><div class="badges">
+    const srcH = !sr && !sources ? '<p class="src meta">Loading sources…</p>' : sr && (sr.sources.length || sr.note) ? `<div class="src"><span class="kicker">Sources</span><ul>${sr.sources.map(u => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(srcLabel(u))}</a></li>`).join('')}</ul></div>${sr.note ? `<details class="data-note"><summary>Data notes</summary><p>${esc(sr.note)}</p></details>` : ''}` : '';
+    return `<div class="detail-head"><div><h2>${esc(r.name)}</h2><p class="who">${esc(r.club)} · ${POS[r.pos]}</p><div class="badges">
         <span class="conf conf-${r.conf}" title="Data confidence: A verified in sources, B partly verified/approximate, C estimate">data ${r.conf}</span>
         <span class="conf conf-${r.aConf}" title="Confidence of the assists only">assists ${r.aConf}</span>
-        ${r.rank ? `<span class="tag">voted ${ord(r.rank)}</span>` : ''}${r.elig === 0 ? '<span class="tag">ineligible</span>' : ''}</div></div>
+        ${r.rank ? `<span class="tag">voted ${ord(r.rank)}</span>` : ''}${r.elig === 0 ? `<span class="tag" title="Ineligible under the ${y} rules">ineligible in ${y}</span>` : ''}</div></div>
         <button type="button" class="close" aria-label="Close">${ICON.close}</button></div>
-      <p class="meta">${esc(r.club)} · ${POS[r.pos]} · league ${r.lg} (strength ${fmt(leagueStrength(r.lg, y))} this decade) · ${r.title ? 'league champion' : 'not league champion'}${r.elig === 0 ? ` · ineligible under the ${y} rules` : ''} · window: ${WIN[r.win]}</p>
-      <div class="facts">
-        <div class="fact"><span class="kicker">League + Europe</span><b>${r.gp} gp · ${r.g} g · ${r.a} a</b>${r.gNow != null ? `<small>projected to the full season; so far ${r.gpNow} gp · ${r.gNow} g · ${r.aNow} a</small>` : ''}</div>
-        <div class="fact"><span class="kicker">Europe</span><b>${r.uG} g · ${r.uA} a</b><small>${esc(STAGE[r.uS])} · ${esc(eu)}</small></div>
-        <div class="fact"><span class="kicker">National team</span><b>${nt}</b><small>${esc(ntSub)}</small></div>
-        ${r.cont != null ? `<div class="fact"><span class="kicker">Non-attacking*</span><b>${r.cont}/10</b><small>subjective estimate</small></div>` : ''}
-      </div>
+      <dl class="spec">${spec}</dl>
+      <div class="facts">${facts}</div>
       ${srcH}
       ${r.cont != null ? '<p class="note">*My subjective estimate for midfielders, defenders and goalkeepers, because goals and assists do not measure their impact.</p>' : ''}
       <div class="brk">${MODELS.map(brk).join('')}</div>`;
@@ -457,7 +481,7 @@
       <p>Three ways to pick the winner from the same numbers: one learnt from past votes, one that looks only at individual performance, and one of my own that mixes the two. Every year since 1956 has the official top 10 plus a few strong players who were not eligible at the time.</p></div>
       <div class="method"><div class="panel prose">
       <h3><span class="swatch" style="--c:var(--c-pred)"></span>Prediction</h3>
-      <p>A linear score over ${M.PRED_FEATURES.length} criteria (attacking output, European stage, national team, league title, position, non-attacking contribution, and versions relative to the year's rivals). The weights come from a linear program that tries to put each winner ahead of every other candidate of their year. For years already awarded the answer is the real vote; what matters is predicting the next year. So the Prediction is judged the way it would be used: to predict year Y it is trained only on years before Y.</p>
+      <p>A linear score over ${M.PRED_FEATURES.length} criteria (attacking output, continental-cup stage, national team, league title, position, non-attacking contribution, and versions relative to the year's rivals). The weights come from a linear program that tries to put each winner ahead of every other candidate of their year. For years already awarded the answer is the real vote; what matters is predicting the next year. So the Prediction is judged the way it would be used: to predict year Y it is trained only on years before Y.</p>
       ${SEL.temporal ? `<p>How the training is chosen: for each year, among several windows (from 1956, 1970, 1980, 1990, 2000 or 2005, or only the last 10–25 years), recency weights and regularisation, the combination that would best have predicted the previous 12 years is kept. With this rule it calls ${SEL.nestedWindow.hits} of ${n} in 2010–2026 (real winner ranked ${fmt(SEL.nestedWindow.meanRank)} on average), against ${SEL.baseline.hits} of ${n} when always training on every year since 1956. Old votes hurt the forecast of recent ones: from 2013 on, the rule always picks “train from 2000”. For the next Ballon d'Or the model is: ${esc(SEL.final.label)}, training ${SEL.final.train[0]}–${SEL.final.train[1]} (weights alongside).</p>` : ''}
       ${SEL.nested ? `<p>I also tried keeping only some criteria. Looking at the same years it seemed much better (${SEL.selection.res[0]} of ${n} with ${SEL.selection.chosen.length} criteria), but making that choice only with each year's past drops it to ${SEL.nested.hits} of ${n}, with the real winner ranked ${fmt(SEL.nested.meanRank)} on average: it was overfitting. All ${M.PRED_FEATURES.length} criteria stay.</p>` : ''}
       ${base ? `<p>Fitting the weights to the very years they are judged on makes any model look good. With the ${M.PRED_FEATURES.length} criteria, a fit to 2010–2026 calls ${base.inSample} of ${n} of those same years; adding a single reputation or “star of the tournament” criterion gets ${n} of ${n} (any of: ${full.map(v => esc(v.desc)).join('; ')}). But calling years the model has already seen is memorising them. Predicting each year without seeing it, none of these criteria improves the Prediction: with them it gets between ${Math.min(...full.map(v => v.temporal))} and ${Math.max(...full.map(v => v.temporal))} of ${n}, against ${base.temporal} of ${n} without. So the Prediction does without them.</p>
@@ -469,16 +493,16 @@
       ${FC ? `<h3><span class="swatch" style="--c:var(--gold)"></span>The ${FC.year} forecast</h3>
       <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. League numbers are projected to a full season, because the models were fitted on whole seasons; league leaders count as champions until the season ends. Candidates are the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
       <h3><span class="swatch" style="--c:var(--c-fair)"></span>Fair</h3>
-      <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for Europe, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
+      <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for continental club cups, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
       <h3><span class="swatch" style="--c:var(--c-mine)"></span>My model</h3>
-      <p>About 80% individual performance and 20% team credit. Team credit only counts in proportion to what the player produced in Europe, for the national team and in the league, so winning without contributing earns nothing. Output against top opposition (Europe and national-team tournaments) weighs more. Every weight can be changed in the Years view.</p>
+      <p>About 80% individual performance and 20% team credit. Team credit only counts in proportion to what the player produced in continental cups, for the national team and in the league, so winning without contributing earns nothing. Output against top opposition (continental cups and national-team tournaments) weighs more. Every weight can be changed in the Years view.</p>
       <h2>Data limits</h2>
       <ul>
-        <li>The same scope for everyone: league, European competition and national-team final tournaments. Domestic cups and qualifiers are left out of the match numbers.</li>
+        <li>The same scope for everyone: league, continental club competition (UEFA and CONMEBOL cups) and national-team final tournaments. Domestic cups and qualifiers are left out of the match numbers.</li>
         <li>Each year has the official top 10 and, where it makes sense, a few strong ineligible players (only in the “Everyone” list). Eligibility: until 1994 Europeans only; 1995–2006 only players at European clubs; since 2007 everyone.</li>
         <li>Window: until 2021 voters judged the calendar year, so the numbers run January to December. When the season could not be split, the season ending that year is used, marked with confidence C. Since 2022 the season counts.</li>
         <li>Confidence: A verified in sources, B partly verified, C estimate. Assists have their own confidence: before about 2005 they are almost always estimated.</li>
-        <li>League strength and the weight of the European cups (Cup Winners' Cup, UEFA Cup, Libertadores) change by decade. They are my estimates, not fitted to the winners.</li>
+        <li>League strength and the weight of the continental cups (Cup Winners' Cup, UEFA Cup, Libertadores) change by decade. They are my estimates, not fitted to the winners.</li>
         <li>The non-attacking contribution is my estimate and weighs a lot for midfielders and defenders.</li>
         <li>The models measure performance, not the narrative that sways voters, and with such a small sample any fit to the winners can overfit.</li>
       </ul>
