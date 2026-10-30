@@ -1,0 +1,58 @@
+{
+ "data": [
+  {
+   "rank": 1,
+   "player": {
+    "id": 0,
+    "slug": null,
+    "name": "Harry Kane",
+    "photoUrl": ""
+   },
+   "team": {
+    "id": 0,
+    "slug": null,
+    "name": "Bayern Munich",
+    "shortName": "Bayern",
+    "code": null,
+    "crestUrl": ""
+   },
+   "value": 1,
+   "stats": {
+    "appearances": 3,
+    "starts": 3,
+    "minutes": 270,
+    "goals": 5,
+    "assists": 1
+   }
+  },
+  {
+   "rank": 2,
+   "player": {
+    "id": 0,
+    "slug": null,
+    "name": "Rodri Hernández",
+    "photoUrl": ""
+   },
+   "team": {
+    "id": 0,
+    "slug": null,
+    "name": "Barcelona",
+    "shortName": "Barça",
+    "code": null,
+    "crestUrl": ""
+   },
+   "value": 1,
+   "stats": {
+    "appearances": 1,
+    "starts": 1,
+    "minutes": 90,
+    "goals": 0,
+    "assists": 1
+   }
+  }
+ ],
+ "meta": {
+  "season": "2026-27",
+  "limit": 100
+ }
+}

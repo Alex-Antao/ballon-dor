@@ -3,7 +3,7 @@
 //   Wikipedia (verify/ tools): Europa/Conference League stage and goals (match boxes, qualifiers left out), domestic
 //   cup winners, Golden Shoe, 2027 national-team tournaments (AFC Asian Cup, Africa Cup of Nations, Gold Cup) and their
 //   top scorer / best player
-//   Football API (forecast/football-api.js, optional, key RAPIDAPI_KEY): Europa/Conference League assists
+//   Football API (forecast/football-api.js, optional, key RAPIDAPI_KEY): assists of every candidate (league, UCL, UEL, ECL)
 // Writes forecast/2027.json (rows in the data-src format plus each model's ranking) and appends forecast/history.json.
 // Usage: node forecast/update.js   (needs FOOTBALL_DATA_TOKEN; FD_FIXTURES=<dir> runs offline from saved responses,
 //        NO_WIKI=1 skips Wikipedia, AS_OF=YYYY-MM-DD overrides the date, FORECAST_OUT=<dir> writes elsewhere)
@@ -11,6 +11,7 @@ const fs = require('fs');
 const path = require('path');
 const FD = require('./football-data.js');
 const FA = require('./football-api.js');
+const FA_URL = 'https://football-api.yuvron.online';
 const { YEARS, leagueStrength } = require('../data.js');
 const M = require('../models.js');
 
@@ -123,6 +124,7 @@ async function main() {
   for (const r of (YEARS[YEAR - 1] || { rows: [] }).rows) if (r.gp >= 10) last[r.name] = { g: r.g / r.gp, a: r.a / r.gp, from: `their ${YEAR - 1} season` };
 
   // ---------- rows ----------
+  const AL = FA.available() ? await FA.assistLists(warnings) : null;   // the Football API's best assisters, when its key is set
   for (const [name, { P, manual, nominee }] of pool) {
     const m = manual || {};
     let team = P && P.team, lg = m.lg || (P && P.lg);
@@ -144,8 +146,20 @@ async function main() {
     // else an estimate from the club's games (share) with no goals
     const wk = !P && W ? seasonSoFar(W, W.aw.titleOf(name, YEAR), warnings, name) : null;
     const est = n => Math.round((m.share ?? 0.85) * n);
-    const league = P ? P.league : wk ? { gp: wk.lg[0], g: wk.lg[1], a: null } : { gp: est(T.played), g: 0, a: null };
-    const cl = P ? P.cl : wk ? { gp: CLT ? wk.eu[0] : 0, g: CLT ? wk.eu[1] : 0, a: null } : { gp: CLT ? est(CLT.played) : 0, g: 0, a: null };
+    let league = P ? P.league : wk ? { gp: wk.lg[0], g: wk.lg[1], a: null } : { gp: est(T.played), g: 0, a: null };
+    let cl = P ? P.cl : wk ? { gp: CLT ? wk.eu[0] : 0, g: CLT ? wk.eu[1] : 0, a: null } : { gp: CLT ? est(CLT.played) : 0, g: 0, a: null };
+    // assists: the Football API's lists when it has them (every player, one definition), else football-data.org's
+    const isTeam = (n, s) => sameTeam(n || '', team) || (!!s && sameTeam(s, team));
+    const faL = AL && FA.assistsOf(AL[lg], name, isTeam, samePerson), faC = AL && CLT && FA.assistsOf(AL.UCL, name, isTeam, samePerson);
+    const faNotes = [];
+    for (const [fa, cur, set, what] of [[faL, league, v => { league = v; }, 'league'], [faC, cl, v => { cl = v; }, 'Champions League']]) {
+      if (!fa) continue;
+      // missing from the list while football-data.org has a number: a name that did not match, so that number stays
+      if (fa.absent && cur.a != null) { warnings.push(`${name}: not in the Football API's ${what} assist list (football-data.org's ${cur.a} kept)`); continue; }
+      if (cur.a != null && !fa.absent && cur.a !== fa.a) warnings.push(`${name}: ${fa.a} ${what} assist${fa.a === 1 ? "" : "s"} at the Football API, ${cur.a} at football-data.org (the first is used)`);
+      set({ ...cur, a: fa.a });
+      faNotes.push(fa.absent ? `${what} assists 0 (not among the Football API's ${FA.LIMIT} best assisters${fa.floor ? ', so 0 or 1' : ''})` : `${what} assists from the Football API`);
+    }
     // What the models score: the expected end-of-season league numbers (so far + the rest of the season at a pace
     // pulled towards the prior), because the models were fitted on whole seasons. The Champions League stays as it is.
     const prior = last[name] || PRIOR[isAttPos(pos)];
@@ -160,7 +174,7 @@ async function main() {
       title: T.position === 1 ? 1 : 0, cup: 0, lgTop: P && league.g > 0 && league.g === leaders[lg] ? 1 : 0, gs: 0,
       uTop: P && cl.g > 0 && cl.g === clTop ? 1 : 0, ntTop: 0, ntBest: 0,
       cont: null, rank: null, elig: 1, win: 'P',
-      conf: fromLists ? 'A' : wk ? 'B' : 'C', aConf: fromLists && league.a != null ? 'A' : 'C', awConf: NO_WIKI ? 'B' : 'A',
+      conf: fromLists ? 'A' : wk ? 'B' : 'C', aConf: league.a == null ? 'C' : faL && faL.absent && faL.floor ? 'B' : 'A', awConf: NO_WIKI ? 'B' : 'A',
       sources: [...sources], note: '', fdId: P ? P.player.id : null, y: YEAR,
     };
     if (nominee) r.nominee = 1;
@@ -168,7 +182,9 @@ async function main() {
     const notes = [`As of ${asOf}: ${T.played} of ${ROUNDS[T.lg]} league games played by ${r.club}, ${ordinal(T.position)} in the league`,
       `end of season estimated from the pace so far pulled towards ${prior.from} (${prior.g.toFixed(2)} goals and ${prior.a.toFixed(2)} assists a game)`];
     if (nominee) notes.push(`${YEAR - 1} Ballon d'Or nominee`);
-    if (wk) notes.push('not on a scorer list: games and goals from the Wikipedia career table, assists unknown');
+    if (wk) notes.push(`not on a scorer list: games and goals from the Wikipedia career table${league.a == null ? ', assists unknown' : ''}`);
+    notes.push(...faNotes);
+    if (faNotes.length && !r.sources.includes(FA_URL)) r.sources.push(FA_URL);
     else if (!fromLists) notes.push(`not on a scorer list: games estimated as ${Math.round((m.share ?? 0.85) * 100)}% of the club's`);
     if (!isAttPos(r.pos) && m.cont == null && (KNOWN[name] || {}).cont == null) notes.push('cont 5 by default (not rated)');
     if (W) wiki(W, r, team, notes, warnings, !fromLists && !m.infobox);
@@ -177,16 +193,15 @@ async function main() {
     rows.push(r);
   }
 
-  // Europa/Conference League assists (and a check of the goals) from the Football API, when its key is set
-  if (W && FA.available()) for (const r of rows.filter(r => r.uT === 'UEL' || r.uT === 'ECL')) {
-    try {
-      const s = await FA.euStats(r.name, r.uT, samePerson);
-      if (!s) { warnings.push(`${r.name}: not found at the Football API (${r.uT} assists unknown)`); continue; }
-      if (s.g !== r.uG) warnings.push(`${r.name}: ${s.g} ${r.uT} goals at the Football API, ${r.uG} in the Wikipedia match boxes`);
-      Object.assign(r, { uA: s.a, uANow: s.a, a: r.a + s.a, aNow: r.aNow == null ? null : r.aNow + s.a });
-      r.note = r.note.replace('(Wikipedia match boxes; assists unknown)', `(Wikipedia match boxes; ${s.a} assist${s.a === 1 ? '' : 's'} from the Football API)`);
-      r.sources.push('https://football-api.yuvron.online');
-    } catch (e) { warnings.push(`${r.name}: Football API not read (${e.message})`); }
+  // Europa/Conference League assists (and a check of the goals) from the Football API's lists
+  if (AL) for (const r of rows.filter(r => r.uT === 'UEL' || r.uT === 'ECL')) {
+    const s = FA.assistsOf(AL[r.uT], r.name, (n, sh) => [n, sh].some(x => x && sameTeam(x, { name: r.club })), samePerson);
+    if (!s) { warnings.push(`${r.name}: ${r.uT} assists unknown (not in the Football API's list)`); continue; }
+    if (!s.absent && s.g !== r.uG) warnings.push(`${r.name}: ${s.g} ${r.uT} goals at the Football API, ${r.uG} in the Wikipedia match boxes`);
+    Object.assign(r, { uA: s.a, uANow: s.a, a: r.a + s.a, aNow: r.aNow == null ? null : r.aNow + s.a });
+    r.note = r.note.replace('(Wikipedia match boxes; assists unknown)',
+      `(Wikipedia match boxes; ${s.absent ? `0 assists: not among the Football API's ${FA.LIMIT} best assisters${s.floor ? ', so 0 or 1' : ''}` : `${s.a} assist${s.a === 1 ? '' : 's'} from the Football API`})`);
+    if (!r.sources.includes(FA_URL)) r.sources.push(FA_URL);
   }
 
   // ---------- models ----------

@@ -12,10 +12,10 @@ const { YEARS } = require('../../data.js');
 const { expectLeague, nominees, samePerson } = require('../../forecast/update.js');
 const POS = ['FW', 'W', 'AM', 'CM', 'DM', 'DF', 'GK'];
 
-function run() {
+function run(extra = {}) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'bdo-fc-'));
   execFileSync(process.execPath, ['forecast/update.js'], { cwd: ROOT, stdio: 'pipe',
-    env: { ...process.env, FD_FIXTURES: path.join(ROOT, 'tests', 'fixtures', 'football-data'), NO_WIKI: '1', AS_OF: '2026-10-30', FORECAST_OUT: out } });
+    env: { ...process.env, FD_FIXTURES: path.join(ROOT, 'tests', 'fixtures', 'football-data'), NO_WIKI: '1', AS_OF: '2026-10-30', FORECAST_OUT: out, ...extra } });
   return { fc: JSON.parse(fs.readFileSync(path.join(out, '2027.json'), 'utf8')), hist: JSON.parse(fs.readFileSync(path.join(out, 'history.json'), 'utf8')) };
 }
 const { fc, hist } = run();
@@ -35,6 +35,30 @@ test('builds rows from scorer lists, standings and Champions League matches', ()
   assert.equal(kane.uTop, 1, 'most Champions League goals so far');
   assert.equal(row('Ousmane Dembélé').uS, 1, 'PSG have a round-of-16 tie');
   assert.equal(row('Viktor Gyökeres Jr').uT, '', 'Benfica are not in the Champions League fixtures');
+});
+
+test('assists from the Football API lists fill the gaps and take precedence over football-data.org', () => {
+  const { fc: fa } = run({ FA_FIXTURES: path.join(ROOT, 'tests', 'fixtures', 'football-api') });
+  const r = n => fa.rows.find(x => x.name === n);
+  const kane = r('Harry Kane'), rodri = r('Rodri'), olise = r('Michael Olise');
+  assert.deepEqual([kane.aNow, kane.uANow, kane.aConf], [6 + 1, 1, 'A'], 'Bundesliga 6 from the API (football-data.org says 4) + 1 in the UCL');
+  assert.ok(fa.warnings.some(w => /Harry Kane: 6 league assists at the Football API, 4 at football-data\.org/.test(w)));
+  assert.deepEqual([rodri.aNow, rodri.uANow, rodri.aConf], [2 + 1, 1, 'A'], '"Rodri" matches "Rodri Hernández" at Barça');
+  assert.ok(rodri.sources.includes('https://football-api.yuvron.online') && /league assists from the Football API/.test(rodri.note));
+  assert.equal(olise.aNow, 6, 'missing from the list while football-data.org has a number: that number stays');
+  assert.ok(fa.warnings.some(w => /Michael Olise: not in the Football API's league assist list/.test(w)));
+  // without fixtures or a key the API is never called offline (the main run above)
+  assert.equal(row('Rodri').aNow, null);
+});
+
+test('a player missing from a list cut at 100 is 0 only while the list ends at 1 assist', () => {
+  const FA = require('../../forecast/football-api.js');
+  const list = floor => ({ rows: [{ name: 'Someone Else', team: 'Club', short: null, a: 5, g: 1, gp: 9 }], floor });
+  const same = () => true;
+  assert.deepEqual(FA.assistsOf(list(1), 'Rodri', same, samePerson), { a: 0, absent: true, floor: 1 });
+  assert.equal(FA.assistsOf(list(2), 'Rodri', same, samePerson), null, 'could be 0, 1 or 2: unknown');
+  assert.deepEqual(FA.assistsOf(list(0), 'Rodri', same, samePerson), { a: 0, absent: true, floor: 0 }, 'complete list');
+  assert.equal(FA.assistsOf(undefined, 'Rodri', same, samePerson), null, 'list not read');
 });
 
 test('aliases, positions and the hand-kept candidates', () => {

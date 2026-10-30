@@ -1,0 +1,33 @@
+{
+ "data": [
+  {
+   "rank": 1,
+   "player": {
+    "id": 0,
+    "slug": null,
+    "name": "Harry Kane",
+    "photoUrl": ""
+   },
+   "team": {
+    "id": 0,
+    "slug": null,
+    "name": "Bayern Munich",
+    "shortName": "Bayern",
+    "code": null,
+    "crestUrl": ""
+   },
+   "value": 6,
+   "stats": {
+    "appearances": 9,
+    "starts": 9,
+    "minutes": 810,
+    "goals": 15,
+    "assists": 6
+   }
+  }
+ ],
+ "meta": {
+  "season": "2026-27",
+  "limit": 100
+ }
+}
