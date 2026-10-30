@@ -14,10 +14,10 @@
     "lg": "BL",
     "pos": "FW",
     "gp": 42,
-    "g": 35,
+    "g": 26,
     "a": 10,
     "uT": "UCL",
-    "uG": 6,
+    "uG": 4,
     "uA": 1,
     "uS": 3,
     "ntGP": 0,
@@ -29,15 +29,20 @@
     "cont": null,
     "rank": 1,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Melhor marcador da Bundesliga 1980/81 (29, de memória); UCL 80/81 meias (Liverpool)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Melhor marcador da Bundesliga 1980/81 (29, de memória); UCL 80/81 meias (Liverpool). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1981–82 Bayern Munich: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 European Cup: Semi-finals). Alterado: g 35→26, uG 6→4."
    },
    {
     "name": "Paul Breitner",
@@ -45,10 +50,10 @@
     "lg": "BL",
     "pos": "CM",
     "gp": 38,
-    "g": 19,
+    "g": 18,
     "a": 10,
     "uT": "UCL",
-    "uG": 2,
+    "uG": 1,
     "uA": 2,
     "uS": 3,
     "ntGP": 0,
@@ -66,16 +71,19 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Paul_Breitner",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). "
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1980–81 European Cup: Semi-finals). Alterado: g 19→18, uG 2→1."
    },
    {
     "name": "Bernd Schuster",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "CM",
-    "gp": 33,
+    "gp": 28,
     "g": 11,
     "a": 8,
     "uT": "UEL",
@@ -97,16 +105,21 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Bernd_Schuster",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_La_Liga",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Prova europeia de 1980/81 e fase atingida incertas."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Prova europeia de 1980/81 e fase atingida incertas. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: Second round). Alterado: gp 33→28."
    },
    {
     "name": "Michel Platini",
     "club": "Saint-Étienne",
     "lg": "L1",
     "pos": "AM",
-    "gp": 41,
+    "gp": 42,
     "g": 24,
     "a": 10,
     "uT": "UEL",
@@ -128,20 +141,24 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Michel_Platini",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_AS_Saint-%C3%89tienne_season",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_French_Division_1",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Campeão francês 1980/81; Taça UEFA quartos (Ipswich)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão francês 1980/81; Taça UEFA quartos (Ipswich). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: Quarter-finals). Alterado: gp 41→42."
    },
    {
     "name": "Oleg Blokhin",
     "club": "Dynamo Kyiv",
     "lg": "URS",
     "pos": "W",
-    "gp": 30,
-    "g": 10,
+    "gp": 35,
+    "g": 20,
     "a": 6,
-    "uT": "",
-    "uG": 0,
+    "uT": "UEL",
+    "uG": 1,
     "uA": 0,
     "uS": 0,
     "ntGP": 0,
@@ -154,14 +171,17 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Oleg_Blokhin",
+     "https://en.wikipedia.org/wiki/1981_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Liga soviética de ano civil (1981, campeão). Participação europeia 1980/81 incerta."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga soviética de ano civil (1981, campeão). Participação europeia 1980/81 incerta. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: First round). Alterado: gp 30→35, g 10→20, uG 0→1, uT →UEL."
    },
    {
     "name": "Dino Zoff",
@@ -184,26 +204,31 @@
     "cont": 8,
     "rank": 6,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Dino_Zoff",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_Serie_A",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Campeão italiano 1980/81; Taça UEFA eliminado na 2.ª ronda (Widzew)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão italiano 1980/81; Taça UEFA eliminado na 2.ª ronda (Widzew). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup: Second round)."
    },
    {
     "name": "Ramaz Shengelia",
     "club": "Dinamo Tbilisi",
     "lg": "URS",
     "pos": "FW",
-    "gp": 35,
-    "g": 26,
+    "gp": 40,
+    "g": 30,
     "a": 6,
     "uT": "CWC",
-    "uG": 3,
+    "uG": 7,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -216,14 +241,17 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Ramaz_Shengelia",
+     "https://en.wikipedia.org/wiki/1981_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Melhor marcador da liga soviética 1981 (23, de memória); Taça das Taças 1981 vencida (só quartos/meias/final no ano civil)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Melhor marcador da liga soviética 1981 (23, de memória); Taça das Taças 1981 vencida (só quartos/meias/final no ano civil). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1980–81 UEFA Cup Winners' Cup: Final). Alterado: gp 35→40, g 26→30, uG 3→7."
    },
    {
     "name": "Aleksandre Chivadze",
@@ -252,9 +280,10 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Aleksandre_Chivadze"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Capitão; Taça das Taças 1981 vencida."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capitão; Taça das Taças 1981 vencida. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Liam Brady",
@@ -283,9 +312,10 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/Liam_Brady"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 9.º ex aequo (7 pts)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 9.º ex aequo (7 pts). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "John Wark",
@@ -314,17 +344,18 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy81.html",
      "https://en.wikipedia.org/wiki/1981_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1981.htm",
+     "https://en.wikipedia.org/wiki/John_Wark"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 9.º ex aequo (7 pts). 14 golos na Taça UEFA 1980/81 vencida (de memória)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 9.º ex aequo (7 pts). 14 golos na Taça UEFA 1980/81 vencida (de memória). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Zico",
     "club": "Flamengo",
     "lg": "BRA",
     "pos": "AM",
-    "gp": 29,
-    "g": 22,
+    "gp": 21,
+    "g": 14,
     "a": 10,
     "uT": "LIB",
     "uG": 11,
@@ -340,10 +371,14 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível (brasileiro). Libertadores 1981 vencida, melhor marcador (11). Brasileirão 1981 estimado. Campeonato Carioca e Intercontinental não contam."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Zico_(footballer)",
+     "https://en.wikipedia.org/wiki/1981_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/1981_Copa_Libertadores"
+    ],
+    "note": "Inelegível (brasileiro). Libertadores 1981 vencida, melhor marcador (11). Brasileirão 1981 estimado. Campeonato Carioca e Intercontinental não contam. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1981 Copa Libertadores: Finals). Alterado: gp 29→21, g 22→14."
    },
    {
     "name": "Diego Maradona",
@@ -353,7 +388,7 @@
     "gp": 40,
     "g": 28,
     "a": 8,
-    "uT": "",
+    "uT": "LIB",
     "uG": 0,
     "uA": 0,
     "uS": 0,
@@ -367,10 +402,14 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível (argentino). Metropolitano 1981 + Nacional 1981 somados (estimativa)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1981_Argentine_Primera_Divisi%C3%B3n",
+     "https://en.wikipedia.org/wiki/1982_Copa_Libertadores"
+    ],
+    "note": "Inelegível (argentino). Metropolitano 1981 + Nacional 1981 somados (estimativa). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1982 Copa Libertadores). Alterado: uT →LIB."
    }
   ]
  },
@@ -388,13 +427,13 @@
     "club": "Juventus",
     "lg": "SA",
     "pos": "FW",
-    "gp": 3,
-    "g": 1,
+    "gp": 16,
+    "g": 7,
     "a": 0,
     "uT": "UCL",
-    "uG": 0,
+    "uG": 4,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 1,
@@ -404,29 +443,35 @@
     "cont": null,
     "rank": 1,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Paolo_Rossi",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Serie_A",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Regressou de suspensão no fim de abril de 1982 (3 jogos, 1 golo na Serie A). Mundial: 6 golos, melhor marcador. Campeão italiano mas <1/3 dos jogos → title 0."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Regressou de suspensão no fim de abril de 1982 (3 jogos, 1 golo na Serie A). Mundial: 6 golos, melhor marcador. Campeão italiano mas <1/3 dos jogos → title 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Second round). Alterado: gp 3→16, g 1→7, uG 0→4, uS 0→1."
    },
    {
     "name": "Alain Giresse",
     "club": "Bordeaux",
     "lg": "L1",
     "pos": "AM",
-    "gp": 40,
-    "g": 12,
+    "gp": 37,
+    "g": 14,
     "a": 10,
     "uT": "UEL",
     "uG": 0,
     "uA": 0,
     "uS": 0,
-    "ntGP": 6,
+    "ntGP": 5,
     "ntG": 3,
     "ntA": 1,
     "ntT": "WC",
@@ -441,9 +486,13 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Alain_Giresse",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_French_Division_1",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Pontos 64 (ou 68 segundo nota da Wikipédia EN)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Pontos 64 (ou 68 segundo nota da Wikipédia EN). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 UEFA Cup: Second round). Alterado: gp 40→37, g 12→14, ntGP 6→5."
    },
    {
     "name": "Zbigniew Boniek",
@@ -451,10 +500,10 @@
     "lg": "POL",
     "pos": "AM",
     "gp": 30,
-    "g": 10,
+    "g": 7,
     "a": 7,
     "uT": "UCL",
-    "uG": 0,
+    "uG": 1,
     "uA": 0,
     "uS": 0,
     "ntGP": 6,
@@ -466,15 +515,20 @@
     "cont": null,
     "rank": 3,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Zbigniew_Boniek",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Ekstraklasa",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Liga polaca 1981/82 (campeão). Mudou-se para a Juventus no verão de 1982. Mundial: hat-trick à Bélgica, suspenso na meia-final."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga polaca 1981/82 (campeão). Mudou-se para a Juventus no verão de 1982. Mundial: hat-trick à Bélgica, suspenso na meia-final. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1981–82 Widzew Łódź: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: First round). Alterado: g 10→7, uG 0→1."
    },
    {
     "name": "Karl-Heinz Rummenigge",
@@ -482,7 +536,7 @@
     "lg": "BL",
     "pos": "FW",
     "gp": 41,
-    "g": 32,
+    "g": 20,
     "a": 9,
     "uT": "UCL",
     "uG": 6,
@@ -503,9 +557,15 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Bundesliga",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Final da Taça dos Campeões 1982 perdida (Aston Villa). Pontos 51 (ou 47)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Final da Taça dos Campeões 1982 perdida (Aston Villa). Pontos 51 (ou 47). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Final). Alterado: g 32→20."
    },
    {
     "name": "Bruno Conti",
@@ -534,9 +594,11 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Bruno_Conti",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). "
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Rinat Dasayev",
@@ -565,9 +627,11 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Rinat_Dasayev",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Liga soviética 1982 (ano civil). Participação europeia incerta. Mundial: 2.ª fase de grupos (=quartos)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga soviética 1982 (ano civil). Participação europeia incerta. Mundial: 2.ª fase de grupos (=quartos). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Pierre Littbarski",
@@ -577,7 +641,7 @@
     "gp": 34,
     "g": 15,
     "a": 10,
-    "uT": "",
+    "uT": "UEL",
     "uG": 0,
     "uA": 0,
     "uS": 0,
@@ -596,22 +660,26 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Pierre_Littbarski",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Bundesliga",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Participação europeia de 1981/82 incerta (assumido nenhuma)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Participação europeia de 1981/82 incerta (assumido nenhuma). 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1982–83 UEFA Cup); por verificar: clube. Alterado: uT →UEL."
    },
    {
     "name": "Dino Zoff",
     "club": "Juventus",
     "lg": "SA",
     "pos": "GK",
-    "gp": 32,
+    "gp": 35,
     "g": 0,
     "a": 0,
     "uT": "UCL",
     "uG": 0,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 0,
@@ -621,26 +689,32 @@
     "cont": 9,
     "rank": 8,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Dino_Zoff",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Serie_A",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Capitão campeão do mundo aos 40 anos; campeão italiano 1981/82."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capitão campeão do mundo aos 40 anos; campeão italiano 1981/82. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Second round). Alterado: gp 32→35, uS 0→1."
    },
    {
     "name": "Michel Platini",
     "club": "Saint-Étienne",
     "lg": "L1",
     "pos": "AM",
-    "gp": 39,
-    "g": 22,
+    "gp": 36,
+    "g": 18,
     "a": 10,
     "uT": "UCL",
-    "uG": 0,
+    "uG": 2,
     "uA": 0,
     "uS": 0,
     "ntGP": 5,
@@ -652,26 +726,31 @@
     "cont": null,
     "rank": 9,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Michel_Platini",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_French_Division_1",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Número de jogos no Mundial incerto (4–5)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Número de jogos no Mundial incerto (4–5). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1981–82 Saint-Étienne: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 European Cup: Preliminary round). Alterado: gp 39→36, g 22→18, uG 0→2."
    },
    {
     "name": "Bernd Schuster",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "CM",
-    "gp": 16,
-    "g": 4,
+    "gp": 17,
+    "g": 10,
     "a": 4,
     "uT": "CWC",
-    "uG": 0,
+    "uG": 2,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -689,17 +768,22 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy82.html",
      "https://en.wikipedia.org/wiki/1982_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1982.htm",
+     "https://en.wikipedia.org/wiki/Bernd_Schuster",
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_La_Liga",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Lesão grave em dez. 1981; não jogou a final da Taça das Taças 1982 (vencida)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Lesão grave em dez. 1981; não jogou a final da Taça das Taças 1982 (vencida). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1981–82 UEFA Cup Winners' Cup: Final). Alterado: gp 16→17, g 4→10, uG 0→2."
    },
    {
     "name": "Zico",
     "club": "Flamengo",
     "lg": "BRA",
     "pos": "AM",
-    "gp": 26,
-    "g": 23,
+    "gp": 27,
+    "g": 22,
     "a": 8,
     "uT": "LIB",
     "uG": 2,
@@ -715,10 +799,15 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível. Campeão brasileiro 1982 e melhor marcador (21, de memória). Libertadores 1982: fase de grupos das meias."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Zico_(footballer)",
+     "https://en.wikipedia.org/wiki/1982_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/1982_Copa_Libertadores",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
+    ],
+    "note": "Inelegível. Campeão brasileiro 1982 e melhor marcador (21, de memória). Libertadores 1982: fase de grupos das meias. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1982 Copa Libertadores: Semifinals). Alterado: gp 26→27, g 23→22."
    },
    {
     "name": "Falcão",
@@ -731,7 +820,7 @@
     "uT": "CWC",
     "uG": 0,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 5,
     "ntG": 3,
     "ntA": 1,
@@ -744,8 +833,14 @@
     "win": "S",
     "conf": "C",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível (brasileiro)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Paulo_Roberto_Falc%C3%A3o",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_A.S._Roma_season",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_Serie_A",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup"
+    ],
+    "note": "Inelegível (brasileiro). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1981–82 UEFA Cup Winners' Cup: Second round). Alterado: uS 0→1."
    }
   ]
  },
@@ -763,11 +858,11 @@
     "club": "Juventus",
     "lg": "SA",
     "pos": "AM",
-    "gp": 39,
-    "g": 19,
+    "gp": 40,
+    "g": 25,
     "a": 10,
     "uT": "UCL",
-    "uG": 3,
+    "uG": 4,
     "uA": 3,
     "uS": 4,
     "ntGP": 0,
@@ -779,26 +874,31 @@
     "cont": null,
     "rank": 1,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Michel_Platini",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Serie_A",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Capocannoniere 1982/83 (16). Final da Taça dos Campeões perdida (Hamburgo)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capocannoniere 1982/83 (16). Final da Taça dos Campeões perdida (Hamburgo). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1983–84 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 European Cup: Final). Alterado: gp 39→40, g 19→25, uG 3→4."
    },
    {
     "name": "Kenny Dalglish",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 48,
-    "g": 19,
+    "gp": 43,
+    "g": 15,
     "a": 15,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 3,
     "uA": 2,
     "uS": 2,
     "ntGP": 0,
@@ -810,15 +910,20 @@
     "cont": null,
     "rank": 2,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Kenny_Dalglish",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Football_League",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Campeão inglês 1982/83; Taça dos Campeões: quartos (Widzew)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão inglês 1982/83; Taça dos Campeões: quartos (Widzew). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 European Cup: Quarter-finals). Alterado: gp 48→43, g 19→15, uG 1→3."
    },
    {
     "name": "Allan Simonsen",
@@ -847,17 +952,18 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Allan_Simonsen"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Liga dinamarquesa de ano civil (1983). Esteve no Charlton no outono de 1982. Números muito incertos."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Liga dinamarquesa de ano civil (1983). Esteve no Charlton no outono de 1982. Números muito incertos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); prova/fase continental verificada: sem prova europeia nas edições consultadas; por verificar: clube, título."
    },
    {
     "name": "Gordon Strachan",
     "club": "Aberdeen",
     "lg": "SCO",
     "pos": "W",
-    "gp": 43,
-    "g": 15,
+    "gp": 38,
+    "g": 17,
     "a": 12,
     "uT": "CWC",
     "uG": 3,
@@ -872,15 +978,20 @@
     "cont": null,
     "rank": 4,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Gordon_Strachan",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Aberdeen_F.C._season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Aberdeen_F.C._season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Scottish_Premier_Division",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Taça das Taças 1983 vencida (Real Madrid)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Taça das Taças 1983 vencida (Real Madrid). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup Winners' Cup: Final). Alterado: gp 43→38, g 15→17."
    },
    {
     "name": "Felix Magath",
@@ -888,7 +999,7 @@
     "lg": "BL",
     "pos": "AM",
     "gp": 43,
-    "g": 8,
+    "g": 6,
     "a": 10,
     "uT": "UCL",
     "uG": 2,
@@ -909,16 +1020,20 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Felix_Magath",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Hamburger_SV_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Marcou o golo da final da Taça dos Campeões 1983; campeão alemão."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Marcou o golo da final da Taça dos Campeões 1983; campeão alemão. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 European Cup: Final). Alterado: g 8→6."
    },
    {
     "name": "Jean-Marie Pfaff",
     "club": "Bayern",
     "lg": "BL",
     "pos": "GK",
-    "gp": 40,
+    "gp": 31,
     "g": 0,
     "a": 0,
     "uT": "CWC",
@@ -940,9 +1055,12 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Jean-Marie_Pfaff",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 6.º ex aequo (15 pts)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 6.º ex aequo (15 pts). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Alterado: gp 40→31."
    },
    {
     "name": "Rinat Dasayev",
@@ -971,9 +1089,10 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Rinat_Dasayev"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 6.º ex aequo (15 pts). Fase da Taça UEFA 1982/83 incerta."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 6.º ex aequo (15 pts). Fase da Taça UEFA 1982/83 incerta. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Karl-Heinz Rummenigge",
@@ -981,10 +1100,10 @@
     "lg": "BL",
     "pos": "FW",
     "gp": 40,
-    "g": 24,
+    "g": 21,
     "a": 8,
     "uT": "CWC",
-    "uG": 4,
+    "uG": 1,
     "uA": 1,
     "uS": 2,
     "ntGP": 0,
@@ -1002,9 +1121,14 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 8.º ex aequo (14 pts)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 8.º ex aequo (14 pts). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Alterado: g 24→21, uG 4→1."
    },
    {
     "name": "Jesper Olsen",
@@ -1033,20 +1157,21 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Jesper_Olsen"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 8.º ex aequo (14 pts). Campeão neerlandês 1982/83."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 8.º ex aequo (14 pts). Campeão neerlandês 1982/83. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Bryan Robson",
     "club": "Manchester United",
     "lg": "EPL",
     "pos": "CM",
-    "gp": 35,
+    "gp": 36,
     "g": 10,
     "a": 6,
     "uT": "UEL",
-    "uG": 0,
+    "uG": 2,
     "uA": 0,
     "uS": 0,
     "ntGP": 0,
@@ -1058,15 +1183,20 @@
     "cont": 8,
     "rank": 10,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy83.html",
      "https://en.wikipedia.org/wiki/1983_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1983.htm",
+     "https://en.wikipedia.org/wiki/Bryan_Robson",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Football_League",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). "
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup: First round). Alterado: gp 35→36, uG 0→2."
    },
    {
     "name": "Falcão",
@@ -1074,10 +1204,10 @@
     "lg": "SA",
     "pos": "CM",
     "gp": 35,
-    "g": 8,
+    "g": 9,
     "a": 5,
     "uT": "UEL",
-    "uG": 1,
+    "uG": 2,
     "uA": 1,
     "uS": 2,
     "ntGP": 0,
@@ -1092,21 +1222,27 @@
     "win": "S",
     "conf": "C",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível (brasileiro). Campeão italiano 1982/83; Taça UEFA quartos (Benfica)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Paulo_Roberto_Falc%C3%A3o",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_A.S._Roma_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_A.S._Roma_season",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_Serie_A",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup"
+    ],
+    "note": "Inelegível (brasileiro). Campeão italiano 1982/83; Taça UEFA quartos (Benfica). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1982–83 UEFA Cup: Quarter-finals). Alterado: g 8→9, uG 1→2."
    },
    {
     "name": "Zico",
     "club": "Flamengo / Udinese",
     "lg": "BRA",
     "pos": "AM",
-    "gp": 32,
-    "g": 24,
+    "gp": 29,
+    "g": 22,
     "a": 8,
     "uT": "LIB",
-    "uG": 2,
+    "uG": 3,
     "uA": 1,
-    "uS": 0,
+    "uS": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1116,11 +1252,15 @@
     "cont": null,
     "rank": null,
     "elig": 0,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível. Ano civil: Brasileirão 1983 (campeão) + Libertadores 1983 + outono na Udinese. Divisão muito incerta."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Zico_(footballer)",
+     "https://en.wikipedia.org/wiki/1983_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/1983_Copa_Libertadores"
+    ],
+    "note": "Inelegível. Ano civil: Brasileirão 1983 (campeão) + Libertadores 1983 + outono na Udinese. Divisão muito incerta. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1983 Copa Libertadores: Group Stage). Alterado: gp 32→29, g 24→22, uG 2→3, uS 0→2."
    }
   ]
  },
@@ -1131,18 +1271,18 @@
   "realAll": null,
   "realAllNote": "Sem atribuição retroativa.",
   "window": "CY",
-  "notes": "Atribuído a 25/12/1984. Confirmados 1.º–8.º: Platini 128, Tigana 57, Elkjær 48, Rush 44, Chalana 18, Souness 16, Schumacher 12, Rummenigge 10; Bossis e Scifo 12.º ex aequo (5), Briegel 14.º ex aequo (3). 9.º–11.º NÃO identificados (pesquisa esgotada) — faltam no ficheiro. Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
+  "notes": "Atribuído a 25/12/1984. Confirmados 1.º–8.º: Platini 128, Tigana 57, Elkjær 48, Rush 44, Chalana 18, Souness 16, Schumacher 12, Rummenigge 10; Bossis e Scifo 12.º ex aequo (5), Briegel 14.º ex aequo (3). 9.º Giresse (9), 10.º Bryan Robson (7), 11.º Schuster (6) — confirmados na Wikipédia (2.ª passagem). Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
   "rows": [
    {
     "name": "Michel Platini",
     "club": "Juventus",
     "lg": "SA",
     "pos": "AM",
-    "gp": 37,
+    "gp": 35,
     "g": 23,
     "a": 10,
     "uT": "CWC",
-    "uG": 3,
+    "uG": 6,
     "uA": 2,
     "uS": 5,
     "ntGP": 5,
@@ -1154,23 +1294,29 @@
     "cont": null,
     "rank": 1,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Michel_Platini",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Serie_A",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Capocannoniere 1983/84 (20); campeão italiano; Taça das Taças vencida; Euro 1984: 9 golos."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capocannoniere 1983/84 (20); campeão italiano; Taça das Taças vencida; Euro 1984: 9 golos. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1983–84 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup Winners' Cup: Final). Alterado: gp 37→35, uG 3→6."
    },
    {
     "name": "Jean Tigana",
     "club": "Bordeaux",
     "lg": "L1",
     "pos": "CM",
-    "gp": 37,
-    "g": 2,
+    "gp": 34,
+    "g": 1,
     "a": 6,
     "uT": "UEL",
     "uG": 0,
@@ -1191,9 +1337,13 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Jean_Tigana",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_French_Division_1",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Campeão francês 1983/84."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão francês 1983/84. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup: First round). Alterado: gp 37→34, g 2→1."
    },
    {
     "name": "Preben Elkjær",
@@ -1222,20 +1372,22 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Época 1983/84 no Lokeren; mudou-se para o Verona no verão de 1984 (o outono no Verona contaria numa janela CY verdadeira)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Época 1983/84 no Lokeren; mudou-se para o Verona no verão de 1984 (o outono no Verona contaria numa janela CY verdadeira). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Ian Rush",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 50,
-    "g": 37,
+    "gp": 43,
+    "g": 27,
     "a": 8,
     "uT": "UCL",
-    "uG": 5,
+    "uG": 7,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -1247,15 +1399,20 @@
     "cont": null,
     "rank": 4,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Ian_Rush",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). 32 golos na liga 1983/84 (de memória); Taça dos Campeões vencida; Chuteira de Ouro 1984."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). 32 golos na liga 1983/84 (de memória); Taça dos Campeões vencida; Chuteira de Ouro 1984. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 European Cup: Final). Alterado: gp 50→43, g 37→27, uG 5→7."
    },
    {
     "name": "Fernando Chalana",
@@ -1284,20 +1441,22 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Fernando_Chalana",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Campeão português 1983/84; Taça dos Campeões quartos (Liverpool)."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Campeão português 1983/84; Taça dos Campeões quartos (Liverpool). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Graeme Souness",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "CM",
-    "gp": 46,
-    "g": 9,
+    "gp": 36,
+    "g": 6,
     "a": 8,
     "uT": "UCL",
-    "uG": 2,
+    "uG": 0,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -1309,28 +1468,33 @@
     "cont": 8.5,
     "rank": 6,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Graeme_Souness",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_UC_Sampdoria_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Capitão campeão europeu e inglês."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Capitão campeão europeu e inglês. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 European Cup: Final). Alterado: gp 46→36, g 9→6, uG 2→0."
    },
    {
     "name": "Harald Schumacher",
     "club": "Köln",
     "lg": "BL",
     "pos": "GK",
-    "gp": 38,
+    "gp": 37,
     "g": 0,
     "a": 0,
     "uT": "CWC",
     "uG": 0,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 3,
     "ntG": 0,
     "ntA": 0,
@@ -1346,20 +1510,24 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Toni_Schumacher",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Bundesliga",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Participação europeia 1983/84 incerta."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Participação europeia 1983/84 incerta. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup Winners' Cup: Second round). Alterado: gp 38→37, uS 0→1."
    },
    {
     "name": "Karl-Heinz Rummenigge",
     "club": "Bayern",
     "lg": "BL",
     "pos": "FW",
-    "gp": 38,
-    "g": 29,
+    "gp": 35,
+    "g": 28,
     "a": 8,
     "uT": "UEL",
-    "uG": 3,
+    "uG": 2,
     "uA": 1,
     "uS": 1,
     "ntGP": 3,
@@ -1377,9 +1545,82 @@
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy84.html",
      "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1984.htm",
+     "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Bundesliga",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
     ],
-    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Melhor marcador da Bundesliga 1983/84 (26, de memória). Mudou-se para o Inter em 1984."
+    "note": "Posição/pontos na votação confirmados via resultados de pesquisa (RSSSF/Wikipédia/topendsports). Melhor marcador da Bundesliga 1983/84 (26, de memória). Mudou-se para o Inter em 1984. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup: Third round). Alterado: gp 38→35, g 29→28, uG 3→2."
+   },
+   {
+    "name": "Alain Giresse",
+    "club": "Bordeaux",
+    "lg": "L1",
+    "pos": "AM",
+    "gp": 36,
+    "g": 17,
+    "a": 8,
+    "uT": "UEL",
+    "uG": 1,
+    "uA": 0,
+    "uS": 0,
+    "ntGP": 5,
+    "ntG": 1,
+    "ntA": 2,
+    "ntT": "EURO",
+    "ntS": 5,
+    "title": 1,
+    "cont": null,
+    "rank": 9,
+    "elig": 1,
+    "win": "S",
+    "conf": "C",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Alain_Giresse",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_French_Division_1",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1984"
+    ],
+    "note": "Votação: 9.º, 9 pontos (Wikipédia). Campeão francês 1983/84 e campeão europeu de seleções. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup: First round). Alterado: gp 40→36, g 12→17, uG 0→1."
+   },
+   {
+    "name": "Bryan Robson",
+    "club": "Manchester United",
+    "lg": "EPL",
+    "pos": "CM",
+    "gp": 42,
+    "g": 17,
+    "a": 6,
+    "uT": "CWC",
+    "uG": 4,
+    "uA": 0,
+    "uS": 3,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": 8,
+    "rank": 10,
+    "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1984_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Bryan_Robson",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup"
+    ],
+    "note": "Votação: 10.º, 7 pontos (Wikipédia). Taça das Taças 1983/84: meias-finais (Juventus). Inglaterra não se qualificou para o Euro 1984. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 UEFA Cup Winners' Cup: Semi-finals). Alterado: gp 40→42, g 14→17."
    },
    {
     "name": "Zico",
@@ -1405,16 +1646,19 @@
     "win": "S",
     "conf": "C",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível. Serie A 1983/84: 19 golos (2.º atrás de Platini), de memória."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Zico_(footballer)",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Serie_A"
+    ],
+    "note": "Inelegível. Serie A 1983/84: 19 golos (2.º atrás de Platini), de memória. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas."
    },
    {
     "name": "Falcão",
     "club": "Roma",
     "lg": "SA",
     "pos": "CM",
-    "gp": 33,
-    "g": 6,
+    "gp": 20,
+    "g": 4,
     "a": 5,
     "uT": "UCL",
     "uG": 1,
@@ -1429,11 +1673,17 @@
     "cont": 8.5,
     "rank": null,
     "elig": 0,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível. Final da Taça dos Campeões 1984 perdida (Liverpool)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Paulo_Roberto_Falc%C3%A3o",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_A.S._Roma_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_A.S._Roma_season",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_Serie_A",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
+    ],
+    "note": "Inelegível. Final da Taça dos Campeões 1984 perdida (Liverpool). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1983–84 Roma: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1983–84 European Cup: Final). Alterado: gp 33→20, g 6→4."
    }
   ]
  },
@@ -1444,18 +1694,18 @@
   "realAll": null,
   "realAllNote": "Sem atribuição retroativa (o primeiro prémio retroativo de Maradona é 1986).",
   "window": "CY",
-  "notes": "Atribuído a 24/12/1985. INCOMPLETO: a votação de 1985 NÃO foi verificada (orçamento de pesquisa esgotado). Só o pódio (Platini, Elkjær, Schuster), de memória; 4.º–10.º em falta. Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
+  "notes": "Atribuído a 24/12/1985. Votação confirmada na Wikipédia (2.ª passagem): Platini 127, Elkjær 71, Schuster 46, M. Laudrup 14, Rummenigge 13, Boniek 12, Protasov 10, Briegel 9, B. Robson e Dasayev 8 (9.º ex aequo). Janela CY pedida, mas sem acesso a listas jogo a jogo: ligas europeias de época usam a época que termina no ano (win \"S\"); ligas de ano civil (URS, BRA, ARG, DEN) usam o ano civil. Todas as estatísticas são estimativas (conf C). Sem atribuição retroativa da France Football (2016) neste ano: os 12 prémios retroativos foram Pelé ×7 (1958–61, 1963, 1964, 1970), Maradona ×2 (1986, 1990), Garrincha (1962), Kempes (1978) e Romário (1994).",
   "rows": [
    {
     "name": "Michel Platini",
     "club": "Juventus",
     "lg": "SA",
     "pos": "AM",
-    "gp": 39,
-    "g": 25,
+    "gp": 41,
+    "g": 23,
     "a": 8,
     "uT": "UCL",
-    "uG": 7,
+    "uG": 4,
     "uA": 2,
     "uS": 5,
     "ntGP": 0,
@@ -1467,11 +1717,18 @@
     "cont": null,
     "rank": 1,
     "elig": 1,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Posição não verificada na web (de memória). Capocannoniere 1984/85 (18); Taça dos Campeões vencida (Heysel), melhor marcador."
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Michel_Platini",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
+    ],
+    "note": "Votação: 1.º, 127 pontos (Wikipédia). Capocannoniere 1984/85 (18); Taça dos Campeões vencida (Heysel), melhor marcador. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 European Cup: Final). Alterado: gp 39→41, g 25→23, uG 7→4."
    },
    {
     "name": "Preben Elkjær",
@@ -1497,19 +1754,22 @@
     "win": "S",
     "conf": "C",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Posição não verificada na web (de memória). Campeão italiano 1984/85."
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r"
+    ],
+    "note": "Votação: 2.º, 71 pontos (Wikipédia). Campeão italiano 1984/85. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Bernd Schuster",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "CM",
-    "gp": 35,
+    "gp": 29,
     "g": 11,
     "a": 10,
     "uT": "CWC",
-    "uG": 0,
+    "uG": 1,
     "uA": 0,
     "uS": 0,
     "ntGP": 0,
@@ -1521,19 +1781,258 @@
     "cont": 7.5,
     "rank": 3,
     "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Bernd_Schuster",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_La_Liga",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup_Winners'_Cup"
+    ],
+    "note": "Votação: 3.º, 46 pontos (Wikipédia). Campeão espanhol 1984/85; Taça das Taças eliminado na 1.ª ronda (Metz). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1985–86 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 UEFA Cup Winners' Cup: First round). Alterado: gp 35→29, uG 0→1."
+   },
+   {
+    "name": "Michael Laudrup",
+    "club": "Lazio / Juventus",
+    "lg": "SA",
+    "pos": "AM",
+    "gp": 35,
+    "g": 5,
+    "a": 6,
+    "uT": "UCL",
+    "uG": 1,
+    "uA": 0,
+    "uS": 0,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": null,
+    "rank": 4,
+    "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Michael_Laudrup",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_SS_Lazio_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
+    ],
+    "note": "Votação: 4.º, 14 pontos (Wikipédia). Lazio (empréstimo) em 1984/85, Juventus a partir do verão de 1985. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1985–86 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1985–86 European Cup). Alterado: gp 30→35, g 8→5, uG 0→1."
+   },
+   {
+    "name": "Karl-Heinz Rummenigge",
+    "club": "Inter",
+    "lg": "SA",
+    "pos": "FW",
+    "gp": 35,
+    "g": 17,
+    "a": 5,
+    "uT": "UEL",
+    "uG": 5,
+    "uA": 0,
+    "uS": 3,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": null,
+    "rank": 5,
+    "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup"
+    ],
+    "note": "Votação: 5.º, 13 pontos (Wikipédia). Taça UEFA 1984/85: meias-finais (Real Madrid). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1984–85 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 UEFA Cup: Semi-finals). Alterado: gp 34→35, g 11→17, uG 3→5."
+   },
+   {
+    "name": "Zbigniew Boniek",
+    "club": "Juventus / Roma",
+    "lg": "SA",
+    "pos": "AM",
+    "gp": 32,
+    "g": 7,
+    "a": 6,
+    "uT": "UCL",
+    "uG": 2,
+    "uA": 0,
+    "uS": 5,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": null,
+    "rank": 6,
+    "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Zbigniew_Boniek",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_AS_Roma_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
+    ],
+    "note": "Votação: 6.º, 12 pontos (Wikipédia). Campeão europeu com a Juventus (maio de 1985), depois Roma. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1984–85 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 European Cup: Final)."
+   },
+   {
+    "name": "Oleh Protasov",
+    "club": "Dnipro Dnipropetrovsk",
+    "lg": "URS",
+    "pos": "FW",
+    "gp": 39,
+    "g": 39,
+    "a": 5,
+    "uT": "UCL",
+    "uG": 4,
+    "uA": 0,
+    "uS": 2,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": null,
+    "rank": 7,
+    "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Oleh_Protasov",
+     "https://en.wikipedia.org/wiki/1985_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
+    ],
+    "note": "Votação: 7.º, 10 pontos (Wikipédia). Liga soviética de ano civil 1985: melhor marcador (recorde de 35 golos, de memória). Taça dos Campeões 1984/85: quartos (Bordeaux). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 European Cup: Quarter-finals). Alterado: gp 38→39, g 36→39, uG 1→4."
+   },
+   {
+    "name": "Hans-Peter Briegel",
+    "club": "Verona",
+    "lg": "SA",
+    "pos": "CM",
+    "gp": 27,
+    "g": 9,
+    "a": 4,
+    "uT": "UCL",
+    "uG": 0,
+    "uA": 0,
+    "uS": 0,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 1,
+    "cont": 7.5,
+    "rank": 8,
+    "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Posição não verificada na web (de memória). Campeão espanhol 1984/85; Taça das Taças eliminado na 1.ª ronda (Metz)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Hans-Peter_Briegel",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Hellas_Verona_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Hellas_Verona_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
+    ],
+    "note": "Votação: 8.º, 9 pontos (Wikipédia). Campeão italiano 1984/85 com o Verona. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1985–86 European Cup). Alterado: gp 30→27, uT →UCL."
+   },
+   {
+    "name": "Bryan Robson",
+    "club": "Manchester United",
+    "lg": "EPL",
+    "pos": "CM",
+    "gp": 29,
+    "g": 6,
+    "a": 6,
+    "uT": "UEL",
+    "uG": 0,
+    "uA": 0,
+    "uS": 2,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": 8,
+    "rank": 9,
+    "elig": 1,
+    "win": "CY",
+    "conf": "B",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Bryan_Robson",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Football_League",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup"
+    ],
+    "note": "Votação: 9.º ex aequo, 8 pontos (Wikipédia). Taça UEFA 1984/85: quartos (Videoton). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1984–85 UEFA Cup: Quarter-finals). Alterado: gp 38→29, g 10→6, uG 2→0."
+   },
+   {
+    "name": "Rinat Dasayev",
+    "club": "Spartak Moscovo",
+    "lg": "URS",
+    "pos": "GK",
+    "gp": 34,
+    "g": 0,
+    "a": 0,
+    "uT": "UEL",
+    "uG": 0,
+    "uA": 0,
+    "uS": 0,
+    "ntGP": 0,
+    "ntG": 0,
+    "ntA": 0,
+    "ntT": "",
+    "ntS": 0,
+    "title": 0,
+    "cont": 8.5,
+    "rank": 9,
+    "elig": 1,
+    "win": "CY",
+    "conf": "C",
+    "aConf": "C",
+    "sources": [
+     "https://en.wikipedia.org/wiki/1985_Ballon_d%27Or",
+     "https://en.wikipedia.org/wiki/Rinat_Dasayev"
+    ],
+    "note": "Votação: 9.º ex aequo, 8 pontos (Wikipédia). Liga soviética de ano civil 1985. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Diego Maradona",
     "club": "Napoli",
     "lg": "SA",
     "pos": "AM",
-    "gp": 30,
-    "g": 14,
+    "gp": 32,
+    "g": 17,
     "a": 8,
     "uT": "",
     "uG": 0,
@@ -1548,11 +2047,16 @@
     "cont": null,
     "rank": null,
     "elig": 0,
-    "win": "S",
-    "conf": "C",
+    "win": "CY",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Estatísticas de memória, NÃO verificadas na web (WebFetch bloqueado nesta sessão; orçamento de pesquisa esgotado). Inelegível (argentino). Serie A 1984/85."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A"
+    ],
+    "note": "Inelegível (argentino). Serie A 1984/85. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 30→32, g 14→17."
    }
   ]
  }

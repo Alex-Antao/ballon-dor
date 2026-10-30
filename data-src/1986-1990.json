@@ -13,11 +13,11 @@
     "club": "Dynamo Kyiv",
     "lg": "URS",
     "pos": "FW",
-    "gp": 31,
-    "g": 15,
+    "gp": 30,
+    "g": 14,
     "a": 6,
     "uT": "CWC",
-    "uG": 5,
+    "uG": 4,
     "uA": 2,
     "uS": 5,
     "ntGP": 4,
@@ -36,47 +36,57 @@
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
      "https://ru.wikipedia.org/wiki/Чемпионат_СССР_по_футболу_1986_(высшая_лига)",
-     "https://teams.by/statistika-igor-beianov-v-turnire/1223-124-26501-club/"
+     "https://teams.by/statistika-igor-beianov-v-turnire/1223-124-26501-club/",
+     "https://en.wikipedia.org/wiki/Igor_Belanov",
+     "https://en.wikipedia.org/wiki/1986_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "84 pts. Liga 1986 verificada: 22 jogos/10 golos (ru.wikipedia, teams.by). Europa (Taça das Taças 85/86 QF–final + Taça dos Campeões 86/87 R1–R2, 9 jogos) estimada; 5 golos na Taça das Taças 85/86 inteira (alguns em 1985)."
+    "note": "84 pts. Liga 1986 verificada: 22 jogos/10 golos (ru.wikipedia, teams.by). Europa (Taça das Taças 85/86 QF–final + Taça dos Campeões 86/87 R1–R2, 9 jogos) estimada; 5 golos na Taça das Taças 85/86 inteira (alguns em 1985). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup Winners' Cup: Final). Alterado: gp 31→30, g 15→14, uG 5→4."
    },
    {
     "name": "Gary Lineker",
     "club": "Everton / Barcelona",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 42,
-    "g": 26,
+    "gp": 41,
+    "g": 30,
     "a": 4,
     "uT": "UEL",
-    "uG": 2,
+    "uG": 0,
     "uA": 0,
     "uS": 0,
     "ntGP": 5,
     "ntG": 6,
     "ntA": 0,
     "ntT": "WC",
-    "ntS": 2,
+    "ntS": 1,
     "title": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Gary_Lineker",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Everton_F.C._season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Football_League",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "62 pts. Everton jan–mai (época 85/86: 30 golos na liga) + Barcelona set–dez (Liga + Taça UEFA 86/87 R1–R3). Sem edição europeia a terminar em 1986 (ban inglês): uS 0. Mundial: Bota de Ouro, 6 golos."
+    "note": "62 pts. Everton jan–mai (época 85/86: 30 golos na liga) + Barcelona set–dez (Liga + Taça UEFA 86/87 R1–R3). Sem edição europeia a terminar em 1986 (ban inglês): uS 0. Mundial: Bota de Ouro, 6 golos. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1986–87 UEFA Cup). Alterado: gp 42→41, g 26→30, uG 2→0, ntS 2→1."
    },
    {
     "name": "Emilio Butragueño",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 44,
-    "g": 15,
+    "gp": 40,
+    "g": 13,
     "a": 8,
     "uT": "UEL",
     "uG": 4,
@@ -92,13 +102,19 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Emilio_Butrague%C3%B1o",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_La_Liga",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "59 pts. Campeão da Liga e da Taça UEFA 1985/86. Mundial: 5 golos (4 à Dinamarca)."
+    "note": "59 pts. Campeão da Liga e da Taça UEFA 1985/86. Mundial: 5 golos (4 à Dinamarca). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup: Final). Alterado: gp 44→40, g 15→13."
    },
    {
     "name": "Manuel Amoros",
@@ -126,9 +142,11 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Manuel_Amoros",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "22 pts (4.º ex aequo). França 3.ª no Mundial (meias)."
+    "note": "22 pts (4.º ex aequo). França 3.ª no Mundial (meias). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Preben Elkjær",
@@ -156,16 +174,18 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "22 pts (4.º ex aequo). Mundial: 4 golos (hat-trick ao Uruguai)."
+    "note": "22 pts (4.º ex aequo). Mundial: 4 golos (hat-trick ao Uruguai). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Ian Rush",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 41,
+    "gp": 39,
     "g": 27,
     "a": 5,
     "uT": "",
@@ -182,27 +202,31 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Ian_Rush",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Football_League"
     ],
-    "note": "20 pts (6.º ex aequo). Campeão inglês 1985/86 (dobradinha). Sem Europa (ban) nem Mundial (País de Gales)."
+    "note": "20 pts (6.º ex aequo). Campeão inglês 1985/86 (dobradinha). Sem Europa (ban) nem Mundial (País de Gales). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 41→39."
    },
    {
     "name": "Alexander Zavarov",
     "club": "Dynamo Kyiv",
     "lg": "URS",
     "pos": "AM",
-    "gp": 34,
-    "g": 9,
+    "gp": 27,
+    "g": 6,
     "a": 7,
     "uT": "CWC",
     "uG": 2,
     "uA": 2,
     "uS": 5,
-    "ntGP": 3,
+    "ntGP": 4,
     "ntG": 1,
     "ntA": 1,
     "ntT": "WC",
@@ -212,13 +236,17 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Oleksandr_Zavarov",
+     "https://en.wikipedia.org/wiki/1986_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "20 pts (6.º ex aequo). Marcou na final da Taça das Taças 1986."
+    "note": "20 pts (6.º ex aequo). Marcou na final da Taça das Taças 1986. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup Winners' Cup: Final). Alterado: gp 34→27, g 9→6, ntGP 3→4."
    },
    {
     "name": "Helmuth Duckadam",
@@ -246,19 +274,20 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Helmut_Duckadam"
     ],
-    "note": "10 pts (8.º ex aequo). Defendeu 4 penáltis na final da Taça dos Campeões 1986; não voltou a jogar em 1986 (aneurisma)."
+    "note": "10 pts (8.º ex aequo). Defendeu 4 penáltis na final da Taça dos Campeões 1986; não voltou a jogar em 1986 (aneurisma). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Marco van Basten",
     "club": "Ajax",
     "lg": "ERE",
     "pos": "FW",
-    "gp": 34,
-    "g": 38,
+    "gp": 33,
+    "g": 40,
     "a": 6,
-    "uT": "CWC",
+    "uT": "UCL",
     "uG": 3,
     "uA": 1,
     "uS": 0,
@@ -272,13 +301,17 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Marco_van_Basten",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_AFC_Ajax_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Eredivisie",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
-    "note": "10 pts (8.º ex aequo). Bota de Ouro 1985/86 (37 golos). Taça das Taças 86/87 só R1–R2 na janela (edição termina em 1987): uS 0."
+    "note": "10 pts (8.º ex aequo). Bota de Ouro 1985/86 (37 golos). Taça das Taças 86/87 só R1–R2 na janela (edição termina em 1987): uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1985–86 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1985–86 European Cup: First round). Alterado: gp 34→33, g 38→40, uT CWC→UCL."
    },
    {
     "name": "Alessandro Altobelli",
@@ -286,10 +319,10 @@
     "lg": "SA",
     "pos": "FW",
     "gp": 37,
-    "g": 16,
+    "g": 14,
     "a": 4,
     "uT": "UEL",
-    "uG": 4,
+    "uG": 3,
     "uA": 1,
     "uS": 3,
     "ntGP": 4,
@@ -302,20 +335,26 @@
     "rank": 10,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Alessandro_Altobelli",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Serie_A",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "9 pts. Inter meia-finalista da Taça UEFA 1985/86."
+    "note": "9 pts. Inter meia-finalista da Taça UEFA 1985/86. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup: Semi-finals). Alterado: g 16→14, uG 4→3."
    },
    {
     "name": "Diego Maradona",
     "club": "Napoli",
     "lg": "SA",
     "pos": "AM",
-    "gp": 30,
+    "gp": 29,
     "g": 9,
     "a": 8,
     "uT": "UEL",
@@ -332,28 +371,34 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
-     "https://www.goal.com/it/notizie/perche-maradona-e-pele-non-hanno-mai-vinto-il-pallone-doro/nsgfrfaojrnj1xh3kr8jrsj2f"
+     "https://www.goal.com/it/notizie/perche-maradona-e-pele-non-hanno-mai-vinto-il-pallone-doro/nsgfrfaojrnj1xh3kr8jrsj2f",
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Serie_A",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "Inelegível (argentino). Vencedor retroativo FF 2016. Mundial 1986: 5 golos, 5 assistências, campeão."
+    "note": "Inelegível (argentino). Vencedor retroativo FF 2016. Mundial 1986: 5 golos, 5 assistências, campeão. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1986–87 UEFA Cup). Alterado: gp 30→29."
    },
    {
     "name": "Hugo Sánchez",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 42,
-    "g": 31,
+    "gp": 43,
+    "g": 32,
     "a": 4,
     "uT": "UEL",
     "uG": 5,
     "uA": 1,
     "uS": 5,
-    "ntGP": 5,
+    "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
     "ntT": "WC",
@@ -363,13 +408,19 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy86.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
+     "https://en.wikipedia.org/wiki/Hugo_S%C3%A1nchez",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_La_Liga",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "Inelegível (mexicano). Pichichi 1985/86 (22). México nos quartos do Mundial."
+    "note": "Inelegível (mexicano). Pichichi 1985/86 (22). México nos quartos do Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup: Final). Alterado: gp 42→43, g 31→32, ntGP 5→4."
    }
   ]
  },
@@ -387,10 +438,10 @@
     "club": "PSV / Milan",
     "lg": "ERE",
     "pos": "AM",
-    "gp": 31,
-    "g": 16,
+    "gp": 33,
+    "g": 14,
     "a": 7,
-    "uT": "UEL",
+    "uT": "UCL",
     "uG": 1,
     "uA": 1,
     "uS": 0,
@@ -404,24 +455,28 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Ruud_Gullit",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Eredivisie",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "106 pts. Campeão neerlandês 1986/87 com o PSV; Milan desde ago. PSV eliminado da Taça dos Campeões em 1986; Milan na Taça UEFA 87/88 (R1–R2): uS 0."
+    "note": "106 pts. Campeão neerlandês 1986/87 com o PSV; Milan desde ago. PSV eliminado da Taça dos Campeões em 1986; Milan na Taça UEFA 87/88 (R1–R2): uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 PSV: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: First round). Alterado: gp 31→33, g 16→14, uT UEL→UCL."
    },
    {
     "name": "Paulo Futre",
     "club": "Porto / Atlético Madrid",
     "lg": "POR",
     "pos": "W",
-    "gp": 33,
-    "g": 11,
+    "gp": 34,
+    "g": 12,
     "a": 7,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 2,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -433,25 +488,30 @@
     "cont": null,
     "rank": 2,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Paulo_Futre",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_FC_Porto_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Atl%C3%A9tico_Madrid_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Primeira_Divis%C3%A3o",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "91 pts. Campeão europeu com o Porto (final 27/05/1987). lg/clube: incerto se o Atlético teve jogos europeus no outono 1987 (assumido que não)."
+    "note": "91 pts. Campeão europeu com o Porto (final 27/05/1987). lg/clube: incerto se o Atlético teve jogos europeus no outono 1987 (assumido que não). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Final). Alterado: gp 33→34, g 11→12, uG 1→2."
    },
    {
     "name": "Emilio Butragueño",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 49,
-    "g": 15,
+    "gp": 39,
+    "g": 16,
     "a": 9,
     "uT": "UCL",
-    "uG": 2,
+    "uG": 4,
     "uA": 1,
     "uS": 3,
     "ntGP": 0,
@@ -464,24 +524,29 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Emilio_Butrague%C3%B1o",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "61 pts. Campeão espanhol 1986/87; meias da Taça dos Campeões."
+    "note": "61 pts. Campeão espanhol 1986/87; meias da Taça dos Campeões. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Semi-finals). Alterado: gp 49→39, g 15→16, uG 2→4."
    },
    {
     "name": "Míchel",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "W",
-    "gp": 47,
-    "g": 9,
+    "gp": 44,
+    "g": 12,
     "a": 10,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 3,
     "uA": 2,
     "uS": 3,
     "ntGP": 0,
@@ -494,24 +559,29 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/M%C3%ADchel_(footballer,_born_1963)",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "29 pts. Médio-direito/ala."
+    "note": "29 pts. Médio-direito/ala. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Semi-finals). Alterado: gp 47→44, g 9→12, uG 1→3."
    },
    {
     "name": "Gary Lineker",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 48,
-    "g": 19,
+    "gp": 49,
+    "g": 20,
     "a": 4,
     "uT": "UEL",
-    "uG": 2,
+    "uG": 0,
     "uA": 0,
     "uS": 2,
     "ntGP": 0,
@@ -523,22 +593,27 @@
     "cont": null,
     "rank": 5,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Gary_Lineker",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup"
     ],
-    "note": "13 pts. Taça UEFA 86/87 quartos (Dundee United)."
+    "note": "13 pts. Taça UEFA 86/87 quartos (Dundee United). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1986–87 UEFA Cup: Quarter-finals). Alterado: gp 48→49, g 19→20, uG 2→0."
    },
    {
     "name": "John Barnes",
     "club": "Watford / Liverpool",
     "lg": "EPL",
     "pos": "W",
-    "gp": 38,
-    "g": 14,
+    "gp": 39,
+    "g": 12,
     "a": 9,
     "uT": "",
     "uG": 0,
@@ -554,21 +629,25 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/John_Barnes",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Watford_F.C._season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Football_League"
     ],
-    "note": "10 pts (6.º ex aequo). Sem Europa (ban)."
+    "note": "10 pts (6.º ex aequo). Sem Europa (ban). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 Watford: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 38→39, g 14→12."
    },
    {
     "name": "Marco van Basten",
     "club": "Ajax / Milan",
     "lg": "ERE",
     "pos": "FW",
-    "gp": 23,
-    "g": 19,
+    "gp": 24,
+    "g": 17,
     "a": 3,
     "uT": "CWC",
     "uG": 3,
@@ -584,21 +663,26 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Marco_van_Basten",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_AFC_Ajax_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Eredivisie",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "10 pts (6.º ex aequo). Golo na final da Taça das Taças 1987; lesionado quase todo o outono no Milan."
+    "note": "10 pts (6.º ex aequo). Golo na final da Taça das Taças 1987; lesionado quase todo o outono no Milan. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 UEFA Cup Winners' Cup: Final). Alterado: gp 23→24, g 19→17."
    },
    {
     "name": "Gianluca Vialli",
     "club": "Sampdoria",
     "lg": "SA",
     "pos": "FW",
-    "gp": 28,
-    "g": 12,
+    "gp": 27,
+    "g": 9,
     "a": 4,
     "uT": "",
     "uG": 0,
@@ -614,21 +698,25 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Gianluca_Vialli",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UC_Sampdoria_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UC_Sampdoria_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Serie_A"
     ],
-    "note": "9 pts. Sampdoria sem Europa na janela (a confirmar)."
+    "note": "9 pts. Sampdoria sem Europa na janela (a confirmar). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 28→27, g 12→9."
    },
    {
     "name": "Bryan Robson",
     "club": "Manchester United",
     "lg": "EPL",
     "pos": "CM",
-    "gp": 36,
-    "g": 9,
+    "gp": 33,
+    "g": 11,
     "a": 5,
     "uT": "",
     "uG": 0,
@@ -644,13 +732,17 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Bryan_Robson",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Manchester_United_F.C._season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Football_League"
     ],
-    "note": "7 pts."
+    "note": "7 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 36→33, g 9→11."
    },
    {
     "name": "Klaus Allofs",
@@ -678,9 +770,10 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Klaus_Allofs"
     ],
-    "note": "6 pts (10.º ex aequo). Taça das Taças 87/88 com o Marseille (só outono na janela)."
+    "note": "6 pts (10.º ex aequo). Taça das Taças 87/88 com o Marseille (só outono na janela). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Glenn Hysén",
@@ -708,9 +801,10 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Glenn_Hys%C3%A9n"
     ],
-    "note": "6 pts (10.º ex aequo). Vencedor da Taça UEFA 1987 com o Göteborg; Fiorentina desde o verão. title=1 assumido (Göteborg campeão sueco 1987; ~metade dos jogos), a confirmar."
+    "note": "6 pts (10.º ex aequo). Vencedor da Taça UEFA 1987 com o Göteborg; Fiorentina desde o verão. title=1 assumido (Göteborg campeão sueco 1987; ~metade dos jogos), a confirmar. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Diego Maradona",
@@ -718,9 +812,9 @@
     "lg": "SA",
     "pos": "AM",
     "gp": 30,
-    "g": 13,
+    "g": 10,
     "a": 7,
-    "uT": "UCL",
+    "uT": "UEL",
     "uG": 0,
     "uA": 0,
     "uS": 0,
@@ -738,17 +832,22 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Serie_A",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup"
     ],
-    "note": "Inelegível. Dobradinha Napoli 1986/87. Copa América 1987: 4.º lugar (meias), 3 golos."
+    "note": "Inelegível. Dobradinha Napoli 1986/87. Copa América 1987: 4.º lugar (meias), 3 golos. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 UEFA Cup: First round); por verificar: seleção. Alterado: g 13→10, uT UCL→UEL."
    },
    {
     "name": "Hugo Sánchez",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 49,
-    "g": 35,
+    "gp": 44,
+    "g": 33,
     "a": 4,
     "uT": "UCL",
     "uG": 3,
@@ -764,13 +863,18 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy87.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
+     "https://en.wikipedia.org/wiki/Hugo_S%C3%A1nchez",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "Inelegível. Pichichi 1986/87 (34)."
+    "note": "Inelegível. Pichichi 1986/87 (34). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Semi-finals). Alterado: gp 49→44, g 35→33."
    }
   ]
  },
@@ -788,10 +892,10 @@
     "club": "Milan",
     "lg": "SA",
     "pos": "FW",
-    "gp": 24,
-    "g": 15,
+    "gp": 22,
+    "g": 11,
     "a": 3,
-    "uT": "UCL",
+    "uT": "UEL",
     "uG": 5,
     "uA": 1,
     "uS": 0,
@@ -805,23 +909,29 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Marco_van_Basten",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "129 pts. Euro: 5 golos, campeão. Serie A 87/88: só 11 jogos (lesão) mas ≥1/3 → title 1. Milan sem Europa em 87/88 após nov 1987; Taça dos Campeões 88/89 só outono: uS 0."
+    "note": "129 pts. Euro: 5 golos, campeão. Serie A 87/88: só 11 jogos (lesão) mas ≥1/3 → title 1. Milan sem Europa em 87/88 após nov 1987; Taça dos Campeões 88/89 só outono: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 UEFA Cup: Second round). Alterado: gp 24→22, g 15→11, uT UCL→UEL."
    },
    {
     "name": "Ruud Gullit",
     "club": "Milan",
     "lg": "SA",
     "pos": "AM",
-    "gp": 31,
-    "g": 11,
+    "gp": 28,
+    "g": 9,
     "a": 7,
-    "uT": "UCL",
+    "uT": "UEL",
     "uG": 1,
     "uA": 1,
     "uS": 0,
@@ -835,24 +945,30 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Ruud_Gullit",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "88 pts. Campeão italiano e europeu (seleção)."
+    "note": "88 pts. Campeão italiano e europeu (seleção). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 UEFA Cup: Second round). Alterado: gp 31→28, g 11→9, uT UCL→UEL."
    },
    {
     "name": "Frank Rijkaard",
     "club": "Real Zaragoza / Milan",
     "lg": "SA",
     "pos": "DM",
-    "gp": 27,
-    "g": 1,
+    "gp": 25,
+    "g": 3,
     "a": 2,
     "uT": "UCL",
-    "uG": 0,
+    "uG": 1,
     "uA": 0,
     "uS": 0,
     "ntGP": 5,
@@ -865,13 +981,20 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Frank_Rijkaard",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Eredivisie",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Primeira_Divis%C3%A3o",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_La_Liga",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "45 pts. Emprestado ao Zaragoza (jan–jun), Milan desde ago. No Euro jogou como central."
+    "note": "45 pts. Emprestado ao Zaragoza (jan–jun), Milan desde ago. No Euro jogou como central. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1987–88 Ajax, 1987–88 Sporting CP, 1987–88 Zaragoza: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1988–89 European Cup). Alterado: gp 27→25, g 1→3, uG 0→1."
    },
    {
     "name": "Oleksiy Mykhaylychenko",
@@ -899,20 +1022,22 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Oleksiy_Mykhaylychenko",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "41 pts. Finalista do Euro; ouro olímpico (não conta). Europa no outono 1988 incerta."
+    "note": "41 pts. Finalista do Euro; ouro olímpico (não conta). Europa no outono 1988 incerta. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
    },
    {
     "name": "Ronald Koeman",
     "club": "PSV",
     "lg": "ERE",
     "pos": "DF",
-    "gp": 41,
-    "g": 21,
+    "gp": 40,
+    "g": 22,
     "a": 4,
     "uT": "UCL",
-    "uG": 3,
+    "uG": 1,
     "uA": 1,
     "uS": 5,
     "ntGP": 5,
@@ -924,25 +1049,30 @@
     "cont": 7,
     "rank": 5,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Ronald_Koeman",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_PSV_Eindhoven_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Eredivisie",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "39 pts. Tripleto PSV 1987/88 (liga, taça, Taça dos Campeões) + Euro."
+    "note": "39 pts. Tripleto PSV 1987/88 (liga, taça, Taça dos Campeões) + Euro. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: Final). Alterado: gp 41→40, g 21→22, uG 3→1."
    },
    {
     "name": "Lothar Matthäus",
     "club": "Bayern / Inter",
     "lg": "SA",
     "pos": "CM",
-    "gp": 37,
-    "g": 12,
+    "gp": 28,
+    "g": 14,
     "a": 6,
     "uT": "UCL",
-    "uG": 2,
+    "uG": 0,
     "uA": 1,
     "uS": 2,
     "ntGP": 4,
@@ -955,21 +1085,27 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Bundesliga",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "10 pts. Bayern quartos da Taça dos Campeões 87/88; Inter desde ago (Taça UEFA 88/89 R1–R3)."
+    "note": "10 pts. Bayern quartos da Taça dos Campeões 87/88; Inter desde ago (Taça UEFA 88/89 R1–R3). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: Quarter-finals). Alterado: gp 37→28, g 12→14, uG 2→0."
    },
    {
     "name": "Gianluca Vialli",
     "club": "Sampdoria",
     "lg": "SA",
     "pos": "FW",
-    "gp": 32,
-    "g": 16,
+    "gp": 31,
+    "g": 15,
     "a": 5,
     "uT": "CWC",
     "uG": 3,
@@ -985,13 +1121,19 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Gianluca_Vialli",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UC_Sampdoria_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UC_Sampdoria_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "7 pts. Taça das Taças 88/89 só outono na janela."
+    "note": "7 pts. Taça das Taças 88/89 só outono na janela. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1988–89 UEFA Cup Winners' Cup). Alterado: gp 32→31, g 16→15."
    },
    {
     "name": "Franco Baresi",
@@ -999,9 +1141,9 @@
     "lg": "SA",
     "pos": "DF",
     "gp": 31,
-    "g": 0,
+    "g": 1,
     "a": 1,
-    "uT": "UCL",
+    "uT": "UEL",
     "uG": 0,
     "uA": 0,
     "uS": 0,
@@ -1015,24 +1157,30 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Franco_Baresi",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "5 pts (8.º ex aequo)."
+    "note": "5 pts (8.º ex aequo). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 UEFA Cup: Second round). Alterado: g 0→1, uT UCL→UEL."
    },
    {
     "name": "Jürgen Klinsmann",
     "club": "VfB Stuttgart",
     "lg": "BL",
     "pos": "FW",
-    "gp": 40,
+    "gp": 34,
     "g": 19,
     "a": 5,
     "uT": "UEL",
-    "uG": 3,
+    "uG": 0,
     "uA": 1,
     "uS": 0,
     "ntGP": 4,
@@ -1044,25 +1192,29 @@
     "cont": null,
     "rank": 8,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Bundesliga",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "5 pts (8.º ex aequo). Melhor marcador da Bundesliga 87/88 (19)."
+    "note": "5 pts (8.º ex aequo). Melhor marcador da Bundesliga 87/88 (19). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1988–89 UEFA Cup). Alterado: gp 40→34, uG 3→0."
    },
    {
     "name": "Alexander Zavarov",
     "club": "Dynamo Kyiv / Juventus",
     "lg": "SA",
     "pos": "AM",
-    "gp": 31,
+    "gp": 29,
     "g": 6,
     "a": 6,
-    "uT": "UEL",
-    "uG": 1,
+    "uT": "UCL",
+    "uG": 0,
     "uA": 1,
     "uS": 0,
     "ntGP": 5,
@@ -1079,19 +1231,23 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Oleksandr_Zavarov",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "5 pts (8.º ex aequo). Juventus desde o verão."
+    "note": "5 pts (8.º ex aequo). Juventus desde o verão. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; prova/fase continental pela página da edição (1987–88 European Cup: First round); por verificar: título. Alterado: gp 31→29, uG 1→0, uT UEL→UCL."
    },
    {
     "name": "Diego Maradona",
     "club": "Napoli",
     "lg": "SA",
     "pos": "AM",
-    "gp": 35,
-    "g": 14,
+    "gp": 36,
+    "g": 16,
     "a": 8,
-    "uT": "UEL",
+    "uT": "UCL",
     "uG": 2,
     "uA": 1,
     "uS": 0,
@@ -1105,24 +1261,29 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
-    "note": "Inelegível. Capocannoniere 1987/88 (15)."
+    "note": "Inelegível. Capocannoniere 1987/88 (15). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Napoli: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: First round). Alterado: gp 35→36, g 14→16, uT UEL→UCL."
    },
    {
     "name": "Hugo Sánchez",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 44,
-    "g": 33,
+    "gp": 46,
+    "g": 34,
     "a": 5,
     "uT": "UCL",
-    "uG": 4,
+    "uG": 5,
     "uA": 1,
     "uS": 3,
     "ntGP": 0,
@@ -1135,13 +1296,18 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy88.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1988.htm",
+     "https://en.wikipedia.org/wiki/Hugo_S%C3%A1nchez",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_La_Liga",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
-    "note": "Inelegível. Pichichi 1987/88 (29)."
+    "note": "Inelegível. Pichichi 1987/88 (29). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: Semi-finals). Alterado: gp 44→46, g 33→34, uG 4→5."
    }
   ]
  },
@@ -1159,11 +1325,11 @@
     "club": "Milan",
     "lg": "SA",
     "pos": "FW",
-    "gp": 40,
+    "gp": 43,
     "g": 27,
     "a": 5,
     "uT": "UCL",
-    "uG": 7,
+    "uG": 6,
     "uA": 2,
     "uS": 5,
     "ntGP": 0,
@@ -1176,21 +1342,26 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Marco_van_Basten",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "119 pts. Campeão europeu (2 golos na final)."
+    "note": "119 pts. Campeão europeu (2 golos na final). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 40→43, uG 7→6."
    },
    {
     "name": "Franco Baresi",
     "club": "Milan",
     "lg": "SA",
     "pos": "DF",
-    "gp": 41,
-    "g": 1,
+    "gp": 44,
+    "g": 2,
     "a": 1,
     "uT": "UCL",
     "uG": 0,
@@ -1206,24 +1377,29 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Franco_Baresi",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "80 pts."
+    "note": "80 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 41→44, g 1→2."
    },
    {
     "name": "Frank Rijkaard",
     "club": "Milan",
     "lg": "SA",
     "pos": "DM",
-    "gp": 40,
-    "g": 3,
+    "gp": 43,
+    "g": 7,
     "a": 3,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 2,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -1236,26 +1412,31 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Frank_Rijkaard",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "43 pts."
+    "note": "43 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 40→43, g 3→7, uG 1→2."
    },
    {
     "name": "Lothar Matthäus",
     "club": "Inter",
     "lg": "SA",
     "pos": "CM",
-    "gp": 33,
-    "g": 10,
+    "gp": 36,
+    "g": 11,
     "a": 6,
-    "uT": "UCL",
+    "uT": "UEL",
     "uG": 0,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1266,20 +1447,25 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "24 pts. Campeão italiano 1988/89. Inter eliminada da Taça dos Campeões 89/90 na 1.ª ronda: uS 0."
+    "note": "24 pts. Campeão italiano 1988/89. Inter eliminada da Taça dos Campeões 89/90 na 1.ª ronda: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Third round). Alterado: gp 33→36, g 10→11, uT UCL→UEL, uS 0→1."
    },
    {
     "name": "Peter Shilton",
     "club": "Derby County",
     "lg": "EPL",
     "pos": "GK",
-    "gp": 38,
+    "gp": 37,
     "g": 0,
     "a": 0,
     "uT": "",
@@ -1296,13 +1482,16 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Peter_Shilton",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Derby_County_F.C._season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Football_League"
     ],
-    "note": "22 pts. Sem Europa (ban)."
+    "note": "22 pts. Sem Europa (ban). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Derby County: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 38→37."
    },
    {
     "name": "Dragan Stojković",
@@ -1330,16 +1519,17 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87"
     ],
-    "note": "19 pts. Taça UEFA 89/90 só até R3 na janela."
+    "note": "19 pts. Taça UEFA 89/90 só até R3 na janela. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
    },
    {
     "name": "Ruud Gullit",
     "club": "Milan",
     "lg": "SA",
     "pos": "AM",
-    "gp": 15,
+    "gp": 18,
     "g": 7,
     "a": 3,
     "uT": "UCL",
@@ -1356,13 +1546,18 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Ruud_Gullit",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "16 pts. 2 golos na final da Taça dos Campeões; lesionado (joelho) quase todo o 2.º semestre."
+    "note": "16 pts. 2 golos na final da Taça dos Campeões; lesionado (joelho) quase todo o 2.º semestre. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 15→18."
    },
    {
     "name": "Gheorghe Hagi",
@@ -1370,10 +1565,10 @@
     "lg": "ROU",
     "pos": "AM",
     "gp": 39,
-    "g": 26,
+    "g": 37,
     "a": 10,
     "uT": "UCL",
-    "uG": 4,
+    "uG": 6,
     "uA": 2,
     "uS": 4,
     "ntGP": 0,
@@ -1385,25 +1580,28 @@
     "cont": null,
     "rank": 8,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Gheorghe_Hagi",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Divizia_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "11 pts (8.º ex aequo). Finalista da Taça dos Campeões 1989; campeão romeno 1988/89."
+    "note": "11 pts (8.º ex aequo). Finalista da Taça dos Campeões 1989; campeão romeno 1988/89. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: g 26→37, uG 4→6."
    },
    {
     "name": "Jürgen Klinsmann",
     "club": "VfB Stuttgart / Inter",
     "lg": "BL",
     "pos": "FW",
-    "gp": 36,
-    "g": 16,
+    "gp": 34,
+    "g": 17,
     "a": 4,
     "uT": "UEL",
-    "uG": 3,
+    "uG": 2,
     "uA": 1,
     "uS": 4,
     "ntGP": 0,
@@ -1416,20 +1614,24 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Bundesliga",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "11 pts (8.º ex aequo). Finalista da Taça UEFA 1989 com o Stuttgart; Inter desde ago."
+    "note": "11 pts (8.º ex aequo). Finalista da Taça UEFA 1989 com o Stuttgart; Inter desde ago. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 VfB Stuttgart: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Final). Alterado: gp 36→34, g 16→17, uG 3→2."
    },
    {
     "name": "Michel Preud'homme",
     "club": "KV Mechelen",
     "lg": "BEL",
     "pos": "GK",
-    "gp": 41,
+    "gp": 42,
     "g": 0,
     "a": 0,
     "uT": "CWC",
@@ -1445,25 +1647,27 @@
     "cont": 8.5,
     "rank": 10,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Michel_Preud'homme",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "10 pts (10.º ex aequo). Campeão belga 1988/89; meias da Taça das Taças 88/89."
+    "note": "10 pts (10.º ex aequo). Campeão belga 1988/89; meias da Taça das Taças 88/89. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (1988–89 UEFA Cup Winners' Cup: Semi-finals); por verificar: título. Alterado: gp 41→42."
    },
    {
     "name": "Jean-Pierre Papin",
     "club": "Marseille",
     "lg": "L1",
     "pos": "FW",
-    "gp": 41,
-    "g": 31,
+    "gp": 35,
+    "g": 22,
     "a": 5,
     "uT": "UCL",
-    "uG": 3,
+    "uG": 0,
     "uA": 0,
     "uS": 0,
     "ntGP": 0,
@@ -1475,25 +1679,29 @@
     "cont": null,
     "rank": 10,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Jean-Pierre_Papin",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Olympique_de_Marseille_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_French_Division_1",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
-    "note": "10 pts (10.º ex aequo). Campeão francês e melhor marcador 1988/89; Taça dos Campeões 89/90 só outono: uS 0."
+    "note": "10 pts (10.º ex aequo). Campeão francês e melhor marcador 1988/89; Taça dos Campeões 89/90 só outono: uS 0. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1989–90 European Cup). Alterado: gp 41→35, g 31→22, uG 3→0."
    },
    {
     "name": "Diego Maradona",
     "club": "Napoli",
     "lg": "SA",
     "pos": "AM",
-    "gp": 34,
-    "g": 15,
+    "gp": 37,
+    "g": 13,
     "a": 9,
     "uT": "UEL",
-    "uG": 4,
+    "uG": 2,
     "uA": 2,
     "uS": 5,
     "ntGP": 7,
@@ -1510,20 +1718,25 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "Inelegível. Vencedor da Taça UEFA 1989. Copa América 1989: Argentina 3.ª na fase final."
+    "note": "Inelegível. Vencedor da Taça UEFA 1989. Copa América 1989: Argentina 3.ª na fase final. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Napoli: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Final); por verificar: seleção. Alterado: gp 34→37, g 15→13, uG 4→2."
    },
    {
     "name": "Careca",
     "club": "Napoli",
     "lg": "SA",
     "pos": "FW",
-    "gp": 38,
-    "g": 18,
+    "gp": 40,
+    "g": 23,
     "a": 5,
     "uT": "UEL",
-    "uG": 4,
+    "uG": 6,
     "uA": 1,
     "uS": 5,
     "ntGP": 0,
@@ -1536,13 +1749,18 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Careca",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "Inelegível (brasileiro). Golos na final da Taça UEFA 1989. Ausência na Copa América 1989 assumida."
+    "note": "Inelegível (brasileiro). Golos na final da Taça UEFA 1989. Ausência na Copa América 1989 assumida. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1989–90 Napoli: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Final). Alterado: gp 38→40, g 18→23, uG 4→6."
    },
    {
     "name": "Romário",
@@ -1557,7 +1775,7 @@
     "uA": 0,
     "uS": 2,
     "ntGP": 6,
-    "ntG": 1,
+    "ntG": 3,
     "ntA": 0,
     "ntT": "COPA",
     "ntS": 5,
@@ -1570,9 +1788,11 @@
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy89.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
+     "https://en.wikipedia.org/wiki/Rom%C3%A1rio",
+     "https://en.wikipedia.org/wiki/1989_Copa_Am%C3%A9rica"
     ],
-    "note": "Inelegível (brasileiro). Campeão neerlandês 88/89; campeão da Copa América 1989 (golo decisivo ao Uruguai). Golos na Copa incertos."
+    "note": "Inelegível (brasileiro). Campeão neerlandês 88/89; campeão da Copa América 1989 (golo decisivo ao Uruguai). Golos na Copa incertos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia. Alterado: ntG 1→3."
    }
   ]
  },
@@ -1590,11 +1810,11 @@
     "club": "Inter",
     "lg": "SA",
     "pos": "CM",
-    "gp": 38,
-    "g": 15,
+    "gp": 34,
+    "g": 18,
     "a": 6,
-    "uT": "UEL",
-    "uG": 2,
+    "uT": "UCL",
+    "uG": 3,
     "uA": 1,
     "uS": 0,
     "ntGP": 7,
@@ -1607,13 +1827,19 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "137 pts. Campeão do mundo (capitão). Inter fora da Taça dos Campeões 89/90 em 1989; Taça UEFA 90/91 só outono: uS 0."
+    "note": "137 pts. Campeão do mundo (capitão). Inter fora da Taça dos Campeões 89/90 em 1989; Taça UEFA 90/91 só outono: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: First round). Alterado: gp 38→34, g 15→18, uG 2→3, uT UEL→UCL."
    },
    {
     "name": "Salvatore Schillaci",
@@ -1621,10 +1847,10 @@
     "lg": "SA",
     "pos": "FW",
     "gp": 39,
-    "g": 16,
+    "g": 10,
     "a": 3,
     "uT": "UEL",
-    "uG": 4,
+    "uG": 3,
     "uA": 1,
     "uS": 5,
     "ntGP": 7,
@@ -1637,27 +1863,33 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Salvatore_Schillaci",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "84 pts. Vencedor da Taça UEFA 1990; Bota de Ouro e Bola de Ouro do Mundial 1990."
+    "note": "84 pts. Vencedor da Taça UEFA 1990; Bota de Ouro e Bola de Ouro do Mundial 1990. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Final). Alterado: g 16→10, uG 4→3."
    },
    {
     "name": "Andreas Brehme",
     "club": "Inter",
     "lg": "SA",
     "pos": "DF",
-    "gp": 36,
-    "g": 3,
+    "gp": 30,
+    "g": 1,
     "a": 5,
-    "uT": "UEL",
+    "uT": "UCL",
     "uG": 0,
     "uA": 1,
     "uS": 0,
-    "ntGP": 7,
+    "ntGP": 6,
     "ntG": 3,
     "ntA": 1,
     "ntT": "WC",
@@ -1667,21 +1899,27 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Andreas_Brehme",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "68 pts. Penálti decisivo na final do Mundial."
+    "note": "68 pts. Penálti decisivo na final do Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: First round). Alterado: gp 36→30, g 3→1, ntGP 7→6, uT UEL→UCL."
    },
    {
     "name": "Paul Gascoigne",
     "club": "Tottenham",
     "lg": "EPL",
     "pos": "AM",
-    "gp": 34,
-    "g": 11,
+    "gp": 30,
+    "g": 8,
     "a": 7,
     "uT": "",
     "uG": 0,
@@ -1697,21 +1935,26 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Paul_Gascoigne",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Tottenham_Hotspur_F.C._season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Tottenham_Hotspur_F.C._season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Football_League_First_Division",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "43 pts. Sem Europa (ban levantado só para o Man United em 1990/91)."
+    "note": "43 pts. Sem Europa (ban levantado só para o Man United em 1990/91). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 34→30, g 11→8."
    },
    {
     "name": "Franco Baresi",
     "club": "Milan",
     "lg": "SA",
     "pos": "DF",
-    "gp": 36,
-    "g": 0,
+    "gp": 38,
+    "g": 1,
     "a": 1,
     "uT": "UCL",
     "uG": 0,
@@ -1727,24 +1970,30 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Franco_Baresi",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "37 pts. Campeão europeu 1990."
+    "note": "37 pts. Campeão europeu 1990. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: Final). Alterado: gp 36→38, g 0→1."
    },
    {
     "name": "Enzo Scifo",
     "club": "Auxerre",
     "lg": "L1",
     "pos": "AM",
-    "gp": 36,
-    "g": 10,
+    "gp": 44,
+    "g": 16,
     "a": 6,
     "uT": "UEL",
-    "uG": 0,
+    "uG": 5,
     "uA": 0,
     "uS": 2,
     "ntGP": 4,
@@ -1756,24 +2005,29 @@
     "cont": null,
     "rank": 6,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Enzo_Scifo",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_AJ_Auxerre_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_French_Division_1",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "12 pts (6.º ex aequo). Auxerre nos quartos da Taça UEFA 89/90."
+    "note": "12 pts (6.º ex aequo). Auxerre nos quartos da Taça UEFA 89/90. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Quarter-finals). Alterado: gp 36→44, g 10→16, uG 0→5."
    },
    {
     "name": "Jürgen Klinsmann",
     "club": "Inter",
     "lg": "SA",
     "pos": "FW",
-    "gp": 36,
-    "g": 15,
+    "gp": 35,
+    "g": 13,
     "a": 4,
-    "uT": "UEL",
+    "uT": "UCL",
     "uG": 2,
     "uA": 1,
     "uS": 0,
@@ -1787,24 +2041,30 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Inter_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "12 pts (6.º ex aequo)."
+    "note": "12 pts (6.º ex aequo). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: First round). Alterado: gp 36→35, g 15→13, uT UEL→UCL."
    },
    {
     "name": "Roberto Baggio",
     "club": "Fiorentina / Juventus",
     "lg": "SA",
     "pos": "AM",
-    "gp": 38,
-    "g": 19,
+    "gp": 43,
+    "g": 21,
     "a": 6,
     "uT": "UEL",
-    "uG": 3,
+    "uG": 5,
     "uA": 1,
     "uS": 4,
     "ntGP": 5,
@@ -1817,21 +2077,27 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Roberto_Baggio",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Fiorentina_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "8 pts. Finalista da Taça UEFA 1990 com a Fiorentina; Juventus desde o verão (Taça das Taças 90/91 no outono)."
+    "note": "8 pts. Finalista da Taça UEFA 1990 com a Fiorentina; Juventus desde o verão (Taça das Taças 90/91 no outono). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Final). Alterado: gp 38→43, g 19→21, uG 3→5."
    },
    {
     "name": "Frank Rijkaard",
     "club": "Milan",
     "lg": "SA",
     "pos": "DM",
-    "gp": 36,
-    "g": 3,
+    "gp": 34,
+    "g": 2,
     "a": 3,
     "uT": "UCL",
     "uG": 1,
@@ -1847,13 +2113,19 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Frank_Rijkaard",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_AC_Milan_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "7 pts. Golo na final da Taça dos Campeões 1990."
+    "note": "7 pts. Golo na final da Taça dos Campeões 1990. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: Final). Alterado: gp 36→34, g 3→2."
    },
    {
     "name": "Guido Buchwald",
@@ -1861,12 +2133,12 @@
     "lg": "BL",
     "pos": "DF",
     "gp": 33,
-    "g": 3,
+    "g": 6,
     "a": 2,
-    "uT": "",
-    "uG": 0,
+    "uT": "UEL",
+    "uG": 1,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 0,
@@ -1876,27 +2148,31 @@
     "cont": 8.5,
     "rank": 10,
     "elig": 1,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Guido_Buchwald",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Bundesliga",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "6 pts. Campeão do mundo."
+    "note": "6 pts. Campeão do mundo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Third round). Alterado: g 3→6, uG 0→1, uT →UEL, uS 0→1."
    },
    {
     "name": "Diego Maradona",
     "club": "Napoli",
     "lg": "SA",
     "pos": "AM",
-    "gp": 33,
+    "gp": 26,
     "g": 15,
     "a": 8,
-    "uT": "UCL",
+    "uT": "UEL",
     "uG": 2,
     "uA": 1,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 1,
@@ -1907,27 +2183,33 @@
     "rank": null,
     "elig": 0,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
-     "https://www.goal.com/it/notizie/perche-maradona-e-pele-non-hanno-mai-vinto-il-pallone-doro/nsgfrfaojrnj1xh3kr8jrsj2f"
+     "https://www.goal.com/it/notizie/perche-maradona-e-pele-non-hanno-mai-vinto-il-pallone-doro/nsgfrfaojrnj1xh3kr8jrsj2f",
+     "https://en.wikipedia.org/wiki/Diego_Maradona",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_SSC_Napoli_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Serie_A",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "Inelegível. Vencedor retroativo FF 2016. Campeão italiano 1989/90; finalista do Mundial. Taça dos Campeões 90/91 só outono: uS 0."
+    "note": "Inelegível. Vencedor retroativo FF 2016. Campeão italiano 1989/90; finalista do Mundial. Taça dos Campeões 90/91 só outono: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Third round). Alterado: gp 33→26, uT UCL→UEL, uS 0→1."
    },
    {
     "name": "Hugo Sánchez",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 33,
-    "g": 29,
+    "gp": 38,
+    "g": 39,
     "a": 4,
     "uT": "UCL",
-    "uG": 3,
+    "uG": 1,
     "uA": 0,
-    "uS": 0,
+    "uS": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1937,14 +2219,19 @@
     "cont": null,
     "rank": null,
     "elig": 0,
-    "win": "CY",
+    "win": "S",
     "conf": "C",
     "aConf": "C",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy90.html",
-     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm"
+     "https://www.topendsports.com/sport/soccer/awards/ballondor-1990.htm",
+     "https://en.wikipedia.org/wiki/Hugo_S%C3%A1nchez",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_La_Liga",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
-    "note": "Inelegível. Pichichi 1989/90 (38 golos, igualou o recorde). México ausente do Mundial 1990 (suspenso)."
+    "note": "Inelegível. Pichichi 1989/90 (38 golos, igualou o recorde). México ausente do Mundial 1990 (suspenso). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: Second round). Alterado: gp 33→38, g 29→39, uG 3→1, uS 0→1."
    }
   ]
  }

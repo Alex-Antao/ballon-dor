@@ -13,11 +13,11 @@
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 43,
-    "g": 39,
+    "gp": 47,
+    "g": 40,
     "a": 19,
     "uT": "UCL",
-    "uG": 5,
+    "uG": 6,
     "uA": 4,
     "uS": 5,
     "ntGP": 6,
@@ -36,16 +36,22 @@
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
      "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
      "https://www.goal.com/en-us/news/ballon-dor-a-statistical-analysis-of-messi-ronaldo-and-neymar-in-/bltab3ed10699eca132",
-     "https://michelacosta.com/messi-vs-ronaldo/goals/-/2015/by-calendar-year/"
+     "https://michelacosta.com/messi-vs-ronaldo/goals/-/2015/by-calendar-year/",
+     "https://en.wikipedia.org/wiki/Lionel_Messi",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica"
     ],
-    "note": "Liga 2015 verificada (Goal.com): 33 j, 34 g, 15 a. UCL 5 golos verificados (Ronaldo 16–5 Messi); jogos/assist. UCL contados de memória (7 KO 14/15 + 3 grupos 15/16). Copa América: 3 assistências na meia-final vs Paraguai (data.js tinha 1)."
+    "note": "Liga 2015 verificada (Goal.com): 33 j, 34 g, 15 a. UCL 5 golos verificados (Ronaldo 16–5 Messi); jogos/assist. UCL contados de memória (7 KO 14/15 + 3 grupos 15/16). Copa América: 3 assistências na meia-final vs Paraguai (data.js tinha 1). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final). Alterado: gp 43→47, g 39→40, uG 5→6."
    },
    {
     "name": "Cristiano Ronaldo",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "W",
-    "gp": 48,
+    "gp": 49,
     "g": 53,
     "a": 15,
     "uT": "UCL",
@@ -68,9 +74,14 @@
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
      "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
      "https://www.goal.com/en-us/news/ballon-dor-a-statistical-analysis-of-messi-ronaldo-and-neymar-in-/bltab3ed10699eca132",
-     "https://michelacosta.com/messi-vs-ronaldo/goals/-/2015/by-calendar-year/"
+     "https://michelacosta.com/messi-vs-ronaldo/goals/-/2015/by-calendar-year/",
+     "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Golos verificados (Goal.com): 37 na Liga e 16 na UCL em 2015 (11 deles na fase de grupos 2015/16, recorde). Jogos e assistências estimados (Goal.com: 17 assist. em todas as provas)."
+    "note": "Golos verificados (Goal.com): 37 na Liga e 16 na UCL em 2015 (11 deles na fase de grupos 2015/16, recorde). Jogos e assistências estimados (Goal.com: 17 assist. em todas as provas). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals). Alterado: gp 48→49."
    },
    {
     "name": "Neymar",
@@ -78,10 +89,10 @@
     "lg": "LL",
     "pos": "W",
     "gp": 45,
-    "g": 32,
+    "g": 34,
     "a": 13,
     "uT": "UCL",
-    "uG": 8,
+    "uG": 9,
     "uA": 4,
     "uS": 5,
     "ntGP": 2,
@@ -94,22 +105,28 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
      "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
-     "https://www.goal.com/en-us/news/ballon-dor-a-statistical-analysis-of-messi-ronaldo-and-neymar-in-/bltab3ed10699eca132"
+     "https://www.goal.com/en-us/news/ballon-dor-a-statistical-analysis-of-messi-ronaldo-and-neymar-in-/bltab3ed10699eca132",
+     "https://en.wikipedia.org/wiki/Neymar",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica"
     ],
-    "note": "Goal.com: 41 golos e 16 assist. em 53 jogos em 2015 (todas as provas); divisão liga/UCL estimada. Copa 2015: expulso vs Colômbia e suspenso; Brasil caiu nos quartos (penáltis). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Goal.com: 41 golos e 16 assist. em 53 jogos em 2015 (todas as provas); divisão liga/UCL estimada. Copa 2015: expulso vs Colômbia e suspenso; Brasil caiu nos quartos (penáltis). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final). Alterado: g 32→34, uG 8→9."
    },
    {
     "name": "Robert Lewandowski",
     "club": "Bayern",
     "lg": "BL",
     "pos": "FW",
-    "gp": 43,
-    "g": 34,
+    "gp": 44,
+    "g": 35,
     "a": 8,
     "uT": "UCL",
     "uG": 10,
@@ -125,43 +142,53 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Inclui os 5 golos em 9 minutos vs Wolfsburg (Set 2015) e o hat-trick vs Dinamo Zagreb. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Inclui os 5 golos em 9 minutos vs Wolfsburg (Set 2015) e o hat-trick vs Dinamo Zagreb. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern eliminado nas meias (Barcelona). Alterado: gp 43→44, g 34→35."
    },
    {
     "name": "Luis Suárez",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 44,
-    "g": 38,
+    "gp": 41,
+    "g": 40,
     "a": 20,
     "uT": "UCL",
-    "uG": 9,
+    "uG": 10,
     "uA": 3,
     "uS": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
-    "ntT": "COPA",
+    "ntT": "",
     "ntS": 0,
     "title": 1,
     "cont": null,
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Uruguayan_footballer)",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "NÃO jogou a Copa América 2015 (castigo pela mordidela no Mundial 2014) — data.js tinha 4 jogos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "NÃO jogou a Copa América 2015 (castigo pela mordidela no Mundial 2014) — data.js tinha 4 jogos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final); suspenso, não jogou a Copa América 2015. Alterado: gp 44→41, g 38→40, uG 9→10, ntT COPA→."
    },
    {
     "name": "Thomas Müller",
@@ -169,7 +196,7 @@
     "lg": "BL",
     "pos": "W",
     "gp": 43,
-    "g": 28,
+    "g": 29,
     "a": 12,
     "uT": "UCL",
     "uG": 9,
@@ -185,20 +212,25 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Thomas_M%C3%BCller",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern eliminado nas meias (Barcelona). Alterado: g 28→29."
    },
    {
     "name": "Manuel Neuer",
     "club": "Bayern",
     "lg": "BL",
     "pos": "GK",
-    "gp": 44,
+    "gp": 45,
     "g": 0,
     "a": 0,
     "uT": "UCL",
@@ -215,13 +247,18 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Manuel_Neuer",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern eliminado nas meias (Barcelona). Alterado: gp 44→45."
    },
    {
     "name": "Eden Hazard",
@@ -232,7 +269,7 @@
     "g": 8,
     "a": 7,
     "uT": "UCL",
-    "uG": 0,
+    "uG": 1,
     "uA": 1,
     "uS": 1,
     "ntGP": 0,
@@ -245,13 +282,18 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Eden_Hazard",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Chelsea_F.C._season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Chelsea_F.C._season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2014/15 (PFA); 2.ª metade de 2015 sem golos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Campeão inglês 2014/15 (PFA); 2.ª metade de 2015 sem golos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Round of 16). Alterado: uG 0→1."
    },
    {
     "name": "Andrés Iniesta",
@@ -275,24 +317,29 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League"
     ],
-    "note": "Lesionado Set–Out 2015. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Lesionado Set–Out 2015. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Final)."
    },
    {
     "name": "Alexis Sánchez",
     "club": "Arsenal",
     "lg": "EPL",
     "pos": "W",
-    "gp": 37,
-    "g": 12,
+    "gp": 40,
+    "g": 15,
     "a": 7,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 3,
     "uA": 1,
     "uS": 1,
     "ntGP": 6,
@@ -305,13 +352,19 @@
     "rank": 10,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or",
-     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf"
+     "https://static.theclinic.cl/media/2016/01/lista-fifa.pdf",
+     "https://en.wikipedia.org/wiki/Alexis_S%C3%A1nchez",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Arsenal_F.C._season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Arsenal_F.C._season",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League",
+     "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica"
     ],
-    "note": "Campeão da Copa América 2015 (marcou o penálti decisivo na final). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Campeão da Copa América 2015 (marcou o penálti decisivo na final). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2014–15 UEFA Champions League: Round of 16); UCL 2014/15: Arsenal eliminado nos oitavos (Monaco). Alterado: gp 37→40, g 12→15, uG 1→3."
    }
   ]
  },
@@ -329,7 +382,7 @@
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "W",
-    "gp": 46,
+    "gp": 44,
     "g": 38,
     "a": 13,
     "uT": "UCL",
@@ -346,20 +399,26 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Mundial de Clubes (Dez 2016, 4 golos) não conta. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Mundial de Clubes (Dez 2016, 4 golos) não conta. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 vencida (página da edição). Alterado: gp 46→44."
    },
    {
     "name": "Lionel Messi",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 43,
+    "gp": 42,
     "g": 45,
     "a": 18,
     "uT": "UCL",
@@ -376,13 +435,19 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Lionel_Messi",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/Copa_Am%C3%A9rica_Centenario"
     ],
-    "note": "Copa Centenário: 5 jogos (falhou o 1.º), 5 golos, 4 assist.; final perdida nos penáltis. data.js tinha 6 jogos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Copa Centenário: 5 jogos (falhou o 1.º), 5 golos, 4 assist.; final perdida nos penáltis. data.js tinha 6 jogos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Quarter-finals). Alterado: gp 43→42."
    },
    {
     "name": "Antoine Griezmann",
@@ -390,7 +455,7 @@
     "lg": "LL",
     "pos": "FW",
     "gp": 49,
-    "g": 28,
+    "g": 25,
     "a": 8,
     "uT": "UCL",
     "uG": 7,
@@ -406,13 +471,19 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Antoine_Griezmann",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Atl%C3%A9tico_Madrid_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Atl%C3%A9tico_Madrid_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Euro 2016: melhor marcador e melhor jogador; final UCL perdida. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Euro 2016: melhor marcador e melhor jogador; final UCL perdida. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 finalista (campeão Real Madrid; meias Bayern–Atlético). Alterado: g 28→25."
    },
    {
     "name": "Luis Suárez",
@@ -420,37 +491,42 @@
     "lg": "LL",
     "pos": "FW",
     "gp": 44,
-    "g": 41,
+    "g": 42,
     "a": 18,
     "uT": "UCL",
-    "uG": 6,
+    "uG": 5,
     "uA": 2,
     "uS": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
-    "ntT": "COPA",
+    "ntT": "",
     "ntS": 0,
     "title": 1,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Uruguayan_footballer)",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
-    "note": "Lesionado na final da Taça do Rei; NÃO jogou a Copa Centenário (data.js tinha 3 jogos). Pichichi e Bota de Ouro 2015/16 (40 golos na liga). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Lesionado na final da Taça do Rei; NÃO jogou a Copa Centenário (data.js tinha 3 jogos). Pichichi e Bota de Ouro 2015/16 (40 golos na liga). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Quarter-finals); lesionado, não jogou a Copa América Centenário. Alterado: g 41→42, uG 6→5, ntT COPA→."
    },
    {
     "name": "Neymar",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "W",
-    "gp": 43,
-    "g": 18,
+    "gp": 41,
+    "g": 17,
     "a": 17,
     "uT": "UCL",
     "uG": 3,
@@ -466,24 +542,29 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Neymar",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
-    "note": "Não jogou a Copa Centenário (foi aos Jogos Olímpicos, que não contam). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Não jogou a Copa Centenário (foi aos Jogos Olímpicos, que não contam). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Quarter-finals). Alterado: gp 43→41, g 18→17."
    },
    {
     "name": "Gareth Bale",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "W",
-    "gp": 33,
-    "g": 17,
+    "gp": 28,
+    "g": 18,
     "a": 10,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 2,
     "uA": 2,
     "uS": 5,
     "ntGP": 6,
@@ -496,13 +577,19 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Gareth_Bale",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Lesões (gémeo Jan–Mar; tornozelo Nov 2016). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Lesões (gémeo Jan–Mar; tornozelo Nov 2016). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 vencida (página da edição). Alterado: gp 33→28, g 17→18, uG 1→2."
    },
    {
     "name": "Riyad Mahrez",
@@ -526,20 +613,25 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Riyad_Mahrez",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Leicester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Leicester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2015/16 (PFA). uS = 0 porque o Leicester não jogou a edição 2015/16; uG/uA = fase de grupos UCL 2016/17. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Campeão inglês 2015/16 (PFA). uS = 0 porque o Leicester não jogou a edição 2015/16; uG/uA = fase de grupos UCL 2016/17. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (2016–17 UEFA Champions League)."
    },
    {
     "name": "Jamie Vardy",
     "club": "Leicester",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 39,
+    "gp": 41,
     "g": 14,
     "a": 5,
     "uT": "UCL",
@@ -556,20 +648,26 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Jamie_Vardy",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Leicester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Leicester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "uS = 0 (Leicester não jogou a edição 2015/16); jogos de grupos UCL 2016/17 incluídos em gp. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "uS = 0 (Leicester não jogou a edição 2015/16); jogos de grupos UCL 2016/17 incluídos em gp. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (2016–17 UEFA Champions League). Alterado: gp 39→41."
    },
    {
     "name": "Gianluigi Buffon",
     "club": "Juventus",
     "lg": "SA",
     "pos": "GK",
-    "gp": 42,
+    "gp": 40,
     "g": 0,
     "a": 0,
     "uT": "UCL",
@@ -586,21 +684,27 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Gianluigi_Buffon",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Serie_A",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Recorde de imbatibilidade na Serie A (974 min, Jan–Mar 2016). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Recorde de imbatibilidade na Serie A (974 min, Jan–Mar 2016). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Round of 16). Alterado: gp 42→40."
    },
    {
     "name": "Pepe",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "DF",
-    "gp": 34,
-    "g": 1,
+    "gp": 23,
+    "g": 2,
     "a": 0,
     "uT": "UCL",
     "uG": 0,
@@ -616,13 +720,19 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://fourfourtwo.com/news/ballon-dor-2016-results-full-griezmann-joins-ronaldo-messi-podium",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-ballon-dor-ranking-revealed-20161213",
+     "https://en.wikipedia.org/wiki/Pepe_(footballer,_born_February_1983)",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2016"
     ],
-    "note": "Falhou a meia-final do Euro (lesão); homem do jogo na final. cont estimado (sem calibração prévia). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Falhou a meia-final do Euro (lesão); homem do jogo na final. cont estimado (sem calibração prévia). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2015–16 UEFA Champions League: Final); UCL 2015/16 vencida (página da edição). Alterado: gp 34→23, g 1→2."
    }
   ]
  },
@@ -657,22 +767,27 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Só 4 golos na Liga Ago–Dez 2017 mas 9 na fase de grupos (marcou em todos os jogos); 10 golos na fase a eliminar 2016/17. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Só 4 golos na Liga Ago–Dez 2017 mas 9 na fase de grupos (marcou em todos os jogos); 10 golos na fase a eliminar 2016/17. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final)."
    },
    {
     "name": "Lionel Messi",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 47,
-    "g": 43,
+    "gp": 45,
+    "g": 44,
     "a": 15,
     "uT": "UCL",
     "uG": 4,
@@ -688,22 +803,27 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Lionel_Messi",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Quarter-finals). Alterado: gp 47→45, g 43→44."
    },
    {
     "name": "Neymar",
     "club": "Barcelona / PSG",
     "lg": "LL",
     "pos": "W",
-    "gp": 38,
-    "g": 27,
+    "gp": 36,
+    "g": 28,
     "a": 20,
     "uT": "UCL",
     "uG": 8,
@@ -719,21 +839,26 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Neymar",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Paris_Saint-Germain_F.C._season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Transferência recorde para o PSG em Ago 2017; uS = edição 2016/17 com o Barcelona (quartos). Divisão de jogos LL/L1 próxima; lg = LL. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Transferência recorde para o PSG em Ago 2017; uS = edição 2016/17 com o Barcelona (quartos). Divisão de jogos LL/L1 próxima; lg = LL. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Quarter-finals). Alterado: gp 38→36, g 27→28."
    },
    {
     "name": "Gianluigi Buffon",
     "club": "Juventus",
     "lg": "SA",
     "pos": "GK",
-    "gp": 42,
+    "gp": 39,
     "g": 0,
     "a": 0,
     "uT": "UCL",
@@ -750,25 +875,30 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Gianluigi_Buffon",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Serie_A",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final). Alterado: gp 42→39."
    },
    {
     "name": "Luka Modrić",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "CM",
-    "gp": 41,
+    "gp": 37,
     "g": 1,
     "a": 8,
     "uT": "UCL",
-    "uG": 0,
+    "uG": 1,
     "uA": 3,
     "uS": 5,
     "ntGP": 0,
@@ -781,25 +911,30 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final). Alterado: gp 41→37, uG 0→1."
    },
    {
     "name": "Sergio Ramos",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "DF",
-    "gp": 40,
-    "g": 6,
+    "gp": 39,
+    "g": 5,
     "a": 2,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 2,
     "uA": 0,
     "uS": 5,
     "ntGP": 0,
@@ -812,22 +947,27 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Sergio_Ramos",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "cont estimado. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "cont estimado. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Final). Alterado: gp 40→39, g 6→5, uG 1→2."
    },
    {
     "name": "Kylian Mbappé",
     "club": "Monaco / PSG",
     "lg": "L1",
     "pos": "FW",
-    "gp": 40,
-    "g": 28,
+    "gp": 38,
+    "g": 30,
     "a": 13,
     "uT": "UCL",
     "uG": 10,
@@ -843,21 +983,27 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_AS_Monaco_FC_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_AS_Monaco_FC_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Ligue_1",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Quase todos os golos de 2016/17 foram de Jan a Mai; os 6 golos UCL 2016/17 são todos da fase a eliminar. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Quase todos os golos de 2016/17 foram de Jan a Mai; os 6 golos UCL 2016/17 são todos da fase a eliminar. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Semi-finals). Alterado: gp 40→38, g 28→30."
    },
    {
     "name": "N’Golo Kanté",
     "club": "Chelsea",
     "lg": "EPL",
     "pos": "DM",
-    "gp": 38,
+    "gp": 41,
     "g": 1,
     "a": 2,
     "uT": "UCL",
@@ -874,14 +1020,19 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/N'Golo_Kant%C3%A9",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Chelsea_F.C._season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Chelsea_F.C._season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Campeão inglês 2016/17 (PFA/FWA). Chelsea não jogou competições europeias em 2016/17 (uS = 0); jogos de grupos UCL 2017/18 incluídos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Campeão inglês 2016/17 (PFA/FWA). Chelsea não jogou competições europeias em 2016/17 (uS = 0); jogos de grupos UCL 2017/18 incluídos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Group stage). Alterado: gp 38→41."
    },
    {
     "name": "Robert Lewandowski",
@@ -889,7 +1040,7 @@
     "lg": "BL",
     "pos": "FW",
     "gp": 42,
-    "g": 38,
+    "g": 39,
     "a": 6,
     "uT": "UCL",
     "uG": 6,
@@ -905,25 +1056,30 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Bundesliga",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
-    "note": "Falhou a 1.ª mão dos quartos vs Real Madrid (lesão). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Falhou a 1.ª mão dos quartos vs Real Madrid (lesão). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Champions League: Quarter-finals). Alterado: g 38→39."
    },
    {
     "name": "Harry Kane",
     "club": "Tottenham",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 44,
-    "g": 46,
+    "gp": 42,
+    "g": 45,
     "a": 6,
-    "uT": "UCL",
-    "uG": 7,
+    "uT": "UEL",
+    "uG": 6,
     "uA": 1,
     "uS": 0,
     "ntGP": 0,
@@ -936,14 +1092,19 @@
     "rank": 10,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.soccerladuma.co.za/international/ballon-dor/final-2017-ballon-dor-ranking-revealed-20171208",
      "https://m.maxifoot.fr/football/article-34445.htm",
-     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10"
+     "https://www.beinsports.com/en-us/soccer/articles/buffon-mbappe-kane-in-ballon-dor-top-10",
+     "https://en.wikipedia.org/wiki/Harry_Kane",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Tottenham_Hotspur_F.C._season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Tottenham_Hotspur_F.C._season",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Europa_League"
     ],
-    "note": "Recorde de 39 golos na Premier League num ano civil (2017) e 56 golos em todas as provas — números muito conhecidos, mas não verificados na web nesta sessão. gp inclui 2 jogos da Liga Europa (16 avos vs Gent, Fev 2017); uS = 0. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Recorde de 39 golos na Premier League num ano civil (2017) e 56 golos em todas as provas — números muito conhecidos, mas não verificados na web nesta sessão. gp inclui 2 jogos da Liga Europa (16 avos vs Gent, Fev 2017); uS = 0. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2016–17 UEFA Europa League: Round of 32). Alterado: gp 44→42, g 46→45, uG 7→6, uT UCL→UEL."
    }
   ]
  },
@@ -978,24 +1139,30 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_La_Liga",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Bola de Ouro do Mundial 2018. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Bola de Ouro do Mundial 2018. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final)."
    },
    {
     "name": "Cristiano Ronaldo",
     "club": "Real Madrid / Juventus",
     "lg": "SA",
     "pos": "W",
-    "gp": 43,
-    "g": 43,
+    "gp": 44,
+    "g": 41,
     "a": 11,
     "uT": "UCL",
-    "uG": 7,
+    "uG": 6,
     "uA": 3,
     "uS": 5,
     "ntGP": 4,
@@ -1008,21 +1175,27 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_La_Liga",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Transferência para a Juventus em Jul 2018; lg = SA (mais jogos de liga na janela, por pouco). Melhor marcador UCL 2017/18 (15). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Transferência para a Juventus em Jul 2018; lg = SA (mais jogos de liga na janela, por pouco). Melhor marcador UCL 2017/18 (15). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final). Alterado: gp 43→44, g 43→41, uG 7→6."
    },
    {
     "name": "Antoine Griezmann",
     "club": "Atlético Madrid",
     "lg": "LL",
     "pos": "FW",
-    "gp": 47,
-    "g": 30,
+    "gp": 49,
+    "g": 31,
     "a": 11,
     "uT": "UEL",
     "uG": 10,
@@ -1038,21 +1211,27 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Antoine_Griezmann",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Atl%C3%A9tico_Madrid_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Atl%C3%A9tico_Madrid_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_La_Liga",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Europa_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "uT = UEL 2017/18 (vencida; 2 golos na final). uG/uA incluem também a fase de grupos UCL 2018/19. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "uT = UEL 2017/18 (vencida; 2 golos na final). uG/uA incluem também a fase de grupos UCL 2018/19. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Europa League: Final). Alterado: gp 47→49, g 30→31."
    },
    {
     "name": "Kylian Mbappé",
     "club": "PSG",
     "lg": "L1",
     "pos": "FW",
-    "gp": 34,
-    "g": 22,
+    "gp": 35,
+    "g": 21,
     "a": 11,
     "uT": "UCL",
     "uG": 3,
@@ -1068,20 +1247,27 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_AS_Monaco_FC_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Ligue_1",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Mundial: 4 golos; assistências registadas = 0 segundo a minha memória (data.js tinha 1) — por confirmar. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Mundial: 4 golos; assistências registadas = 0 segundo a minha memória (data.js tinha 1) — por confirmar. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Round of 16). Alterado: gp 34→35, g 22→21."
    },
    {
     "name": "Lionel Messi",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 41,
+    "gp": 44,
     "g": 43,
     "a": 17,
     "uT": "UCL",
@@ -1098,20 +1284,26 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Lionel_Messi",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_La_Liga",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Braço partido em Out 2018 (3 semanas fora). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Braço partido em Out 2018 (3 semanas fora). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Quarter-finals). Alterado: gp 41→44."
    },
    {
     "name": "Mohamed Salah",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "W",
-    "gp": 48,
+    "gp": 49,
     "g": 36,
     "a": 13,
     "uT": "UCL",
@@ -1128,20 +1320,26 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Mohamed_Salah",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Recorde de 32 golos na PL 2017/18 (38 jogos); lesão no ombro na final UCL. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Recorde de 32 golos na PL 2017/18 (38 jogos); lesão no ombro na final UCL. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final). Alterado: gp 48→49."
    },
    {
     "name": "Raphaël Varane",
     "club": "Real Madrid",
     "lg": "LL",
     "pos": "DF",
-    "gp": 39,
+    "gp": 38,
     "g": 0,
     "a": 0,
     "uT": "UCL",
@@ -1158,13 +1356,19 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Real_Madrid_CF_season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_La_Liga",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "cont estimado (Mundial + UCL). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "cont estimado (Mundial + UCL). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Final). Alterado: gp 39→38."
    },
    {
     "name": "Eden Hazard",
@@ -1172,7 +1376,7 @@
     "lg": "EPL",
     "pos": "W",
     "gp": 40,
-    "g": 14,
+    "g": 17,
     "a": 12,
     "uT": "UCL",
     "uG": 0,
@@ -1188,20 +1392,26 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Eden_Hazard",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Chelsea_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Chelsea_F.C._season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Bola de Prata do Mundial. gp inclui jogos da fase de grupos da Liga Europa 2018/19. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Bola de Prata do Mundial. gp inclui jogos da fase de grupos da Liga Europa 2018/19. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Round of 16). Alterado: g 14→17."
    },
    {
     "name": "Kevin De Bruyne",
     "club": "Man City",
     "lg": "EPL",
     "pos": "AM",
-    "gp": 27,
+    "gp": 32,
     "g": 3,
     "a": 9,
     "uT": "UCL",
@@ -1218,24 +1428,30 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Lesões no joelho (Ago e Nov 2018) reduziram muito a 2.ª metade do ano. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Lesões no joelho (Ago e Nov 2018) reduziram muito a 2.ª metade do ano. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Quarter-finals). Alterado: gp 27→32."
    },
    {
     "name": "Harry Kane",
     "club": "Tottenham",
     "lg": "EPL",
     "pos": "FW",
-    "gp": 44,
-    "g": 29,
+    "gp": 38,
+    "g": 30,
     "a": 5,
     "uT": "UCL",
-    "uG": 4,
+    "uG": 5,
     "uA": 1,
     "uS": 1,
     "ntGP": 6,
@@ -1248,13 +1464,19 @@
     "rank": 10,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.dailymercato.com/news/modric-sacre-ballon-d-or-2018-le-classement-complet-et-les-points-des-30-finalistes",
-     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203"
+     "https://www.soccerladuma.co.za/international/ballon-dor/final-2018-ballon-dor-ranking-revealed-lionel-messi-only-fifth-20181203",
+     "https://en.wikipedia.org/wiki/Harry_Kane",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Tottenham_Hotspur_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Tottenham_Hotspur_F.C._season",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
     ],
-    "note": "Bota de Ouro do Mundial 2018. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Bota de Ouro do Mundial 2018. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2017–18 UEFA Champions League: Round of 16). Alterado: gp 44→38, g 29→30, uG 4→5."
    }
   ]
  },
@@ -1272,8 +1494,8 @@
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 43,
-    "g": 41,
+    "gp": 45,
+    "g": 42,
     "a": 21,
     "uT": "UCL",
     "uG": 8,
@@ -1289,24 +1511,30 @@
     "rank": 1,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Lionel_Messi",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_La_Liga",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2019_Copa_Am%C3%A9rica"
     ],
-    "note": "Lesão na barriga da perna Ago–Set 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Lesão na barriga da perna Ago–Set 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Semi-finals). Alterado: gp 43→45, g 41→42."
    },
    {
     "name": "Virgil van Dijk",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "DF",
-    "gp": 50,
-    "g": 6,
+    "gp": 49,
+    "g": 8,
     "a": 3,
     "uT": "UCL",
-    "uG": 1,
+    "uG": 2,
     "uA": 0,
     "uS": 5,
     "ntGP": 0,
@@ -1319,24 +1547,29 @@
     "rank": 2,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 50→49, g 6→8, uG 1→2."
    },
    {
     "name": "Cristiano Ronaldo",
     "club": "Juventus",
     "lg": "SA",
     "pos": "W",
-    "gp": 37,
-    "g": 23,
+    "gp": 40,
+    "g": 26,
     "a": 9,
     "uT": "UCL",
-    "uG": 7,
+    "uG": 8,
     "uA": 2,
     "uS": 2,
     "ntGP": 0,
@@ -1349,24 +1582,29 @@
     "rank": 3,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Serie_A",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Hat-trick vs Atlético (oitavos 2018/19). Liga das Nações (Jun 2019) excluída. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Hat-trick vs Atlético (oitavos 2018/19). Liga das Nações (Jun 2019) excluída. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Quarter-finals). Alterado: gp 37→40, g 23→26, uG 7→8."
    },
    {
     "name": "Sadio Mané",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "W",
-    "gp": 49,
-    "g": 30,
+    "gp": 48,
+    "g": 29,
     "a": 8,
     "uT": "UCL",
-    "uG": 6,
+    "uG": 5,
     "uA": 2,
     "uS": 5,
     "ntGP": 6,
@@ -1379,21 +1617,27 @@
     "rank": 4,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations"
     ],
-    "note": "Bota de Ouro partilhada da PL 2018/19 (22). CAN: suspenso no 1.º jogo. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Bota de Ouro partilhada da PL 2018/19 (22). CAN: suspenso no 1.º jogo. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 49→48, g 30→29, uG 6→5."
    },
    {
     "name": "Mohamed Salah",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "W",
-    "gp": 48,
-    "g": 25,
+    "gp": 47,
+    "g": 24,
     "a": 11,
     "uT": "UCL",
     "uG": 6,
@@ -1409,21 +1653,27 @@
     "rank": 5,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Mohamed_Salah",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations"
     ],
-    "note": "Golo de penálti na final UCL 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Golo de penálti na final UCL 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 48→47, g 25→24."
    },
    {
     "name": "Kylian Mbappé",
     "club": "PSG",
     "lg": "L1",
     "pos": "FW",
-    "gp": 31,
-    "g": 34,
+    "gp": 33,
+    "g": 37,
     "a": 11,
     "uT": "UCL",
     "uG": 6,
@@ -1439,20 +1689,25 @@
     "rank": 6,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Melhor marcador da Ligue 1 2018/19 (33); lesão Ago–Set 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Melhor marcador da Ligue 1 2018/19 (33); lesão Ago–Set 2019. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Round of 16). Alterado: gp 31→33, g 34→37."
    },
    {
     "name": "Alisson",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "GK",
-    "gp": 42,
+    "gp": 43,
     "g": 0,
     "a": 0,
     "uT": "UCL",
@@ -1469,21 +1724,27 @@
     "rank": 7,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Alisson_Becker",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2019_Copa_Am%C3%A9rica"
     ],
-    "note": "Lesão na barriga da perna (Ago–Out 2019). cont estimado (Troféu Yashin 2019). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Lesão na barriga da perna (Ago–Out 2019). cont estimado (Troféu Yashin 2019). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Final). Alterado: gp 42→43."
    },
    {
     "name": "Robert Lewandowski",
     "club": "Bayern",
     "lg": "BL",
     "pos": "FW",
-    "gp": 41,
-    "g": 39,
+    "gp": 39,
+    "g": 41,
     "a": 8,
     "uT": "UCL",
     "uG": 10,
@@ -1499,21 +1760,26 @@
     "rank": 8,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Bundesliga",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "19 golos na 1.ª volta da Bundesliga 2019/20; 4 golos num jogo vs Estrela Vermelha. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "19 golos na 1.ª volta da Bundesliga 2019/20; 4 golos num jogo vs Estrela Vermelha. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Round of 16). Alterado: gp 41→39, g 39→41."
    },
    {
     "name": "Bernardo Silva",
     "club": "Man City",
     "lg": "EPL",
     "pos": "AM",
-    "gp": 42,
-    "g": 8,
+    "gp": 43,
+    "g": 9,
     "a": 9,
     "uT": "UCL",
     "uG": 2,
@@ -1529,13 +1795,18 @@
     "rank": 9,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Bernardo_Silva",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
-    "note": "Joga ala/médio; classificado AM (cont null). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Joga ala/médio; classificado AM (cont null). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Quarter-finals). Alterado: gp 42→43, g 8→9."
    },
    {
     "name": "Riyad Mahrez",
@@ -1546,7 +1817,7 @@
     "g": 8,
     "a": 10,
     "uT": "UCL",
-    "uG": 2,
+    "uG": 1,
     "uA": 2,
     "uS": 2,
     "ntGP": 7,
@@ -1559,13 +1830,19 @@
     "rank": 10,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
     "sources": [
      "https://www.squawka.com/en/?p=1118376",
-     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor"
+     "https://www.fourfourtwo.com/gallery/ranked-final-results-2019-ballon-dor",
+     "https://en.wikipedia.org/wiki/Riyad_Mahrez",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations"
     ],
-    "note": "Campeão africano 2019 (livre decisivo na meia-final vs Nigéria). title = 1 (27 jogos em 38). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "note": "Campeão africano 2019 (livre decisivo na meia-final vs Nigéria). title = 1 (27 jogos em 38). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2018–19 UEFA Champions League: Quarter-finals). Alterado: uG 2→1."
    }
   ]
  },
@@ -1600,21 +1877,27 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Tripleta com o Bayern; melhor marcador UCL 2019/20 (15). FIFA The Best 2020. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Bundesliga",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Tripleta com o Bayern; melhor marcador UCL 2019/20 (15). FIFA The Best 2020. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final)."
    },
    {
     "name": "Lionel Messi",
     "club": "Barcelona",
     "lg": "LL",
     "pos": "FW",
-    "gp": 40,
-    "g": 22,
+    "gp": 38,
+    "g": 23,
     "a": 16,
     "uT": "UCL",
-    "uG": 3,
+    "uG": 4,
     "uA": 2,
     "uS": 2,
     "ntGP": 0,
@@ -1627,10 +1910,16 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "2-8 vs Bayern nos quartos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Lionel_Messi",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_FC_Barcelona_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_La_Liga",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "2-8 vs Bayern nos quartos. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Quarter-finals). Alterado: gp 40→38, g 22→23, uG 3→4."
    },
    {
     "name": "Cristiano Ronaldo",
@@ -1638,10 +1927,10 @@
     "lg": "SA",
     "pos": "W",
     "gp": 36,
-    "g": 38,
+    "g": 39,
     "a": 6,
     "uT": "UCL",
-    "uG": 5,
+    "uG": 6,
     "uA": 1,
     "uS": 1,
     "ntGP": 0,
@@ -1654,21 +1943,27 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Falhou jogos em Out–Nov 2020 (COVID). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_Juventus_FC_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Serie_A",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Falhou jogos em Out–Nov 2020 (COVID). Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Round of 16). Alterado: g 38→39, uG 5→6."
    },
    {
     "name": "Kevin De Bruyne",
     "club": "Man City",
     "lg": "EPL",
     "pos": "AM",
-    "gp": 37,
+    "gp": 32,
     "g": 11,
     "a": 18,
     "uT": "UCL",
-    "uG": 3,
+    "uG": 2,
     "uA": 3,
     "uS": 2,
     "ntGP": 0,
@@ -1681,18 +1976,24 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Recorde igualado de 20 assist. na PL 2019/20. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_Manchester_City_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Recorde igualado de 20 assist. na PL 2019/20. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Quarter-finals). Alterado: gp 37→32, uG 3→2."
    },
    {
     "name": "Neymar",
     "club": "PSG",
     "lg": "L1",
     "pos": "W",
-    "gp": 23,
-    "g": 18,
+    "gp": 19,
+    "g": 16,
     "a": 10,
     "uT": "UCL",
     "uG": 8,
@@ -1708,21 +2009,27 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Ligue 1 2019/20 terminada em Mar (PSG campeão por média; Neymar 15 de 27 jogos). Final UCL perdida. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Neymar",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Paris_Saint-Germain_F.C._season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_Paris_Saint-Germain_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Ligue_1",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Ligue 1 2019/20 terminada em Mar (PSG campeão por média; Neymar 15 de 27 jogos). Final UCL perdida. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final). Alterado: gp 23→19, g 18→16."
    },
    {
     "name": "Mohamed Salah",
     "club": "Liverpool",
     "lg": "EPL",
     "pos": "W",
-    "gp": 39,
-    "g": 24,
+    "gp": 41,
+    "g": 26,
     "a": 9,
     "uT": "UCL",
-    "uG": 2,
+    "uG": 3,
     "uA": 1,
     "uS": 1,
     "ntGP": 0,
@@ -1735,21 +2042,27 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Mohamed_Salah",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_Liverpool_F.C._season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Round of 16). Alterado: gp 39→41, g 24→26, uG 2→3."
    },
    {
     "name": "Kylian Mbappé",
     "club": "PSG",
     "lg": "L1",
     "pos": "FW",
-    "gp": 32,
-    "g": 25,
+    "gp": 28,
+    "g": 21,
     "a": 9,
     "uT": "UCL",
-    "uG": 4,
+    "uG": 2,
     "uA": 3,
     "uS": 4,
     "ntGP": 0,
@@ -1762,17 +2075,23 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_Paris_Saint-Germain_FC_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Ligue_1",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final). Alterado: gp 32→28, g 25→21, uG 4→2."
    },
    {
     "name": "Manuel Neuer",
     "club": "Bayern",
     "lg": "BL",
     "pos": "GK",
-    "gp": 40,
+    "gp": 39,
     "g": 0,
     "a": 0,
     "uT": "UCL",
@@ -1789,10 +2108,16 @@
     "rank": null,
     "elig": 1,
     "win": "CY",
-    "conf": "C",
+    "conf": "B",
     "aConf": "C",
-    "sources": [],
-    "note": "Tripleta; acrescentado (não estava no data.js). cont estimado. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão)."
+    "sources": [
+     "https://en.wikipedia.org/wiki/Manuel_Neuer",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_FC_Bayern_Munich_season",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_Bundesliga",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
+    ],
+    "note": "Tripleta; acrescentado (não estava no data.js). cont estimado. Divisão do ano civil estimada de memória (sem acesso web a registos jogo a jogo nesta sessão). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2019–20 UEFA Champions League: Final). Alterado: gp 40→39."
    }
   ]
  }

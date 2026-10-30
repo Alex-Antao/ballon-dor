@@ -13,11 +13,11 @@
         "club": "Barcelona / PSG",
         "lg": "LL",
         "pos": "FW",
-        "gp": 39,
-        "g": 31,
+        "gp": 41,
+        "g": 30,
         "a": 11,
         "uT": "UCL",
-        "uG": 7,
+        "uG": 6,
         "uA": 1,
         "uS": 1,
         "ntGP": 7,
@@ -30,20 +30,26 @@
         "rank": 1,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Lionel_Messi",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_FC_Barcelona_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_La_Liga",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2021_Copa_Am%C3%A9rica"
         ],
-        "note": "LaLiga jan–mai ≈20 j/23 g; Ligue 1 ago–dez ≈11 j/1 g; UCL: Barça oitavos 2020/21 (2 j/2 g) + PSG grupos 2021/22 (5 j/5 g). uS = edição 2020/21 (Barça, oitavos). Copa América: 4 g, 5 a, campeão e melhor jogador. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "LaLiga jan–mai ≈20 j/23 g; Ligue 1 ago–dez ≈11 j/1 g; UCL: Barça oitavos 2020/21 (2 j/2 g) + PSG grupos 2021/22 (5 j/5 g). uS = edição 2020/21 (Barça, oitavos). Copa América: 4 g, 5 a, campeão e melhor jogador. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Round of 16). Alterado: gp 39→41, g 31→30, uG 7→6."
       },
       {
         "name": "Robert Lewandowski",
         "club": "Bayern",
         "lg": "BL",
         "pos": "FW",
-        "gp": 41,
+        "gp": 43,
         "g": 54,
         "a": 8,
         "uT": "UCL",
@@ -60,21 +66,27 @@
         "rank": 2,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_FC_Bayern_Munich_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_FC_Bayern_Munich_season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Bundesliga",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "43 golos na Bundesliga no ano civil 2021 (recorde; ≈24 em jan–mai + 19 em ago–dez). UCL: Lazio 2 j/2 g + grupos 2021/22 6 j/9 g; falhou os quartos 2020/21 (PSG) por lesão. Campeão BL 2020/21. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "43 golos na Bundesliga no ano civil 2021 (recorde; ≈24 em jan–mai + 19 em ago–dez). UCL: Lazio 2 j/2 g + grupos 2021/22 6 j/9 g; falhou os quartos 2020/21 (PSG) por lesão. Campeão BL 2020/21. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Quarter-finals). Alterado: gp 41→43."
       },
       {
         "name": "Jorginho",
         "club": "Chelsea",
         "lg": "EPL",
         "pos": "CM",
-        "gp": 46,
-        "g": 8,
+        "gp": 43,
+        "g": 11,
         "a": 3,
         "uT": "UCL",
         "uG": 2,
@@ -90,13 +102,19 @@
         "rank": 3,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Jorginho_(footballer,_born_December_1991)",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Chelsea_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Chelsea_F.C._season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Golos quase todos de penálti (2 ao Malmö na UCL, 2 ao Leeds e 2 ao Aston Villa na PL em dez). Campeão da UCL 2020/21 e do Euro 2020. ntA mantido do data.js (incerto). Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "Golos quase todos de penálti (2 ao Malmö na UCL, 2 ao Leeds e 2 ao Aston Villa na PL em dez). Campeão da UCL 2020/21 e do Euro 2020. ntA mantido do data.js (incerto). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Final). Alterado: gp 46→43, g 8→11."
       },
       {
         "name": "Karim Benzema",
@@ -104,7 +122,7 @@
         "lg": "LL",
         "pos": "FW",
         "gp": 46,
-        "g": 36,
+        "g": 37,
         "a": 15,
         "uT": "UCL",
         "uG": 7,
@@ -120,21 +138,27 @@
         "rank": 4,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Karim_Benzema",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_La_Liga",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "UCL 2020/21 até às meias (golos à Atalanta e ao Chelsea) + grupos 2021/22. Euro: 4 g (2 a Portugal, 2 à Suíça); ntA mantido do data.js (incerto). Liga das Nações (out 2021) não conta. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "UCL 2020/21 até às meias (golos à Atalanta e ao Chelsea) + grupos 2021/22. Euro: 4 g (2 a Portugal, 2 à Suíça); ntA mantido do data.js (incerto). Liga das Nações (out 2021) não conta. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Semi-finals). Alterado: g 36→37."
       },
       {
         "name": "N’Golo Kanté",
         "club": "Chelsea",
         "lg": "EPL",
         "pos": "DM",
-        "gp": 37,
-        "g": 1,
+        "gp": 42,
+        "g": 2,
         "a": 2,
         "uT": "UCL",
         "uG": 0,
@@ -150,21 +174,27 @@
         "rank": 5,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/N'Golo_Kant%C3%A9",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Chelsea_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Chelsea_F.C._season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Homem do jogo nas meias e na final da UCL 2020/21; lesões no outono de 2021. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "Homem do jogo nas meias e na final da UCL 2020/21; lesões no outono de 2021. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Final). Alterado: gp 37→42, g 1→2."
       },
       {
         "name": "Cristiano Ronaldo",
         "club": "Juventus / Man United",
         "lg": "SA",
         "pos": "FW",
-        "gp": 41,
-        "g": 28,
+        "gp": 43,
+        "g": 31,
         "a": 4,
         "uT": "UCL",
         "uG": 6,
@@ -180,20 +210,27 @@
         "rank": 6,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Juventus_FC_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Juventus_FC_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Manchester_United_F.C._season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Serie_A",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Serie A jan–mai ≈19 j/15 g; Man United ago–dez PL ≈15 j/7 g + UCL grupos 5 j/6 g. uS = Juventus 2020/21 (oitavos, Porto). Melhor marcador do Euro 2020 (5 g, 1 a). pos alterada para FW (jogava como avançado-centro). Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "Serie A jan–mai ≈19 j/15 g; Man United ago–dez PL ≈15 j/7 g + UCL grupos 5 j/6 g. uS = Juventus 2020/21 (oitavos, Porto). Melhor marcador do Euro 2020 (5 g, 1 a). pos alterada para FW (jogava como avançado-centro). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Round of 16). Alterado: gp 41→43, g 28→31."
       },
       {
         "name": "Mohamed Salah",
         "club": "Liverpool",
         "lg": "EPL",
         "pos": "W",
-        "gp": 50,
+        "gp": 49,
         "g": 34,
         "a": 13,
         "uT": "UCL",
@@ -210,21 +247,26 @@
         "rank": 7,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Mohamed_Salah",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Liverpool_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Liverpool_F.C._season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
         ],
-        "note": "PL ≈9 g (jan–mai) + ≈15 g (ago–dez). UCL: Leipzig 2 j/2 g, Real 2 j/1 g (quartos 2020/21) + grupos 2021/22 6 j/7 g. CAN 2021 jogou-se em jan–fev 2022 (fora da janela). Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "PL ≈9 g (jan–mai) + ≈15 g (ago–dez). UCL: Leipzig 2 j/2 g, Real 2 j/1 g (quartos 2020/21) + grupos 2021/22 6 j/7 g. CAN 2021 jogou-se em jan–fev 2022 (fora da janela). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Quarter-finals). Alterado: gp 50→49."
       },
       {
         "name": "Kevin De Bruyne",
         "club": "Man City",
         "lg": "EPL",
         "pos": "AM",
-        "gp": 34,
-        "g": 9,
+        "gp": 41,
+        "g": 11,
         "a": 9,
         "uT": "UCL",
         "uG": 3,
@@ -240,13 +282,19 @@
         "rank": 8,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Lesionado jan–fev 2021. UCL 2020/21: golos ao Gladbach, Dortmund e PSG; final perdida. Euro: falhou o 1.º jogo; 1 g + 1 a à Dinamarca; quartos. Campeão PL 2020/21. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "Lesionado jan–fev 2021. UCL 2020/21: golos ao Gladbach, Dortmund e PSG; final perdida. Euro: falhou o 1.º jogo; 1 g + 1 a à Dinamarca; quartos. Campeão PL 2020/21. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Final). Alterado: gp 34→41, g 9→11."
       },
       {
         "name": "Kylian Mbappé",
@@ -254,7 +302,7 @@
         "lg": "L1",
         "pos": "FW",
         "gp": 46,
-        "g": 35,
+        "g": 34,
         "a": 15,
         "uT": "UCL",
         "uG": 10,
@@ -270,20 +318,26 @@
         "rank": 9,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Ligue_1",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "UCL 2020/21: 4 g ao Barcelona, 2 ao Bayern, meias com o City; grupos 2021/22 ≈4 g. Euro: 0 g; assistência(s) a Benzema/Griezmann (1–2). Lille campeão 2020/21. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "UCL 2020/21: 4 g ao Barcelona, 2 ao Bayern, meias com o City; grupos 2021/22 ≈4 g. Euro: 0 g; assistência(s) a Benzema/Griezmann (1–2). Lille campeão 2020/21. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Semi-finals). Alterado: g 35→34."
       },
       {
         "name": "Gianluigi Donnarumma",
         "club": "Milan / PSG",
         "lg": "SA",
         "pos": "GK",
-        "gp": 33,
+        "gp": 39,
         "g": 0,
         "a": 0,
         "uT": "UEL",
@@ -300,13 +354,19 @@
         "rank": 10,
         "elig": 1,
         "win": "CY",
-        "conf": "C",
+        "conf": "B",
         "aConf": "C",
         "sources": [
           "https://www.football.co.uk/news/the-2021-ballon-dor-rankings-in-full/746790",
-          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi"
+          "https://www.inkl.com/news/full-ballon-d-or-2021-rankings-as-cristiano-ronaldo-and-mo-salah-miss-out-to-lionel-messi",
+          "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_AC_Milan_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Serie_A",
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Europa_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Melhor jogador do Euro 2020 (decisivo nos desempates por penáltis). Competição continental da janela: UEL 2020/21 com o Milan (oitavos, Man United). No PSG alternou com Navas (ago–dez). cont 8,5 estimado. Divisão do ano civil estimada de memória a partir das duas épocas; NÃO verificada na web (só a posição na votação foi verificada)."
+        "note": "Melhor jogador do Euro 2020 (decisivo nos desempates por penáltis). Competição continental da janela: UEL 2020/21 com o Milan (oitavos, Man United). No PSG alternou com Navas (ago–dez). cont 8,5 estimado. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Europa League: Round of 16). Alterado: gp 33→39."
       }
     ]
   },
@@ -348,9 +408,13 @@
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://www.planetfootball.com/quick-reads/karim-benzema-ballon-dor-2022-real-madrid-stats-records-la-liga-champions-league",
           "https://www.realmadrid.com/en-US/news/football/first-team/personalities/benzemas-44-goals-this-campaign",
-          "https://uefa.com/uefachampionsleague/news/0275-15415dde0bf6-18a51dd7deed-1000--karim-benzema-tops-2021-22-fedex-performance-zone-rankings"
+          "https://uefa.com/uefachampionsleague/news/0275-15415dde0bf6-18a51dd7deed-1000--karim-benzema-tops-2021-22-fedex-performance-zone-rankings",
+          "https://en.wikipedia.org/wiki/Karim_Benzema",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 32 j/27 g/12 a (Pichichi); UCL 12 j/15 g. Assistências UCL: 1 ou 2 consoante a fonte (usado 1). Nº de jogos na LaLiga: 31–32 consoante a fonte."
+        "note": "LaLiga 32 j/27 g/12 a (Pichichi); UCL 12 j/15 g. Assistências UCL: 1 ou 2 consoante a fonte (usado 1). Nº de jogos na LaLiga: 31–32 consoante a fonte. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Sadio Mané",
@@ -382,9 +446,14 @@
           "https://www.vavel.com/en/data/sadio-mane/stats/",
           "https://www.calciomercato.com/giocatore/s-mane/carriera/cotiiu6mjkfx5xa63nhfbdf4l",
           "https://www.lfchistory.net/players/player/profile/1303",
-          "https://www.africanews.com/2022/02/07/afcon-2021-mane-laughs-last/"
+          "https://www.africanews.com/2022/02/07/afcon-2021-mane-laughs-last/",
+          "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Liverpool_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2021_Africa_Cup_of_Nations"
         ],
-        "note": "PL 34 j/16 g/2 a; UCL 13 j/5 g/1 a (final perdida). CAN 2021: 3 g, 2 a, Senegal campeão, melhor jogador do torneio (nº de jogos, 7, de memória)."
+        "note": "PL 34 j/16 g/2 a; UCL 13 j/5 g/1 a (final perdida). CAN 2021: 3 g, 2 a, Senegal campeão, melhor jogador do torneio (nº de jogos, 7, de memória). 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Kevin De Bruyne",
@@ -414,9 +483,13 @@
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://www.uefa.com/uefachampionsleague/news/0278-15db2185d051-9ede353856b8-1000--uefa-men-s-player-of-the-year-nominee-the-case-for-kevin/",
-          "https://www.mancity.com/news/mens/kevin-de-bruyne-100-city-goals-season-by-season-63843680"
+          "https://www.mancity.com/news/mens/kevin-de-bruyne-100-city-goals-season-by-season-63843680",
+          "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "PL 30 j/15 g/8 a (UEFA; outras fontes 7 a); UCL 10 j/2 g/3 a; meias. data.js tinha 43 j/19 g/15 a (incluía taças)."
+        "note": "PL 30 j/15 g/8 a (UEFA; outras fontes 7 a); UCL 10 j/2 g/3 a; meias. data.js tinha 43 j/19 g/15 a (incluía taças). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Robert Lewandowski",
@@ -440,15 +513,19 @@
         "rank": 4,
         "elig": 1,
         "win": "P",
-        "conf": "B",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://bundesliga.com/en/bundesliga/news/bayern-munich-s-robert-lewandowski-wins-2021-22-european-golden-shoe-20245",
-          "https://www.statista.com/statistics/591180/bundesliga-leading-scorers-germany"
+          "https://www.statista.com/statistics/591180/bundesliga-leading-scorers-germany",
+          "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_FC_Bayern_Munich_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Bundesliga",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "Golos verificados (35 BL + 13 UCL; Chuteira de Ouro europeia). Jogos (34 + 10) de memória. Assistências: ~3 BL segundo Transfermarkt; a Bundesliga oficial dá G+A 41 (⇒ ~6 a). Quartos de final (Villarreal)."
+        "note": "Golos verificados (35 BL + 13 UCL; Chuteira de Ouro europeia). Jogos (34 + 10) de memória. Assistências: ~3 BL segundo Transfermarkt; a Bundesliga oficial dá G+A 41 (⇒ ~6 a). Quartos de final (Villarreal). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Mohamed Salah",
@@ -472,7 +549,7 @@
         "rank": 5,
         "elig": 1,
         "win": "P",
-        "conf": "B",
+        "conf": "A",
         "aConf": "B",
         "sources": [
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
@@ -480,9 +557,14 @@
           "https://www.statmuse.com/fc/ask/salah-stats-for-liverp?l=pl",
           "https://www.90min.com/posts/premier-league-top-scorers-2021-22",
           "https://www.thisisanfield.com/2022/06/mo-salahs-breathtaking-season-confirmed-his-status-as-worlds-best/",
-          "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations/articles-video/relive-salah-s-goals-in-afcon-2021-2024-01-04"
+          "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations/articles-video/relive-salah-s-goals-in-afcon-2021-2024-01-04",
+          "https://en.wikipedia.org/wiki/Mohamed_Salah",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Liverpool_F.C._season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2021_Africa_Cup_of_Nations"
         ],
-        "note": "PL 35 j/23 g/13 a verificado (StatMuse, 90min). UCL 13 j/8 g/2 a deduzido do total de 31 g em todas as provas (sem golos nas taças). CAN 2021: Egito finalista; 2 g (Guiné-Bissau, Marrocos) + 1 a segundo a beIN — a Goal fala em 3 g; usado 2."
+        "note": "PL 35 j/23 g/13 a verificado (StatMuse, 90min). UCL 13 j/8 g/2 a deduzido do total de 31 g em todas as provas (sem golos nas taças). CAN 2021: Egito finalista; 2 g (Guiné-Bissau, Marrocos) + 1 a segundo a beIN — a Goal fala em 3 g; usado 2. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Kylian Mbappé",
@@ -513,9 +595,13 @@
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://www.statscrew.com/worldfootball/stats/t-PARGE131/y-2021",
           "https://en.psg.fr/teams/first-team/content/a-record-season-for-kylian-mbappe-paris-saint-germain-ligue-1-2021-2022",
-          "https://www.90min.com/posts/psg-2021-22-season-review-top-scorers-assists-player-of-the-year"
+          "https://www.90min.com/posts/psg-2021-22-season-review-top-scorers-assists-player-of-the-year",
+          "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Ligue_1",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "Ligue 1 35 j/28 g/17 a (melhor marcador e assistente); UCL 8 j/6 g; assistências UCL 4 (PSG) ou 6 (90min) — usado 4. Oitavos (Real Madrid)."
+        "note": "Ligue 1 35 j/28 g/17 a (melhor marcador e assistente); UCL 8 j/6 g; assistências UCL 4 (PSG) ou 6 (90min) — usado 4. Oitavos (Real Madrid). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Round of 16)."
       },
       {
         "name": "Thibaut Courtois",
@@ -545,9 +631,13 @@
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://www.flashscore.com/news/thibaut-courtois-wins-yachine-trophy-as-best-goalkeeper-after-champions-league-heroics/OxdL4GEd",
-          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/courtois-key-saves-to-secure-decimocuarta-crown"
+          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/courtois-key-saves-to-secure-decimocuarta-crown",
+          "https://en.wikipedia.org/wiki/Thibaut_Courtois",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 36 j (16 jogos sem sofrer); UCL 13 j, recorde de 9 defesas na final, homem do jogo. Prémio Yashin 2022."
+        "note": "LaLiga 36 j (16 jogos sem sofrer); UCL 13 j, recorde de 9 defesas na final, homem do jogo. Prémio Yashin 2022. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Vinícius Júnior",
@@ -577,16 +667,20 @@
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://uefa.com/uefachampionsleague/news/0275-1546501dd977-8e9d95ac3c37-1000--young-player-of-the-season-vinicius-jr",
-          "https://www.football-espana.net/2022/07/25/vinicius-junior-reflects-on-his-champions-league-winning-goal-against-liverpool"
+          "https://www.football-espana.net/2022/07/25/vinicius-junior-reflects-on-his-champions-league-winning-goal-against-liverpool",
+          "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 35 j/17 g/13 a; UCL 13 j/4 g (golo da vitória na final); assistências UCL 6 (UEFA) ou 7 (Football España) — usado 6."
+        "note": "LaLiga 35 j/17 g/13 a; UCL 13 j/4 g (golo da vitória na final); assistências UCL 6 (UEFA) ou 7 (Football España) — usado 6. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Luka Modrić",
         "club": "Real Madrid",
         "lg": "LL",
         "pos": "CM",
-        "gp": 40,
+        "gp": 41,
         "g": 2,
         "a": 11,
         "uT": "UCL",
@@ -603,15 +697,19 @@
         "rank": 9,
         "elig": 1,
         "win": "P",
-        "conf": "B",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://sportskeeda.com/football/5-best-midfielders-la-liga-season-2021-22-kroos-modric",
-          "https://www.football-espana.net/2022/06/08/luka-modric-signs-new-deal-with-real-madrid-to-take-him-through-to-2023"
+          "https://www.football-espana.net/2022/06/08/luka-modric-signs-new-deal-with-real-madrid-to-take-him-through-to-2023",
+          "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 28 j/2 g/8 a (Sportskeeda); total em todas as provas 3 g/12 a (Football España; o 3.º golo foi na Supercopa). UCL 12 j/0 g/3 a de memória. cont 8,5 estimado (9,5 em 2018)."
+        "note": "LaLiga 28 j/2 g/8 a (Sportskeeda); total em todas as provas 3 g/12 a (Football España; o 3.º golo foi na Supercopa). UCL 12 j/0 g/3 a de memória. cont 8,5 estimado (9,5 em 2018). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final). Alterado: gp 40→41."
       },
       {
         "name": "Erling Haaland",
@@ -641,9 +739,13 @@
           "https://www.eurosport.com/football/ballon-d-or/2022/ballon-d-or-2022-results-in-full-ranking-of-every-player-including-benzema-haaland-and-ronaldo_sto9191941/story.shtml",
           "https://www.90min.com/posts/ballon-d-or-2022-live-rankings-reveal-underway",
           "https://www.goal.com/en/player/e-haaland/career/atzboo800gv7gic2rgvgo0kq1",
-          "https://amp.bundesliga.com/en/bundesliga/news/erling-haaland-better-than-last-season-borussia-dortmund-s-marco-rose-18158"
+          "https://amp.bundesliga.com/en/bundesliga/news/erling-haaland-better-than-last-season-borussia-dortmund-s-marco-rose-18158",
+          "https://en.wikipedia.org/wiki/Erling_Haaland",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Borussia_Dortmund_season",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Bundesliga",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Europa_League"
         ],
-        "note": "BL 24 j/22 g/7 a; UCL 3 j/3 g (Dortmund eliminado na fase de grupos). Dortmund caiu depois no play-off da UEL (Rangers); Haaland lesionado, presume-se que não jogou — por confirmar."
+        "note": "BL 24 j/22 g/7 a; UCL 3 j/3 g (Dortmund eliminado na fase de grupos). Dortmund caiu depois no play-off da UEL (Rangers); Haaland lesionado, presume-se que não jogou — por confirmar. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; jogou a fase de grupos da UCL 2021/22; lesionado, não jogou o play-off da Liga Europa (Rangers)."
       }
     ]
   },
@@ -661,7 +763,7 @@
         "club": "PSG",
         "lg": "L1",
         "pos": "FW",
-        "gp": 38,
+        "gp": 39,
         "g": 20,
         "a": 19,
         "uT": "UCL",
@@ -678,14 +780,19 @@
         "rank": 1,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Lionel_Messi",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Ligue_1",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Ligue 1 32 j/16 g/16 a; UCL ≈6 j/4 g (falhou 2 jogos de grupo por lesão), oitavos (Bayern). Mundial: 7 g, 3 a, campeão e Bola de Ouro do torneio. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Ligue 1 32 j/16 g/16 a; UCL ≈6 j/4 g (falhou 2 jogos de grupo por lesão), oitavos (Bayern). Mundial: 7 g, 3 a, campeão e Bola de Ouro do torneio. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Round of 16). Alterado: gp 38→39."
       },
       {
         "name": "Erling Haaland",
@@ -709,14 +816,18 @@
         "rank": 2,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Erling_Haaland",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League"
         ],
-        "note": "PL 35 j/36 g/8 a (recorde); UCL 11 j/12 g; triplete. Noruega não esteve no Mundial. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL 35 j/36 g/8 a (recorde); UCL 11 j/12 g; triplete. Noruega não esteve no Mundial. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final)."
       },
       {
         "name": "Kylian Mbappé",
@@ -740,21 +851,26 @@
         "rank": 3,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Ligue_1",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Ligue 1 34 j/29 g/5 a (melhor marcador); UCL 8 j/7 g. Mundial: 8 g (melhor marcador, hat-trick na final), 2 a; finalista. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Ligue 1 34 j/29 g/5 a (melhor marcador); UCL 8 j/7 g. Mundial: 8 g (melhor marcador, hat-trick na final), 2 a; finalista. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Round of 16)."
       },
       {
         "name": "Kevin De Bruyne",
         "club": "Man City",
         "lg": "EPL",
         "pos": "AM",
-        "gp": 43,
+        "gp": 42,
         "g": 9,
         "a": 19,
         "uT": "UCL",
@@ -771,21 +887,26 @@
         "rank": 4,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "PL 32 j/7 g/16 a (líder de assistências); UCL 11 j/2 g (golo ao Real Madrid nas meias). Bélgica eliminada na fase de grupos do Mundial. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL 32 j/7 g/16 a (líder de assistências); UCL 11 j/2 g (golo ao Real Madrid nas meias). Bélgica eliminada na fase de grupos do Mundial. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final). Alterado: gp 43→42."
       },
       {
         "name": "Rodri",
         "club": "Man City",
         "lg": "EPL",
         "pos": "DM",
-        "gp": 47,
+        "gp": 48,
         "g": 4,
         "a": 7,
         "uT": "UCL",
@@ -802,14 +923,19 @@
         "rank": 5,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Rodri",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Golos na UCL ao Bayern (quartos) e ao Inter (final, melhor jogador da final) — data.js tinha uG 0. Mundial: Espanha nos oitavos. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Golos na UCL ao Bayern (quartos) e ao Inter (final, melhor jogador da final) — data.js tinha uG 0. Mundial: Espanha nos oitavos. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final). Alterado: gp 47→48."
       },
       {
         "name": "Vinícius Júnior",
@@ -833,14 +959,19 @@
         "rank": 6,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_La_Liga",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "LaLiga ≈33 j/10 g/9 a; UCL 12 j/7 g/5 a (meias). Mundial: 4 j/1 g (Coreia do Sul); Brasil nos quartos. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "LaLiga ≈33 j/10 g/9 a; UCL 12 j/7 g/5 a (meias). Mundial: 4 j/1 g (Coreia do Sul); Brasil nos quartos. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Julián Álvarez",
@@ -864,14 +995,19 @@
         "rank": 7,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Juli%C3%A1n_Alvarez",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "PL 31 j/9 g; UCL ≈10 j/3 g. Mundial: 4 g (2 à Croácia nas meias), campeão. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL 31 j/9 g; UCL ≈10 j/3 g. Mundial: 4 g (2 à Croácia nas meias), campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final)."
       },
       {
         "name": "Victor Osimhen",
@@ -895,21 +1031,25 @@
         "rank": 8,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Victor_Osimhen",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_SSC_Napoli_season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Serie_A",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League"
         ],
-        "note": "Serie A 32 j/26 g (capocannoniere, Napoli campeão); UCL ≈6 j/5 g, quartos (Milan). Nigéria não esteve no Mundial. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Serie A 32 j/26 g (capocannoniere, Napoli campeão); UCL ≈6 j/5 g, quartos (Milan). Nigéria não esteve no Mundial. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Bernardo Silva",
         "club": "Man City",
         "lg": "EPL",
         "pos": "CM",
-        "gp": 45,
+        "gp": 47,
         "g": 7,
         "a": 5,
         "uT": "UCL",
@@ -926,25 +1066,30 @@
         "rank": 9,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Bernardo_Silva",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Posição ambígua (extremo direito / médio interior); classificado como CM pelo papel sem bola; cont 8 estimado. 2 golos ao Real Madrid nas meias da UCL. Mundial: Portugal nos quartos. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Posição ambígua (extremo direito / médio interior); classificado como CM pelo papel sem bola; cont 8 estimado. 2 golos ao Real Madrid nas meias da UCL. Mundial: Portugal nos quartos. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final). Alterado: gp 45→47."
       },
       {
         "name": "Luka Modrić",
         "club": "Real Madrid",
         "lg": "LL",
         "pos": "CM",
-        "gp": 44,
-        "g": 5,
+        "gp": 43,
+        "g": 6,
         "a": 6,
         "uT": "UCL",
-        "uG": 1,
+        "uG": 2,
         "uA": 2,
         "uS": 3,
         "ntGP": 7,
@@ -957,14 +1102,19 @@
         "rank": 10,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.90min.com/posts/ballon-dor-2023-results-released-in-full",
           "https://footballtransfers.com/en/transfer-news/uk-premier-league/2023/10/ballon-dor-2023-ranking",
-          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030"
+          "https://www.soccerladuma.co.za/international/ballon-dor/official-2023-mens-ballon-dor-top-10-ranking-confirmed-20231030",
+          "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_La_Liga",
+          "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Mundial: Croácia 3.ª (perdeu as meias com a Argentina; jogo do 3.º lugar não altera a fase). UCL até às meias. cont 8 estimado. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Mundial: Croácia 3.ª (perdeu as meias com a Argentina; jogo do 3.º lugar não altera a fase). UCL até às meias. cont 8 estimado. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Semi-finals). Alterado: gp 44→43, g 5→6, uG 1→2."
       }
     ]
   },
@@ -982,7 +1132,7 @@
         "club": "Man City",
         "lg": "EPL",
         "pos": "DM",
-        "gp": 43,
+        "gp": 42,
         "g": 9,
         "a": 10,
         "uT": "UCL",
@@ -999,13 +1149,18 @@
         "rank": 1,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Rodri",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "PL ≈34 j/8 g/9 a; UCL ≈9 j, quartos (Real Madrid, penáltis). Euro: 6 j (não jogou com a Albânia), golo à Geórgia, melhor jogador do torneio, campeão — data.js tinha 7 j/0 g. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL ≈34 j/8 g/9 a; UCL ≈9 j, quartos (Real Madrid, penáltis). Euro: 6 j (não jogou com a Albânia), golo à Geórgia, melhor jogador do torneio, campeão — data.js tinha 7 j/0 g. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Quarter-finals). Alterado: gp 43→42."
       },
       {
         "name": "Vinícius Júnior",
@@ -1029,20 +1184,25 @@
         "rank": 2,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_La_Liga",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2024_Copa_Am%C3%A9rica"
         ],
-        "note": "LaLiga 26 j/15 g/5 a; UCL 10 j/6 g/5 a (golo na final). Copa América: 2 g ao Paraguai; suspenso nos quartos (Brasil eliminado). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "LaLiga 26 j/15 g/5 a; UCL 10 j/6 g/5 a (golo na final). Copa América: 2 g ao Paraguai; suspenso nos quartos (Brasil eliminado). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final)."
       },
       {
         "name": "Jude Bellingham",
         "club": "Real Madrid",
         "lg": "LL",
         "pos": "AM",
-        "gp": 38,
+        "gp": 39,
         "g": 23,
         "a": 11,
         "uT": "UCL",
@@ -1059,27 +1219,32 @@
         "rank": 3,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Jude_Bellingham",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_La_Liga",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "LaLiga 28 j/19 g/6 a; UCL ≈10 j/4 g/5 a. Euro: 2 g (Sérvia, Eslováquia), finalista. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "LaLiga 28 j/19 g/6 a; UCL ≈10 j/4 g/5 a. Euro: 2 g (Sérvia, Eslováquia), finalista. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final). Alterado: gp 38→39."
       },
       {
         "name": "Dani Carvajal",
         "club": "Real Madrid",
         "lg": "LL",
         "pos": "DF",
-        "gp": 40,
+        "gp": 38,
         "g": 5,
         "a": 5,
         "uT": "UCL",
         "uG": 1,
         "uA": 1,
         "uS": 5,
-        "ntGP": 6,
+        "ntGP": 5,
         "ntG": 1,
         "ntA": 0,
         "ntT": "EURO",
@@ -1089,13 +1254,18 @@
         "rank": 4,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Dani_Carvajal",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_La_Liga",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Golo na final da UCL. Euro: golo à Croácia; suspenso nas meias; campeão. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Golo na final da UCL. Euro: golo à Croácia; suspenso nas meias; campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final). Alterado: gp 40→38, ntGP 6→5."
       },
       {
         "name": "Erling Haaland",
@@ -1119,13 +1289,17 @@
         "rank": 5,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Erling_Haaland",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Manchester_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League"
         ],
-        "note": "PL 31 j/27 g/5 a (melhor marcador); UCL ≈9 j/6 g. Noruega não esteve no Euro. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL 31 j/27 g/5 a (melhor marcador); UCL ≈9 j/6 g. Noruega não esteve no Euro. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Kylian Mbappé",
@@ -1149,20 +1323,25 @@
         "rank": 6,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Ligue_1",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Ligue 1 29 j/27 g/7 a; UCL 12 j/8 g, meias. Euro: 5 j (falhou o jogo com os Países Baixos após fratura do nariz), 1 g (penálti à Polónia), assistência a Kolo Muani nas meias; data.js tinha 6 j/0 a. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Ligue 1 29 j/27 g/7 a; UCL 12 j/8 g, meias. Euro: 5 j (falhou o jogo com os Países Baixos após fratura do nariz), 1 g (penálti à Polónia), assistência a Kolo Muani nas meias; data.js tinha 6 j/0 a. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Lautaro Martínez",
         "club": "Inter",
         "lg": "SA",
         "pos": "FW",
-        "gp": 40,
+        "gp": 41,
         "g": 26,
         "a": 4,
         "uT": "UCL",
@@ -1179,27 +1358,32 @@
         "rank": 7,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Inter_Milan_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Serie_A",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/2024_Copa_Am%C3%A9rica"
         ],
-        "note": "Serie A 33 j/24 g (capocannoniere, Inter campeão); UCL ≈7 j, oitavos (Atlético). Copa América: 5 g (melhor marcador, golo da vitória na final), campeão. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Serie A 33 j/24 g (capocannoniere, Inter campeão); UCL ≈7 j, oitavos (Atlético). Copa América: 5 g (melhor marcador, golo da vitória na final), campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Round of 16). Alterado: gp 40→41."
       },
       {
         "name": "Lamine Yamal",
         "club": "Barcelona",
         "lg": "LL",
         "pos": "W",
-        "gp": 44,
-        "g": 6,
+        "gp": 47,
+        "g": 5,
         "a": 10,
         "uT": "UCL",
-        "uG": 1,
+        "uG": 0,
         "uA": 2,
         "uS": 2,
-        "ntGP": 6,
+        "ntGP": 7,
         "ntG": 1,
         "ntA": 4,
         "ntT": "EURO",
@@ -1209,13 +1393,18 @@
         "rank": 8,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Lamine_Yamal",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_FC_Barcelona_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_La_Liga",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Números de clube mantidos do data.js. Euro: 6 j (não jogou com a Albânia), 1 g (França), 4 a, melhor jovem, campeão. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Números de clube mantidos do data.js. Euro: 6 j (não jogou com a Albânia), 1 g (França), 4 a, melhor jovem, campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Quarter-finals). Alterado: gp 44→47, g 6→5, uG 1→0, ntGP 6→7."
       },
       {
         "name": "Toni Kroos",
@@ -1239,13 +1428,18 @@
         "rank": 9,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Toni_Kroos",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_La_Liga",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Última época antes da retirada; campeão LaLiga e UCL. Euro: Alemanha nos quartos. cont 8,5 estimado; ntA incerto. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Última época antes da retirada; campeão LaLiga e UCL. Euro: Alemanha nos quartos. cont 8,5 estimado; ntA incerto. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final)."
       },
       {
         "name": "Harry Kane",
@@ -1269,13 +1463,18 @@
         "rank": 10,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.goal.com/en/lists/full-2024-ballon-dor-voting-breakdown-reveals-rodri-margin-victory-over-vinicius-jr-controversial-contest/blt0e0bff7ed05adce4",
-          "https://en.parisfans.fr/?p=4926"
+          "https://en.parisfans.fr/?p=4926",
+          "https://en.wikipedia.org/wiki/Harry_Kane",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_FC_Bayern_Munich_season",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_Bundesliga",
+          "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "BL 32 j/36 g/8 a (melhor marcador, Chuteira de Ouro europeia); UCL 12 j/8 g, meias. Euro: 3 g (Dinamarca, Eslováquia, Países Baixos), finalista; ntA mantido do data.js (incerto). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "BL 32 j/36 g/8 a (melhor marcador, Chuteira de Ouro europeia); UCL 12 j/8 g, meias. Euro: 3 g (Dinamarca, Eslováquia, Países Baixos), finalista; ntA mantido do data.js (incerto). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Semi-finals)."
       }
     ]
   },
@@ -1310,14 +1509,18 @@
         "rank": 1,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Ligue 1 29 j/21 g/6 a (melhor marcador, ex aequo com Greenwood); UCL 15 j/8 g/6 a, campeão. Jogou sobretudo como falso 9 (pos W mantida do data.js). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Ligue 1 29 j/21 g/6 a (melhor marcador, ex aequo com Greenwood); UCL 15 j/8 g/6 a, campeão. Jogou sobretudo como falso 9 (pos W mantida do data.js). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final)."
       },
       {
         "name": "Lamine Yamal",
@@ -1341,22 +1544,26 @@
         "rank": 2,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Lamine_Yamal",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_FC_Barcelona_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Números mantidos do data.js (LaLiga ≈35 j/9 g/13 a; UCL ≈13 j/5 g/3 a); meias (Inter). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Números mantidos do data.js (LaLiga ≈35 j/9 g/13 a; UCL ≈13 j/5 g/3 a); meias (Inter). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Vitinha",
         "club": "PSG",
         "lg": "L1",
         "pos": "CM",
-        "gp": 44,
-        "g": 5,
+        "gp": 46,
+        "g": 7,
         "a": 6,
         "uT": "UCL",
         "uG": 2,
@@ -1372,14 +1579,18 @@
         "rank": 3,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Vitinha",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Números mantidos do data.js. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Números mantidos do data.js. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: gp 44→46, g 5→7."
       },
       {
         "name": "Mohamed Salah",
@@ -1387,10 +1598,10 @@
         "lg": "EPL",
         "pos": "W",
         "gp": 47,
-        "g": 31,
+        "g": 32,
         "a": 22,
         "uT": "UCL",
-        "uG": 2,
+        "uG": 3,
         "uA": 4,
         "uS": 1,
         "ntGP": 0,
@@ -1403,21 +1614,25 @@
         "rank": 4,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Mohamed_Salah",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Liverpool_F.C._season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "PL 38 j/29 g/18 a (melhor marcador e assistente); UCL 9 j, oitavos (PSG). Golos na UCL possivelmente 3–4 (data.js: 2, mantido). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL 38 j/29 g/18 a (melhor marcador e assistente); UCL 9 j, oitavos (PSG). Golos na UCL possivelmente 3–4 (data.js: 2, mantido). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Round of 16). Alterado: g 31→32, uG 2→3."
       },
       {
         "name": "Raphinha",
         "club": "Barcelona",
         "lg": "LL",
         "pos": "W",
-        "gp": 49,
+        "gp": 50,
         "g": 31,
         "a": 17,
         "uT": "UCL",
@@ -1434,25 +1649,29 @@
         "rank": 5,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Raphinha",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_FC_Barcelona_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "LaLiga ≈36 j/18 g; UCL ≈14 j/13 g/8 a (meias). Números mantidos do data.js. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "LaLiga ≈36 j/18 g; UCL ≈14 j/13 g/8 a (meias). Números mantidos do data.js. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Semi-finals). Alterado: gp 49→50."
       },
       {
         "name": "Achraf Hakimi",
         "club": "PSG",
         "lg": "L1",
         "pos": "DF",
-        "gp": 43,
-        "g": 7,
+        "gp": 42,
+        "g": 8,
         "a": 12,
         "uT": "UCL",
-        "uG": 3,
+        "uG": 4,
         "uA": 5,
         "uS": 5,
         "ntGP": 0,
@@ -1465,14 +1684,18 @@
         "rank": 6,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "uG corrigido de 1 para 3 (golos ao Aston Villa nos quartos, ao Arsenal nas meias e ao Inter na final). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "uG corrigido de 1 para 3 (golos ao Aston Villa nos quartos, ao Arsenal nas meias e ao Inter na final). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: gp 43→42, g 7→8, uG 3→4."
       },
       {
         "name": "Kylian Mbappé",
@@ -1496,21 +1719,25 @@
         "rank": 7,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "LaLiga 34 j/31 g (Pichichi, Chuteira de Ouro europeia); UCL 14 j/7 g, incl. 4 ao Man City no play-off; quartos (Arsenal). data.js tinha 43 j/35 g (uG 4). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "LaLiga 34 j/31 g (Pichichi, Chuteira de Ouro europeia); UCL 14 j/7 g, incl. 4 ao Man City no play-off; quartos (Arsenal). data.js tinha 43 j/35 g (uG 4). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Cole Palmer",
         "club": "Chelsea",
         "lg": "EPL",
         "pos": "AM",
-        "gp": 40,
+        "gp": 45,
         "g": 15,
         "a": 10,
         "uT": "ECL",
@@ -1527,21 +1754,25 @@
         "rank": 8,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Cole_Palmer",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Europa_Conference_League"
         ],
-        "note": "PL 37 j/15 g/8 a; poucos jogos na Liga Conferência (2 assistências na final com o Betis, Chelsea campeão). Mundial de Clubes 2025 não conta. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "PL 37 j/15 g/8 a; poucos jogos na Liga Conferência (2 assistências na final com o Betis, Chelsea campeão). Mundial de Clubes 2025 não conta. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Europa Conference League: Final). Alterado: gp 40→45."
       },
       {
         "name": "Gianluigi Donnarumma",
         "club": "PSG",
         "lg": "L1",
         "pos": "GK",
-        "gp": 44,
+        "gp": 39,
         "g": 0,
         "a": 0,
         "uT": "UCL",
@@ -1558,14 +1789,18 @@
         "rank": 9,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Prémio Yashin 2025; decisivo nos penáltis com o Liverpool e nas eliminatórias da UCL. Transferido para o Man City em set 2025 (fora da janela). cont 9 estimado. Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Prémio Yashin 2025; decisivo nos penáltis com o Liverpool e nas eliminatórias da UCL. Transferido para o Man City em set 2025 (fora da janela). cont 9 estimado. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: gp 44→39."
       },
       {
         "name": "Nuno Mendes",
@@ -1573,10 +1808,10 @@
         "lg": "L1",
         "pos": "DF",
         "gp": 40,
-        "g": 3,
+        "g": 5,
         "a": 6,
         "uT": "UCL",
-        "uG": 1,
+        "uG": 4,
         "uA": 2,
         "uS": 5,
         "ntGP": 0,
@@ -1589,21 +1824,25 @@
         "rank": 10,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Nuno_Mendes_(footballer,_born_2002)",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Paris_Saint-Germain_FC_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Golo ao Aston Villa nos quartos da UCL; campeão UCL e Ligue 1. cont 8,5 estimado (igual a Hakimi). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "Golo ao Aston Villa nos quartos da UCL; campeão UCL e Ligue 1. cont 8,5 estimado (igual a Hakimi). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: g 3→5, uG 1→4."
       },
       {
         "name": "Harry Kane",
         "club": "Bayern",
         "lg": "BL",
         "pos": "FW",
-        "gp": 45,
+        "gp": 44,
         "g": 37,
         "a": 10,
         "uT": "UCL",
@@ -1620,14 +1859,18 @@
         "rank": 13,
         "elig": 1,
         "win": "P",
-        "conf": "C",
+        "conf": "A",
         "aConf": "C",
         "sources": [
           "https://www.republicworld.com/sports/football/ousmane-dembele-races-past-lamine-yamal-and-mohamed-salah-to-win-ballon-d-or-here-full-ranking-list-of-the-prestigious-award",
           "https://www.fourfourtwo.com/features/ballon-dor-2025-full-standings",
-          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/"
+          "https://beninwebtv.com/en/ballon-dor-2025-mbappe-7th-salah-4th-the-overall-standings/",
+          "https://en.wikipedia.org/wiki/Harry_Kane",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_FC_Bayern_Munich_season",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_Bundesliga",
+          "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "13.º na votação (fora do top 10), mantido por já constar do data.js. BL 31 j/26 g (melhor marcador, 1.º título de campeão); UCL 14 j/11 g (4 ao Dinamo Zagreb), quartos (Inter). data.js tinha 41 j/34 g (uG 8). Estatísticas de memória, NÃO verificadas na web (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada."
+        "note": "13.º na votação (fora do top 10), mantido por já constar do data.js. BL 31 j/26 g (melhor marcador, 1.º título de campeão); UCL 14 j/11 g (4 ao Dinamo Zagreb), quartos (Inter). data.js tinha 41 j/34 g (uG 8). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Quarter-finals). Alterado: gp 45→44."
       }
     ]
   }
