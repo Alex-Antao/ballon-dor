@@ -341,7 +341,7 @@
         ? fact(`${lgK} · so far`, nums([r.gpNow, 'games'], [r.gNow, 'goals'], [r.aNow ?? '—', 'assists']),
           `models score the expected end of season: ${r.gp} gp · ${r.g} g · ${r.a} a`)
         : fact(lgK, nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists'])),
-      fact(reg, r.uT ? nums([r.uG, 'goals'], [r.uA, 'assists']) : NONE,
+      fact(reg, r.uT ? nums([r.uG, 'goals'], [r.uANow === null ? '—' : r.uA, 'assists']) : NONE,
         r.uT ? `${CUPN[r.uT]}: ${STAGE[r.uS]} · weight ${fmt(cupWeight(r.uT, y))}` : reg === 'North America' ? 'CONCACAF cups are not counted' : 'no continental competition'),
       fact('National team', r.ntT ? nums([r.ntGP, 'games'], [r.ntG, 'goals'], [r.ntA, 'assists']) : NONE,
         r.ntT ? `${r.ntT}: ${STAGE[r.ntS]}` : 'no national-team tournament'),
