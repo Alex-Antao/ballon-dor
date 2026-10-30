@@ -1,12 +1,12 @@
 {
  "1956": {
-  "label": "Ano civil 1956",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Stanley Matthews",
-  "realAll": null,
-  "realAllNote": "Sem prémio retroativo da France Football (2016) para 1956.",
+  "label": "Calendar year 1956",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Stanley Matthews",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive France Football award (2016) for 1956.",
   "window": "CY",
-  "notes": "1.ª edição (FF n.º 561, 18/12/1956; 16 votantes). Pontos: Matthews 47, Di Stéfano 44, Kopa 33, Puskás 32, Yashin 19, Bozsik 15, Ocwirk 9, Kocsis 6, Kolev/Cisowski/Wright 4 (empate no 9.º). Taça dos Campeões 1955/56 decidida em junho de 1956 (Real Madrid 4–3 Reims). Campeonato húngaro de 1956 interrompido pela revolução de outubro (sem campeão). Sem inelegíveis de relevo incluídos.",
+  "notes": "1st edition (FF no. 561, 18/12/1956; 16 voters). Points: Matthews 47, Di Stéfano 44, Kopa 33, Puskás 32, Yashin 19, Bozsik 15, Ocwirk 9, Kocsis 6, Kolev/Cisowski/Wright 4 (tied 9th). European Cup 1955/56 decided in June 1956 (Real Madrid 4–3 Reims). 1956 Hungarian championship interrupted by the October revolution (no champion). No notable ineligible players included.",
   "rows": [
    {
     "name": "Stanley Matthews",
@@ -42,7 +42,7 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Blackpool_F.C._season",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_Football_League"
     ],
-    "note": "Blackpool 2.º em 1955/56 e 4.º em 1956/57.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; por verificar: fase europeia. Alterado: gp 30→36, g 2→3."
+    "note": "Blackpool 2nd in 1955/56 and 4th in 1956/57.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 30→36, g 2→3."
    },
    {
     "name": "Alfredo Di Stéfano",
@@ -79,7 +79,7 @@
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_La_Liga",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
-    "note": "Naturalizado espanhol em 1956. UCL: 2.ª mão QF, meias e final de 1955/56 + 1.ª ronda de 1956/57 (Rapid Viena) na janela.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1956–57 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1955–56 European Cup: Final). Alterado: gp 36→41, g 30→38, uG 3→7."
+    "note": "Naturalised Spanish in 1956. UCL: second leg of the QF, semi-finals and final of 1955/56 + 1st round of 1956/57 (Rapid Vienna) in the window.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1956–57 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→41, g 30→38, uG 3→7."
    },
    {
     "name": "Raymond Kopa",
@@ -115,7 +115,7 @@
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_French_Division_1",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
-    "note": "Finalista da Taça dos Campeões 1955/56 pelo Reims; transferido para o Real Madrid no verão de 1956.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1955–56 European Cup: Final). Alterado: gp 36→37, g 8→5, uG 1→0."
+    "note": "1955/56 European Cup finalist with Reims; transferred to Real Madrid in summer 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→37, g 8→5, uG 1→0."
    },
    {
     "name": "Ferenc Puskás",
@@ -149,7 +149,7 @@
      "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s",
      "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I"
     ],
-    "note": "Campeonato 1956 (ano civil) interrompido em outubro; jogos da Taça dos Campeões 1956/57 vs Athletic (nov–dez 1956) contam em gp/g mas a edição que termina em 1956 não teve o Honvéd (uS 0). Desertou após a revolução.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; por verificar: fase europeia. Alterado: gp 22→21, g 17→9."
+    "note": "1956 championship (calendar year) interrupted in October; European Cup 1956/57 games vs Athletic (Nov–Dec 1956) count in gp/g, but Honvéd were not in the edition ending in 1956 (uS 0). Defected after the revolution.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→21, g 17→9."
    },
    {
     "name": "Lev Yashin",
@@ -182,7 +182,7 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/Lev_Yashin"
     ],
-    "note": "Liga soviética de ano civil; campeão 1956 foi o Spartak. Ouro olímpico 1956 não conta.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; por verificar: título, fase europeia. Alterado: gp 20→19."
+    "note": "Soviet calendar-year league; the 1956 champions were Spartak. 1956 Olympic gold does not count.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; to verify: title, European stage. Changed: gp 20→19."
    },
    {
     "name": "József Bozsik",
@@ -215,7 +215,7 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/J%C3%B3zsef_Bozsik"
     ],
-    "note": "Ver nota de Puskás sobre 1956. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "See Puskás's note on 1956. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Ernst Ocwirk",
@@ -248,7 +248,7 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/Ernst_Ocwirk"
     ],
-    "note": "Mudou para a Sampdoria no verão de 1956; lg atribuída à Serie A por estimativa. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Moved to Sampdoria in summer 1956; lg set to Serie A by estimate. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Sándor Kocsis",
@@ -282,7 +282,7 @@
      "https://en.wikipedia.org/wiki/S%C3%A1ndor_Kocsis",
      "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I"
     ],
-    "note": "Ver nota de Puskás sobre 1956.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; por verificar: fase europeia. Alterado: gp 22→23, g 16→15, uG 1→2."
+    "note": "See Puskás's note on 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→23, g 16→15, uG 1→2."
    },
    {
     "name": "Ivan Kolev",
@@ -315,7 +315,7 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/Ivan_Kolev_(footballer,_born_1930)"
     ],
-    "note": "Liga búlgara de ano civil em 1956 (CDNA campeão). Taça dos Campeões 1956/57 iniciada no outono de 1956; edição de 1955/56 sem CDNA (uS 0). Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Bulgarian calendar-year league in 1956 (CDNA champions). European Cup 1956/57 started in autumn 1956; the 1955/56 edition without CDNA (uS 0). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Thadée Cisowski",
@@ -349,7 +349,7 @@
      "https://en.wikipedia.org/wiki/Thad%C3%A9e_Cisowski",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_French_Division_1"
     ],
-    "note": "Melhor marcador da D1 em 1955/56 e 1956/57 (de memória).org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; por verificar: fase europeia. Alterado: gp 34→29, g 33→31."
+    "note": "D1 top scorer in 1955/56 and 1956/57 (from memory).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 34→29, g 33→31."
    },
    {
     "name": "Billy Wright",
@@ -382,18 +382,18 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)"
     ],
-    "note": "Empatado com Kolev e Cisowski no 9.º (4 pontos); algumas fontes (goal.com) desempatam em 9.º/10.º/11.º. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Tied 9th with Kolev and Cisowski (4 points); some sources (goal.com) break the tie as 9th/10th/11th. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  },
  "1957": {
-  "label": "Ano civil 1957",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Alfredo Di Stéfano",
-  "realAll": null,
-  "realAllNote": "Sem prémio retroativo da France Football (2016) para 1957.",
+  "label": "Calendar year 1957",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Alfredo Di Stéfano",
+  "winnerAll": null,
+  "winnerAllNote": "No retroactive France Football award (2016) for 1957.",
   "window": "CY",
-  "notes": "Entregue a 17/12/1957. Pontos: Di Stéfano 72, Wright 19, Edwards 16, Kopa 16, Kubala 15, John Charles 14, Streltsov 12, Taylor 10, Bozsik 9, Netto 9 (ballondor.com põe Netto em 10.º; Wikipédia/topendsports empatados no 9.º); Yashin 11.º com 8. Taça dos Campeões 1956/57 ganha pelo Real Madrid (2–0 Fiorentina, 30/5/1957).",
+  "notes": "Presented on 17/12/1957. Points: Di Stéfano 72, Wright 19, Edwards 16, Kopa 16, Kubala 15, John Charles 14, Streltsov 12, Taylor 10, Bozsik 9, Netto 9 (ballondor.com puts Netto 10th; Wikipedia/topendsports tied 9th); Yashin 11th with 8. European Cup 1956/57 won by Real Madrid (2–0 Fiorentina, 30/5/1957).",
   "rows": [
    {
     "name": "Alfredo Di Stéfano",
@@ -430,7 +430,7 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1956–57 European Cup: Final). Alterado: gp 37→40, g 32→40, uG 7→9."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Final). Changed: gp 37→40, g 32→40, uG 7→9."
    },
    {
     "name": "Billy Wright",
@@ -463,7 +463,7 @@
      "https://ballondor.com/all-rankings?year=1957",
      "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)"
     ],
-    "note": "Wolves campeão só em maio de 1958 (fora da janela). Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Wolves champions only in May 1958 (outside the window). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Duncan Edwards",
@@ -499,7 +499,7 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
-    "note": "Meias-finais da Taça dos Campeões 1956/57; campeão inglês 1956/57. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); prova/fase continental pela página da edição (1956–57 European Cup: Semi-finals); por verificar: clube, título."
+    "note": "European Cup semi-finals 1956/57; English champion 1956/57. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1956–57 European Cup: Semi-finals); to verify: club, title."
    },
    {
     "name": "Raymond Kopa",
@@ -536,7 +536,7 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1956–57 European Cup: Final). Alterado: gp 35→30, g 9→8."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Final). Changed: gp 35→30, g 9→8."
    },
    {
     "name": "László Kubala",
@@ -570,7 +570,7 @@
      "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Kubala",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga"
     ],
-    "note": "Internacional por Espanha (elegível). Taça das Cidades com Feiras 1955–58 só terminou em 1958; não contada.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; por verificar: fase europeia. Alterado: gp 27→18, g 15→9."
+    "note": "Spain international (eligible). The 1955–58 Inter-Cities Fairs Cup only ended in 1958; not counted.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 27→18, g 15→9."
    },
    {
     "name": "John Charles",
@@ -605,7 +605,7 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League"
     ],
-    "note": "Melhor marcador da First Division 1956/57; transferido para a Juventus em 1957.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1956–57 Leeds United: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; por verificar: fase europeia. Alterado: gp 32→35, g 32→36."
+    "note": "Top scorer of the 1956/57 First Division; transferred to Juventus in 1957.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1956–57 Leeds United: half of the totals); games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 32→35, g 32→36."
    },
    {
     "name": "Eduard Streltsov",
@@ -638,7 +638,7 @@
      "https://ballondor.com/all-rankings?year=1957",
      "https://en.wikipedia.org/wiki/Eduard_Streltsov"
     ],
-    "note": "Liga soviética de ano civil.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; por verificar: título, fase europeia."
+    "note": "Soviet calendar-year league.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; to verify: title, European stage."
    },
    {
     "name": "Tommy Taylor",
@@ -675,7 +675,7 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1956–57 European Cup: Semi-finals). Alterado: gp 43→36, g 26→31, uG 6→7."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Semi-finals). Changed: gp 43→36, g 26→31, uG 6→7."
    },
    {
     "name": "József Bozsik",
@@ -708,7 +708,7 @@
      "https://ballondor.com/all-rankings?year=1957",
      "https://en.wikipedia.org/wiki/J%C3%B3zsef_Bozsik"
     ],
-    "note": "Campeonato húngaro de transição (primavera 1957) + outono 1957/58. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Hungarian transition championship (spring 1957) + autumn 1957/58. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Igor Netto",
@@ -741,18 +741,18 @@
      "https://ballondor.com/all-rankings?year=1957",
      "https://en.wikipedia.org/wiki/Igor_Netto"
     ],
-    "note": "Empatado com Bozsik (9 pontos); ballondor.com põe-no em 10.º. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Tied with Bozsik (9 points); ballondor.com puts him 10th. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  },
  "1958": {
-  "label": "Ano civil 1958 (+ Mundial 1958)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Raymond Kopa",
-  "realAll": "Pelé",
-  "realAllNote": "France Football (2016) atribuiu retroativamente o prémio de 1958 a Pelé (inelegível por não ser europeu).",
+  "label": "Calendar year 1958 (+ World Cup 1958)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Raymond Kopa",
+  "winnerAll": "Pelé",
+  "winnerAllNote": "France Football (2016) retroactively gave the 1958 award to Pelé (ineligible as a non-European).",
   "window": "CY",
-  "notes": "Pontos: Kopa 71, Rahn 40, Fontaine 23, John Charles 15, Hamrin 15 (footballsite.co.uk dá 16 a Hamrin), Wright 9, Haynes 7, Liedholm/Szymaniak/Gregg 6 (empate no 8.º); McDonald 11.º com 5. Taça dos Campeões 1957/58 ganha pelo Real Madrid (3–2 a.p. Milan). Mundial 1958 na Suécia: Brasil campeão, Suécia 2.º, França 3.º, RFA 4.º. Pelé, Didi e Garrincha incluídos como inelegíveis (ligas estaduais brasileiras; não havia liga nacional).",
+  "notes": "Points: Kopa 71, Rahn 40, Fontaine 23, John Charles 15, Hamrin 15 (footballsite.co.uk gives Hamrin 16), Wright 9, Haynes 7, Liedholm/Szymaniak/Gregg 6 (tied 8th); McDonald 11th with 5. European Cup 1957/58 won by Real Madrid (3–2 a.e.t. Milan). 1958 World Cup in Sweden: Brazil champions, Sweden 2nd, France 3rd, West Germany 4th. Pelé, Didi and Garrincha included as ineligible (Brazilian state leagues; there was no national league).",
   "rows": [
    {
     "name": "Raymond Kopa",
@@ -789,7 +789,7 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1957–58 European Cup: Final). Alterado: g 7→11, uG 2→3."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1957–58 European Cup: Final). Changed: g 7→11, uG 2→3."
    },
    {
     "name": "Helmut Rahn",
@@ -822,7 +822,7 @@
      "https://en.wikipedia.org/wiki/Helmut_Rahn",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Oberliga West.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; por verificar: título, fase europeia. Alterado: gp 28→27, g 12→8."
+    "note": "Oberliga West.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 28→27, g 12→8."
    },
    {
     "name": "Just Fontaine",
@@ -855,7 +855,7 @@
      "https://en.wikipedia.org/wiki/Just_Fontaine",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Recorde de 13 golos num Mundial. Jogos da Taça dos Campeões 1958/59 (outono 1958) incluídos; Reims não esteve na edição 1957/58 (uS 0).org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; por verificar: título, fase europeia. Alterado: gp 34→26, g 37→34, uG 7→0."
+    "note": "Record 13 goals at one World Cup. European Cup 1958/59 games (autumn 1958) included; Reims were not in the 1957/58 edition (uS 0).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 34→26, g 37→34, uG 7→0."
    },
    {
     "name": "John Charles",
@@ -891,7 +891,7 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Serie_A",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Capocannoniere 1957/58. Falhou os quartos do Mundial por lesão (País de Gales eliminado pelo Brasil). Juventus eliminada pelo Wiener SC no outono de 1958.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1958–59 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga. Alterado: gp 33→35, g 24→21, uG 1→0."
+    "note": "Capocannoniere 1957/58. Missed the World Cup quarter-final through injury (Wales knocked out by Brazil). Juventus knocked out by Wiener SC in autumn 1958.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page. Changed: gp 33→35, g 24→21, uG 1→0."
    },
    {
     "name": "Kurt Hamrin",
@@ -924,7 +924,7 @@
      "https://en.wikipedia.org/wiki/Kurt_Hamrin",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Pontos divergem (15 vs 16); clube exato na janela a confirmar. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Points disagree (15 vs 16); exact club in the window to confirm. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Billy Wright",
@@ -957,7 +957,7 @@
      "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeão inglês 1957/58. Inglaterra eliminada no play-off do grupo. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "English champion 1957/58. England knocked out in the group play-off. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Johnny Haynes",
@@ -990,7 +990,7 @@
      "https://en.wikipedia.org/wiki/Johnny_Haynes",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "lg EN2 = Second Division inglesa (2.º escalão); Fulham subiu em 1959.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; por verificar: título, fase europeia. Alterado: gp 40→38, g 20→15, ntG 0→1."
+    "note": "lg EN2 = English Second Division (second tier); Fulham promoted in 1959.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 40→38, g 20→15, ntG 0→1."
    },
    {
     "name": "Nils Liedholm",
@@ -1027,7 +1027,7 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Finalista da Taça dos Campeões 1957/58 e do Mundial 1958.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1957–58 European Cup: Final). Alterado: gp 34→30, g 4→8, uG 1→2, ntGP 6→5, ntG 1→2."
+    "note": "Finalist of the 1957/58 European Cup and the 1958 World Cup.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1957–58 European Cup: Final). Changed: gp 34→30, g 4→8, uG 1→2, ntGP 6→5, ntG 1→2."
    },
    {
     "name": "Horst Szymaniak",
@@ -1060,7 +1060,7 @@
      "https://en.wikipedia.org/wiki/Horst_Szymaniak",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Oberliga West. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntGP 5→6."
+    "note": "Oberliga West. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 5→6."
    },
    {
     "name": "Harry Gregg",
@@ -1096,7 +1096,7 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Football_League",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Sobrevivente de Munique (fev. 1958); considerado melhor guarda-redes do Mundial.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1957–58 Doncaster Rovers: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; por verificar: fase europeia. Alterado: gp 38→45."
+    "note": "Munich survivor (Feb. 1958); considered the best goalkeeper of the World Cup.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1957–58 Doncaster Rovers: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 38→45."
    },
    {
     "name": "Pelé",
@@ -1131,7 +1131,7 @@
      "https://en.wikipedia.org/wiki/Pel%C3%A9",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeonato Paulista 1958 (estadual, ano civil; ~58 golos de memória) — lg BRA aproximado. Vencedor retroativo FF 2016. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Campeonato Paulista 1958 (state championship, calendar year; ~58 goals from memory) — lg BRA approximate. FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Didi",
@@ -1166,7 +1166,7 @@
      "https://en.wikipedia.org/wiki/Didi_(footballer,_born_1928)",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeonato Carioca (estadual). Melhor jogador do Mundial 1958 segundo a FIFA. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia. Alterado: ntGP 6→3."
+    "note": "Campeonato Carioca (state championship). Best player of the 1958 World Cup according to FIFA. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 6→3."
    },
    {
     "name": "Garrincha",
@@ -1202,18 +1202,18 @@
      "https://en.wikipedia.org/wiki/1958_Campeonato_Carioca",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeonato Carioca (estadual).org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; por verificar: fase europeia. Alterado: gp 24→26, g 8→9."
+    "note": "Campeonato Carioca (state championship).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 24→26, g 8→9."
    }
   ]
  },
  "1959": {
-  "label": "Ano civil 1959 (+ Copa América 1959, Argentina)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Alfredo Di Stéfano",
-  "realAll": "Pelé",
-  "realAllNote": "France Football (2016) atribuiu retroativamente o prémio de 1959 a Pelé (inelegível).",
+  "label": "Calendar year 1959 (+ Copa América 1959, Argentina)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Alfredo Di Stéfano",
+  "winnerAll": "Pelé",
+  "winnerAllNote": "France Football (2016) retroactively gave the 1959 award to Pelé (ineligible).",
   "window": "CY",
-  "notes": "FF n.º 718 (15/12/1959), 20 votantes; RSSSF avisa que os resultados completos não estão disponíveis. Pontos: Di Stéfano 80, Kopa 42, John Charles 24, Suárez 22, Simonsson 20, Tichy 18, Puskás 16, Gento 12, Rahn 11, Szymaniak 8. Taça dos Campeões 1958/59 ganha pelo Real Madrid (2–0 Reims). Houve duas Copas América em 1959 (Argentina mar–abr; Equador dez); Pelé jogou a da Argentina.",
+  "notes": "FF no. 718 (15/12/1959), 20 voters; RSSSF warns that the full results are not available. Points: Di Stéfano 80, Kopa 42, John Charles 24, Suárez 22, Simonsson 20, Tichy 18, Puskás 16, Gento 12, Rahn 11, Szymaniak 8. European Cup 1958/59 won by Real Madrid (2–0 Reims). There were two Copas América in 1959 (Argentina Mar–Apr; Ecuador Dec); Pelé played the one in Argentina.",
   "rows": [
    {
     "name": "Alfredo Di Stéfano",
@@ -1250,7 +1250,7 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
-    "note": "Pichichi 1958/59.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1958–59 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1958–59 European Cup: Final). Alterado: gp 34→31, g 26→24, uG 8→5."
+    "note": "Pichichi 1958/59.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 34→31, g 26→24, uG 8→5."
    },
    {
     "name": "Raymond Kopa",
@@ -1286,7 +1286,7 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
-    "note": "Regressou ao Reims no verão de 1959.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1958–59 European Cup: Final). Alterado: gp 36→37, g 9→11."
+    "note": "Returned to Reims in summer 1959.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 36→37, g 9→11."
    },
    {
     "name": "John Charles",
@@ -1323,7 +1323,7 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Serie_A",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1958–59 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1958–59 European Cup: Preliminary round). Alterado: gp 30→29, g 22→18, uT →UCL."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Preliminary round). Changed: gp 30→29, g 22→18, uT →UCL."
    },
    {
     "name": "Luis Suárez",
@@ -1356,7 +1356,7 @@
      "https://ballondor.com/all-rankings?year=1959",
      "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
     ],
-    "note": "Campeão espanhol 1958/59. Barcelona não esteve na Taça dos Campeões 1958/59 (uS 0); jogos de 1959/60 (CDNA, Milan) e da Taça das Cidades com Feiras 1958–60 no outono incluídos por estimativa. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Spanish champion 1958/59. Barcelona were not in the 1958/59 European Cup (uS 0); games from 1959/60 (CDNA, Milan) and from the 1958–60 Inter-Cities Fairs Cup in the autumn included by estimate. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Agne Simonsson",
@@ -1389,7 +1389,7 @@
      "https://ballondor.com/all-rankings?year=1959",
      "https://en.wikipedia.org/wiki/Agne_Simonsson"
     ],
-    "note": "Escalão do Örgryte em 1959 (Allsvenskan ou Division 2) por confirmar. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Örgryte's division in 1959 (Allsvenskan or Division 2) to be confirmed. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Lajos Tichy",
@@ -1422,7 +1422,7 @@
      "https://ballondor.com/all-rankings?year=1959",
      "https://en.wikipedia.org/wiki/Lajos_Tichy"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); por verificar: título, fase europeia. Alterado: gp 26→22, g 20→15."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 26→22, g 20→15."
    },
    {
     "name": "Ferenc Puskás",
@@ -1459,7 +1459,7 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
-    "note": "Falhou a final de 1959 por lesão (de memória).org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1958–59 European Cup: Final). Alterado: gp 30→29, g 29→23, uG 5→2."
+    "note": "Missed the 1959 final through injury (from memory).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 30→29, g 29→23, uG 5→2."
    },
    {
     "name": "Francisco Gento",
@@ -1496,7 +1496,7 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1958–59 European Cup: Final). Alterado: gp 34→29, g 11→8, uG 3→1."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 34→29, g 11→8, uG 3→1."
    },
    {
     "name": "Helmut Rahn",
@@ -1529,7 +1529,7 @@
      "https://ballondor.com/all-rankings?year=1959",
      "https://en.wikipedia.org/wiki/Helmut_Rahn"
     ],
-    "note": "RSSSF lista-o pelo 1. FC Köln. Oberliga West.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); por verificar: título, fase europeia. Alterado: gp 28→23, g 12→9."
+    "note": "RSSSF lists him under 1. FC Köln. Oberliga West.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 28→23, g 12→9."
    },
    {
     "name": "Horst Szymaniak",
@@ -1562,7 +1562,7 @@
      "https://ballondor.com/all-rankings?year=1959",
      "https://en.wikipedia.org/wiki/Horst_Szymaniak"
     ],
-    "note": "RSSSF lista-o pelo Karlsruher SC (Oberliga Süd). Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "RSSSF lists him under Karlsruher SC (Oberliga Süd). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Pelé",
@@ -1597,18 +1597,18 @@
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://en.wikipedia.org/wiki/Pel%C3%A9"
     ],
-    "note": "Campeonato Paulista 1959 (estadual). Melhor marcador da Copa América de 1959 (Argentina), Brasil 2.º. Vencedor retroativo FF 2016. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, seleção, título, fase europeia."
+    "note": "Campeonato Paulista 1959 (state championship). Top scorer of the 1959 Copa América (Argentina), Brazil 2nd. FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, national team, title, European stage."
    }
   ]
  },
  "1960": {
-  "label": "Ano civil 1960 (+ Euro 1960)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Luis Suárez",
-  "realAll": "Pelé",
-  "realAllNote": "France Football (2016) atribuiu retroativamente o prémio de 1960 a Pelé (inelegível).",
+  "label": "Calendar year 1960 (+ Euro 1960)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Luis Suárez",
+  "winnerAll": "Pelé",
+  "winnerAllNote": "France Football (2016) retroactively gave the 1960 award to Pelé (ineligible).",
   "window": "CY",
-  "notes": "FF n.º 770 (13/12/1960). Pontos: Suárez 54, Puskás 37, Seeler 33, Di Stéfano 32, Yashin 28, Kopa 14, John Charles/Bobby Charlton 11 (empate no 7.º), Sívori/Szymaniak 9 (empate no 9.º); Gento 11.º com 8. Taça dos Campeões 1959/60 ganha pelo Real Madrid (7–3 Eintracht). Euro 1960 (4 equipas, França): URSS campeã, Jugoslávia 2.ª, Checoslováquia 3.ª, França 4.ª; Espanha recusou jogar contra a URSS.",
+  "notes": "FF no. 770 (13/12/1960). Points: Suárez 54, Puskás 37, Seeler 33, Di Stéfano 32, Yashin 28, Kopa 14, John Charles/Bobby Charlton 11 (tied 7th), Sívori/Szymaniak 9 (tied 9th); Gento 11th with 8. European Cup 1959/60 won by Real Madrid (7–3 Eintracht). Euro 1960 (4 teams, France): USSR champions, Yugoslavia 2nd, Czechoslovakia 3rd, France 4th; Spain refused to play the USSR.",
   "rows": [
    {
     "name": "Luis Suárez",
@@ -1640,7 +1640,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
      "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
     ],
-    "note": "Campeão espanhol 1959/60. Também venceu a Taça das Cidades com Feiras 1958–60 (contada em gp/g); uT = UCL (meias 1959/60) por ser a prova mais importante. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Spanish champion 1959/60. Also won the 1958–60 Inter-Cities Fairs Cup (counted in gp/g); uT = UCL (semi-finals 1959/60) as the more important competition. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Ferenc Puskás",
@@ -1676,7 +1676,7 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
-    "note": "4 golos na final de Hampden; pichichi 1959/60.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1959–60 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1959–60 European Cup: Final). Alterado: gp 32→31, g 34→33, uG 9→6."
+    "note": "4 goals in the Hampden final; Pichichi 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1959–60 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1959–60 European Cup: Final). Changed: gp 32→31, g 34→33, uG 9→6."
    },
    {
     "name": "Uwe Seeler",
@@ -1709,7 +1709,7 @@
      "https://en.wikipedia.org/wiki/Uwe_Seeler",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Hamburger_SV_season"
     ],
-    "note": "Oberliga Norte + fase final do campeonato alemão (HSV campeão 1960). HSV na Taça dos Campeões 1960/61 a partir do outono de 1960 (uS 0 para 1959/60).org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); por verificar: título, fase europeia. Alterado: gp 32→33, g 37→49, uG 2→13."
+    "note": "Oberliga Nord + final round of the German championship (HSV champions 1960). HSV in the 1960/61 European Cup from autumn 1960 (uS 0 for 1959/60).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 32→33, g 37→49, uG 2→13."
    },
    {
     "name": "Alfredo Di Stéfano",
@@ -1745,7 +1745,7 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
-    "note": "Hat-trick na final de 1960.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1960–61 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1959–60 European Cup: Final). Alterado: gp 30→29, g 25→22, uG 8→7."
+    "note": "Hat-trick in the 1960 final.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1960–61 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1959–60 European Cup: Final). Changed: gp 30→29, g 25→22, uG 8→7."
    },
    {
     "name": "Lev Yashin",
@@ -1779,7 +1779,7 @@
      "https://en.wikipedia.org/wiki/1960_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1960_European_Nations'_Cup"
     ],
-    "note": "Campeão europeu de seleções 1960.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; por verificar: fase europeia. Alterado: gp 27→18."
+    "note": "European national-team champion 1960.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 27→18."
    },
    {
     "name": "Raymond Kopa",
@@ -1811,7 +1811,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
      "https://en.wikipedia.org/wiki/Raymond_Kopa"
     ],
-    "note": "Campeão francês 1959/60. Ausência no Euro 1960 (França 4.ª) dada de memória — confirmar.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); por verificar: título, fase europeia. Alterado: gp 37→36, g 11→14, uG 1→0."
+    "note": "French champion 1959/60. Absence from Euro 1960 (France 4th) given from memory — to confirm.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 37→36, g 11→14, uG 1→0."
    },
    {
     "name": "John Charles",
@@ -1846,7 +1846,7 @@
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A"
     ],
-    "note": "Campeão italiano 1959/60.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga. Alterado: gp 32→34, g 19→21, uG 1→0."
+    "note": "Italian champion 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: gp 32→34, g 19→21, uG 1→0."
    },
    {
     "name": "Bobby Charlton",
@@ -1881,7 +1881,7 @@
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Football_League"
     ],
-    "note": "org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga. Alterado: g 17→22."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: g 17→22."
    },
    {
     "name": "Omar Sívori",
@@ -1916,7 +1916,7 @@
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A"
     ],
-    "note": "Naturalizado italiano (elegível). Capocannoniere 1959/60.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga. Alterado: gp 31→30, g 28→21."
+    "note": "Naturalised Italian (eligible). Capocannoniere 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: gp 31→30, g 28→21."
    },
    {
     "name": "Horst Szymaniak",
@@ -1948,7 +1948,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
      "https://en.wikipedia.org/wiki/Horst_Szymaniak"
     ],
-    "note": "Oberliga Süd. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Oberliga Süd. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Pelé",
@@ -1982,7 +1982,7 @@
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://en.wikipedia.org/wiki/Pel%C3%A9"
     ],
-    "note": "Campeonato Paulista 1960 (estadual; Santos campeão, Pelé melhor marcador, de memória). Vencedor retroativo FF 2016. Estatísticas NÃO verificadas na web (orçamento de pesquisa esgotado; rsssf.org e wikipedia.org bloqueados na rede da sessão): estimativa de memória, divisão do ano civil estimada proporcionalmente. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Campeonato Paulista 1960 (state championship; Santos champions, Pelé top scorer, from memory). FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  }

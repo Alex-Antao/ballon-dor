@@ -1,12 +1,12 @@
 {
   "1976": {
-    "label": "Ano civil 1976 (+ Euro 1976)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Franz Beckenbauer",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 1976 (+ Euro 1976)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Franz Beckenbauer",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "Votação publicada a 28/12/1976 (26 votantes). Empates: 7.º (Cruyff, Ćurković, 12 pts) e 9.º (Bonhof, G. Müller, Masný, 9 pts). Euro 1976 com 4 equipas na fase final (Jugoslávia): Checoslováquia campeã (penáltis, Panenka), RFA finalista, Países Baixos 3.º. Taça dos Campeões 1975/76: Bayern bate Saint-Étienne; Taça UEFA: Liverpool; Taça das Taças: Anderlecht. A France Football (2016) não atribuiu retroativamente 1976 a nenhum não-europeu. Inelegível forte: Elías Figueroa (Chile, Internacional), Futebolista Sul-Americano do Ano.",
+    "notes": "Vote published on 28/12/1976 (26 voters). Ties: 7th (Cruyff, Ćurković, 12 pts) and 9th (Bonhof, G. Müller, Masný, 9 pts). Euro 1976 with 4 teams in the finals (Yugoslavia): Czechoslovakia champions (penalties, Panenka), West Germany finalists, the Netherlands 3rd. European Cup 1975/76: Bayern beat Saint-Étienne; UEFA Cup: Liverpool; Cup Winners' Cup: Anderlecht. France Football (2016) did not retroactively give 1976 to any non-European. Strong ineligible: Elías Figueroa (Chile, Internacional), South American Footballer of the Year.",
     "rows": [
       {
         "name": "Franz Beckenbauer",
@@ -44,7 +44,7 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Totais por época (pesquisa): 1975/76 BL 34j/5g, Europa 9j/0g; 1976/77 BL 33j/3g, Europa 6j/1g. CY ≈ 17+16 jogos de liga + 5 (QF/MF/F 75/76) + 4 (R1/R2 76/77) europeus. 91 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1975–76 European Cup: Final). Alterado: gp 42→43, g 5→6."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 BL 34gp/5g, Europe 9gp/0g; 1976/77 BL 33gp/3g, Europe 6gp/1g. CY ≈ 17+16 league games + 5 (QF/SF/F 75/76) + 4 (R1/R2 76/77) European. 91 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 42→43, g 5→6."
       },
       {
         "name": "Rob Rensenbrink",
@@ -80,7 +80,7 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Totais por época (pesquisa): 1975/76 liga 35j/23g, Europa 9j/8g; 1976/77 liga 34j/16g (15 segundo NFT), Europa 9j/7g. 2 golos na final da Taça das Taças 1976. Jogos no Euro 76 (MF + 3.º lugar) não confirmados. 75 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; prova/fase continental pela página da edição (1975–76 UEFA Cup Winners' Cup: Final); por verificar: título. Alterado: gp 41→44, g 25→31, uG 7→8."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 league 35gp/23g, Europe 9gp/8g; 1976/77 league 34gp/16g (15 according to NFT), Europe 9gp/7g. 2 goals in the 1976 Cup Winners' Cup final. Games at Euro 76 (SF + third place) not confirmed. 75 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1975–76 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→44, g 25→31, uG 7→8."
       },
       {
         "name": "Ivo Viktor",
@@ -114,7 +114,7 @@
           "https://national-football-teams.com/club/583/1976_1/Dukla_Praha.html",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Liga 1975/76 28j, 1976/77 só 4j (worldfootball via pesquisa). CY ≈ 14 (primavera) + 4. Sem jogos europeus identificados em 1976. Campeão europeu de seleções (MF + final). 52 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 28gp, 1976/77 only 4gp (worldfootball via search). CY ≈ 14 (spring) + 4. No European games identified in 1976. European national-team champion (SF + final). 52 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Kevin Keegan",
@@ -153,7 +153,7 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Totais por época (pesquisa): 1975/76 liga 41j/12g, Europa 11j/3g; 1976/77 liga 38j/12g, Europa 8j/4g. Golos na final da Taça UEFA 1976 (2 mãos). Campeão inglês 1975/76. 32 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1975–76 Liverpool: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1975–76 UEFA Cup: Final). Alterado: uG 5→4."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 league 41gp/12g, Europe 11gp/3g; 1976/77 league 38gp/12g, Europe 8gp/4g. Goals in the 1976 UEFA Cup final (2 legs). English champion 1975/76. 32 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1975–76 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1975–76 UEFA Cup: Final). Changed: uG 5→4."
       },
       {
         "name": "Michel Platini",
@@ -188,7 +188,7 @@
           "https://simple.wikipedia.org/wiki/Michel_Platini",
           "https://en.wikipedia.org/wiki/Michel_Platini"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Golos de liga confirmados por época: 1975/76 22, 1976/77 25 (2.º melhor marcador). Jogos 1975/76 divergem (31 vs 38). Sem provas europeias. 19 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 36→31, g 23→22."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League goals confirmed per season: 1975/76 22, 1976/77 25 (2nd top scorer). 1975/76 games disagree (31 vs 38). No European competition. 19 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 36→31, g 23→22."
       },
       {
         "name": "Anton Ondruš",
@@ -222,7 +222,7 @@
           "https://national-football-teams.com/club/2219/1976_1/Slovan_Bratislava.html",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Liga 1975/76 29j/6g, 1976/77 21j/3g (fonte única). Capitão campeão europeu; golo na MF vs Países Baixos (e autogolo). 16 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 29gp/6g, 1976/77 21gp/3g (single source). European champion captain; goal in the SF vs the Netherlands (and an own goal). 16 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Johan Cruyff",
@@ -260,7 +260,7 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Totais por época (Simple Wikipedia, pesquisa): 1975/76 liga 29j/6g, Europa 9j/2g; 1976/77 liga 30j/14g, Europa 7j/5g. Taça UEFA 1975/76: meias-finais. No Euro 76 jogou (julga-se) só a MF. 12 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1975–76 UEFA Cup: Semi-finals). Alterado: g 15→8, uG 5→2."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (Simple Wikipedia, search): 1975/76 league 29gp/6g, Europe 9gp/2g; 1976/77 league 30gp/14g, Europe 7gp/5g. UEFA Cup 1975/76: semi-finals. At Euro 76 he (it is thought) played only the SF. 12 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1975–76 UEFA Cup: Semi-finals). Changed: g 15→8, uG 5→2."
       },
       {
         "name": "Ivan Ćurković",
@@ -295,7 +295,7 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_French_Division_1",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Jugoslavo (europeu, elegível). Liga 1975/76 38j, 1976/77 37j (worldfootball/NFT). Europa CY ≈ 5 (QF/MF/F 75/76) + 4 (76/77) – não confirmado. Finalista vencido Taça dos Campeões 1976, campeão francês 1975/76. 12 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1975–76 European Cup: Final). Alterado: gp 46→47."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Yugoslav (European, eligible). League 1975/76 38gp, 1976/77 37gp (worldfootball/NFT). Europe CY ≈ 5 (QF/SF/F 75/76) + 4 (76/77) – not confirmed. Losing finalist in the 1976 European Cup, French champion 1975/76. 12 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 46→47."
       },
       {
         "name": "Rainer Bonhof",
@@ -330,7 +330,7 @@
           "https://en.wikipedia.org/wiki/Rainer_Bonhof",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). BL 1975/76 30j/5g, 1976/77 33j/6g; Taça dos Campeões 75/76 5j/0g (RSSSF via pesquisa). Gladbach eliminado nos quartos 75/76 (Real Madrid). Campeão alemão 1975/76. 9 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL 1975/76 30gp/5g, 1976/77 33gp/6g; European Cup 75/76 5gp/0g (RSSSF via search). Gladbach knocked out in the 75/76 quarter-finals (Real Madrid). German champion 1975/76. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Gerd Müller",
@@ -368,7 +368,7 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Bundesliga",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). BL 1975/76 22j/23g, 1976/77 25j/28g (RSSSF/DFB). Taça dos Campeões 75/76: 6j/5g (Wikipédia) vs 5j/6g (RSSSF); 76/77 4j/5g vs 5j/4g – divergência. Já sem seleção (retirado em 1974). 9 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1975–76 European Cup: Final). Alterado: gp 34→30, g 35→46, uG 9→10."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL 1975/76 22gp/23g, 1976/77 25gp/28g (RSSSF/DFB). European Cup 75/76: 6gp/5g (Wikipedia) vs 5gp/6g (RSSSF); 76/77 4gp/5g vs 5gp/4g – discrepancy. No longer in the national team (retired in 1974). 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 34→30, g 35→46, uG 9→10."
       },
       {
         "name": "Marián Masný",
@@ -402,7 +402,7 @@
           "https://national-football-teams.com/player/20126.html",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Liga 1975/76 29j/7g, 1976/77 29j/5g (fonte única). Campeão europeu de seleções. 9 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 29gp/7g, 1976/77 29gp/5g (single source). European national-team champion. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Elías Figueroa",
@@ -431,18 +431,18 @@
         "sources": [
           "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa"
         ],
-        "note": "INELEGÍVEL (chileno). Futebolista Sul-Americano do Ano 1974–76 (de memória, não verificado nesta sessão). Campeão brasileiro 1976 (Internacional); Libertadores 1976 eliminado na 1.ª fase (grupo do Cruzeiro). Números estimados de memória. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "INELIGIBLE (Chilean). South American Footballer of the Year 1974–76 (from memory, not verified in this session). Brazilian champion 1976 (Internacional); Libertadores 1976 knocked out in the first round (Cruzeiro's group). Numbers estimated from memory. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       }
     ]
   },
   "1977": {
-    "label": "Ano civil 1977",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Allan Simonsen",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 1977",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Allan Simonsen",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "Votação publicada a 27/12/1977 (France Football n.º 1655, 25 votantes). Top 3 muito apertado: Simonsen 74, Keegan 71, Platini 70. Empates: 7.º (Nyilasi, Rensenbrink, 13) e 10.º (E. Hughes, Heighway, Vogts, 5 – Vogts só confirmado no topendsports). Sem torneio de seleções. Taça dos Campeões 1976/77: Liverpool bate Gladbach; Taça UEFA: Juventus; Taça das Taças: Hamburgo bate Anderlecht. Keegan muda-se para o Hamburgo em julho. Sem vencedor retroativo da FF. Inelegível forte: Zico (Flamengo).",
+    "notes": "Vote published on 27/12/1977 (France Football no. 1655, 25 voters). Very tight top 3: Simonsen 74, Keegan 71, Platini 70. Ties: 7th (Nyilasi, Rensenbrink, 13) and 10th (E. Hughes, Heighway, Vogts, 5 – Vogts only confirmed on topendsports). No national-team tournament. European Cup 1976/77: Liverpool beat Gladbach; UEFA Cup: Juventus; Cup Winners' Cup: Hamburg beat Anderlecht. Keegan moves to Hamburg in July. No FF retroactive winner. Strong ineligible: Zico (Flamengo).",
     "rows": [
       {
         "name": "Allan Simonsen",
@@ -476,7 +476,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Golo na final da Taça dos Campeões 1977 (de memória). Campeão alemão 1976/77. Totais por época não verificados (orçamento de pesquisa esgotado). 74 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); prova/fase continental pela página da edição (1976–77 European Cup: Final); por verificar: clube, título."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Goal in the 1977 European Cup final (from memory). German champion 1976/77. Season totals not verified (search budget exhausted). 74 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1976–77 European Cup: Final); to verify: club, title."
       },
       {
         "name": "Kevin Keegan",
@@ -512,7 +512,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). 1976/77 Liverpool liga 38j/12g, Europa 8j/4g (pesquisa). Jan–mai Liverpool (campeão inglês e europeu), ago–dez Hamburgo (BL + Taça das Taças 77/78) – parte HSV de memória. lg = Liverpool (mais jogos). 71 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1977–78 Hamburger SV: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1976–77 European Cup: Final). Alterado: gp 42→37, g 14→11, uG 4→3."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 Liverpool league 38gp/12g, Europe 8gp/4g (search). Jan–May Liverpool (English and European champions), Aug–Dec Hamburg (BL + Cup Winners' Cup 77/78) – HSV part from memory. lg = Liverpool (more games). 71 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 European Cup: Final). Changed: gp 42→37, g 14→11, uG 4→3."
       },
       {
         "name": "Michel Platini",
@@ -547,7 +547,7 @@
           "https://www.national-football-teams.com/player/16083/Michel_Platini.html",
           "https://en.wikipedia.org/wiki/Michel_Platini"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Golos de liga por época confirmados: 1976/77 25, 1977/78 18 (36j). Sem provas europeias identificadas. 70 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 37→38, g 21→25."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League goals per season confirmed: 1976/77 25, 1977/78 18 (36gp). No European competition identified. 70 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 37→38, g 21→25."
       },
       {
         "name": "Roberto Bettega",
@@ -583,7 +583,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Serie_A",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão italiano 1976/77 e vencedor da Taça UEFA 1977 (golo na 2.ª mão da final em Bilbau, de memória). 39 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1976–77 UEFA Cup: Final). Alterado: gp 36→42, g 20→22, uG 6→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Italian champion 1976/77 and 1977 UEFA Cup winner (goal in the second leg of the final in Bilbao, from memory). 39 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Final). Changed: gp 36→42, g 20→22, uG 6→5."
       },
       {
         "name": "Johan Cruyff",
@@ -619,7 +619,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_La_Liga",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). 1976/77 liga 30j/14g, Europa 7j/5g (pesquisa); 1977/78 de memória. Taça UEFA 76/77: quartos (Athletic). 23 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1976–77 UEFA Cup: Quarter-finals). Alterado: gp 36→37, g 13→19, uG 3→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 30gp/14g, Europe 7gp/5g (search); 1977/78 from memory. UEFA Cup 76/77: quarter-finals (Athletic). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Quarter-finals). Changed: gp 36→37, g 13→19, uG 3→5."
       },
       {
         "name": "Klaus Fischer",
@@ -654,7 +654,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Bundesliga",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Schalke 2.º na BL 1976/77. Participação europeia na janela não confirmada. 21 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1977–78 Schalke 04: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1976–77 UEFA Cup: Third round). Alterado: g 22→23, uT →UEL, uS 0→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Schalke 2nd in the 1976/77 BL. European participation in the window not confirmed. 21 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Schalke 04: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Third round). Changed: g 22→23, uT →UEL, uS 0→1."
       },
       {
         "name": "Tibor Nyilasi",
@@ -686,7 +686,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
           "https://en.wikipedia.org/wiki/Tibor_Nyilasi"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Números de memória/estimados. 13 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Numbers from memory/estimated. 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Rob Rensenbrink",
@@ -720,7 +720,7 @@
           "https://en.wikipedia.org/wiki/Rob_Rensenbrink",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). 1976/77 liga 34j/16g, Europa 9j/7g (pesquisa); 1977/78 de memória. Finalista vencido da Taça das Taças 1977 (Hamburgo). 13 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (1976–77 UEFA Cup Winners' Cup: Final); por verificar: título. Alterado: gp 41→43, g 20→23, uG 5→7."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 34gp/16g, Europe 9gp/7g (search); 1977/78 from memory. Losing finalist in the 1977 Cup Winners' Cup (Hamburg). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1976–77 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→43, g 20→23, uG 5→7."
       },
       {
         "name": "Dudu Georgescu",
@@ -756,7 +756,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Divizia_A",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Bota de Ouro 1976/77 com 47 golos (de memória); divisão do ano civil muito incerta. Campeão romeno 1976/77. 6 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1976–77 UEFA Cup: First round). Alterado: gp 32→33, g 37→47, uT →UEL."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Golden Boot 1976/77 with 47 goals (from memory); calendar-year split very uncertain. Romanian champion 1976/77. 6 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: First round). Changed: gp 32→33, g 37→47, uT →UEL."
       },
       {
         "name": "Emlyn Hughes",
@@ -788,7 +788,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
           "https://en.wikipedia.org/wiki/Emlyn_Hughes"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Capitão do Liverpool campeão inglês e europeu 1977. 5 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Captain of Liverpool, English and European champions 1977. 5 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Steve Heighway",
@@ -820,7 +820,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
           "https://en.wikipedia.org/wiki/Steve_Heighway"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Irlandês (elegível). Assistências na final de Roma (McDermott, canto para Smith) – de memória. 5 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Irish (eligible). Assists in the Rome final (McDermott, corner for Smith) – from memory. 5 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Berti Vogts",
@@ -855,7 +855,7 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Bundesliga",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Empate a 5 pts no 10.º só confirmado no topendsports (RSSSF não mostrado no excerto). Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1977–78 Borussia Mönchengladbach: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1976–77 European Cup: Final). Alterado: gp 43→40."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Tie on 5 pts for 10th only confirmed on topendsports (RSSSF not shown in the excerpt). Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Borussia Mönchengladbach: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 European Cup: Final). Changed: gp 43→40."
       },
       {
         "name": "Zico",
@@ -885,18 +885,18 @@
           "https://en.wikipedia.org/wiki/Zico_(footballer)",
           "https://en.wikipedia.org/wiki/1977_Campeonato_Brasileiro_S%C3%A9rie_A"
         ],
-        "note": "INELEGÍVEL (brasileiro). Futebolista Sul-Americano do Ano 1977 (de memória). Só Campeonato Brasileiro conta (Carioca excluído). Números estimados. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 20→18, g 12→10."
+        "note": "INELIGIBLE (Brazilian). South American Footballer of the Year 1977 (from memory). Only the Campeonato Brasileiro counts (Carioca excluded). Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 20→18, g 12→10."
       }
     ]
   },
   "1978": {
-    "label": "Ano civil 1978 (+ Mundial 1978)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Kevin Keegan",
-    "realAll": "Mario Kempes",
-    "realAllNote": "France Football (2016, 60.º aniversário, “Le nouveau palmarès”): Kempes teria ganho se fosse elegível. Confirmado via pesquisa (topendsports / páginas derivadas da Wikipédia).",
+    "label": "Calendar year 1978 (+ World Cup 1978)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Kevin Keegan",
+    "winnerAll": "Mario Kempes",
+    "winnerAllNote": "France Football (2016, 60th anniversary, “Le nouveau palmarès”): Kempes would have won had he been eligible. Confirmed via search (topendsports / pages derived from Wikipedia).",
     "window": "CY",
-    "notes": "Votação publicada a 27/12/1978. Keegan 87, Krankl 81, Rensenbrink 50. Empates: 6.º (Hellström, Krol, 20) e 8.º (Dalglish, Simonsen, 10); 10.º Shilton (9). Mundial 1978 (Argentina) com 2.ª fase de grupos: vencedores dos grupos da 2.ª fase na final (ARG 5, NED 4), segundos no jogo do 3.º lugar (BRA, ITA = 3), 3.º/4.º da 2.ª fase = 2, eliminados na 1.ª fase = 0. Taça dos Campeões 1977/78: Liverpool; Taça das Taças: Anderlecht; Taça UEFA: PSV.",
+    "notes": "Vote published on 27/12/1978. Keegan 87, Krankl 81, Rensenbrink 50. Ties: 6th (Hellström, Krol, 20) and 8th (Dalglish, Simonsen, 10); 10th Shilton (9). 1978 World Cup (Argentina) with a second group stage: second-round group winners in the final (ARG 5, NED 4), runners-up in the third-place game (BRA, ITA = 3), 3rd/4th of the second round = 2, out in the first round = 0. European Cup 1977/78: Liverpool; Cup Winners' Cup: Anderlecht; UEFA Cup: PSV.",
     "rows": [
       {
         "name": "Kevin Keegan",
@@ -931,7 +931,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Bundesliga",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Inglaterra não se qualificou para o Mundial. HSV eliminado da Taça das Taças 77/78 em nov/1977 (sem jogos europeus em 1978). BL 1978/79 de memória (≈34j/17g). 87 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1977–78 Hamburger SV: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1977–78 UEFA Cup Winners' Cup: Second round). Alterado: gp 31→32, g 12→10, uG 0→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). England did not qualify for the World Cup. HSV knocked out of the 77/78 Cup Winners' Cup in Nov 1977 (no European games in 1978). BL 1978/79 from memory (≈34gp/17g). 87 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1977–78 UEFA Cup Winners' Cup: Second round). Changed: gp 31→32, g 12→10, uG 0→1."
       },
       {
         "name": "Hans Krankl",
@@ -968,7 +968,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Bota de Ouro 1977/78 (41 golos, Rapid) e Pichichi 1978/79 (Barcelona), de memória. Edição europeia que termina em 1978 sem participação; uG = jogos de out–nov/1978 na Taça das Taças 78/79. Mundial: 4 golos (2 à RFA em Córdova). 81 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1977–78 UEFA Cup: First round). Alterado: gp 36→38, g 31→41, uG 1→0, uT CWC→UEL."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Golden Boot 1977/78 (41 goals, Rapid) and Pichichi 1978/79 (Barcelona), from memory. No participation in the European edition ending in 1978; uG = Oct–Nov 1978 games in the 78/79 Cup Winners' Cup. World Cup: 4 goals (2 against West Germany in Córdoba). 81 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 UEFA Cup: First round). Changed: gp 36→38, g 31→41, uG 1→0, uT CWC→UEL."
       },
       {
         "name": "Rob Rensenbrink",
@@ -1002,7 +1002,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Vencedor da Taça das Taças 1978 (2 golos na final vs Austria Wien) e finalista do Mundial (5 golos, poste no último minuto da final) – de memória. 50 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; prova/fase continental pela página da edição (1977–78 UEFA Cup Winners' Cup: Final); por verificar: título. Alterado: gp 37→31, g 19→23, uG 4→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winner of the 1978 Cup Winners' Cup (2 goals in the final vs Austria Wien) and World Cup finalist (5 goals, hit the post in the last minute of the final) – from memory. 50 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1977–78 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→31, g 19→23, uG 4→5."
       },
       {
         "name": "Roberto Bettega",
@@ -1039,7 +1039,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão italiano 1977/78; meias-finais da Taça dos Campeões (Club Brugge); Itália 4.ª no Mundial. 28 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1977–78 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1977–78 European Cup: Semi-finals). Alterado: gp 32→33, g 12→11, uG 2→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Italian champion 1977/78; European Cup semi-finals (Club Brugge); Italy 4th at the World Cup. 28 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Semi-finals). Changed: gp 32→33, g 12→11, uG 2→1."
       },
       {
         "name": "Paolo Rossi",
@@ -1074,7 +1074,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Capocannoniere 1977/78 (24 golos) – de memória. Taça UEFA 78/79 (out/1978, eliminado pelo Dukla) conta só nos jogos; nenhuma edição a terminar em 1978. Mundial: 3 golos. 23 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1978–79 UEFA Cup). Alterado: gp 28→30, g 18→24."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Capocannoniere 1977/78 (24 goals) – from memory. UEFA Cup 78/79 (Oct 1978, knocked out by Dukla) counts only in the games; no edition ending in 1978. World Cup: 3 goals. 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1978–79 UEFA Cup). Changed: gp 28→30, g 18→24."
       },
       {
         "name": "Ronnie Hellström",
@@ -1107,7 +1107,7 @@
           "https://en.wikipedia.org/wiki/Ronnie_Hellstr%C3%B6m",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Suécia eliminada na 1.ª fase do Mundial. 20 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Sweden knocked out in the first round of the World Cup. 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Ruud Krol",
@@ -1142,7 +1142,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Capitão dos Países Baixos finalistas. Ajax eliminado nos quartos da Taça dos Campeões 77/78 (Juventus). 20 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1977–78 European Cup: Quarter-finals). Alterado: gp 38→40."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Captain of the Netherlands, finalists. Ajax knocked out in the 77/78 European Cup quarter-finals (Juventus). 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Quarter-finals). Changed: gp 38→40."
       },
       {
         "name": "Kenny Dalglish",
@@ -1179,7 +1179,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Golo da vitória na final da Taça dos Campeões 1978 (Club Brugge). Escócia eliminada na 1.ª fase (golo vs Países Baixos). 10 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1977–78 European Cup: Final). Alterado: gp 48→51, g 25→24, uG 3→4."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winning goal in the 1978 European Cup final (Club Brugge). Scotland knocked out in the first round (goal vs the Netherlands). 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Final). Changed: gp 48→51, g 25→24, uG 3→4."
       },
       {
         "name": "Allan Simonsen",
@@ -1212,7 +1212,7 @@
           "https://en.wikipedia.org/wiki/Allan_Simonsen",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Meias-finais da Taça dos Campeões 77/78 (Liverpool). Dinamarca fora do Mundial. 10 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); prova/fase continental pela página da edição (1977–78 European Cup: Semi-finals); por verificar: clube, título."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). European Cup semi-finals 77/78 (Liverpool). Denmark not at the World Cup. 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1977–78 European Cup: Semi-finals); to verify: club, title."
       },
       {
         "name": "Peter Shilton",
@@ -1249,7 +1249,7 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Football_League",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão inglês 1977/78. Forest sem Europa na edição a terminar em 1978; jogos da Taça dos Campeões 78/79 (Liverpool, AEK) contam em gp. Inglaterra fora do Mundial. 9 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: clube não alterado: a tabela de carreira não separa os jogos europeus; título pela página da liga; prova/fase continental verificada: só outono (1978–79 European Cup); por verificar: clube."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). English champion 1977/78. Forest without Europe in the edition ending in 1978; European Cup 78/79 games (Liverpool, AEK) count in gp. England not at the World Cup. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage verified: autumn only (1978–79 European Cup); to verify: club."
       },
       {
         "name": "Mario Kempes",
@@ -1283,18 +1283,18 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
         ],
-        "note": "INELEGÍVEL (argentino). Vencedor retroativo FF 2016. Pichichi 1977/78 (28 golos) e campeão do mundo, melhor marcador (6) e melhor jogador do Mundial – de memória. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1978–79 UEFA Cup). Alterado: gp 29→34, g 23→28, uT →UEL."
+        "note": "INELIGIBLE (Argentine). FF retroactive winner 2016. Pichichi 1977/78 (28 goals) and world champion, top scorer (6) and best player of the World Cup – from memory. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1978–79 UEFA Cup). Changed: gp 29→34, g 23→28, uT →UEL."
       }
     ]
   },
   "1979": {
-    "label": "Ano civil 1979",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Kevin Keegan",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 1979",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Kevin Keegan",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "Keegan 118, Rummenigge 52, Krol 41. Empates: 7.º (T. Francis, Brady, 13) e 9.º (Boniek, Nehoda, 8). Sem torneio de seleções para europeus (Copa América 1979 só conta para inelegíveis). Taça dos Campeões 1978/79: Nottingham Forest; Taça das Taças: Barcelona; Taça UEFA: Gladbach. Sem vencedor retroativo da FF. Inelegível forte: Maradona (Argentinos Juniors).",
+    "notes": "Keegan 118, Rummenigge 52, Krol 41. Ties: 7th (T. Francis, Brady, 13) and 9th (Boniek, Nehoda, 8). No national-team tournament for Europeans (the 1979 Copa América only counts for ineligible players). European Cup 1978/79: Nottingham Forest; Cup Winners' Cup: Barcelona; UEFA Cup: Gladbach. No FF retroactive winner. Strong ineligible: Maradona (Argentinos Juniors).",
     "rows": [
       {
         "name": "Kevin Keegan",
@@ -1329,7 +1329,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Bundesliga",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão alemão 1978/79. HSV sem Europa em 78/79; jogos da Taça dos Campeões 79/80 (out–nov) só em gp/uG. 118 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1979–80 Hamburger SV: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1979–80 European Cup). Alterado: g 16→17, uG 2→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). German champion 1978/79. HSV without Europe in 78/79; European Cup 79/80 games (Oct–Nov) only in gp/uG. 118 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1979–80 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1979–80 European Cup). Changed: g 16→17, uG 2→1."
       },
       {
         "name": "Karl-Heinz Rummenigge",
@@ -1365,7 +1365,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Bundesliga",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Bayern sem Europa em 78/79; Taça UEFA 79/80 (out–dez) só em gp/uG. 52 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1979–80 UEFA Cup). Alterado: g 23→26, uG 3→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Bayern without Europe in 78/79; UEFA Cup 79/80 (Oct–Dec) only in gp/uG. 52 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1979–80 UEFA Cup). Changed: g 23→26, uG 3→5."
       },
       {
         "name": "Ruud Krol",
@@ -1399,7 +1399,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Eredivisie",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão neerlandês 1978/79. Edição europeia de 78/79 do Ajax não confirmada (uS 0 por precaução); Taça dos Campeões 79/80 (out–nov) em gp. 41 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1978–79 UEFA Cup: Third round). Alterado: gp 37→30, uT UCL→UEL, uS 0→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Dutch champion 1978/79. Ajax's 78/79 European edition not confirmed (uS 0 to be safe); European Cup 79/80 (Oct–Nov) in gp. 41 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup: Third round). Changed: gp 37→30, uT UCL→UEL, uS 0→1."
       },
       {
         "name": "Manfred Kaltz",
@@ -1431,7 +1431,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/Manfred_Kaltz"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Lateral direito (cruzamentos “bananenflanke”) do HSV campeão. 27 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Right-back (“bananenflanke” crosses) of champions HSV. 27 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Michel Platini",
@@ -1465,7 +1465,7 @@
           "https://en.wikipedia.org/wiki/Michel_Platini",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup_Winners'_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Nancy 1978/79 só 18–19j/12g na liga (lesão; pesquisa). Saint-Étienne desde jul/1979 (Taça UEFA 79/80 out–dez em gp/uG). 23 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1978–79 UEFA Cup Winners' Cup: Second round). Alterado: gp 33→19, g 18→12, uG 3→0, uS 0→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Nancy 1978/79 only 18–19gp/12g in the league (injury; search). Saint-Étienne since Jul 1979 (UEFA Cup 79/80 Oct–Dec in gp/uG). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup Winners' Cup: Second round). Changed: gp 33→19, g 18→12, uG 3→0, uS 0→1."
       },
       {
         "name": "Paolo Rossi",
@@ -1499,7 +1499,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Serie_A",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Vicenza despromovido em 1978/79; emprestado ao Perugia em 1979/80 (Taça UEFA). 16 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1978–79 UEFA Cup: First round). Alterado: gp 30→29, uG 1→0."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Vicenza relegated in 1978/79; loaned to Perugia in 1979/80 (UEFA Cup). 16 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup: First round). Changed: gp 30→29, uG 1→0."
       },
       {
         "name": "Trevor Francis",
@@ -1536,7 +1536,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Football_League",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Transferido do Birmingham em fev/1979 (1.º £1M); só elegível na Europa para a final, onde marcou o golo da vitória (Malmö). Verão na NASL (excluído). 13 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1978–79 European Cup: Final). Alterado: gp 32→44, g 15→24, uG 3→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Transferred from Birmingham in Feb 1979 (the first £1M); only eligible in Europe for the final, where he scored the winner (Malmö). Summer in the NASL (excluded). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 European Cup: Final). Changed: gp 32→44, g 15→24, uG 3→1."
       },
       {
         "name": "Liam Brady",
@@ -1568,7 +1568,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/Liam_Brady"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Irlandês (elegível). Taça UEFA 78/79: eliminado na 3.ª ronda (16 equipas) em dez/1978; jogos da Taça das Taças 79/80 em gp. FA Cup 1979 excluída. 13 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Irish (eligible). UEFA Cup 78/79: knocked out in the 3rd round (16 teams) in Dec 1978; Cup Winners' Cup 79/80 games in gp. 1979 FA Cup excluded. 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Zbigniew Boniek",
@@ -1602,7 +1602,7 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Números de memória/estimados. 8 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1979–80 UEFA Cup). Alterado: gp 30→28, g 11→4, uG 1→0."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Numbers from memory/estimated. 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1979–80 UEFA Cup). Changed: gp 30→28, g 11→4, uG 1→0."
       },
       {
         "name": "Zdeněk Nehoda",
@@ -1634,7 +1634,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/Zden%C4%9Bk_Nehoda"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão checoslovaco 1978/79. Taça UEFA 78/79: eliminado na 3.ª ronda (Estugarda) em dez/1978 (de memória). 8 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Czechoslovak champion 1978/79. UEFA Cup 78/79: knocked out in the 3rd round (Stuttgart) in Dec 1978 (from memory). 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Diego Maradona",
@@ -1665,18 +1665,18 @@
           "https://en.wikipedia.org/wiki/1979_Argentine_Primera_Divisi%C3%B3n",
           "https://en.wikipedia.org/wiki/1979_Copa_Am%C3%A9rica"
         ],
-        "note": "INELEGÍVEL (argentino). Melhor marcador do Metropolitano e do Nacional 1979 (de memória). Copa América 1979: Argentina eliminada na 1.ª fase; jogos/golos de Maradona incertos. Mundial de sub-20 excluído. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas."
+        "note": "INELIGIBLE (Argentine). Top scorer of the 1979 Metropolitano and Nacional (from memory). Copa América 1979: Argentina out in the first round; Maradona's games/goals uncertain. Under-20 World Cup excluded. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked."
       }
     ]
   },
   "1980": {
-    "label": "Ano civil 1980 (+ Euro 1980)",
-    "award": "Ballon d’Or (France Football; jornalistas europeus, só jogadores europeus)",
-    "real": "Karl-Heinz Rummenigge",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 1980 (+ Euro 1980)",
+    "award": "Ballon d’Or (France Football; European journalists, European players only)",
+    "winner": "Karl-Heinz Rummenigge",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "Rummenigge 122 (24 primeiros lugares, 25 votantes), Schuster 34, Platini 33. Empate no 8.º (H. Müller, Brady, 11). Prohaska 14 pts (topendsports) ou 16 (nota da Wikipédia citando a FF). Euro 1980 (Itália, 8 equipas em 2 grupos; vencedores na final, segundos no 3.º lugar): RFA 5, Bélgica 4, Itália/Checoslováquia 3, restantes 2. Taça dos Campeões 1979/80: Nottingham Forest bate Hamburgo; Taça das Taças: Valência (penáltis vs Arsenal); Taça UEFA: Eintracht Frankfurt. Sem vencedor retroativo da FF. Inelegíveis fortes: Maradona e Zico.",
+    "notes": "Rummenigge 122 (24 first places, 25 voters), Schuster 34, Platini 33. Tie for 8th (H. Müller, Brady, 11). Prohaska 14 pts (topendsports) or 16 (Wikipedia note citing FF). Euro 1980 (Italy, 8 teams in 2 groups; winners in the final, runners-up in the third-place game): West Germany 5, Belgium 4, Italy/Czechoslovakia 3, the rest 2. European Cup 1979/80: Nottingham Forest beat Hamburg; Cup Winners' Cup: Valencia (penalties vs Arsenal); UEFA Cup: Eintracht Frankfurt. No FF retroactive winner. Strong ineligibles: Maradona and Zico.",
     "rows": [
       {
         "name": "Karl-Heinz Rummenigge",
@@ -1713,7 +1713,7 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Melhor marcador da BL 1979/80 e 1980/81 (de memória). Campeão alemão 1979/80; meias-finais da Taça UEFA 79/80. Canto para o golo decisivo de Hrubesch na final do Euro. 122 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1979–80 UEFA Cup: Semi-finals). Alterado: g 33→34, ntG 0→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL top scorer 1979/80 and 1980/81 (from memory). German champion 1979/80; 79/80 UEFA Cup semi-finals. Corner for Hrubesch's decisive goal in the Euro final. 122 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Semi-finals). Changed: g 33→34, ntG 0→1."
       },
       {
         "name": "Bernd Schuster",
@@ -1749,7 +1749,7 @@
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Köln até jun/1980, Barcelona desde ago/1980. Participação europeia na janela não confirmada. Euro 1980: jogos e assistências estimados (destaque vs Países Baixos). 34 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1980–81 UEFA Cup). Alterado: gp 30→32, g 8→9, ntGP 3→2, uT →UEL."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Köln until Jun 1980, Barcelona from Aug 1980. European participation in the window not confirmed. Euro 1980: games and assists estimated (stood out vs the Netherlands). 34 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1980–81 UEFA Cup). Changed: gp 30→32, g 8→9, ntGP 3→2, uT →UEL."
       },
       {
         "name": "Michel Platini",
@@ -1784,7 +1784,7 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_French_Division_1",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Taça UEFA 79/80: quartos (Gladbach); 80/81 out–dez (incl. 5–0 em Hamburgo) em gp/uG. França fora do Euro. 33 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1979–80 UEFA Cup: Quarter-finals). Alterado: gp 44→40, g 22→21, uG 4→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup 79/80: quarter-finals (Gladbach); 80/81 Oct–Dec (incl. 5–0 in Hamburg) in gp/uG. France not at the Euro. 33 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Quarter-finals). Changed: gp 44→40, g 22→21, uG 4→5."
       },
       {
         "name": "Wilfried Van Moer",
@@ -1817,7 +1817,7 @@
           "https://en.wikipedia.org/wiki/Wilfried_Van_Moer",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). 35 anos; regressou à seleção para o Euro. Europa do Beveren na janela não confirmada. 27 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; prova/fase continental verificada: sem prova europeia nas edições consultadas; por verificar: título. Alterado: gp 30→29, g 4→2."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Aged 35; returned to the national team for the Euro. Beveren's European games in the window not confirmed. 27 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 30→29, g 4→2."
       },
       {
         "name": "Jan Ceulemans",
@@ -1851,7 +1851,7 @@
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Campeão belga 1979/80. Golo vs Inglaterra no Euro. Taça dos Campeões 80/81 (eliminado na 1.ª ronda) só em gp. 20 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; prova/fase continental verificada: só outono (1980–81 European Cup); por verificar: título. Alterado: g 18→29."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Belgian champion 1979/80. Goal vs England at the Euro. European Cup 80/81 (knocked out in the 1st round) only in gp. 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1980–81 European Cup); to verify: title. Changed: g 18→29."
       },
       {
         "name": "Horst Hrubesch",
@@ -1886,7 +1886,7 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Finalista vencido da Taça dos Campeões 1980 (Forest), 2 golos na final do Euro 1980 (de memória). 18 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1979–80 European Cup: Final). Alterado: gp 42→43, g 26→28, uG 6→7, ntGP 2→3."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 European Cup (Forest), 2 goals in the Euro 1980 final (from memory). 18 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1979–80 European Cup: Final). Changed: gp 42→43, g 26→28, uG 6→7, ntGP 2→3."
       },
       {
         "name": "Herbert Prohaska",
@@ -1918,7 +1918,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
           "https://en.wikipedia.org/wiki/Herbert_Prohaska"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Austria Wien (campeão austríaco 1979/80) até jun/1980, Inter desde ago (Taça dos Campeões 80/81 out–nov em gp). 14 pts (topendsports) / 16 (FF segundo nota da Wikipédia). Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Austria Wien (Austrian champions 1979/80) until Jun 1980, Inter from Aug (European Cup 80/81 Oct–Nov in gp). 14 pts (topendsports) / 16 (FF according to a Wikipedia note). Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Hansi Müller",
@@ -1951,7 +1951,7 @@
           "https://en.wikipedia.org/wiki/Hansi_M%C3%BCller",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Meias-finais da Taça UEFA 79/80 (Gladbach). Campeão europeu de seleções. 11 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup semi-finals 79/80 (Gladbach). European national-team champion. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Liam Brady",
@@ -1983,7 +1983,7 @@
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
           "https://en.wikipedia.org/wiki/Liam_Brady"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Finalista vencido da Taça das Taças 1980 (falhou penálti vs Valência); Juventus desde ago/1980. Irlanda fora do Euro. 11 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 Cup Winners' Cup (missed a penalty vs Valencia); Juventus since Aug 1980. Ireland not at the Euro. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Manfred Kaltz",
@@ -2016,7 +2016,7 @@
           "https://en.wikipedia.org/wiki/Manfred_Kaltz",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
         ],
-        "note": "Posição/pontos confirmados via pesquisa web (Wikipédia/RSSSF/topendsports). Finalista vencido Taça dos Campeões 1980; campeão europeu de seleções. 10 pts. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 European Cup; European national-team champion. 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
       {
         "name": "Diego Maradona",
@@ -2046,7 +2046,7 @@
           "https://en.wikipedia.org/wiki/Diego_Maradona",
           "https://en.wikipedia.org/wiki/1980_Argentine_Primera_Divisi%C3%B3n"
         ],
-        "note": "INELEGÍVEL (argentino). Melhor marcador do Metropolitano e do Nacional 1980 (de memória); Sul-Americano do Ano 1979 e 1980. Números estimados. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas."
+        "note": "INELIGIBLE (Argentine). Top scorer of the 1980 Metropolitano and Nacional (from memory); South American of the Year 1979 and 1980. Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked."
       },
       {
         "name": "Zico",
@@ -2077,7 +2077,7 @@
           "https://en.wikipedia.org/wiki/1980_Campeonato_Brasileiro_S%C3%A9rie_A",
           "https://en.wikipedia.org/wiki/1981_Copa_Libertadores"
         ],
-        "note": "INELEGÍVEL (brasileiro). Campeão brasileiro e melhor marcador do Brasileirão 1980 (de memória). Números estimados. Estatísticas: divisão do ano civil ESTIMADA (proporção de jornadas jan–jun / ago–dez e eliminatórias europeias por data); WebFetch bloqueado nesta sessão, pelo que nenhum número foi confirmado jogo a jogo. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1981 Copa Libertadores). Alterado: gp 22→19, uT →LIB."
+        "note": "INELIGIBLE (Brazilian). Brazilian champion and top scorer of the 1980 Brasileirão (from memory). Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1981 Copa Libertadores). Changed: gp 22→19, uT →LIB."
       }
     ]
   }

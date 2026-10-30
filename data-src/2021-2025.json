@@ -1,12 +1,12 @@
 {
   "2021": {
-    "label": "Ano civil 2021 (+ Euro 2020 e Copa América 2021)",
-    "award": "Ballon d’Or (France Football; jornalistas; ano civil)",
-    "real": "Lionel Messi",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Calendar year 2021 (+ Euro 2020 and Copa América 2021)",
+    "award": "Ballon d’Or (France Football; journalists; calendar year)",
+    "winner": "Lionel Messi",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "CY",
-    "notes": "Última edição em ano civil. Euro 2020 e Copa América 2021 jogaram-se em jun–jul 2021. Pontos (top 5): Messi 613, Lewandowski 580, Jorginho 460, Benzema 239, Kanté 186. Top 10 verificado na web; estatísticas dos jogadores reconstruídas de memória para a janela de ano civil (conf C).",
+    "notes": "Last calendar-year edition. Euro 2020 and the 2021 Copa América were played in Jun–Jul 2021. Points (top 5): Messi 613, Lewandowski 580, Jorginho 460, Benzema 239, Kanté 186. Top 10 verified on the web; player statistics rebuilt from memory for the calendar-year window (conf C).",
     "rows": [
       {
         "name": "Lionel Messi",
@@ -42,7 +42,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2021_Copa_Am%C3%A9rica"
         ],
-        "note": "LaLiga jan–mai ≈20 j/23 g; Ligue 1 ago–dez ≈11 j/1 g; UCL: Barça oitavos 2020/21 (2 j/2 g) + PSG grupos 2021/22 (5 j/5 g). uS = edição 2020/21 (Barça, oitavos). Copa América: 4 g, 5 a, campeão e melhor jogador. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Round of 16). Alterado: gp 39→41, g 31→30, uG 7→6."
+        "note": "LaLiga Jan–May ≈20 gp/23 g; Ligue 1 Aug–Dec ≈11 gp/1 g; UCL: Barça round of 16 2020/21 (2 gp/2 g) + PSG groups 2021/22 (5 gp/5 g). uS = 2020/21 edition (Barça, round of 16). Copa América: 4 g, 5 a, champion and best player. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Round of 16). Changed: gp 39→41, g 31→30, uG 7→6."
       },
       {
         "name": "Robert Lewandowski",
@@ -78,7 +78,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "43 golos na Bundesliga no ano civil 2021 (recorde; ≈24 em jan–mai + 19 em ago–dez). UCL: Lazio 2 j/2 g + grupos 2021/22 6 j/9 g; falhou os quartos 2020/21 (PSG) por lesão. Campeão BL 2020/21. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Quarter-finals). Alterado: gp 41→43."
+        "note": "43 Bundesliga goals in calendar year 2021 (record; ≈24 in Jan–May + 19 in Aug–Dec). UCL: Lazio 2 gp/2 g + groups 2021/22 6 gp/9 g; missed the 2020/21 quarter-finals (PSG) through injury. BL champion 2020/21. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Quarter-finals). Changed: gp 41→43."
       },
       {
         "name": "Jorginho",
@@ -114,7 +114,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Golos quase todos de penálti (2 ao Malmö na UCL, 2 ao Leeds e 2 ao Aston Villa na PL em dez). Campeão da UCL 2020/21 e do Euro 2020. ntA mantido do data.js (incerto). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Final). Alterado: gp 46→43, g 8→11."
+        "note": "Goals almost all from penalties (2 against Malmö in the UCL, 2 against Leeds and 2 against Aston Villa in the PL in Dec). UCL 2020/21 and Euro 2020 champion. ntA kept from data.js (uncertain). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Final). Changed: gp 46→43, g 8→11."
       },
       {
         "name": "Karim Benzema",
@@ -150,7 +150,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "UCL 2020/21 até às meias (golos à Atalanta e ao Chelsea) + grupos 2021/22. Euro: 4 g (2 a Portugal, 2 à Suíça); ntA mantido do data.js (incerto). Liga das Nações (out 2021) não conta. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Semi-finals). Alterado: g 36→37."
+        "note": "UCL 2020/21 up to the semi-finals (goals against Atalanta and Chelsea) + groups 2021/22. Euro: 4 g (2 against Portugal, 2 against Switzerland); ntA kept from data.js (uncertain). Nations League (Oct 2021) does not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Semi-finals). Changed: g 36→37."
       },
       {
         "name": "N’Golo Kanté",
@@ -186,7 +186,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Homem do jogo nas meias e na final da UCL 2020/21; lesões no outono de 2021. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Final). Alterado: gp 37→42, g 1→2."
+        "note": "Man of the match in the semi-finals and final of the UCL 2020/21; injuries in autumn 2021. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Final). Changed: gp 37→42, g 1→2."
       },
       {
         "name": "Cristiano Ronaldo",
@@ -223,7 +223,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Serie A jan–mai ≈19 j/15 g; Man United ago–dez PL ≈15 j/7 g + UCL grupos 5 j/6 g. uS = Juventus 2020/21 (oitavos, Porto). Melhor marcador do Euro 2020 (5 g, 1 a). pos alterada para FW (jogava como avançado-centro). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Round of 16). Alterado: gp 41→43, g 28→31."
+        "note": "Serie A Jan–May ≈19 gp/15 g; Man United Aug–Dec PL ≈15 gp/7 g + UCL groups 5 gp/6 g. uS = Juventus 2020/21 (round of 16, Porto). Top scorer of Euro 2020 (5 g, 1 a). pos changed to FW (played as a centre-forward). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Round of 16). Changed: gp 41→43, g 28→31."
       },
       {
         "name": "Mohamed Salah",
@@ -258,7 +258,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League",
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
         ],
-        "note": "PL ≈9 g (jan–mai) + ≈15 g (ago–dez). UCL: Leipzig 2 j/2 g, Real 2 j/1 g (quartos 2020/21) + grupos 2021/22 6 j/7 g. CAN 2021 jogou-se em jan–fev 2022 (fora da janela). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Quarter-finals). Alterado: gp 50→49."
+        "note": "PL ≈9 g (Jan–May) + ≈15 g (Aug–Dec). UCL: Leipzig 2 gp/2 g, Real 2 gp/1 g (quarter-finals 2020/21) + groups 2021/22 6 gp/7 g. AFCON 2021 was played in Jan–Feb 2022 (outside the window). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Quarter-finals). Changed: gp 50→49."
       },
       {
         "name": "Kevin De Bruyne",
@@ -294,7 +294,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Lesionado jan–fev 2021. UCL 2020/21: golos ao Gladbach, Dortmund e PSG; final perdida. Euro: falhou o 1.º jogo; 1 g + 1 a à Dinamarca; quartos. Campeão PL 2020/21. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Final). Alterado: gp 34→41, g 9→11."
+        "note": "Injured Jan–Feb 2021. UCL 2020/21: goals against Gladbach, Dortmund and PSG; final lost. Euro: missed the 1st game; 1 g + 1 a against Denmark; quarter-finals. PL champion 2020/21. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Final). Changed: gp 34→41, g 9→11."
       },
       {
         "name": "Kylian Mbappé",
@@ -330,7 +330,7 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "UCL 2020/21: 4 g ao Barcelona, 2 ao Bayern, meias com o City; grupos 2021/22 ≈4 g. Euro: 0 g; assistência(s) a Benzema/Griezmann (1–2). Lille campeão 2020/21. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Champions League: Semi-finals). Alterado: g 35→34."
+        "note": "UCL 2020/21: 4 g against Barcelona, 2 against Bayern, semi-finals against City; groups 2021/22 ≈4 g. Euro: 0 g; assist(s) for Benzema/Griezmann (1–2). Lille champions 2020/21. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Semi-finals). Changed: g 35→34."
       },
       {
         "name": "Gianluigi Donnarumma",
@@ -366,18 +366,18 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Europa_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020"
         ],
-        "note": "Melhor jogador do Euro 2020 (decisivo nos desempates por penáltis). Competição continental da janela: UEL 2020/21 com o Milan (oitavos, Man United). No PSG alternou com Navas (ago–dez). cont 8,5 estimado. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2020–21 UEFA Europa League: Round of 16). Alterado: gp 33→39."
+        "note": "Player of Euro 2020 (decisive in the penalty shoot-outs). Continental competition in the window: UEL 2020/21 with Milan (round of 16, Man United). At PSG alternated with Navas (Aug–Dec). cont 8.5 estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Europa League: Round of 16). Changed: gp 33→39."
       }
     ]
   },
   "2022": {
-    "label": "Época 2021/22 (+ CAN 2022)",
-    "award": "Ballon d’Or (France Football; época; 100 jornalistas)",
-    "real": "Karim Benzema",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Season 2021/22 (+ AFCON 2022)",
+    "award": "Ballon d’Or (France Football; season; 100 journalists)",
+    "winner": "Karim Benzema",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "P",
-    "notes": "Primeira edição avaliada por época (ago 2021–jul 2022) e com júri de 100 jornalistas. A CAN 2021 (jan–fev 2022) é o único torneio de seleções na janela. Top 10 verificado na web (Eurosport, 90min; posições 3–7 em fontes secundárias concordantes).",
+    "notes": "First edition judged on the season (Aug 2021–Jul 2022) and with a jury of 100 journalists. AFCON 2021 (Jan–Feb 2022) is the only national-team tournament in the window. Top 10 verified on the web (Eurosport, 90min; positions 3–7 in consistent secondary sources).",
     "rows": [
       {
         "name": "Karim Benzema",
@@ -414,7 +414,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 32 j/27 g/12 a (Pichichi); UCL 12 j/15 g. Assistências UCL: 1 ou 2 consoante a fonte (usado 1). Nº de jogos na LaLiga: 31–32 consoante a fonte. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
+        "note": "LaLiga 32 gp/27 g/12 a (Pichichi); UCL 12 gp/15 g. UCL assists: 1 or 2 depending on the source (1 used). Number of LaLiga games: 31–32 depending on the source. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Sadio Mané",
@@ -453,7 +453,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2021_Africa_Cup_of_Nations"
         ],
-        "note": "PL 34 j/16 g/2 a; UCL 13 j/5 g/1 a (final perdida). CAN 2021: 3 g, 2 a, Senegal campeão, melhor jogador do torneio (nº de jogos, 7, de memória). 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
+        "note": "PL 34 gp/16 g/2 a; UCL 13 gp/5 g/1 a (final lost). AFCON 2021: 3 g, 2 a, Senegal champions, player of the tournament (number of games, 7, from memory). Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Kevin De Bruyne",
@@ -489,7 +489,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "PL 30 j/15 g/8 a (UEFA; outras fontes 7 a); UCL 10 j/2 g/3 a; meias. data.js tinha 43 j/19 g/15 a (incluía taças). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Semi-finals)."
+        "note": "PL 30 gp/15 g/8 a (UEFA; other sources 7 a); UCL 10 gp/2 g/3 a; semi-finals. data.js had 43 gp/19 g/15 a (included cups). Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Robert Lewandowski",
@@ -525,7 +525,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_Bundesliga",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "Golos verificados (35 BL + 13 UCL; Chuteira de Ouro europeia). Jogos (34 + 10) de memória. Assistências: ~3 BL segundo Transfermarkt; a Bundesliga oficial dá G+A 41 (⇒ ~6 a). Quartos de final (Villarreal). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Quarter-finals)."
+        "note": "Goals verified (35 BL + 13 UCL; European Golden Shoe). Games (34 + 10) from memory. Assists: ~3 BL according to Transfermarkt; the official Bundesliga gives G+A 41 (⇒ ~6 a). Quarter-finals (Villarreal). Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Mohamed Salah",
@@ -564,7 +564,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2021_Africa_Cup_of_Nations"
         ],
-        "note": "PL 35 j/23 g/13 a verificado (StatMuse, 90min). UCL 13 j/8 g/2 a deduzido do total de 31 g em todas as provas (sem golos nas taças). CAN 2021: Egito finalista; 2 g (Guiné-Bissau, Marrocos) + 1 a segundo a beIN — a Goal fala em 3 g; usado 2. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
+        "note": "PL 35 gp/23 g/13 a verified (StatMuse, 90min). UCL 13 gp/8 g/2 a derived from the total of 31 g in all competitions (no cup goals). AFCON 2021: Egypt finalists; 2 g (Guinea-Bissau, Morocco) + 1 a according to beIN — Goal says 3 g; 2 used. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Kylian Mbappé",
@@ -601,7 +601,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_Ligue_1",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "Ligue 1 35 j/28 g/17 a (melhor marcador e assistente); UCL 8 j/6 g; assistências UCL 4 (PSG) ou 6 (90min) — usado 4. Oitavos (Real Madrid). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Round of 16)."
+        "note": "Ligue 1 35 gp/28 g/17 a (top scorer and top assister); UCL 8 gp/6 g; UCL assists 4 (PSG) or 6 (90min) — 4 used. Round of 16 (Real Madrid). Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Round of 16)."
       },
       {
         "name": "Thibaut Courtois",
@@ -637,7 +637,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 36 j (16 jogos sem sofrer); UCL 13 j, recorde de 9 defesas na final, homem do jogo. Prémio Yashin 2022. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
+        "note": "LaLiga 36 gp (16 clean sheets); UCL 13 gp, record 9 saves in the final, man of the match. Yashin Trophy 2022. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Vinícius Júnior",
@@ -673,7 +673,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 35 j/17 g/13 a; UCL 13 j/4 g (golo da vitória na final); assistências UCL 6 (UEFA) ou 7 (Football España) — usado 6. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final)."
+        "note": "LaLiga 35 gp/17 g/13 a; UCL 13 gp/4 g (winning goal in the final); UCL assists 6 (UEFA) or 7 (Football España) — 6 used. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Final)."
       },
       {
         "name": "Luka Modrić",
@@ -709,7 +709,7 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_La_Liga",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League"
         ],
-        "note": "LaLiga 28 j/2 g/8 a (Sportskeeda); total em todas as provas 3 g/12 a (Football España; o 3.º golo foi na Supercopa). UCL 12 j/0 g/3 a de memória. cont 8,5 estimado (9,5 em 2018). 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2021–22 UEFA Champions League: Final). Alterado: gp 40→41."
+        "note": "LaLiga 28 gp/2 g/8 a (Sportskeeda); all competitions 3 g/12 a (Football España; the 3rd goal was in the Supercopa). UCL 12 gp/0 g/3 a from memory. cont 8.5 estimated (9.5 in 2018). Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2021–22 UEFA Champions League: Final). Changed: gp 40→41."
       },
       {
         "name": "Erling Haaland",
@@ -745,18 +745,18 @@
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_Bundesliga",
           "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Europa_League"
         ],
-        "note": "BL 24 j/22 g/7 a; UCL 3 j/3 g (Dortmund eliminado na fase de grupos). Dortmund caiu depois no play-off da UEL (Rangers); Haaland lesionado, presume-se que não jogou — por confirmar. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; jogou a fase de grupos da UCL 2021/22; lesionado, não jogou o play-off da Liga Europa (Rangers)."
+        "note": "BL 24 gp/22 g/7 a; UCL 3 gp/3 g (Dortmund knocked out in the group stage). Dortmund later went out in the UEL play-off (Rangers); Haaland injured, presumably did not play — to confirm. Second pass: league + Europe from the career table (season); title from the league page; played the UCL 2021/22 group stage; injured, did not play the Europa League play-off (Rangers)."
       }
     ]
   },
   "2023": {
-    "label": "Época 2022/23 (+ Mundial 2022)",
-    "award": "Ballon d’Or (France Football; época; 100 jornalistas)",
-    "real": "Lionel Messi",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Season 2022/23 (+ World Cup 2022)",
+    "award": "Ballon d’Or (France Football; season; 100 journalists)",
+    "winner": "Lionel Messi",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "P",
-    "notes": "Janela ago 2022–jul 2023, inclui o Mundial do Catar (nov–dez 2022). Pontos (top 3): Messi 462, Haaland 357, Mbappé 270. Top 10 verificado na web; estatísticas de memória (conf C).",
+    "notes": "Window Aug 2022–Jul 2023, includes the Qatar World Cup (Nov–Dec 2022). Points (top 3): Messi 462, Haaland 357, Mbappé 270. Top 10 verified on the web; statistics from memory (conf C).",
     "rows": [
       {
         "name": "Lionel Messi",
@@ -792,7 +792,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Ligue 1 32 j/16 g/16 a; UCL ≈6 j/4 g (falhou 2 jogos de grupo por lesão), oitavos (Bayern). Mundial: 7 g, 3 a, campeão e Bola de Ouro do torneio. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Round of 16). Alterado: gp 38→39."
+        "note": "Ligue 1 32 gp/16 g/16 a; UCL ≈6 gp/4 g (missed 2 group games through injury), round of 16 (Bayern). World Cup: 7 g, 3 a, champion and Golden Ball of the tournament. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Round of 16). Changed: gp 38→39."
       },
       {
         "name": "Erling Haaland",
@@ -827,7 +827,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League"
         ],
-        "note": "PL 35 j/36 g/8 a (recorde); UCL 11 j/12 g; triplete. Noruega não esteve no Mundial. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final)."
+        "note": "PL 35 gp/36 g/8 a (record); UCL 11 gp/12 g; treble. Norway were not at the World Cup. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final)."
       },
       {
         "name": "Kylian Mbappé",
@@ -863,7 +863,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Ligue 1 34 j/29 g/5 a (melhor marcador); UCL 8 j/7 g. Mundial: 8 g (melhor marcador, hat-trick na final), 2 a; finalista. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Round of 16)."
+        "note": "Ligue 1 34 gp/29 g/5 a (top scorer); UCL 8 gp/7 g. World Cup: 8 g (top scorer, hat-trick in the final), 2 a; finalist. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Round of 16)."
       },
       {
         "name": "Kevin De Bruyne",
@@ -899,7 +899,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "PL 32 j/7 g/16 a (líder de assistências); UCL 11 j/2 g (golo ao Real Madrid nas meias). Bélgica eliminada na fase de grupos do Mundial. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final). Alterado: gp 43→42."
+        "note": "PL 32 gp/7 g/16 a (top assister); UCL 11 gp/2 g (goal against Real Madrid in the semi-finals). Belgium knocked out in the World Cup group stage. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 43→42."
       },
       {
         "name": "Rodri",
@@ -935,7 +935,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Golos na UCL ao Bayern (quartos) e ao Inter (final, melhor jogador da final) — data.js tinha uG 0. Mundial: Espanha nos oitavos. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final). Alterado: gp 47→48."
+        "note": "UCL goals against Bayern (quarter-finals) and Inter (final, player of the final) — data.js had uG 0. World Cup: Spain in the round of 16. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 47→48."
       },
       {
         "name": "Vinícius Júnior",
@@ -971,7 +971,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "LaLiga ≈33 j/10 g/9 a; UCL 12 j/7 g/5 a (meias). Mundial: 4 j/1 g (Coreia do Sul); Brasil nos quartos. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Semi-finals)."
+        "note": "LaLiga ≈33 gp/10 g/9 a; UCL 12 gp/7 g/5 a (semi-finals). World Cup: 4 gp/1 g (South Korea); Brazil in the quarter-finals. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Julián Álvarez",
@@ -1007,7 +1007,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "PL 31 j/9 g; UCL ≈10 j/3 g. Mundial: 4 g (2 à Croácia nas meias), campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final)."
+        "note": "PL 31 gp/9 g; UCL ≈10 gp/3 g. World Cup: 4 g (2 against Croatia in the semi-finals), champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final)."
       },
       {
         "name": "Victor Osimhen",
@@ -1042,7 +1042,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_Serie_A",
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League"
         ],
-        "note": "Serie A 32 j/26 g (capocannoniere, Napoli campeão); UCL ≈6 j/5 g, quartos (Milan). Nigéria não esteve no Mundial. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Quarter-finals)."
+        "note": "Serie A 32 gp/26 g (capocannoniere, Napoli champions); UCL ≈6 gp/5 g, quarter-finals (Milan). Nigeria were not at the World Cup. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Bernardo Silva",
@@ -1078,7 +1078,7 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Posição ambígua (extremo direito / médio interior); classificado como CM pelo papel sem bola; cont 8 estimado. 2 golos ao Real Madrid nas meias da UCL. Mundial: Portugal nos quartos. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Final). Alterado: gp 45→47."
+        "note": "Ambiguous position (right winger / inside midfielder); classified as CM for his off-the-ball role; cont 8 estimated. 2 goals against Real Madrid in the UCL semi-finals. World Cup: Portugal in the quarter-finals. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 45→47."
       },
       {
         "name": "Luka Modrić",
@@ -1114,18 +1114,18 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
         ],
-        "note": "Mundial: Croácia 3.ª (perdeu as meias com a Argentina; jogo do 3.º lugar não altera a fase). UCL até às meias. cont 8 estimado. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2022–23 UEFA Champions League: Semi-finals). Alterado: gp 44→43, g 5→6, uG 1→2."
+        "note": "World Cup: Croatia 3rd (lost the semi-final to Argentina; the third-place game does not change the stage). UCL up to the semi-finals. cont 8 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals). Changed: gp 44→43, g 5→6, uG 1→2."
       }
     ]
   },
   "2024": {
-    "label": "Época 2023/24 (+ Euro 2024 e Copa América 2024)",
-    "award": "Ballon d’Or (France Football + UEFA; época; 100 jornalistas)",
-    "real": "Rodri",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Season 2023/24 (+ Euro 2024 and Copa América 2024)",
+    "award": "Ballon d’Or (France Football + UEFA; season; 100 journalists)",
+    "winner": "Rodri",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "P",
-    "notes": "Primeira edição coorganizada com a UEFA. Pontos (top 3): Rodri 1170, Vinícius 1129, Bellingham 917. Top 10 verificado na web; estatísticas de memória (conf C).",
+    "notes": "First edition co-organised with UEFA. Points (top 3): Rodri 1170, Vinícius 1129, Bellingham 917. Top 10 verified on the web; statistics from memory (conf C).",
     "rows": [
       {
         "name": "Rodri",
@@ -1160,7 +1160,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "PL ≈34 j/8 g/9 a; UCL ≈9 j, quartos (Real Madrid, penáltis). Euro: 6 j (não jogou com a Albânia), golo à Geórgia, melhor jogador do torneio, campeão — data.js tinha 7 j/0 g. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Quarter-finals). Alterado: gp 43→42."
+        "note": "PL ≈34 gp/8 g/9 a; UCL ≈9 gp, quarter-finals (Real Madrid, penalties). Euro: 6 gp (did not play Albania), goal against Georgia, player of the tournament, champion — data.js had 7 gp/0 g. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Changed: gp 43→42."
       },
       {
         "name": "Vinícius Júnior",
@@ -1195,7 +1195,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024_Copa_Am%C3%A9rica"
         ],
-        "note": "LaLiga 26 j/15 g/5 a; UCL 10 j/6 g/5 a (golo na final). Copa América: 2 g ao Paraguai; suspenso nos quartos (Brasil eliminado). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final)."
+        "note": "LaLiga 26 gp/15 g/5 a; UCL 10 gp/6 g/5 a (goal in the final). Copa América: 2 g against Paraguay; suspended for the quarter-finals (Brazil knocked out). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final)."
       },
       {
         "name": "Jude Bellingham",
@@ -1230,7 +1230,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "LaLiga 28 j/19 g/6 a; UCL ≈10 j/4 g/5 a. Euro: 2 g (Sérvia, Eslováquia), finalista. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final). Alterado: gp 38→39."
+        "note": "LaLiga 28 gp/19 g/6 a; UCL ≈10 gp/4 g/5 a. Euro: 2 g (Serbia, Slovakia), finalist. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Changed: gp 38→39."
       },
       {
         "name": "Dani Carvajal",
@@ -1265,7 +1265,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Golo na final da UCL. Euro: golo à Croácia; suspenso nas meias; campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final). Alterado: gp 40→38, ntGP 6→5."
+        "note": "Goal in the UCL final. Euro: goal against Croatia; suspended for the semi-finals; champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Changed: gp 40→38, ntGP 6→5."
       },
       {
         "name": "Erling Haaland",
@@ -1299,7 +1299,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League",
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League"
         ],
-        "note": "PL 31 j/27 g/5 a (melhor marcador); UCL ≈9 j/6 g. Noruega não esteve no Euro. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Quarter-finals)."
+        "note": "PL 31 gp/27 g/5 a (top scorer); UCL ≈9 gp/6 g. Norway were not at the Euro. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Kylian Mbappé",
@@ -1334,7 +1334,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Ligue 1 29 j/27 g/7 a; UCL 12 j/8 g, meias. Euro: 5 j (falhou o jogo com os Países Baixos após fratura do nariz), 1 g (penálti à Polónia), assistência a Kolo Muani nas meias; data.js tinha 6 j/0 a. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Semi-finals)."
+        "note": "Ligue 1 29 gp/27 g/7 a; UCL 12 gp/8 g, semi-finals. Euro: 5 gp (missed the game with the Netherlands after a broken nose), 1 g (penalty against Poland), assist for Kolo Muani in the semi-finals; data.js had 6 gp/0 a. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Lautaro Martínez",
@@ -1369,7 +1369,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024_Copa_Am%C3%A9rica"
         ],
-        "note": "Serie A 33 j/24 g (capocannoniere, Inter campeão); UCL ≈7 j, oitavos (Atlético). Copa América: 5 g (melhor marcador, golo da vitória na final), campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Round of 16). Alterado: gp 40→41."
+        "note": "Serie A 33 gp/24 g (capocannoniere, Inter champions); UCL ≈7 gp, round of 16 (Atlético). Copa América: 5 g (top scorer, winning goal in the final), champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Round of 16). Changed: gp 40→41."
       },
       {
         "name": "Lamine Yamal",
@@ -1404,7 +1404,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Números de clube mantidos do data.js. Euro: 6 j (não jogou com a Albânia), 1 g (França), 4 a, melhor jovem, campeão. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Quarter-finals). Alterado: gp 44→47, g 6→5, uG 1→0, ntGP 6→7."
+        "note": "Club numbers kept from data.js. Euro: 6 gp (did not play Albania), 1 g (France), 4 a, best young player, champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Changed: gp 44→47, g 6→5, uG 1→0, ntGP 6→7."
       },
       {
         "name": "Toni Kroos",
@@ -1439,7 +1439,7 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "Última época antes da retirada; campeão LaLiga e UCL. Euro: Alemanha nos quartos. cont 8,5 estimado; ntA incerto. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Final)."
+        "note": "Last season before retiring; LaLiga and UCL champion. Euro: Germany in the quarter-finals. cont 8.5 estimated; ntA uncertain. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final)."
       },
       {
         "name": "Harry Kane",
@@ -1474,18 +1474,18 @@
           "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2024"
         ],
-        "note": "BL 32 j/36 g/8 a (melhor marcador, Chuteira de Ouro europeia); UCL 12 j/8 g, meias. Euro: 3 g (Dinamarca, Eslováquia, Países Baixos), finalista; ntA mantido do data.js (incerto). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (2023–24 UEFA Champions League: Semi-finals)."
+        "note": "BL 32 gp/36 g/8 a (top scorer, European Golden Shoe); UCL 12 gp/8 g, semi-finals. Euro: 3 g (Denmark, Slovakia, the Netherlands), finalist; ntA kept from data.js (uncertain). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Semi-finals)."
       }
     ]
   },
   "2025": {
-    "label": "Época 2024/25",
-    "award": "Ballon d’Or (France Football + UEFA; época; 100 jornalistas)",
-    "real": "Ousmane Dembélé",
-    "realAll": null,
-    "realAllNote": "",
+    "label": "Season 2024/25",
+    "award": "Ballon d’Or (France Football + UEFA; season; 100 journalists)",
+    "winner": "Ousmane Dembélé",
+    "winnerAll": null,
+    "winnerAllNote": "",
     "window": "P",
-    "notes": "Sem torneio de seleções principal na janela (a fase final da Liga das Nações e o Mundial de Clubes 2025 não contam). Pontos verificados: Hakimi 484, Mbappé 378, Palmer 211. 11.º Pedri, 12.º Kvaratskhelia, 13.º Kane. Top 10 verificado na web; estatísticas de memória (conf C).",
+    "notes": "No major national-team tournament in the window (the Nations League finals and the 2025 Club World Cup do not count). Points verified: Hakimi 484, Mbappé 378, Palmer 211. 11th Pedri, 12th Kvaratskhelia, 13th Kane. Top 10 verified on the web; statistics from memory (conf C).",
     "rows": [
       {
         "name": "Ousmane Dembélé",
@@ -1520,7 +1520,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Ligue 1 29 j/21 g/6 a (melhor marcador, ex aequo com Greenwood); UCL 15 j/8 g/6 a, campeão. Jogou sobretudo como falso 9 (pos W mantida do data.js). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final)."
+        "note": "Ligue 1 29 gp/21 g/6 a (joint top scorer with Greenwood); UCL 15 gp/8 g/6 a, champion. Played mostly as a false 9 (pos W kept from data.js). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final)."
       },
       {
         "name": "Lamine Yamal",
@@ -1555,7 +1555,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Números mantidos do data.js (LaLiga ≈35 j/9 g/13 a; UCL ≈13 j/5 g/3 a); meias (Inter). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Semi-finals)."
+        "note": "Numbers kept from data.js (LaLiga ≈35 gp/9 g/13 a; UCL ≈13 gp/5 g/3 a); semi-finals (Inter). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals)."
       },
       {
         "name": "Vitinha",
@@ -1590,7 +1590,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Números mantidos do data.js. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: gp 44→46, g 5→7."
+        "note": "Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→46, g 5→7."
       },
       {
         "name": "Mohamed Salah",
@@ -1625,7 +1625,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "PL 38 j/29 g/18 a (melhor marcador e assistente); UCL 9 j, oitavos (PSG). Golos na UCL possivelmente 3–4 (data.js: 2, mantido). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Round of 16). Alterado: g 31→32, uG 2→3."
+        "note": "PL 38 gp/29 g/18 a (top scorer and top assister); UCL 9 gp, round of 16 (PSG). UCL goals possibly 3–4 (data.js: 2, kept). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Round of 16). Changed: g 31→32, uG 2→3."
       },
       {
         "name": "Raphinha",
@@ -1660,7 +1660,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "LaLiga ≈36 j/18 g; UCL ≈14 j/13 g/8 a (meias). Números mantidos do data.js. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Semi-finals). Alterado: gp 49→50."
+        "note": "LaLiga ≈36 gp/18 g; UCL ≈14 gp/13 g/8 a (semi-finals). Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals). Changed: gp 49→50."
       },
       {
         "name": "Achraf Hakimi",
@@ -1695,7 +1695,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "uG corrigido de 1 para 3 (golos ao Aston Villa nos quartos, ao Arsenal nas meias e ao Inter na final). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: gp 43→42, g 7→8, uG 3→4."
+        "note": "uG corrected from 1 to 3 (goals against Aston Villa in the quarter-finals, Arsenal in the semi-finals and Inter in the final). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 43→42, g 7→8, uG 3→4."
       },
       {
         "name": "Kylian Mbappé",
@@ -1730,7 +1730,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "LaLiga 34 j/31 g (Pichichi, Chuteira de Ouro europeia); UCL 14 j/7 g, incl. 4 ao Man City no play-off; quartos (Arsenal). data.js tinha 43 j/35 g (uG 4). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Quarter-finals)."
+        "note": "LaLiga 34 gp/31 g (Pichichi, European Golden Shoe); UCL 14 gp/7 g, incl. 4 against Man City in the play-off; quarter-finals (Arsenal). data.js had 43 gp/35 g (uG 4). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals)."
       },
       {
         "name": "Cole Palmer",
@@ -1765,7 +1765,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Europa_Conference_League"
         ],
-        "note": "PL 37 j/15 g/8 a; poucos jogos na Liga Conferência (2 assistências na final com o Betis, Chelsea campeão). Mundial de Clubes 2025 não conta. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Europa Conference League: Final). Alterado: gp 40→45."
+        "note": "PL 37 gp/15 g/8 a; few Conference League games (2 assists in the final against Betis, Chelsea champions). 2025 Club World Cup does not count. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Europa Conference League: Final). Changed: gp 40→45."
       },
       {
         "name": "Gianluigi Donnarumma",
@@ -1800,7 +1800,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Prémio Yashin 2025; decisivo nos penáltis com o Liverpool e nas eliminatórias da UCL. Transferido para o Man City em set 2025 (fora da janela). cont 9 estimado. (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: gp 44→39."
+        "note": "Yashin Trophy 2025; decisive in the shoot-out against Liverpool and in the UCL knockout rounds. Transferred to Man City in Sep 2025 (outside the window). cont 9 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→39."
       },
       {
         "name": "Nuno Mendes",
@@ -1835,7 +1835,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "Golo ao Aston Villa nos quartos da UCL; campeão UCL e Ligue 1. cont 8,5 estimado (igual a Hakimi). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Final). Alterado: g 3→5, uG 1→4."
+        "note": "Goal against Aston Villa in the UCL quarter-finals; UCL and Ligue 1 champion. cont 8.5 estimated (same as Hakimi). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: g 3→5, uG 1→4."
       },
       {
         "name": "Harry Kane",
@@ -1870,7 +1870,7 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Bundesliga",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League"
         ],
-        "note": "13.º na votação (fora do top 10), mantido por já constar do data.js. BL 31 j/26 g (melhor marcador, 1.º título de campeão); UCL 14 j/11 g (4 ao Dinamo Zagreb), quartos (Inter). data.js tinha 41 j/34 g (uG 8). (Wikipédia/Transfermarkt/fbref inacessíveis nesta sessão e limite de pesquisas esgotado); só a posição na votação foi verificada. 2.ª passagem: liga+Europa da tabela de carreira (época); título pela página da liga; prova/fase continental pela página da edição (2024–25 UEFA Champions League: Quarter-finals). Alterado: gp 45→44."
+        "note": "13th in the vote (outside the top 10), kept because he was already in data.js. BL 31 gp/26 g (top scorer, 1st league title); UCL 14 gp/11 g (4 against Dinamo Zagreb), quarter-finals (Inter). data.js had 41 gp/34 g (uG 8). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals). Changed: gp 45→44."
       }
     ]
   }

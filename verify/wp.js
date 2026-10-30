@@ -1,4 +1,4 @@
-// Ferramentas de leitura da Wikipédia (wikitext via action=raw), com cache local.
+// Wikipedia reading tools (wikitext via action=raw), with a local cache.
 const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
@@ -19,7 +19,7 @@ function get(url) {
   }
   throw new Error('falha a obter ' + url);
 }
-// Wikitext de uma página (segue redireções). rawT devolve também o título final.
+// Wikitext of a page (follows redirects). rawT also returns the final title.
 function rawT(title, lang = 'en', depth = 0) {
   title = title.replace(/_/g, ' ').trim();
   title = title[0].toUpperCase() + title.slice(1);
@@ -38,7 +38,7 @@ function rawT(title, lang = 'en', depth = 0) {
 }
 const raw = (title, lang = 'en') => rawT(title, lang).text;
 
-// Extrai blocos {{nome ...}} equilibrados cujo nome casa com re.
+// Extracts balanced {{name ...}} blocks whose name matches re.
 function templates(text, re) {
   const out = [];
   let i = 0;
@@ -56,7 +56,7 @@ function templates(text, re) {
   return out;
 }
 
-// Divide parâmetros de topo de um template (ignora | dentro de [[ ]] e {{ }}).
+// Splits the top-level parameters of a template (ignores | inside [[ ]] and {{ }}).
 function params(body) {
   const parts = []; let d = 0, cur = '';
   for (let i = 0; i < body.length; i++) {
@@ -80,7 +80,7 @@ const strip = s => (s || '').replace(/\[\[(File|Image):[^\]]*\]\]/gi, '').replac
   .replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g, '$1').replace(/'''?/g, '').replace(/<[^>]+>/g, '').replace(/\{\{[^}]*\}\}/g, '').trim();
 const link = s => { const m = (s || '').match(/\[\[([^\]|#]+)/); return m ? m[1].trim() : null; };
 
-// Tabelas wiki → grelhas (rowspan/colspan expandidos). Cada célula: {raw, txt, hdr}
+// Wiki tables → grids (rowspan/colspan expanded). Each cell: {raw, txt, hdr}
 function tables(text) {
   const res = [];
   const lines = text.split('\n');
@@ -106,7 +106,7 @@ function tables(text) {
   return res.map(expand);
 }
 function splitCells(body, hdr) {
-  // separadores || (ou !! nos cabeçalhos), fora de [[ ]] e {{ }}
+  // || separators (or !! in headers), outside [[ ]] and {{ }}
   const out = []; let d = 0, cur = '';
   for (let i = 0; i < body.length; i++) {
     const c = body[i], n = body[i + 1];
@@ -117,7 +117,7 @@ function splitCells(body, hdr) {
   }
   out.push(cur);
   return out.map(s => {
-    // atributos: "rowspan=2 | conteúdo" (| simples fora de [[ ]])
+    // attributes: "rowspan=2 | content" (single | outside [[ ]])
     let attr = '', content = s, d2 = 0;
     for (let i = 0; i < s.length; i++) {
       const c = s[i], n = s[i + 1];
@@ -154,7 +154,7 @@ function expand(rows) {
 
 const num = t => { const m = (t || '').replace(/[,\s]/g, '').match(/^\(?(\d+)\)?$/); return m ? +m[1] : (/^[—–\-]$/.test((t || '').trim()) ? null : undefined); };
 
-// Tabela de carreira (clube) de um jogador: [{club, season, comp:{League:[a,g], 'National cup':..., Europe:..., Other:..., Total:...}}]
+// A player's (club) career table: [{club, season, comp:{League:[a,g], 'National cup':..., Europe:..., Other:..., Total:...}}]
 function career(player, lang = 'en') {
   const t = raw(player, lang);
   const sec = t.search(/==\s*Career statistics\s*==/i);
@@ -164,7 +164,7 @@ function career(player, lang = 'en') {
     if (g.length < 3) continue;
     const h0 = g[0].map(c => c && c.txt).join('|');
     if (!/Season/i.test(h0) || !/League/i.test(h0)) continue;
-    // cabeçalho em 2 linhas: grupo (linha 0) e sub (linha 1)
+    // two-row header: group (row 0) and sub-header (row 1)
     const H = [];
     const w = Math.max(...g.slice(0, 2).map(r => r.length));
     for (let c = 0; c < w; c++) {
@@ -195,7 +195,7 @@ function career(player, lang = 'en') {
   return null;
 }
 
-// Jogos (football box) de uma página de época, com competição pelo cabeçalho.
+// Matches (football box) on a season page, with the competition taken from the heading.
 function matches(title, lang = 'en') {
   const t = raw(title, lang);
   const heads = []; const re = /^(={2,5})\s*(.*?)\s*\1\s*$/gm; let m;
@@ -209,7 +209,7 @@ function matches(title, lang = 'en') {
              team1: teamName(p.team1 || p.home || ''), team2: teamName(p.team2 || p.away || ''), score: strip(p.score || '') || (p.score || '').replace(/[^\d–\-()p ]/g, ''),
              goals1: p.goals1 || '', goals2: p.goals2 || '', result: p.result || '', start: b.start, end: b.start + b.body.length };
   });
-  // modelos que geram as caixas a partir de dados ({{Bundesliga matches|2018–19|MUN}}): expandir pela API
+  // templates that build the boxes from data ({{Bundesliga matches|2018–19|MUN}}): expand them through the API
   for (const tp of templates(t, /^\s*[A-Za-z .\-]+ matches\s*\|/)) {
     const html = expandT('{{' + tp.body + '}}', title, lang);
     for (const ev of html.split(/<div class="vevent">/).slice(1)) {
@@ -225,7 +225,7 @@ function matches(title, lang = 'en') {
                  year: dm ? +dm[1] : null, team1: teams[0] || '', team2: teams[1] || '', score: '', goals1: g1, goals2: g2, result: res, start: tp.start, end: tp.start });
     }
   }
-  // formato em tabela (Data | Adversário | ... | Marcadores), p.ex. páginas do Manchester United
+  // table format (Date | Opponent | ... | Scorers), e.g. Manchester United pages
   const L = t.split('\n'); const offs = []; let acc = 0;
   for (const l of L) { offs.push(acc); acc += l.length + 1; }
   const spans = [];
@@ -250,7 +250,7 @@ function matches(title, lang = 'en') {
       }
     }
   }
-  // datas sem ano ("18 July"): ano pela época do título (jul–dez → 1.º ano, jan–jun → 2.º)
+  // dates without a year ("18 July"): year from the season in the title (Jul–Dec → 1st year, Jan–Jun → 2nd)
   const sm = title.match(/(\d{4})[–-](\d{2,4})\b/);
   if (sm) {
     const y1 = +sm[1], y2 = y1 + 1;
@@ -274,7 +274,7 @@ function expandT(text, title, lang = 'en') {
   fs.writeFileSync(f, w);
   return w;
 }
-// {{fb|FRA}} / {{fb-rt|FRA|1974}} / {{#invoke:flagg|...|FRA}} → código de 3 letras (só seleções); senão texto
+// {{fb|FRA}} / {{fb-rt|FRA|1974}} / {{#invoke:flagg|...|FRA}} → 3-letter code (national teams only); otherwise text
 function teamName(s) {
   const t = s.match(/\{\{\s*(fb|fb-rt|fbw|fbw-rt|fbu|fbu-rt|fb-big|#invoke:\s*flagg?)\b[^{}]*\}\}/i);
   if (t && !strip(s.replace(t[0], ''))) { const ps = t[0].slice(2, -2).split('|').map(x => x.trim()); const c = ps.slice(1).find(x => /^[A-Z]{3}$/.test(x)); if (c) return c; }
@@ -285,7 +285,7 @@ function isoDate(s) {
   if (m) return m[1] + '-' + m[2].padStart(2, '0') + '-' + m[3].padStart(2, '0');
   return strip(s);
 }
-// Golos de um texto goals1/goals2 → {alvoDoLink: n}
+// Goals from a goals1/goals2 text → {linkTarget: n}
 function scorers(g, inline = false) {
   const o = {};
   const parts = g.split(/<br\s*\/?>|\n|\*/i).flatMap(s => s.split(/(?=\[\[(?!File:|Image:))/i));

@@ -7,7 +7,7 @@ const path = require('path');
 const { YEARS } = require('../../data.js');
 const M = require('../../models.js');
 const FIT = require('../../fit-result.json');
-const SEL = require('../../selecao-result.json');
+const SEL = require('../../model-selection.json');
 
 const FILE = path.join(__dirname, '..', 'golden', 'rankings.json');
 const LISTS = ['elig', 'all'];
@@ -18,15 +18,15 @@ function rankings() {
   for (const y of Object.keys(YEARS)) {
     out[y] = {};
     for (const L of LISTS) {
-      const rows = M.listRows(YEARS[y], L), ctx = M.histCtx(rows);
+      const rows = M.listRows(YEARS[y], L), ctx = M.predCtx(rows);
       const rank = fn => M.rankYear(rows, fn).map(x => [x.r.name, round(x.score)]);
       const o = {
-        hist: rank(r => M.hist(r, FIT.fits[L].weights, ctx)),
+        pred: rank(r => M.predict(r, FIT.fits[L].weights, ctx)),
         fair: rank(r => M.fair(r)),
         mine: rank(r => M.mine(r)),
       };
       const t = SEL.temporal[y];
-      if (L === 'elig' && t) o.temporal = rank(r => M.hist(r, t.weights, ctx));
+      if (L === 'elig' && t) o.temporal = rank(r => M.predict(r, t.weights, ctx));
       out[y][L] = o;
     }
   }

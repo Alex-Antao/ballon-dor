@@ -1,8 +1,8 @@
-// Fase final de torneio de seleções: jogos, golos e fase atingida de um jogador.
+// Final tournament of a national-team competition: a player's games, goals and stage reached.
 const W = require('./wp.js');
 
 function tourTitle(ntT, y, win) {
-  // torneio cuja fase final decorreu na janela (P: época que termina em y)
+  // tournament whose finals took place in the window (P: season ending in y)
   const T = {
     WC: v => `${v} FIFA World Cup`, EURO: v => `UEFA Euro ${v}`, COPA: v => `${v} Copa América`,
     AFCON: v => `${v} Africa Cup of Nations`, ASIAN: v => `${v} AFC Asian Cup`, GOLD: v => `${v} CONCACAF Gold Cup`,
@@ -34,7 +34,7 @@ function pagesOf(main) {
   const esc = main.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const ok = new RegExp('^' + esc + ' (Group [A-L1-8]\\b|knockout (stage|phase)|final\\b|second round|final round|Group stage|round of (32|16))', 'i');
   while ((m = re.exec(t))) { const l = m[1].trim(); if (ok.test(l)) set.add(l.replace(/_/g, ' ')); }
-  // jogos com artigo próprio, transcluídos nas subpáginas ({{#lst:X|...}} / {{:X|...}})
+  // matches with an article of their own, transcluded in the sub-pages ({{#lst:X|...}} / {{:X|...}})
   for (const p of [...set]) {
     const tr = /\{\{(?::|#lst:|#section:)([^|}#]+)/gi; let k;
     const s = W.raw(p);
@@ -56,7 +56,7 @@ function ntStats(title, ntT, y, win) {
   const cands = tourTitle(ntT, y, win) || [];
   let main = null;
   for (const c of cands) { const r = W.rawT(c); if (r.text.length > 2000) { main = r.title; break; } }
-  if (!main) return { issue: 'torneio não encontrado ' + cands.join('/') };
+  if (!main) return { issue: 'tournament not found ' + cands.join('/') };
   const info = W.params((W.templates(W.raw(main), /^\s*Infobox (international )?football (competition|tournament)/i)[0] || { body: '' }).body);
   const code = s => (s || '').match(/\{\{\s*(?:fb|fbw|fb-rt|flagicon|flag)\s*\|\s*([A-Z]{3})/i)?.[1]?.toUpperCase() || W.strip(s);
   const champ = code(info.champion || info.champions || info.winner), second = code(info.second || info['runner-up'] || info['runners-up']);
@@ -71,7 +71,7 @@ function ntStats(title, ntT, y, win) {
       const key = m.date + '|' + [m.team1, m.team2].sort().join('-');
       if (seen.has(key)) return;
       const chunk = t.slice(m.end, i + 1 < ms.length ? ms[i + 1].start : t.length);
-      // linhas de onze: "|GK ||'''1''' ||[[Hugo Lloris]]"; cada onze começa no GR titular
+      // line-up rows: "|GK ||'''1''' ||[[Hugo Lloris]]"; each line-up starts with the starting goalkeeper
       const lines = chunk.split('\n');
       let side = 0, sawLineup = false, appeared = 0, subsSec = false;
       for (const l of lines) {
@@ -100,7 +100,7 @@ function ntStats(title, ntT, y, win) {
     });
   }
   res.team = Object.entries(tcount).sort((a, b) => b[1] - a[1])[0]?.[0] || null;
-  // fase da equipa: todos os jogos da equipa (e os do próprio jogador)
+  // the team's stage: all of the team's games (and the player's own)
   const stg = (pg, m) => /group/i.test(pg + ' ' + m.ctx) && !/second|final round/i.test(pg + ' ' + m.ctx) ? 0 : stageOf((/ final$/i.test(pg) ? 'final ' : '') + m.ctx + ' ' + (m.round || ''));
   let st = Math.max(0, ...res.matches.map(m => stg(m.pg, m)));
   const allTeam = [], hasLineup = new Set();

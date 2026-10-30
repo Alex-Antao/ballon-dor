@@ -31,9 +31,9 @@ test('year fields', () => {
   for (const [, y, Y] of all) {
     assert.equal(Y.window, y <= 2021 ? 'CY' : 'P', `${y} window`);
     for (const k of ['label', 'award']) assert.equal(typeof Y[k], 'string', `${y} ${k}`);
-    assert.ok(Array.isArray(Y.rows) && Y.rows.length >= (Y.real ? 10 : 5), `${y} rows`);
-    if (y === 2020) assert.equal(Y.real, null, '2020 was not awarded');
-    else assert.equal(typeof Y.real, 'string', `${y} winner`);
+    assert.ok(Array.isArray(Y.rows) && Y.rows.length >= (Y.winner ? 10 : 5), `${y} rows`);
+    if (y === 2020) assert.equal(Y.winner, null, '2020 was not awarded');
+    else assert.equal(typeof Y.winner, 'string', `${y} winner`);
   }
 });
 
@@ -74,15 +74,15 @@ test('candidates: official top 10 (ties included), unique names, winner ranked 1
   for (const [, y, Y] of all) {
     const names = Y.rows.map(r => r.name);
     assert.equal(new Set(names).size, names.length, `${y}: repeated player`);
-    if (!Y.real) continue;
+    if (!Y.winner) continue;
     // a few years also carry a strong candidate ranked below 10th (e.g. Kane 13th in 2025)
     const top10 = Y.rows.filter(r => r.rank != null && r.rank <= 10);
     assert.ok(top10.length >= 10, `${y}: ${top10.length} in the top 10`);
     assert.ok(Math.max(...top10.map(r => r.rank)) <= top10.length, `${y}: rank gaps`);
-    const w = Y.rows.find(r => r.name === Y.real);
-    assert.ok(w && w.rank === 1 && w.elig === 1, `${y}: winner ${Y.real}`);
+    const w = Y.rows.find(r => r.name === Y.winner);
+    assert.ok(w && w.rank === 1 && w.elig === 1, `${y}: winner ${Y.winner}`);
     assert.ok(Y.rows.filter(r => r.elig === 0).every(r => r.rank == null), `${y}: ineligible with a rank`);
-    if (Y.realAll) assert.ok(Y.rows.some(r => r.name === Y.realAll && r.elig === 0), `${y}: retroactive winner ${Y.realAll}`);
+    if (Y.winnerAll) assert.ok(Y.rows.some(r => r.name === Y.winnerAll && r.elig === 0), `${y}: retroactive winner ${Y.winnerAll}`);
   }
 });
 

@@ -1,12 +1,12 @@
 {
  "1986": {
-  "label": "Ano civil 1986 (+ Mundial 1986)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Igor Belanov",
-  "realAll": "Diego Maradona",
-  "realAllNote": "Em 2016 a France Football reavaliou os anos pré-1995 e indicou que Maradona teria ganho em 1986 (e 1990) se fosse elegível.",
+  "label": "Calendar year 1986 (+ World Cup 1986)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Igor Belanov",
+  "winnerAll": "Diego Maradona",
+  "winnerAllNote": "In 2016 France Football re-assessed the pre-1995 years and said Maradona would have won in 1986 (and 1990) had he been eligible.",
   "window": "CY",
-  "notes": "Votação: 26 jornalistas europeus, 5-4-3-2-1 (France Football, 30/12/1986). Taças europeias: 2.ª metade de 1985/86 (finais em maio) + rondas de outono de 1986/87; clubes ingleses banidos. Top 10 e pontos verificados (RSSSF/topendsports). Estatísticas de clube de memória (pesquisa web esgotada); divisão do ano civil estimada.",
+  "notes": "Vote: 26 European journalists, 5-4-3-2-1 (France Football, 30/12/1986). European cups: second half of 1985/86 (finals in May) + autumn rounds of 1986/87; English clubs banned. Top 10 and points verified (RSSSF/topendsports). Club statistics from memory (web search exhausted); calendar-year split estimated.",
   "rows": [
    {
     "name": "Igor Belanov",
@@ -42,7 +42,7 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "84 pts. Liga 1986 verificada: 22 jogos/10 golos (ru.wikipedia, teams.by). Europa (Taça das Taças 85/86 QF–final + Taça dos Campeões 86/87 R1–R2, 9 jogos) estimada; 5 golos na Taça das Taças 85/86 inteira (alguns em 1985). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup Winners' Cup: Final). Alterado: gp 31→30, g 15→14, uG 5→4."
+    "note": "84 pts. League 1986 verified: 22 games/10 goals (ru.wikipedia, teams.by). Europe (Cup Winners' Cup 85/86 QF–final + European Cup 86/87 R1–R2, 9 games) estimated; 5 goals in the whole 85/86 Cup Winners' Cup (some in 1985). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup Winners' Cup: Final). Changed: gp 31→30, g 15→14, uG 5→4."
    },
    {
     "name": "Gary Lineker",
@@ -78,7 +78,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "62 pts. Everton jan–mai (época 85/86: 30 golos na liga) + Barcelona set–dez (Liga + Taça UEFA 86/87 R1–R3). Sem edição europeia a terminar em 1986 (ban inglês): uS 0. Mundial: Bota de Ouro, 6 golos. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1986–87 UEFA Cup). Alterado: gp 42→41, g 26→30, uG 2→0, ntS 2→1."
+    "note": "62 pts. Everton Jan–May (85/86 season: 30 league goals) + Barcelona Sep–Dec (Liga + UEFA Cup 86/87 R1–R3). No European edition ending in 1986 (English ban): uS 0. World Cup: Golden Boot, 6 goals. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1986–87 UEFA Cup). Changed: gp 42→41, g 26→30, uG 2→0, ntS 2→1."
    },
    {
     "name": "Emilio Butragueño",
@@ -114,7 +114,7 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "59 pts. Campeão da Liga e da Taça UEFA 1985/86. Mundial: 5 golos (4 à Dinamarca). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup: Final). Alterado: gp 44→40, g 15→13."
+    "note": "59 pts. League and UEFA Cup champion 1985/86. World Cup: 5 goals (4 against Denmark). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup: Final). Changed: gp 44→40, g 15→13."
    },
    {
     "name": "Manuel Amoros",
@@ -146,7 +146,7 @@
      "https://en.wikipedia.org/wiki/Manuel_Amoros",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "22 pts (4.º ex aequo). França 3.ª no Mundial (meias). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "22 pts (tied 4th). France 3rd at the World Cup (semi-finals). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Preben Elkjær",
@@ -178,7 +178,7 @@
      "https://en.wikipedia.org/wiki/Preben_Elkj%C3%A6r",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "22 pts (4.º ex aequo). Mundial: 4 golos (hat-trick ao Uruguai). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "22 pts (tied 4th). World Cup: 4 goals (hat-trick against Uruguay). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Ian Rush",
@@ -212,7 +212,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Liverpool_F.C._season",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Football_League"
     ],
-    "note": "20 pts (6.º ex aequo). Campeão inglês 1985/86 (dobradinha). Sem Europa (ban) nem Mundial (País de Gales). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 41→39."
+    "note": "20 pts (tied 6th). English champion 1985/86 (double). No Europe (ban) and no World Cup (Wales). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 41→39."
    },
    {
     "name": "Alexander Zavarov",
@@ -246,7 +246,7 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "20 pts (6.º ex aequo). Marcou na final da Taça das Taças 1986. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup Winners' Cup: Final). Alterado: gp 34→27, g 9→6, ntGP 3→4."
+    "note": "20 pts (tied 6th). Scored in the 1986 Cup Winners' Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup Winners' Cup: Final). Changed: gp 34→27, g 9→6, ntGP 3→4."
    },
    {
     "name": "Helmuth Duckadam",
@@ -277,7 +277,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1986.htm",
      "https://en.wikipedia.org/wiki/Helmut_Duckadam"
     ],
-    "note": "10 pts (8.º ex aequo). Defendeu 4 penáltis na final da Taça dos Campeões 1986; não voltou a jogar em 1986 (aneurisma). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "10 pts (tied 8th). Saved 4 penalties in the 1986 European Cup final; did not play again in 1986 (aneurysm). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Marco van Basten",
@@ -311,7 +311,7 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Eredivisie",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
-    "note": "10 pts (8.º ex aequo). Bota de Ouro 1985/86 (37 golos). Taça das Taças 86/87 só R1–R2 na janela (edição termina em 1987): uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1985–86 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1985–86 European Cup: First round). Alterado: gp 34→33, g 38→40, uT CWC→UCL."
+    "note": "10 pts (tied 8th). Golden Boot 1985/86 (37 goals). Cup Winners' Cup 86/87 only R1–R2 in the window (the edition ends in 1987): uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1985–86 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1985–86 European Cup: First round). Changed: gp 34→33, g 38→40, uT CWC→UCL."
    },
    {
     "name": "Alessandro Altobelli",
@@ -347,7 +347,7 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "9 pts. Inter meia-finalista da Taça UEFA 1985/86. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup: Semi-finals). Alterado: g 16→14, uG 4→3."
+    "note": "9 pts. Inter UEFA Cup semi-finalists 1985/86. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup: Semi-finals). Changed: g 16→14, uG 4→3."
    },
    {
     "name": "Diego Maradona",
@@ -384,7 +384,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "Inelegível (argentino). Vencedor retroativo FF 2016. Mundial 1986: 5 golos, 5 assistências, campeão. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1986–87 UEFA Cup). Alterado: gp 30→29."
+    "note": "Ineligible (Argentine). FF retroactive winner 2016. 1986 World Cup: 5 goals, 5 assists, champion. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1986–87 UEFA Cup). Changed: gp 30→29."
    },
    {
     "name": "Hugo Sánchez",
@@ -420,18 +420,18 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
     ],
-    "note": "Inelegível (mexicano). Pichichi 1985/86 (22). México nos quartos do Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1985–86 UEFA Cup: Final). Alterado: gp 42→43, g 31→32, ntGP 5→4."
+    "note": "Ineligible (Mexican). Pichichi 1985/86 (22). Mexico in the World Cup quarter-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup: Final). Changed: gp 42→43, g 31→32, ntGP 5→4."
    }
   ]
  },
  "1987": {
-  "label": "Ano civil 1987 (+ Copa América 1987)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Ruud Gullit",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1987 (+ Copa América 1987)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Ruud Gullit",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Sem Mundial/Euro; Copa América 1987 só conta para sul-americanos. Taças europeias: 2.ª metade de 1986/87 + outono de 1987/88. Top 10 e pontos verificados (RSSSF/topendsports; fandom tem ranking revisto com Maradona 1.º, não oficial). Estatísticas de clube de memória (pesquisa web esgotada); divisão do ano civil estimada.",
+  "notes": "No World Cup/Euro; the 1987 Copa América only counts for South Americans. European cups: second half of 1986/87 + autumn of 1987/88. Top 10 and points verified (RSSSF/topendsports; fandom has a revised, unofficial ranking with Maradona 1st). Club statistics from memory (web search exhausted); calendar-year split estimated.",
   "rows": [
    {
     "name": "Ruud Gullit",
@@ -465,7 +465,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Eredivisie",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "106 pts. Campeão neerlandês 1986/87 com o PSV; Milan desde ago. PSV eliminado da Taça dos Campeões em 1986; Milan na Taça UEFA 87/88 (R1–R2): uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 PSV: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: First round). Alterado: gp 31→33, g 16→14, uT UEL→UCL."
+    "note": "106 pts. Dutch champion 1986/87 with PSV; Milan from Aug. PSV knocked out of the European Cup in 1986; Milan in the 87/88 UEFA Cup (R1–R2): uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 PSV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: First round). Changed: gp 31→33, g 16→14, uT UEL→UCL."
    },
    {
     "name": "Paulo Futre",
@@ -500,7 +500,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Primeira_Divis%C3%A3o",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "91 pts. Campeão europeu com o Porto (final 27/05/1987). lg/clube: incerto se o Atlético teve jogos europeus no outono 1987 (assumido que não). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Final). Alterado: gp 33→34, g 11→12, uG 1→2."
+    "note": "91 pts. European champion with Porto (final 27/05/1987). lg/club: unclear whether Atlético played European games in autumn 1987 (assumed not). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Final). Changed: gp 33→34, g 11→12, uG 1→2."
    },
    {
     "name": "Emilio Butragueño",
@@ -535,7 +535,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "61 pts. Campeão espanhol 1986/87; meias da Taça dos Campeões. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Semi-finals). Alterado: gp 49→39, g 15→16, uG 2→4."
+    "note": "61 pts. Spanish champion 1986/87; European Cup semi-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Semi-finals). Changed: gp 49→39, g 15→16, uG 2→4."
    },
    {
     "name": "Míchel",
@@ -570,7 +570,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "29 pts. Médio-direito/ala. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Semi-finals). Alterado: gp 47→44, g 9→12, uG 1→3."
+    "note": "29 pts. Right midfielder/winger. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Semi-finals). Changed: gp 47→44, g 9→12, uG 1→3."
    },
    {
     "name": "Gary Lineker",
@@ -605,7 +605,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup"
     ],
-    "note": "13 pts. Taça UEFA 86/87 quartos (Dundee United). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1986–87 UEFA Cup: Quarter-finals). Alterado: gp 48→49, g 19→20, uG 2→0."
+    "note": "13 pts. UEFA Cup 86/87 quarter-finals (Dundee United). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1986–87 UEFA Cup: Quarter-finals). Changed: gp 48→49, g 19→20, uG 2→0."
    },
    {
     "name": "John Barnes",
@@ -639,7 +639,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Liverpool_F.C._season",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Football_League"
     ],
-    "note": "10 pts (6.º ex aequo). Sem Europa (ban). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1986–87 Watford: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 38→39, g 14→12."
+    "note": "10 pts (tied 6th). No Europe (ban). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 Watford: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 38→39, g 14→12."
    },
    {
     "name": "Marco van Basten",
@@ -674,7 +674,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Eredivisie",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "10 pts (6.º ex aequo). Golo na final da Taça das Taças 1987; lesionado quase todo o outono no Milan. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 UEFA Cup Winners' Cup: Final). Alterado: gp 23→24, g 19→17."
+    "note": "10 pts (tied 6th). Goal in the 1987 Cup Winners' Cup final; injured for almost all of the autumn at Milan. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 UEFA Cup Winners' Cup: Final). Changed: gp 23→24, g 19→17."
    },
    {
     "name": "Gianluca Vialli",
@@ -708,7 +708,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_UC_Sampdoria_season",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Serie_A"
     ],
-    "note": "9 pts. Sampdoria sem Europa na janela (a confirmar). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 28→27, g 12→9."
+    "note": "9 pts. Sampdoria without Europe in the window (to confirm). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 28→27, g 12→9."
    },
    {
     "name": "Bryan Robson",
@@ -742,7 +742,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Football_League"
     ],
-    "note": "7 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 36→33, g 9→11."
+    "note": "7 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 36→33, g 9→11."
    },
    {
     "name": "Klaus Allofs",
@@ -773,7 +773,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
      "https://en.wikipedia.org/wiki/Klaus_Allofs"
     ],
-    "note": "6 pts (10.º ex aequo). Taça das Taças 87/88 com o Marseille (só outono na janela). 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "6 pts (tied 10th). Cup Winners' Cup 87/88 with Marseille (only the autumn in the window). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Glenn Hysén",
@@ -804,7 +804,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1987.htm",
      "https://en.wikipedia.org/wiki/Glenn_Hys%C3%A9n"
     ],
-    "note": "6 pts (10.º ex aequo). Vencedor da Taça UEFA 1987 com o Göteborg; Fiorentina desde o verão. title=1 assumido (Göteborg campeão sueco 1987; ~metade dos jogos), a confirmar. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "6 pts (tied 10th). Winner of the 1987 UEFA Cup with Göteborg; Fiorentina from the summer. title=1 assumed (Göteborg Swedish champions 1987; ~half of the games), to confirm. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Diego Maradona",
@@ -839,7 +839,7 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Serie_A",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup"
     ],
-    "note": "Inelegível. Dobradinha Napoli 1986/87. Copa América 1987: 4.º lugar (meias), 3 golos. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 UEFA Cup: First round); por verificar: seleção. Alterado: g 13→10, uT UCL→UEL."
+    "note": "Ineligible. Napoli double 1986/87. Copa América 1987: 4th place (semi-finals), 3 goals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 UEFA Cup: First round); to verify: national team. Changed: g 13→10, uT UCL→UEL."
    },
    {
     "name": "Hugo Sánchez",
@@ -874,18 +874,18 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
-    "note": "Inelegível. Pichichi 1986/87 (34). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1986–87 European Cup: Semi-finals). Alterado: gp 49→44, g 35→33."
+    "note": "Ineligible. Pichichi 1986/87 (34). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Semi-finals). Changed: gp 49→44, g 35→33."
    }
   ]
  },
  "1988": {
-  "label": "Ano civil 1988 (+ Euro 1988)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Marco van Basten",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1988 (+ Euro 1988)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Marco van Basten",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Euro 1988 (RFA). Votação: 27 jornalistas. Taças europeias: 2.ª metade de 1987/88 + outono de 1988/89. Top 10 e pontos verificados (RSSSF/topendsports); 8.º–10.º empatados com 5 pts. Estatísticas de clube de memória (pesquisa web esgotada); divisão do ano civil estimada.",
+  "notes": "Euro 1988 (West Germany). Vote: 27 journalists. European cups: second half of 1987/88 + autumn of 1988/89. Top 10 and points verified (RSSSF/topendsports); 8th–10th tied on 5 pts. Club statistics from memory (web search exhausted); calendar-year split estimated.",
   "rows": [
    {
     "name": "Marco van Basten",
@@ -921,7 +921,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "129 pts. Euro: 5 golos, campeão. Serie A 87/88: só 11 jogos (lesão) mas ≥1/3 → title 1. Milan sem Europa em 87/88 após nov 1987; Taça dos Campeões 88/89 só outono: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 UEFA Cup: Second round). Alterado: gp 24→22, g 15→11, uT UCL→UEL."
+    "note": "129 pts. Euro: 5 goals, champion. Serie A 87/88: only 11 games (injury) but ≥1/3 → title 1. Milan without Europe in 87/88 after Nov 1987; European Cup 88/89 autumn only: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 UEFA Cup: Second round). Changed: gp 24→22, g 15→11, uT UCL→UEL."
    },
    {
     "name": "Ruud Gullit",
@@ -957,7 +957,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "88 pts. Campeão italiano e europeu (seleção). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 UEFA Cup: Second round). Alterado: gp 31→28, g 11→9, uT UCL→UEL."
+    "note": "88 pts. Italian and European (national-team) champion. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 UEFA Cup: Second round). Changed: gp 31→28, g 11→9, uT UCL→UEL."
    },
    {
     "name": "Frank Rijkaard",
@@ -994,7 +994,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "45 pts. Emprestado ao Zaragoza (jan–jun), Milan desde ago. No Euro jogou como central. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1987–88 Ajax, 1987–88 Sporting CP, 1987–88 Zaragoza: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1988–89 European Cup). Alterado: gp 27→25, g 1→3, uG 0→1."
+    "note": "45 pts. On loan to Zaragoza (Jan–Jun), Milan from Aug. Played as a centre-back at the Euro. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1987–88 Ajax, 1987–88 Sporting CP, 1987–88 Zaragoza: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1988–89 European Cup). Changed: gp 27→25, g 1→3, uG 0→1."
    },
    {
     "name": "Oleksiy Mykhaylychenko",
@@ -1026,7 +1026,7 @@
      "https://en.wikipedia.org/wiki/Oleksiy_Mykhaylychenko",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "41 pts. Finalista do Euro; ouro olímpico (não conta). Europa no outono 1988 incerta. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "41 pts. Euro finalist; Olympic gold (does not count). Europe in autumn 1988 uncertain. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Ronald Koeman",
@@ -1061,7 +1061,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "39 pts. Tripleto PSV 1987/88 (liga, taça, Taça dos Campeões) + Euro. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: Final). Alterado: gp 41→40, g 21→22, uG 3→1."
+    "note": "39 pts. PSV treble 1987/88 (league, cup, European Cup) + Euro. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: Final). Changed: gp 41→40, g 21→22, uG 3→1."
    },
    {
     "name": "Lothar Matthäus",
@@ -1097,7 +1097,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "10 pts. Bayern quartos da Taça dos Campeões 87/88; Inter desde ago (Taça UEFA 88/89 R1–R3). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: Quarter-finals). Alterado: gp 37→28, g 12→14, uG 2→0."
+    "note": "10 pts. Bayern in the 87/88 European Cup quarter-finals; Inter from Aug (UEFA Cup 88/89 R1–R3). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: Quarter-finals). Changed: gp 37→28, g 12→14, uG 2→0."
    },
    {
     "name": "Gianluca Vialli",
@@ -1133,7 +1133,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "7 pts. Taça das Taças 88/89 só outono na janela. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1988–89 UEFA Cup Winners' Cup). Alterado: gp 32→31, g 16→15."
+    "note": "7 pts. Cup Winners' Cup 88/89 only the autumn in the window. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1988–89 UEFA Cup Winners' Cup). Changed: gp 32→31, g 16→15."
    },
    {
     "name": "Franco Baresi",
@@ -1169,7 +1169,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "5 pts (8.º ex aequo). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1987–88 UEFA Cup: Second round). Alterado: g 0→1, uT UCL→UEL."
+    "note": "5 pts (tied 8th). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 UEFA Cup: Second round). Changed: g 0→1, uT UCL→UEL."
    },
    {
     "name": "Jürgen Klinsmann",
@@ -1203,7 +1203,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "5 pts (8.º ex aequo). Melhor marcador da Bundesliga 87/88 (19). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1988–89 UEFA Cup). Alterado: gp 40→34, uG 3→0."
+    "note": "5 pts (tied 8th). Top scorer of the 87/88 Bundesliga (19). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1988–89 UEFA Cup). Changed: gp 40→34, uG 3→0."
    },
    {
     "name": "Alexander Zavarov",
@@ -1237,7 +1237,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988"
     ],
-    "note": "5 pts (8.º ex aequo). Juventus desde o verão. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; prova/fase continental pela página da edição (1987–88 European Cup: First round); por verificar: título. Alterado: gp 31→29, uG 1→0, uT UEL→UCL."
+    "note": "5 pts (tied 8th). Juventus from the summer. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1987–88 European Cup: First round); to verify: title. Changed: gp 31→29, uG 1→0, uT UEL→UCL."
    },
    {
     "name": "Diego Maradona",
@@ -1272,7 +1272,7 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
-    "note": "Inelegível. Capocannoniere 1987/88 (15). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Napoli: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: First round). Alterado: gp 35→36, g 14→16, uT UEL→UCL."
+    "note": "Ineligible. Capocannoniere 1987/88 (15). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Napoli: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: First round). Changed: gp 35→36, g 14→16, uT UEL→UCL."
    },
    {
     "name": "Hugo Sánchez",
@@ -1307,18 +1307,18 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_La_Liga",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
-    "note": "Inelegível. Pichichi 1987/88 (29). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Real Madrid: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1987–88 European Cup: Semi-finals). Alterado: gp 44→46, g 33→34, uG 4→5."
+    "note": "Ineligible. Pichichi 1987/88 (29). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: Semi-finals). Changed: gp 44→46, g 33→34, uG 4→5."
    }
   ]
  },
  "1989": {
-  "label": "Ano civil 1989 (+ Copa América 1989)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Marco van Basten",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1989 (+ Copa América 1989)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Marco van Basten",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Sem Mundial/Euro; Copa América 1989 (Brasil) só conta para sul-americanos. Votação: 27 jornalistas (France Football n.º 2281, 26/12/1989). Top 10 e pontos verificados (RSSSF/topendsports). Estatísticas de clube de memória (pesquisa web esgotada); divisão do ano civil estimada.",
+  "notes": "No World Cup/Euro; the 1989 Copa América (Brazil) only counts for South Americans. Vote: 27 journalists (France Football no. 2281, 26/12/1989). Top 10 and points verified (RSSSF/topendsports). Club statistics from memory (web search exhausted); calendar-year split estimated.",
   "rows": [
    {
     "name": "Marco van Basten",
@@ -1353,7 +1353,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "119 pts. Campeão europeu (2 golos na final). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 40→43, uG 7→6."
+    "note": "119 pts. European champion (2 goals in the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 40→43, uG 7→6."
    },
    {
     "name": "Franco Baresi",
@@ -1388,7 +1388,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "80 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 41→44, g 1→2."
+    "note": "80 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 41→44, g 1→2."
    },
    {
     "name": "Frank Rijkaard",
@@ -1423,7 +1423,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "43 pts. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 40→43, g 3→7, uG 1→2."
+    "note": "43 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 40→43, g 3→7, uG 1→2."
    },
    {
     "name": "Lothar Matthäus",
@@ -1458,7 +1458,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "24 pts. Campeão italiano 1988/89. Inter eliminada da Taça dos Campeões 89/90 na 1.ª ronda: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Third round). Alterado: gp 33→36, g 10→11, uT UCL→UEL, uS 0→1."
+    "note": "24 pts. Italian champion 1988/89. Inter knocked out of the 89/90 European Cup in the 1st round: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Third round). Changed: gp 33→36, g 10→11, uT UCL→UEL, uS 0→1."
    },
    {
     "name": "Peter Shilton",
@@ -1491,7 +1491,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Derby_County_F.C._season",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Football_League"
     ],
-    "note": "22 pts. Sem Europa (ban). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Derby County: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 38→37."
+    "note": "22 pts. No Europe (ban). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Derby County: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 38→37."
    },
    {
     "name": "Dragan Stojković",
@@ -1522,7 +1522,7 @@
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1989.htm",
      "https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87"
     ],
-    "note": "19 pts. Taça UEFA 89/90 só até R3 na janela. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "19 pts. UEFA Cup 89/90 only up to R3 in the window. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Ruud Gullit",
@@ -1557,7 +1557,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "16 pts. 2 golos na final da Taça dos Campeões; lesionado (joelho) quase todo o 2.º semestre. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: gp 15→18."
+    "note": "16 pts. 2 goals in the European Cup final; injured (knee) for almost all of the second half of the year. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 15→18."
    },
    {
     "name": "Gheorghe Hagi",
@@ -1590,7 +1590,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Divizia_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
-    "note": "11 pts (8.º ex aequo). Finalista da Taça dos Campeões 1989; campeão romeno 1988/89. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1988–89 European Cup: Final). Alterado: g 26→37, uG 4→6."
+    "note": "11 pts (tied 8th). 1989 European Cup finalist; Romanian champion 1988/89. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: g 26→37, uG 4→6."
    },
    {
     "name": "Jürgen Klinsmann",
@@ -1624,7 +1624,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Bundesliga",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "11 pts (8.º ex aequo). Finalista da Taça UEFA 1989 com o Stuttgart; Inter desde ago. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 VfB Stuttgart: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Final). Alterado: gp 36→34, g 16→17, uG 3→2."
+    "note": "11 pts (tied 8th). 1989 UEFA Cup finalist with Stuttgart; Inter from Aug. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 VfB Stuttgart: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Final). Changed: gp 36→34, g 16→17, uG 3→2."
    },
    {
     "name": "Michel Preud'homme",
@@ -1656,7 +1656,7 @@
      "https://en.wikipedia.org/wiki/Michel_Preud'homme",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "10 pts (10.º ex aequo). Campeão belga 1988/89; meias da Taça das Taças 88/89. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); prova/fase continental pela página da edição (1988–89 UEFA Cup Winners' Cup: Semi-finals); por verificar: título. Alterado: gp 41→42."
+    "note": "10 pts (tied 10th). Belgian champion 1988/89; 88/89 Cup Winners' Cup semi-finals. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1988–89 UEFA Cup Winners' Cup: Semi-finals); to verify: title. Changed: gp 41→42."
    },
    {
     "name": "Jean-Pierre Papin",
@@ -1690,7 +1690,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_French_Division_1",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
-    "note": "10 pts (10.º ex aequo). Campeão francês e melhor marcador 1988/89; Taça dos Campeões 89/90 só outono: uS 0. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental verificada: só outono (1989–90 European Cup). Alterado: gp 41→35, g 31→22, uG 3→0."
+    "note": "10 pts (tied 10th). French champion and top scorer 1988/89; European Cup 89/90 autumn only: uS 0. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1989–90 European Cup). Changed: gp 41→35, g 31→22, uG 3→0."
    },
    {
     "name": "Diego Maradona",
@@ -1725,7 +1725,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "Inelegível. Vencedor da Taça UEFA 1989. Copa América 1989: Argentina 3.ª na fase final. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1988–89 Napoli: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Final); por verificar: seleção. Alterado: gp 34→37, g 15→13, uG 4→2."
+    "note": "Ineligible. Winner of the 1989 UEFA Cup. Copa América 1989: Argentina 3rd in the final round. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Napoli: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Final); to verify: national team. Changed: gp 34→37, g 15→13, uG 4→2."
    },
    {
     "name": "Careca",
@@ -1760,7 +1760,7 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
-    "note": "Inelegível (brasileiro). Golos na final da Taça UEFA 1989. Ausência na Copa América 1989 assumida. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1989–90 Napoli: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1988–89 UEFA Cup: Final). Alterado: gp 38→40, g 18→23, uG 4→6."
+    "note": "Ineligible (Brazilian). Goals in the 1989 UEFA Cup final. Absence from the 1989 Copa América assumed. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1989–90 Napoli: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Final). Changed: gp 38→40, g 18→23, uG 4→6."
    },
    {
     "name": "Romário",
@@ -1792,18 +1792,18 @@
      "https://en.wikipedia.org/wiki/Rom%C3%A1rio",
      "https://en.wikipedia.org/wiki/1989_Copa_Am%C3%A9rica"
     ],
-    "note": "Inelegível (brasileiro). Campeão neerlandês 88/89; campeão da Copa América 1989 (golo decisivo ao Uruguai). Golos na Copa incertos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia. Alterado: ntG 1→3."
+    "note": "Ineligible (Brazilian). Dutch champion 88/89; 1989 Copa América champion (decisive goal against Uruguay). Copa goals uncertain. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Changed: ntG 1→3."
    }
   ]
  },
  "1990": {
-  "label": "Ano civil 1990 (+ Mundial 1990)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Lothar Matthäus",
-  "realAll": "Diego Maradona",
-  "realAllNote": "Em 2016 a France Football reavaliou os anos pré-1995 e indicou que Maradona teria ganho em 1990 (e 1986) se fosse elegível.",
+  "label": "Calendar year 1990 (+ World Cup 1990)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Lothar Matthäus",
+  "winnerAll": "Diego Maradona",
+  "winnerAllNote": "In 2016 France Football re-assessed the pre-1995 years and said Maradona would have won in 1990 (and 1986) had he been eligible.",
   "window": "CY",
-  "notes": "Mundial 1990 (Itália). Taças europeias: 2.ª metade de 1989/90 + outono de 1990/91. Top 10 e pontos verificados (RSSSF/topendsports); Scifo e Klinsmann empatados em 6.º com 12 pts. Estatísticas de clube de memória (pesquisa web esgotada); divisão do ano civil estimada.",
+  "notes": "1990 World Cup (Italy). European cups: second half of 1989/90 + autumn of 1990/91. Top 10 and points verified (RSSSF/topendsports); Scifo and Klinsmann tied 6th with 12 pts. Club statistics from memory (web search exhausted); calendar-year split estimated.",
   "rows": [
    {
     "name": "Lothar Matthäus",
@@ -1839,7 +1839,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "137 pts. Campeão do mundo (capitão). Inter fora da Taça dos Campeões 89/90 em 1989; Taça UEFA 90/91 só outono: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: First round). Alterado: gp 38→34, g 15→18, uG 2→3, uT UEL→UCL."
+    "note": "137 pts. World champion (captain). Inter out of the 89/90 European Cup in 1989; UEFA Cup 90/91 autumn only: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: First round). Changed: gp 38→34, g 15→18, uG 2→3, uT UEL→UCL."
    },
    {
     "name": "Salvatore Schillaci",
@@ -1875,7 +1875,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "84 pts. Vencedor da Taça UEFA 1990; Bota de Ouro e Bola de Ouro do Mundial 1990. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Final). Alterado: g 16→10, uG 4→3."
+    "note": "84 pts. Winner of the 1990 UEFA Cup; Golden Boot and Golden Ball at the 1990 World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Final). Changed: g 16→10, uG 4→3."
    },
    {
     "name": "Andreas Brehme",
@@ -1911,7 +1911,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "68 pts. Penálti decisivo na final do Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: First round). Alterado: gp 36→30, g 3→1, ntGP 7→6, uT UEL→UCL."
+    "note": "68 pts. Decisive penalty in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: First round). Changed: gp 36→30, g 3→1, ntGP 7→6, uT UEL→UCL."
    },
    {
     "name": "Paul Gascoigne",
@@ -1946,7 +1946,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "43 pts. Sem Europa (ban levantado só para o Man United em 1990/91). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: sem prova europeia nas edições consultadas. Alterado: gp 34→30, g 11→8."
+    "note": "43 pts. No Europe (ban lifted only for Man United in 1990/91). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 34→30, g 11→8."
    },
    {
     "name": "Franco Baresi",
@@ -1982,7 +1982,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "37 pts. Campeão europeu 1990. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: Final). Alterado: gp 36→38, g 0→1."
+    "note": "37 pts. European champion 1990. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 AC Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: Final). Changed: gp 36→38, g 0→1."
    },
    {
     "name": "Enzo Scifo",
@@ -2017,7 +2017,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "12 pts (6.º ex aequo). Auxerre nos quartos da Taça UEFA 89/90. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Quarter-finals). Alterado: gp 36→44, g 10→16, uG 0→5."
+    "note": "12 pts (tied 6th). Auxerre in the 89/90 UEFA Cup quarter-finals. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Quarter-finals). Changed: gp 36→44, g 10→16, uG 0→5."
    },
    {
     "name": "Jürgen Klinsmann",
@@ -2053,7 +2053,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "12 pts (6.º ex aequo). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: First round). Alterado: gp 36→35, g 15→13, uT UEL→UCL."
+    "note": "12 pts (tied 6th). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: First round). Changed: gp 36→35, g 15→13, uT UEL→UCL."
    },
    {
     "name": "Roberto Baggio",
@@ -2089,7 +2089,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "8 pts. Finalista da Taça UEFA 1990 com a Fiorentina; Juventus desde o verão (Taça das Taças 90/91 no outono). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Juventus: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Final). Alterado: gp 38→43, g 19→21, uG 3→5."
+    "note": "8 pts. 1990 UEFA Cup finalist with Fiorentina; Juventus from the summer (Cup Winners' Cup 90/91 in the autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Final). Changed: gp 38→43, g 19→21, uG 3→5."
    },
    {
     "name": "Frank Rijkaard",
@@ -2125,7 +2125,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "7 pts. Golo na final da Taça dos Campeões 1990. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: Final). Alterado: gp 36→34, g 3→2."
+    "note": "7 pts. Goal in the 1990 European Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: Final). Changed: gp 36→34, g 3→2."
    },
    {
     "name": "Guido Buchwald",
@@ -2159,7 +2159,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "6 pts. Campeão do mundo. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Third round). Alterado: g 3→6, uG 0→1, uT →UEL, uS 0→1."
+    "note": "6 pts. World champion. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Third round). Changed: g 3→6, uG 0→1, uT →UEL, uS 0→1."
    },
    {
     "name": "Diego Maradona",
@@ -2196,7 +2196,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
     ],
-    "note": "Inelegível. Vencedor retroativo FF 2016. Campeão italiano 1989/90; finalista do Mundial. Taça dos Campeões 90/91 só outono: uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1989–90 UEFA Cup: Third round). Alterado: gp 33→26, uT UCL→UEL, uS 0→1."
+    "note": "Ineligible. FF retroactive winner 2016. Italian champion 1989/90; World Cup finalist. European Cup 90/91 autumn only: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Third round). Changed: gp 33→26, uT UCL→UEL, uS 0→1."
    },
    {
     "name": "Hugo Sánchez",
@@ -2231,7 +2231,7 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_La_Liga",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
-    "note": "Inelegível. Pichichi 1989/90 (38 golos, igualou o recorde). México ausente do Mundial 1990 (suspenso). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1989–90 European Cup: Second round). Alterado: gp 33→38, g 29→39, uG 3→1, uS 0→1."
+    "note": "Ineligible. Pichichi 1989/90 (38 goals, equalled the record). Mexico absent from the 1990 World Cup (suspended). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1989–90 European Cup: Second round). Changed: gp 33→38, g 29→39, uG 3→1, uS 0→1."
    }
   ]
  }

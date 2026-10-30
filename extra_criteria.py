@@ -1,32 +1,32 @@
-# Critérios extra para o modelo Previsão, calculados a partir de feats.json (campo x de cada linha).
-# Só usam informação conhecida antes da votação do ano: resultados oficiais dos anos anteriores e números do próprio ano.
+# Extra criteria for the Prediction model, computed from feats.json (the x field of each row).
+# They only use information known before that year's vote: official results of earlier years and the year's own numbers.
 import numpy as np
 
 EXTRA = [
-    ('bdoWins',     'Bolas de Ouro ganhas antes'),
-    ('prevWinner',  'Ganhou a Bola de Ouro anterior'),
-    ('podium3',     'Pódios nos 3 anos anteriores'),
-    ('topScorer',   'Melhor marcador entre os candidatos'),
-    ('uTopScorer',  'Melhor marcador europeu entre os candidatos'),
-    ('ntTopScorer', 'Melhor marcador do torneio de seleções entre os candidatos'),
-    ('ntWinMid',    'Campeão de seleções sem ser atacante'),
-    ('wcFinalMid',  'Finalista do Mundial sem ser atacante'),
-    ('uWinMid',     'Campeão europeu (UCL) sem ser atacante'),
-    ('double',      'Campeão europeu (UCL) e de seleções no mesmo ano'),
-    ('leagueUcl',   'Campeão nacional e europeu (UCL) no mesmo ano'),
+    ('bdoWins',     "Ballon d'Or wins before"),
+    ('prevWinner',  "Won the previous Ballon d'Or"),
+    ('podium3',     'Podiums in the previous 3 years'),
+    ('topScorer',   'Top scorer among the candidates'),
+    ('uTopScorer',  'Top European scorer among the candidates'),
+    ('ntTopScorer', 'Top national-team tournament scorer among the candidates'),
+    ('ntWinMid',    'National-team champion who is not an attacker'),
+    ('wcFinalMid',  'World Cup finalist who is not an attacker'),
+    ('uWinMid',     'European champion (UCL) who is not an attacker'),
+    ('double',      'European (UCL) and national-team champion in the same year'),
+    ('leagueUcl',   'League and European (UCL) champion in the same year'),
 ]
 ATT = {'FW', 'W', 'AM'}
 NTW = {'WC': 1, 'EURO': 1, 'COPA': 0.8, 'AFCON': 0.5, 'ASIAN': 0.4, 'GOLD': 0.4}
 
 def history(D, L):
-    """{nome: [(ano, rank, venceu)]} a partir das votações oficiais."""
+    """{name: [(year, rank, won)]} from the official votes."""
     h = {}
     for y in sorted(D, key=int):
         b = D[y][L]
         for r in b['rows']:
             rk = r['x']['rank']
-            if rk or r['n'] == b['real']:
-                h.setdefault(r['n'], []).append((int(y), rk, r['n'] == b['real']))
+            if rk or r['n'] == b['winner']:
+                h.setdefault(r['n'], []).append((int(y), rk, r['n'] == b['winner']))
     return h
 
 def extra_matrix(D, L, y, H):

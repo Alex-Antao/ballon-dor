@@ -1,5 +1,5 @@
-// Junta data-src/*.json + eras.js em data.js (dados sem fontes) e sources.json (fontes por ano/jogador).
-// Uso: node gen-data.js   (falha se houver erros de validação; avisos não bloqueiam)
+// Merges data-src/*.json + eras.js into data.js (data without sources) and sources.json (sources per year/player).
+// Usage: node gen-data.js   (fails on validation errors; warnings do not block)
 const fs = require('fs');
 const path = require('path');
 
@@ -21,66 +21,66 @@ for (const f of files) {
   const blk = JSON.parse(fs.readFileSync(path.join(SRC, f), 'utf8'));
   for (const [y, Y] of Object.entries(blk)) {
     const at = `${f} ${y}`;
-    if (YEARS[y]) errors.push(`${at}: ano repetido`);
-    if (!['CY', 'P'].includes(Y.window)) errors.push(`${at}: window inválida ${Y.window}`);
+    if (YEARS[y]) errors.push(`${at}: repeated year`);
+    if (!['CY', 'P'].includes(Y.window)) errors.push(`${at}: invalid window ${Y.window}`);
     const rows = [], seen = new Set();
     SOURCES[y] = {};
     for (const r0 of Y.rows) {
       const r = {};
       for (const k of FIELDS) r[k] = r0[k];
       const w = `${at} ${r.name}`;
-      if (seen.has(r.name)) errors.push(`${w}: jogador repetido`);
+      if (seen.has(r.name)) errors.push(`${w}: repeated player`);
       seen.add(r.name);
-      for (const k of NUM) if (typeof r[k] !== 'number' || !isFinite(r[k])) errors.push(`${w}: ${k} não numérico (${r[k]})`);
+      for (const k of NUM) if (typeof r[k] !== 'number' || !isFinite(r[k])) errors.push(`${w}: ${k} not numeric (${r[k]})`);
       if (!POS.has(r.pos)) errors.push(`${w}: pos ${r.pos}`);
       if (!['A', 'B', 'C'].includes(r.conf) || !['A', 'B', 'C'].includes(r.aConf)) errors.push(`${w}: conf/aConf`);
       if (!['CY', 'S', 'P'].includes(r.win)) errors.push(`${w}: win ${r.win}`);
-      if (r.uS < 0 || r.uS > 5 || r.ntS < 0 || r.ntS > 5) errors.push(`${w}: fase fora de 0–5`);
-      if (r.uG > r.g || r.uA > r.a) warns.push(`${w}: produção europeia > total`);
+      if (r.uS < 0 || r.uS > 5 || r.ntS < 0 || r.ntS > 5) errors.push(`${w}: stage outside 0–5`);
+      if (r.uG > r.g || r.uA > r.a) warns.push(`${w}: European output > total`);
       if (!(r.uT in E.CUP_ERA)) errors.push(`${w}: uT ${r.uT}`);
-      if (r.uS > 0 && !r.uT) { warns.push(`${w}: uS>0 sem uT → UCL`); r.uT = 'UCL'; }
+      if (r.uS > 0 && !r.uT) { warns.push(`${w}: uS>0 without uT → UCL`); r.uT = 'UCL'; }
       if (!(r.ntT in E.NTMULT)) errors.push(`${w}: ntT ${r.ntT}`);
-      if (!(r.lg in E.LEAGUE_ERA)) warns.push(`${w}: liga ${r.lg} sem força definida (usa valor por defeito)`);
+      if (!(r.lg in E.LEAGUE_ERA)) warns.push(`${w}: league ${r.lg} has no strength (uses the default)`);
       if (ATT.has(r.pos)) r.cont = null;
-      else if (r.cont == null) warns.push(`${w}: ${r.pos} sem cont`);
+      else if (r.cont == null) warns.push(`${w}: ${r.pos} without cont`);
       if (r.rank == null) r.rank = null;
-      if (r.win === 'S' && r.conf !== 'C') { warns.push(`${w}: win S mas conf ${r.conf} → C`); r.conf = 'C'; }
+      if (r.win === 'S' && r.conf !== 'C') { warns.push(`${w}: win S but conf ${r.conf} → C`); r.conf = 'C'; }
       rows.push(r);
       if (r0.sources && r0.sources.length || r0.note) SOURCES[y][r.name] = { sources: r0.sources || [], note: r0.note || '' };
     }
     const elig = rows.filter(r => r.elig);
-    if (Y.real && !elig.some(r => r.name === Y.real)) errors.push(`${at}: vencedor ${Y.real} não está entre os elegíveis`);
-    if (Y.realAll && !rows.some(r => r.name === Y.realAll)) errors.push(`${at}: realAll ${Y.realAll} não está nas linhas`);
-    YEARS[y] = { label: Y.label, award: Y.award, real: Y.real, realAll: Y.realAll || null, realAllNote: Y.realAllNote || '',
+    if (Y.winner && !elig.some(r => r.name === Y.winner)) errors.push(`${at}: winner ${Y.winner} is not among the eligible rows`);
+    if (Y.winnerAll && !rows.some(r => r.name === Y.winnerAll)) errors.push(`${at}: winnerAll ${Y.winnerAll} is not in the rows`);
+    YEARS[y] = { label: Y.label, award: Y.award, winner: Y.winner, winnerAll: Y.winnerAll || null, winnerAllNote: Y.winnerAllNote || '',
                  window: Y.window, notes: Y.notes || '', rows };
     if (Y.notes) SOURCES[y]._notes = Y.notes;
   }
 }
 
-warns.forEach(w => console.warn('aviso:', w));
-if (errors.length) { errors.forEach(e => console.error('ERRO:', e)); process.exit(1); }
+warns.forEach(w => console.warn('warning:', w));
+if (errors.length) { errors.forEach(e => console.error('ERROR:', e)); process.exit(1); }
 
 const ys = Object.keys(YEARS).map(Number).sort((a, b) => a - b);
 const cnt = { A: 0, B: 0, C: 0 }, acnt = { A: 0, B: 0, C: 0 };
 let n = 0;
 ys.forEach(y => YEARS[y].rows.forEach(r => { n++; cnt[r.conf]++; acnt[r.aConf]++; }));
 
-const head = `// GERADO por gen-data.js a partir de data-src/*.json e eras.js — não editar à mão.
-// Dataset: candidatos à Bola de Ouro ${ys[0]}–${ys[ys.length - 1]} (${n} linhas; conf A ${cnt.A} / B ${cnt.B} / C ${cnt.C}; assistências A ${acnt.A} / B ${acnt.B} / C ${acnt.C}).
-// Especificação completa dos campos: data-src/SPEC.md. Fontes por linha: sources.json.
-// Âmbito único: LIGA + COMPETIÇÃO CONTINENTAL DE CLUBES + FASE FINAL de torneio de seleções (sem taças nacionais nem qualificação).
-// Janela (window): CY = ano civil (até 2021), P = época oficial (2022+). Por linha, win = CY/P ou S (recurso: época que termina em Y).
+const head = `// GENERATED by gen-data.js from data-src/*.json and eras.js — do not edit by hand.
+// Dataset: Ballon d'Or candidates ${ys[0]}–${ys[ys.length - 1]} (${n} rows; conf A ${cnt.A} / B ${cnt.B} / C ${cnt.C}; assists A ${acnt.A} / B ${acnt.B} / C ${acnt.C}).
+// Full field spec: data-src/SPEC.md. Sources per row: sources.json.
+// Single scope: LEAGUE + CONTINENTAL CLUB COMPETITION + FINAL TOURNAMENT of a national-team competition (no domestic cups, no qualifiers).
+// Window: CY = calendar year (up to 2021), P = official season (2022+). Per row, win = CY/P or S (fallback: season ending in Y).
 //
-// Campos: name, club, lg, pos, gp, g, a, uT, uG, uA, uS, ntGP, ntG, ntA, ntT, ntS, title, cont, rank, elig, win, conf, aConf (+ y)
-//  uT/uS   = competição continental (UCL/CWC/UEL/ECL/LIB/SUD) e fase 0..5 (sem desconto; o peso da prova está em CUP_ERA)
-//  elig    = 1 se podia ganhar segundo as regras desse ano (lista "elegíveis"); 0 = só entra na lista "todos"
-//  real    = vencedor oficial; realAll = vencedor retroativo da France Football (2016) quando o melhor era inelegível
-//  cont    = contributo não ofensivo estimado 0–10 (ESTIMATIVA SUBJETIVA, null nos avançados)
-//  conf    = A verificado em fontes, B parcialmente verificado/aproximado, C estimativa; aConf = o mesmo só para assistências
+// Fields: name, club, lg, pos, gp, g, a, uT, uG, uA, uS, ntGP, ntG, ntA, ntT, ntS, title, cont, rank, elig, win, conf, aConf (+ y)
+//  uT/uS   = continental competition (UCL/CWC/UEL/ECL/LIB/SUD) and stage 0..5 (undiscounted; the competition weight is in CUP_ERA)
+//  elig    = 1 if they could win under that year's rules ("eligible" list); 0 = only in the "all" list
+//  winner  = official winner; winnerAll = France Football's retroactive winner (2016) when the best player was ineligible
+//  cont    = estimated non-attacking contribution 0–10 (SUBJECTIVE ESTIMATE, null for attackers)
+//  conf    = A verified in sources, B partly verified/approximate, C estimate; aConf = the same for assists only
 `;
 const body = 'const YEARS = ' + JSON.stringify(YEARS, null, 0).replace(/\{"label"/g, '\n{"label"').replace(/\{"name"/g, '\n  {"name"') + ';\n' +
   `for (const y in YEARS) YEARS[y].rows.forEach(r => { r.y = +y; });\n\n`;
 fs.writeFileSync(path.join(__dirname, 'data.js'), head + body + eras +
   `\nif (typeof module !== 'undefined') module.exports = { YEARS, LEAGUE_ERA, CUP_ERA, NTMULT, leagueStrength, cupWeight };\n`);
 fs.writeFileSync(path.join(__dirname, 'sources.json'), JSON.stringify(SOURCES, null, 1));
-console.log(`data.js: ${ys.length} anos, ${n} linhas (A ${cnt.A} / B ${cnt.B} / C ${cnt.C}); ${warns.length} avisos`);
+console.log(`data.js: ${ys.length} years, ${n} rows (A ${cnt.A} / B ${cnt.B} / C ${cnt.C}); ${warns.length} warnings`);

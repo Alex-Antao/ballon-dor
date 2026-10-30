@@ -1,12 +1,12 @@
 {
  "1991": {
-  "label": "Ano civil 1991",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Jean-Pierre Papin",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1991",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Jean-Pierre Papin",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Votação (pontos) verificada via pesquisa web: Papin 141; Savićević, Pančev e Matthäus 42 (2.º ex aequo); Prosinečki 34; Lineker 33; Vialli 18; Belodedici 15; Hughes 12; Waddle 11. Sem atribuição retroativa da FF (2016) para 1991. Sem fase final de seleções europeias; Copa América 1991 não envolve candidatos. Estatísticas de todas as linhas são estimativas (conf C).",
+  "notes": "Vote (points) verified via web search: Papin 141; Savićević, Pančev and Matthäus 42 (tied 2nd); Prosinečki 34; Lineker 33; Vialli 18; Belodedici 15; Hughes 12; Waddle 11. No retroactive FF award (2016) for 1991. No European national-team finals; the 1991 Copa América involves no candidates. The statistics of every row are estimates (conf C).",
   "rows": [
    {
     "name": "Jean-Pierre Papin",
@@ -42,7 +42,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_French_Division_1",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
-    "note": "Melhor marcador da D1 em 1990/91 e 1991/92 (de memória). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup: Final). Alterado: g 31→29, uG 5→6."
+    "note": "D1 top scorer in 1990/91 and 1991/92 (from memory). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: g 31→29, uG 5→6."
    },
    {
     "name": "Dejan Savićević",
@@ -78,7 +78,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_First_League",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup: Final). Alterado: gp 39→32, g 14→11, uG 4→3."
+    "note": "Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 39→32, g 14→11, uG 4→3."
    },
    {
     "name": "Darko Pančev",
@@ -114,7 +114,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_First_League",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
-    "note": "Chuteira de Ouro 1990/91 (34 golos na liga, de memória); autumn 1991 inclui golos na Taça dos Campeões 1991/92. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup: Final). Alterado: gp 42→41, g 40→39, uG 9→5."
+    "note": "Golden Shoe 1990/91 (34 league goals, from memory); autumn 1991 includes goals in the 1991/92 European Cup. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 42→41, g 40→39, uG 9→5."
    },
    {
     "name": "Lothar Matthäus",
@@ -150,7 +150,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Serie_A",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_UEFA_Cup"
     ],
-    "note": "Taça UEFA 1990/91 ganha (penálti na 1.ª mão da final). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Inter Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1990–91 UEFA Cup: Final). Alterado: gp 39→35, uG 2→3."
+    "note": "UEFA Cup 1990/91 won (penalty in the first leg of the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 UEFA Cup: Final). Changed: gp 39→35, uG 2→3."
    },
    {
     "name": "Robert Prosinečki",
@@ -186,7 +186,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Yugoslav_First_League",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
-    "note": "Mudou-se para o Real Madrid no verão de 1991; 1.ª época em Madrid muito marcada por lesões. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1990–91 Red Star Belgrade: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup: Final). Alterado: gp 23→21, g 6→10, uG 1→3."
+    "note": "Moved to Real Madrid in summer 1991; 1st season in Madrid heavily affected by injuries. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Red Star Belgrade: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 23→21, g 6→10, uG 1→3."
    },
    {
     "name": "Gary Lineker",
@@ -222,7 +222,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Tottenham não jogou na Europa em 1990/91; uT = Taça das Taças 1991/92 (rondas de outono na janela), uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1991–92 UEFA Cup Winners' Cup). Alterado: gp 43→39, g 26→24, uG 3→2."
+    "note": "Tottenham did not play in Europe in 1990/91; uT = Cup Winners' Cup 1991/92 (autumn rounds in the window), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1991–92 UEFA Cup Winners' Cup). Changed: gp 43→39, g 26→24, uG 3→2."
    },
    {
     "name": "Gianluca Vialli",
@@ -258,7 +258,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Serie_A",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup"
     ],
-    "note": "Capocannoniere 1990/91; Sampdoria campeã. uG inclui Taça dos Campeões 1991/92 (outono). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup Winners' Cup: Quarter-finals). Alterado: g 22→24, uG 6→5."
+    "note": "Capocannoniere 1990/91; Sampdoria champions. uG includes the 1991/92 European Cup (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 European Cup Winners' Cup: Quarter-finals). Changed: g 22→24, uG 6→5."
    },
    {
     "name": "Miodrag Belodedici",
@@ -290,7 +290,7 @@
      "https://www.wikiwand.com/en/1991_Ballon_d%27Or",
      "https://en.wikipedia.org/wiki/Miodrag_Belodedici"
     ],
-    "note": "Romeno. Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Romanian. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Mark Hughes",
@@ -326,7 +326,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup"
     ],
-    "note": "Bis na final da Taça das Taças 1991 (Barcelona). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup Winners' Cup: Final). Alterado: gp 44→43, g 15→13, uG 4→5."
+    "note": "Brace in the 1991 Cup Winners' Cup final (Barcelona). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1990–91 European Cup Winners' Cup: Final). Changed: gp 44→43, g 15→13, uG 4→5."
    },
    {
     "name": "Chris Waddle",
@@ -362,7 +362,7 @@
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_French_Division_1",
      "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
-    "note": "2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1990–91 European Cup: Final). Alterado: gp 42→44, uG 1→2."
+    "note": "Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1990–91 European Cup: Final). Changed: gp 42→44, uG 1→2."
    },
    {
     "name": "Abedi Pelé",
@@ -391,7 +391,7 @@
     "sources": [
      "https://en.wikipedia.org/wiki/Abedi_Pele"
     ],
-    "note": "Ganês: inelegível (só europeus até 1994). CAN 1992 é em janeiro de 1992 (fora da janela). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Ghanaian: ineligible (Europeans only until 1994). AFCON 1992 was in January 1992 (outside the window). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Romário",
@@ -420,18 +420,18 @@
     "sources": [
      "https://en.wikipedia.org/wiki/Rom%C3%A1rio"
     ],
-    "note": "Brasileiro: inelegível. Melhor marcador da Eredivisie 1990/91 (de memória). Não jogou a Copa América 1991 (de memória). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Brazilian: ineligible. Top scorer of the 1990/91 Eredivisie (from memory). Did not play the 1991 Copa América (from memory). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  },
  "1992": {
-  "label": "Ano civil 1992 (+ Euro 1992)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Marco van Basten",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1992 (+ Euro 1992)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Marco van Basten",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Votação verificada via pesquisa web: van Basten 98; Stoichkov 80; Bergkamp 53; Häßler 42; Schmeichel 41; B. Laudrup 32; M. Laudrup 22; Koeman 14; Chapuisat 10; Rijkaard e Scifo 8 (10.º ex aequo). Papin apenas 2 pontos. Sem atribuição retroativa (FF 2016). Euro 1992 (Suécia) e CAN 1992 (Senegal) na janela. Milan excluído das provas europeias em 1991/92.",
+  "notes": "Vote verified via web search: van Basten 98; Stoichkov 80; Bergkamp 53; Häßler 42; Schmeichel 41; B. Laudrup 32; M. Laudrup 22; Koeman 14; Chapuisat 10; Rijkaard and Scifo 8 (tied 10th). Papin only 2 points. No retroactive award (FF 2016). Euro 1992 (Sweden) and AFCON 1992 (Senegal) in the window. Milan excluded from European competition in 1991/92.",
   "rows": [
    {
     "name": "Marco van Basten",
@@ -468,7 +468,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "Milan suspenso da Europa em 1991/92; uT = Liga dos Campeões 1992/93 (outono, incl. 4 golos ao Göteborg), uS 0. Lesão no tornozelo em dez/1992. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1992–93 UEFA Champions League). Alterado: gp 35→28, g 33→36, uG 6→8."
+    "note": "Milan banned from Europe in 1991/92; uT = Champions League 1992/93 (autumn, incl. 4 goals against Göteborg), uS 0. Ankle injury in Dec 1992. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1992–93 UEFA Champions League). Changed: gp 35→28, g 33→36, uG 6→8."
    },
    {
     "name": "Hristo Stoichkov",
@@ -504,7 +504,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_La_Liga",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
-    "note": "Bulgária não esteve no Euro 1992. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1992–93 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1991–92 European Cup: Final). Alterado: gp 45→43, g 23→26."
+    "note": "Bulgaria were not at Euro 1992. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1991–92 European Cup: Final). Changed: gp 45→43, g 23→26."
    },
    {
     "name": "Dennis Bergkamp",
@@ -539,7 +539,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "Taça UEFA 1991/92 ganha; 3 golos no Euro 1992 (de memória). 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1991–92 UEFA Cup: Final). Alterado: gp 43→41, g 31→30."
+    "note": "UEFA Cup 1991/92 won; 3 goals at Euro 1992 (from memory). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup: Final). Changed: gp 43→41, g 31→30."
    },
    {
     "name": "Thomas Häßler",
@@ -576,7 +576,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "Juventus fora da Europa em 1991/92; uT = Taça UEFA 1992/93 (outono, Roma), uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1991–92 UEFA Cup Winners' Cup: Quarter-finals). Alterado: gp 38→36, uG 1→2, uT UEL→CWC, uS 0→2."
+    "note": "Juventus out of Europe in 1991/92; uT = UEFA Cup 1992/93 (autumn, Roma), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 38→36, uG 1→2, uT UEL→CWC, uS 0→2."
    },
    {
     "name": "Peter Schmeichel",
@@ -613,7 +613,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "Dinamarca campeã europeia. Europa na janela: só a eliminatória da Taça UEFA 1992/93 (set/1992). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1991–92 UEFA Cup Winners' Cup: Second round). Alterado: gp 42→43, uT UEL→CWC, uS 0→1."
+    "note": "Denmark European champions. Europe in the window: only the 1992/93 UEFA Cup tie (Sep 1992). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup Winners' Cup: Second round). Changed: gp 42→43, uT UEL→CWC, uS 0→1."
    },
    {
     "name": "Brian Laudrup",
@@ -650,7 +650,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "Sem jogos europeus na janela (de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1991–92 Bayern Munich: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1991–92 UEFA Cup: Second round). Alterado: gp 29→22, g 6→4, uT →UEL."
+    "note": "No European games in the window (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1991–92 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup: Second round). Changed: gp 29→22, g 6→4, uT →UEL."
    },
    {
     "name": "Michael Laudrup",
@@ -686,7 +686,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_La_Liga",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup"
     ],
-    "note": "Não jogou o Euro 1992 (afastado da seleção). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1991–92 European Cup: Final). Alterado: g 7→11, uG 1→0."
+    "note": "Did not play Euro 1992 (left out of the national team). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1991–92 European Cup: Final). Changed: g 7→11, uG 1→0."
    },
    {
     "name": "Ronald Koeman",
@@ -723,7 +723,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "Golo da vitória na final da Taça dos Campeões 1992 (livre). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1991–92 European Cup: Final). Alterado: g 11→15, uG 3→1."
+    "note": "Winning goal in the 1992 European Cup final (free kick). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1991–92 European Cup: Final). Changed: g 11→15, uG 3→1."
    },
    {
     "name": "Stéphane Chapuisat",
@@ -755,7 +755,7 @@
      "https://www.wikiwand.com/en/1992_Ballon_d%27Or",
      "https://en.wikipedia.org/wiki/St%C3%A9phane_Chapuisat"
     ],
-    "note": "Dortmund fora da Europa em 1991/92; uT = Taça UEFA 1992/93 (outono), uS 0. Suíça não esteve no Euro 1992. Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Dortmund out of Europe in 1991/92; uT = UEFA Cup 1992/93 (autumn), uS 0. Switzerland were not at Euro 1992. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Frank Rijkaard",
@@ -792,7 +792,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
     ],
-    "note": "uT = Liga dos Campeões 1992/93 (outono), uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1992–93 UEFA Champions League). Alterado: gp 34→30, g 8→7, uG 2→3."
+    "note": "uT = Champions League 1992/93 (autumn), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1992–93 UEFA Champions League). Changed: gp 34→30, g 8→7, uG 2→3."
    },
    {
     "name": "Enzo Scifo",
@@ -827,7 +827,7 @@
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_Serie_A",
      "https://en.wikipedia.org/wiki/1991%E2%80%9392_UEFA_Cup"
     ],
-    "note": "Final da Taça UEFA 1992 perdida (Ajax). Bélgica não esteve no Euro 1992. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1991–92 UEFA Cup: Final). Alterado: gp 36→41, g 9→11."
+    "note": "1992 UEFA Cup final lost (Ajax). Belgium were not at Euro 1992. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1991–92 UEFA Cup: Final). Changed: gp 36→41, g 9→11."
    },
    {
     "name": "Abedi Pelé",
@@ -857,7 +857,7 @@
      "https://en.wikipedia.org/wiki/Abedi_Pele",
      "https://en.wikipedia.org/wiki/1992_African_Cup_of_Nations"
     ],
-    "note": "Ganês: inelegível. CAN 1992: melhor jogador do torneio, suspenso na final (de memória). Marselha eliminada nos oitavos (16 equipas) da Taça dos Campeões 1991/92 em nov/1991. Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Ghanaian: ineligible. AFCON 1992: player of the tournament, suspended for the final (from memory). Marseille knocked out in the round of 16 (16 teams) of the 1991/92 European Cup in Nov 1991. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Romário",
@@ -886,18 +886,18 @@
     "sources": [
      "https://en.wikipedia.org/wiki/Rom%C3%A1rio"
     ],
-    "note": "Brasileiro: inelegível. uS 0 refere-se à edição 1991/92; marcou na fase de grupos da LC 1992/93 (outono). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Brazilian: ineligible. uS 0 refers to the 1991/92 edition; scored in the 1992/93 Champions League group stage (autumn). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  },
  "1993": {
-  "label": "Ano civil 1993",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Roberto Baggio",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1993",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Roberto Baggio",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Votação verificada via pesquisa web (RSSSF): Baggio 142; Bergkamp 83; Cantona 34; Bokšić 29; M. Laudrup 27; Baresi 24; Maldini 19; Kostadinov 11; Chapuisat e Giggs 9 (9.º ex aequo). Uma fonte (topendsports) dá 192 a Baggio — provável gralha. Sem atribuição retroativa (FF 2016). Sem fase final de seleções europeias; título 1992/93 retirado ao Marselha (caso VA–OM).",
+  "notes": "Vote verified via web search (RSSSF): Baggio 142; Bergkamp 83; Cantona 34; Bokšić 29; M. Laudrup 27; Baresi 24; Maldini 19; Kostadinov 11; Chapuisat and Giggs 9 (tied 9th). One source (topendsports) gives Baggio 192 — probably a typo. No retroactive award (FF 2016). No European national-team finals; the 1992/93 title was stripped from Marseille (VA–OM affair).",
   "rows": [
    {
     "name": "Roberto Baggio",
@@ -933,7 +933,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Serie_A",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
-    "note": "Taça UEFA 1992/93 ganha (golos nas meias ao PSG e na final ao Dortmund, de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Cup: Final). Alterado: gp 42→41, g 29→31."
+    "note": "UEFA Cup 1992/93 won (goals against PSG in the semi-finals and against Dortmund in the final, from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Cup: Final). Changed: gp 42→41, g 29→31."
    },
    {
     "name": "Dennis Bergkamp",
@@ -968,7 +968,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Eredivisie",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
-    "note": "lg = SA (mais jogos no Inter, ago–dez). uS = Ajax 1992/93 (quartos, Auxerre); uG inclui Taça UEFA 1993/94 (outono, Inter). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1992–93 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Cup: Quarter-finals). Alterado: gp 36→38, g 24→27, uG 7→9."
+    "note": "lg = SA (more games at Inter, Aug–Dec). uS = Ajax 1992/93 (quarter-finals, Auxerre); uG includes the 1993/94 UEFA Cup (autumn, Inter). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Cup: Quarter-finals). Changed: gp 36→38, g 24→27, uG 7→9."
    },
    {
     "name": "Eric Cantona",
@@ -1005,7 +1005,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Cup"
     ],
-    "note": "Campeão da 1.ª Premier League. Leeds/Man United eliminados da Europa 1992/93 antes de 1993; uT = LC 1993/94 (outono: Honvéd, Galatasaray), uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Cup: First round). Alterado: gp 43→39, g 19→20, uT UCL→UEL."
+    "note": "Champion of the first Premier League. Leeds/Man United out of Europe in 1992/93 before 1993; uT = Champions League 1993/94 (autumn: Honvéd, Galatasaray), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Cup: First round). Changed: gp 43→39, g 19→20, uT UCL→UEL."
    },
    {
     "name": "Alen Bokšić",
@@ -1041,7 +1041,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_French_Division_1",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
-    "note": "Melhor marcador da D1 1992/93 (de memória). title 0: título 1992/93 retirado ao Marselha. Data exata da transferência para a Lazio (outono 1993) não verificada. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1992–93 Marseille, 1993–94 Marseille: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Champions League: Final). Alterado: gp 39→38, g 17→19."
+    "note": "Top scorer of the 1992/93 D1 (from memory). title 0: the 1992/93 title was stripped from Marseille. Exact date of the transfer to Lazio (autumn 1993) not verified. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 Marseille, 1993–94 Marseille: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Final). Changed: gp 39→38, g 17→19."
    },
    {
     "name": "Michael Laudrup",
@@ -1077,7 +1077,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_La_Liga",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
-    "note": "Barcelona eliminado pelo CSKA na 2.ª ronda (16 equipas) da LC 1992/93, em nov/1992. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1993–94 Barcelona: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Champions League: Second round). Alterado: gp 41→42, g 6→9, uS 1→2."
+    "note": "Barcelona knocked out by CSKA in the 2nd round (16 teams) of the 1992/93 Champions League, in Nov 1992. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Second round). Changed: gp 41→42, g 6→9, uS 1→2."
    },
    {
     "name": "Franco Baresi",
@@ -1113,7 +1113,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Serie_A",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
-    "note": "2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Champions League: Final). Alterado: g 1→0."
+    "note": "Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Final). Changed: g 1→0."
    },
    {
     "name": "Paolo Maldini",
@@ -1149,7 +1149,7 @@
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_Serie_A",
      "https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League"
     ],
-    "note": "2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1992–93 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1992–93 UEFA Champions League: Final). Alterado: gp 42→39, uG 0→1."
+    "note": "Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1992–93 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1992–93 UEFA Champions League: Final). Changed: gp 42→39, uG 0→1."
    },
    {
     "name": "Emil Kostadinov",
@@ -1181,7 +1181,7 @@
      "https://ballondor.com/all-rankings?year=1993",
      "https://en.wikipedia.org/wiki/Emil_Kostadinov"
     ],
-    "note": "Fase de grupos da LC 1992/93 (8 equipas) = equivalente a quartos. Golos de Paris (qualificação do Mundial) não contam. Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "1992/93 Champions League group stage (8 teams) = equivalent to the quarter-finals. Goals in Paris (World Cup qualifier) do not count. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Stéphane Chapuisat",
@@ -1213,7 +1213,7 @@
      "https://ballondor.com/all-rankings?year=1993",
      "https://en.wikipedia.org/wiki/St%C3%A9phane_Chapuisat"
     ],
-    "note": "Final da Taça UEFA 1993 perdida (Juventus). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "1993 UEFA Cup final lost (Juventus). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Ryan Giggs",
@@ -1245,7 +1245,7 @@
      "https://ballondor.com/all-rankings?year=1993",
      "https://en.wikipedia.org/wiki/Ryan_Giggs"
     ],
-    "note": "uT = LC 1993/94 (outono), uS 0. Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "uT = Champions League 1993/94 (autumn), uS 0. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Abedi Pelé",
@@ -1274,7 +1274,7 @@
     "sources": [
      "https://en.wikipedia.org/wiki/Abedi_Pele"
     ],
-    "note": "Ganês: inelegível. Clube na 2.ª metade de 1993 (Lyon) não confirmado; title 0 por título retirado. Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Ghanaian: ineligible. Club in the second half of 1993 (Lyon) not confirmed; title 0 because the title was revoked. Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
    {
     "name": "Romário",
@@ -1303,18 +1303,18 @@
     "sources": [
      "https://en.wikipedia.org/wiki/Rom%C3%A1rio"
     ],
-    "note": "Brasileiro: inelegível. uS = PSV na fase de grupos da LC 1992/93. Não jogou a Copa América 1993 (de memória). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Brazilian: ineligible. uS = PSV in the 1992/93 Champions League group stage. Did not play the 1993 Copa América (from memory). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  },
  "1994": {
-  "label": "Ano civil 1994 (+ Mundial 1994)",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; só jogadores europeus)",
-  "real": "Hristo Stoichkov",
-  "realAll": "Romário",
-  "realAllNote": "No «Nouveau palmarès» (France Football, 2016, 60 anos do prémio) Romário é o vencedor de 1994 se não houvesse restrição de nacionalidade; o palmarès oficial mantém Stoichkov.",
+  "label": "Calendar year 1994 (+ World Cup 1994)",
+  "award": "Ballon d’Or (France Football; European journalists; European players only)",
+  "winner": "Hristo Stoichkov",
+  "winnerAll": "Romário",
+  "winnerAllNote": "In the «Nouveau palmarès» (France Football, 2016, 60 years of the award) Romário is the 1994 winner without the nationality restriction; the official list keeps Stoichkov.",
   "window": "CY",
-  "notes": "Votação verificada via pesquisa web (RSSSF/topendsports): Stoichkov 210; R. Baggio 136; Maldini 109; Hagi e Brolin 68 (4.º ex aequo); Klinsmann 43; Ravelli 21; Litmanen 12; Desailly e Savićević 8 (9.º ex aequo); Baresi e Preud’homme 7 (11.º). Último ano só para europeus.",
+  "notes": "Vote verified via web search (RSSSF/topendsports): Stoichkov 210; R. Baggio 136; Maldini 109; Hagi and Brolin 68 (tied 4th); Klinsmann 43; Ravelli 21; Litmanen 12; Desailly and Savićević 8 (tied 9th); Baresi and Preud’homme 7 (11th). Last year for Europeans only.",
   "rows": [
    {
     "name": "Hristo Stoichkov",
@@ -1351,7 +1351,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Melhor marcador do Mundial 1994 (ex aequo com Salenko) — de memória. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Champions League: Final). Alterado: gp 45→42, g 21→23, uG 6→7."
+    "note": "Top scorer of the 1994 World Cup (shared with Salenko) — from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 45→42, g 21→23, uG 6→7."
    },
    {
     "name": "Roberto Baggio",
@@ -1388,7 +1388,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Lesão em dez/1994 (de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Cup: Quarter-finals). Alterado: g 15→12."
+    "note": "Injury in Dec 1994 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup: Quarter-finals). Changed: g 15→12."
    },
    {
     "name": "Paolo Maldini",
@@ -1425,7 +1425,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Jogou a final da LC 1994 (Baresi e Costacurta suspensos). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Champions League: Final). Alterado: gp 42→38, g 2→3, uG 0→1."
+    "note": "Played the 1994 Champions League final (Baresi and Costacurta suspended). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 42→38, g 2→3, uG 0→1."
    },
    {
     "name": "Gheorghe Hagi",
@@ -1460,7 +1460,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "lg ITB = Serie B italiana (Brescia 1993/94). uT = LC 1994/95 (outono, Barcelona), uS 0. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); seleção contada pelos onzes da Wikipédia; prova/fase continental verificada: só outono (1994–95 UEFA Champions League); por verificar: título. Alterado: gp 34→30, uG 1→0."
+    "note": "lg ITB = Italian Serie B (Brescia 1993/94). uT = Champions League 1994/95 (autumn, Barcelona), uS 0. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1994–95 UEFA Champions League); to verify: title. Changed: gp 34→30, uG 1→0."
    },
    {
     "name": "Tomas Brolin",
@@ -1497,7 +1497,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Final da Taça das Taças 1994 perdida (Arsenal). Fratura no pé em nov/1994 (de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (pequena divergência com a tabela de carreira; escalado); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Cup Winners' Cup: Final). Alterado: gp 31→25, g 5→2, uG 1→0."
+    "note": "1994 Cup Winners' Cup final lost (Arsenal). Broken foot in Nov 1994 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup Winners' Cup: Final). Changed: gp 31→25, g 5→2, uG 1→0."
    },
    {
     "name": "Jürgen Klinsmann",
@@ -1533,7 +1533,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Mónaco nas meias da LC 1993/94. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1993–94 Monaco: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Champions League: Semi-finals). Alterado: g 23→17."
+    "note": "Monaco in the 1993/94 Champions League semi-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Monaco: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Semi-finals). Changed: g 23→17."
    },
    {
     "name": "Thomas Ravelli",
@@ -1568,7 +1568,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Allsvenskan 1994 (ano civil) ganha. uS da edição 1993/94 não verificado (0); ganhou o grupo da LC 1994/95 no outono. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental verificada: só outono (1994–95 UEFA Champions League). Alterado: gp 34→33."
+    "note": "Allsvenskan 1994 (calendar year) won. uS of the 1993/94 edition not verified (0); won the 1994/95 Champions League group in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1994–95 UEFA Champions League). Changed: gp 34→33."
    },
    {
     "name": "Jari Litmanen",
@@ -1603,7 +1603,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Eredivisie",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup_Winners'_Cup"
     ],
-    "note": "Melhor marcador da Eredivisie 1993/94 (de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1993–94 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Cup Winners' Cup: Quarter-finals). Alterado: gp 39→35, uG 2→6."
+    "note": "Top scorer of the 1993/94 Eredivisie (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 39→35, uG 2→6."
    },
    {
     "name": "Marcel Desailly",
@@ -1640,7 +1640,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Serie_A",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
-    "note": "Golo na final da LC 1994. França não esteve no Mundial. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1993–94 Marseille, 1993–94 AC Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Champions League: Final). Alterado: gp 42→35."
+    "note": "Goal in the 1994 Champions League final. France were not at the World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Marseille, 1993–94 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 42→35."
    },
    {
     "name": "Dejan Savićević",
@@ -1676,7 +1676,7 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_Serie_A",
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League"
     ],
-    "note": "Golo de chapéu na final da LC 1994. Jugoslávia suspensa (sanções ONU). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1993–94 Milan: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Champions League: Final). Alterado: gp 31→24, g 9→3."
+    "note": "Chipped goal in the 1994 Champions League final. Yugoslavia suspended (UN sanctions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Champions League: Final). Changed: gp 31→24, g 9→3."
    },
    {
     "name": "Romário",
@@ -1708,7 +1708,7 @@
      "https://en.wikipedia.org/wiki/Rom%C3%A1rio",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Brasileiro: inelegível em 1994. Campeão do mundo e Bola de Ouro do Mundial; vencedor retroativo da FF (2016). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); seleção contada pelos onzes da Wikipédia; por verificar: clube, título, fase europeia."
+    "note": "Brazilian: ineligible in 1994. World champion and Golden Ball of the World Cup; FF retroactive winner (2016). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
    {
     "name": "Bebeto",
@@ -1742,18 +1742,18 @@
      "https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
     ],
-    "note": "Brasileiro: inelegível. Deportivo eliminado da Taça UEFA 1993/94 antes de 1994 (de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1993–94 Deportivo La Coruña: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; seleção contada pelos onzes da Wikipédia; título pela página da liga; prova/fase continental pela página da edição (1993–94 UEFA Cup: Third round). Alterado: gp 37→32, uG 2→6, uS 0→1."
+    "note": "Brazilian: ineligible. Deportivo out of the 1993/94 UEFA Cup before 1994 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1993–94 Deportivo La Coruña: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1993–94 UEFA Cup: Third round). Changed: gp 37→32, uG 2→6, uS 0→1."
    }
   ]
  },
  "1995": {
-  "label": "Ano civil 1995",
-  "award": "Ballon d’Or (France Football; jornalistas europeus; qualquer nacionalidade em clube europeu)",
-  "real": "George Weah",
-  "realAll": null,
-  "realAllNote": "",
+  "label": "Calendar year 1995",
+  "award": "Ballon d’Or (France Football; European journalists; any nationality at a European club)",
+  "winner": "George Weah",
+  "winnerAll": null,
+  "winnerAllNote": "",
   "window": "CY",
-  "notes": "Primeiro ano aberto a não europeus (desde que em clubes europeus). Votação verificada via pesquisa web: Weah 144; Klinsmann 108; Litmanen 67; Del Piero 57; Kluivert 47; Zola 41; Maldini 36; Overmars 33; Sammer 18; M. Laudrup 17 (7.º–10.º só em parte confirmados por 2 fontes). Sem fase final de seleções europeias; Copa América 1995 só afeta inelegíveis.",
+  "notes": "First year open to non-Europeans (as long as they played for European clubs). Vote verified via web search: Weah 144; Klinsmann 108; Litmanen 67; Del Piero 57; Kluivert 47; Zola 41; Maldini 36; Overmars 33; Sammer 18; M. Laudrup 17 (7th–10th only partly confirmed by 2 sources). No European national-team finals; the 1995 Copa América only affects ineligible players.",
   "rows": [
    {
     "name": "George Weah",
@@ -1789,7 +1789,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_French_Division_1",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
-    "note": "Liberiano, elegível pela nova regra. Divisão PSG (jan–mai) vs Milan (ago–dez) estimada; lg L1 por margem mínima. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Champions League: Semi-finals). Alterado: gp 39→35, g 15→11."
+    "note": "Liberian, eligible under the new rule. PSG (Jan–May) vs Milan (Aug–Dec) split estimated; lg L1 by the narrowest margin. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Semi-finals). Changed: gp 39→35, g 15→11."
    },
    {
     "name": "Jürgen Klinsmann",
@@ -1825,7 +1825,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup"
     ],
-    "note": "Tottenham fora da Europa em 1994/95; uT = Taça UEFA 1995/96 (outono, Bayern), uS 0. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1995–96 Bayern Munich: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental verificada: só outono (1995–96 UEFA Cup). Alterado: gp 44→42, g 24→26."
+    "note": "Tottenham out of Europe in 1994/95; uT = UEFA Cup 1995/96 (autumn, Bayern), uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1995–96 UEFA Cup). Changed: gp 44→42, g 24→26."
    },
    {
     "name": "Jari Litmanen",
@@ -1861,7 +1861,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Eredivisie",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
-    "note": "2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1995–96 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Champions League: Final). Alterado: g 23→25, uG 6→7."
+    "note": "Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: g 23→25, uG 6→7."
    },
    {
     "name": "Alessandro Del Piero",
@@ -1897,7 +1897,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Serie_A",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
-    "note": "Final da Taça UEFA 1995 perdida (Parma); uG inclui LC 1995/96 (outono). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Cup: Final). Alterado: gp 43→42, g 15→12, uG 7→6."
+    "note": "1995 UEFA Cup final lost (Parma); uG includes the 1995/96 Champions League (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Final). Changed: gp 43→42, g 15→12, uG 7→6."
    },
    {
     "name": "Patrick Kluivert",
@@ -1933,7 +1933,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Eredivisie",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
-    "note": "Golo da vitória na final da LC 1995. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Champions League: Final). Alterado: gp 37→35, uG 4→2."
+    "note": "Winning goal in the 1995 Champions League final. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: gp 37→35, uG 4→2."
    },
    {
     "name": "Gianfranco Zola",
@@ -1969,7 +1969,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Serie_A",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
-    "note": "Taça UEFA 1994/95 ganha. 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Cup: Final). Alterado: gp 39→41, g 17→23."
+    "note": "UEFA Cup 1994/95 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Final). Changed: gp 39→41, g 17→23."
    },
    {
     "name": "Paolo Maldini",
@@ -2005,7 +2005,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Serie_A",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
-    "note": "2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época; jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Champions League: Final). Alterado: gp 41→42."
+    "note": "Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: gp 41→42."
    },
    {
     "name": "Marc Overmars",
@@ -2041,7 +2041,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Eredivisie",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League"
     ],
-    "note": "Lesão grave no joelho em dez/1995 (de memória). 2.ª passagem: totais por época da tabela de carreira; golos do ano civil contados jogo a jogo nas páginas de época (sem página de jogos para 1995–96 Ajax: metade dos totais); jogos estimados pela proporção de jogos do clube no ano; título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Champions League: Final). Alterado: gp 37→31, g 10→12."
+    "note": "Serious knee injury in Dec 1995 (from memory). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1994–95 UEFA Champions League: Final). Changed: gp 37→31, g 10→12."
    },
    {
     "name": "Matthias Sammer",
@@ -2077,7 +2077,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_Bundesliga",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
-    "note": "Líbero; Dortmund campeão 1994/95. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Cup: Semi-finals). Alterado: gp 41→35, g 5→4, uG 1→0."
+    "note": "Libero; Dortmund champions 1994/95. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Semi-finals). Changed: gp 41→35, g 5→4, uG 1→0."
    },
    {
     "name": "Michael Laudrup",
@@ -2113,7 +2113,7 @@
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_La_Liga",
      "https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Cup"
     ],
-    "note": "Real Madrid eliminado pelo Odense na 3.ª ronda (16 equipas) da Taça UEFA 1994/95, antes de 1995. 2.ª passagem: liga+Europa da época que termina no ano, pela tabela de carreira (sem páginas de época com jogos para dividir o ano civil: win S); título pela página da liga; prova/fase continental pela página da edição (1994–95 UEFA Cup: Third round). Alterado: gp 43→38, g 8→6, uG 1→2."
+    "note": "Real Madrid knocked out by Odense in the 3rd round (16 teams) of the 1994/95 UEFA Cup, before 1995. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1994–95 UEFA Cup: Third round). Changed: gp 43→38, g 8→6, uG 1→2."
    },
    {
     "name": "Enzo Francescoli",
@@ -2143,7 +2143,7 @@
      "https://en.wikipedia.org/wiki/Enzo_Francescoli",
      "https://en.wikipedia.org/wiki/1995_Copa_Am%C3%A9rica"
     ],
-    "note": "Uruguaio em clube argentino: inelegível (só clubes europeus). Clausura + Apertura 1995. Copa América 1995 ganha (melhor jogador, de memória). Estatísticas NÃO verificadas na web (acesso direto bloqueado e quota de pesquisa esgotada): estimativa de memória do ano civil a partir de totais por época conhecidos. 2.ª passagem: estatísticas de clube não verificadas (sem tabela de carreira utilizável); por verificar: clube, título, fase europeia."
+    "note": "Uruguayan at an Argentine club: ineligible (European clubs only). Clausura + Apertura 1995. Copa América 1995 won (best player, from memory). Statistics NOT verified on the web (direct access blocked and search quota exhausted): calendar-year estimate from memory based on known season totals. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    }
   ]
  }
