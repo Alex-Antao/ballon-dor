@@ -97,7 +97,13 @@ async function main() {
     const m = manual || {};
     let team = P && P.team, lg = m.lg || (P && P.lg);
     let T = team && teams[team.id];
-    if (!T && m.team) { const e = Object.values(teams).find(t => sameTeam(m.team, t.team)); if (e) { T = e; team = e.team; lg = m.lg || e.lg; } }
+    if (!T && m.team) {
+      // within the given league, an exact name first ("FC Barcelona" is also inside "RCD Espanyol de Barcelona")
+      const inLg = Object.values(teams).filter(t => !m.lg || t.lg === m.lg);
+      const exact = t => [t.team.name, t.team.shortName, t.team.tla].filter(Boolean).some(n => norm(n) === norm(m.team));
+      const e = inLg.find(exact) || inLg.find(t => sameTeam(m.team, t.team));
+      if (e) { T = e; team = e.team; lg = m.lg || e.lg; }
+    }
     if (!T) { warnings.push(`${name}: club "${m.team || (team && team.name)}" not found in the covered leagues`); continue; }
     const CLT = clTeams[team.id];
     const fromLists = !!P;
@@ -119,7 +125,7 @@ async function main() {
     const notes = [`As of ${asOf}: ${T.played} of ${ROUNDS[T.lg]} league games played by ${r.club}, ${ordinal(T.position)} in the league`];
     if (!fromLists) notes.push(`not on a scorer list: games estimated as ${Math.round((m.share ?? 0.85) * 100)}% of the club's`);
     if (!['FW', 'W', 'AM'].includes(r.pos) && m.cont == null && (KNOWN[name] || {}).cont == null) notes.push('cont 5 by default (not rated)');
-    if (W) wiki(W, r, team, notes, warnings);
+    if (W) wiki(W, r, team, notes, warnings, !fromLists);
     r.note = notes.join('; ') + '.';
     rows.push(r);
   }
@@ -145,10 +151,25 @@ async function main() {
 }
 const ordinal = n => n + (n % 100 >= 11 && n % 100 <= 13 ? 'th' : ['th', 'st', 'nd', 'rd'][n % 10] || 'th');
 
+// Current club in the player's infobox, read fresh (not from the page cache) so a summer transfer shows up.
+function currentClub(W, title) {
+  const url = t => `https://en.wikipedia.org/w/index.php?title=${encodeURIComponent(t.replace(/ /g, '_'))}&action=raw`;
+  let txt = W.wp.get(url(title));
+  const redirect = txt.match(/^#REDIRECT\s*\[\[([^\]|#]+)/i);
+  if (redirect) txt = W.wp.get(url(redirect[1]));
+  const m = txt.match(/\|\s*current_club\s*=\s*([^\n]*)/);
+  return m ? W.wp.strip(m[1]).trim() : null;
+}
+
 // Wikipedia: Europa/Conference League stage (clubs not in the CL), cup winner, Golden Shoe, 2027 tournaments.
-function wiki(W, r, team, notes, warnings) {
+// handKept = the club came from candidates.json, so it is checked against the infobox.
+function wiki(W, r, team, notes, warnings, handKept) {
   const club = team.shortName || team.name;
   try {
+    if (handKept) {
+      const cur = currentClub(W, W.aw.titleOf(r.name, YEAR));
+      if (cur && !sameTeam(cur, team)) warnings.push(`${r.name}: Wikipedia says the current club is ${cur}, not ${team.name} as in candidates.json (transfer?)`);
+    }
     if (!r.uT) {
       const e = W.eu.euStage(`${SEASON}–${String(SEASON + 1).slice(2)}`, YEAR, { link: null, names: [club, team.name] });
       if (e && !e.none && e.uS != null) { r.uT = e.uT; r.uS = e.uS; r.sources.push('https://en.wikipedia.org/wiki/' + encodeURI(e.edition.replace(/ /g, '_'))); notes.push(`${e.edition}: ${e.reached}`); }

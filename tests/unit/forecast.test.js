@@ -37,7 +37,8 @@ test('aliases, positions and the hand-kept candidates', () => {
   assert.equal(row('Vitinha').conf, 'A', 'on a scorer list');
   const rodri = row('Rodri');
   assert.equal(rodri.conf, 'C', 'not on a scorer list: games estimated');
-  assert.equal(rodri.gp, Math.round(0.85 * 10) + Math.round(0.85 * 1));
+  assert.equal(rodri.club, 'Barça', '"FC Barcelona" is matched exactly, not to "RCD Espanyol de Barcelona"');
+  assert.equal(rodri.gp, Math.round(0.85 * 10) + (rodri.uT ? Math.round(0.85 * 1) : 0));
   assert.equal(rodri.cont, 9.5);
   assert.equal(row('Achraf Hakimi').club, 'PSG', 'club matched by name, not by a code inside another name');
 });

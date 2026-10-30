@@ -25,6 +25,17 @@
      },
      "playedGames": 10,
      "points": 22
+    },
+    {
+     "position": 3,
+     "team": {
+      "id": 80,
+      "name": "RCD Espanyol de Barcelona",
+      "shortName": "Espanyol",
+      "tla": "ESP"
+     },
+     "playedGames": 10,
+     "points": 19
     }
    ]
   }
