@@ -26,12 +26,19 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://www.11v11.com/players/bobby-charlton-21447/",
@@ -41,9 +48,10 @@
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_FA_Cup"
     ],
-    "note": "League 1965/66 38gp/16g and 1966/67 42gp/12g and European Cup 1965/66 8gp/2g verified (11v11); calendar-year split estimated (Jan–May 1966 ≈18gp/7g; Aug–Dec ≈22gp/6g; Europe 1966 = QF Benfica + SF Partizan, 4gp/1g). World Cup 6gp/3g. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 European Cup: Semi-finals). Changed: gp 44→46, g 14→13."
+    "note": "League 1965/66 38gp/16g and 1966/67 42gp/12g and European Cup 1965/66 8gp/2g verified (11v11); calendar-year split estimated (Jan–May 1966 ≈18gp/7g; Aug–Dec ≈22gp/6g; Europe 1966 = QF Benfica + SF Partizan, 4gp/1g). World Cup 6gp/3g. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 European Cup: Semi-finals). Changed: gp 44→46, g 14→13. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "Eusébio",
@@ -63,12 +71,19 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 1,
+    "ntTop": 1,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Primeira_Divis%C3%A3o",
@@ -78,9 +93,10 @@
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_S.L._Benfica_season",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_Primeira_Divis%C3%A3o",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_Ta%C3%A7a_de_Portugal"
     ],
-    "note": "League 1965/66 23gp/25g and 1966/67 26gp/31g verified; calendar-year split estimated. Europe 1966 = QF only, with Man United (2gp, 0g); The 7 goals in the 1965/66 European Cup were almost all in 1965. World Cup 6gp/9g (top scorer), 3rd place. No European participation in autumn 1966 (not confirmed). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 European Cup: Quarter-finals). Changed: gp 25→28, g 27→28, uG 0→2."
+    "note": "League 1965/66 23gp/25g and 1966/67 26gp/31g verified; calendar-year split estimated. Europe 1966 = QF only, with Man United (2gp, 0g); The 7 goals in the 1965/66 European Cup were almost all in 1965. World Cup 6gp/9g (top scorer), 3rd place. No European participation in autumn 1966 (not confirmed). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 European Cup: Quarter-finals). Changed: gp 25→28, g 27→28, uG 0→2. Awards: not found on Wikipedia: league top scorer, tournament best player."
    },
    {
     "name": "Franz Beckenbauer",
@@ -100,12 +116,19 @@
     "ntT": "WC",
     "ntS": 4,
     "title": 0,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 3,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://rsssf.org/players/beckenbauerdata.html",
@@ -115,9 +138,11 @@
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_Bundesliga",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_UEFA_Cup_Winners'_Cup",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup_Winners'_Cup"
     ],
-    "note": "Bundesliga 1965/66 33gp/4g and 1966/67 33gp/0g verified; calendar year ≈33gp/2g estimated. Cup Winners' Cup 1966/67: 4 games in autumn 1966 included in gp (the edition ends in 1967, so uT is empty). World Cup 6gp/4g, final lost. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1966–67 UEFA Cup Winners' Cup). Changed: gp 37→38, g 2→1, uT →CWC."
+    "note": "Bundesliga 1965/66 33gp/4g and 1966/67 33gp/0g verified; calendar year ≈33gp/2g estimated. Cup Winners' Cup 1966/67: 4 games in autumn 1966 included in gp (the edition ends in 1967, so uT is empty). World Cup 6gp/4g, final lost. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1966–67 UEFA Cup Winners' Cup). Changed: gp 37→38, g 2→1, uT →CWC. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "Bobby Moore",
@@ -137,12 +162,19 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9.5,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://www.statscrew.com/worldfootball/stats/p-moorebob001",
@@ -150,9 +182,11 @@
      "https://en.wikipedia.org/wiki/Bobby_Moore",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_UEFA_Cup_Winners'_Cup",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_FA_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup_Winners'_Cup"
     ],
-    "note": "League 1965/66 37gp/0g, 1966/67 40gp/2g and Cup Winners' Cup 1965/66 6gp verified; calendar year estimated (Europe 1966 = QF Magdeburg + SF Dortmund, 4gp). World Cup: champion captain, 6gp; 2 assists in the final (usual estimate). Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 UEFA Cup Winners' Cup: Semi-finals); to verify: club."
+    "note": "League 1965/66 37gp/0g, 1966/67 40gp/2g and Cup Winners' Cup 1965/66 6gp verified; calendar year estimated (Europe 1966 = QF Magdeburg + SF Dortmund, 4gp). World Cup: champion captain, 6gp; 2 assists in the final (usual estimate). Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 UEFA Cup Winners' Cup: Semi-finals); to verify: club. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "Flórián Albert",
@@ -172,12 +206,19 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 1,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 5,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert",
@@ -186,9 +227,10 @@
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Inter-Cities_Fairs_Cup",
      "https://en.wikipedia.org/wiki/1966_Nemzeti_Bajnoks%C3%A1g_I",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1966_Magyar_Kupa"
     ],
-    "note": "Hungarian league 1966 (calendar year) 25gp/24g verified. Europe: European Cup 1965/66 QF vs Inter (2gp) + Fairs Cup 1966/67 R1 Olimpija and R2 Örgryte in the autumn (4gp); Albert scored 8 goals in that Fairs Cup (incl. R3 in 1967) — ~6 in 1966 estimated. World Cup 4gp/0g (fbref). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 European Cup: Quarter-finals). Changed: gp 31→25, g 30→24, uG 6→0."
+    "note": "Hungarian league 1966 (calendar year) 25gp/24g verified. Europe: European Cup 1965/66 QF vs Inter (2gp) + Fairs Cup 1966/67 R1 Olimpija and R2 Örgryte in the autumn (4gp); Albert scored 8 goals in that Fairs Cup (incl. R3 in 1967) — ~6 in 1966 estimated. World Cup 4gp/0g (fbref). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1965–66 European Cup: Quarter-finals). Changed: gp 31→25, g 30→24, uG 6→0. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "Ferenc Bene",
@@ -208,19 +250,29 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://fbref.com/en/squads/b4ac5e97/1966/Hungary-Men-Stats",
      "https://en.wikipedia.org/wiki/Ferenc_Bene",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1966_Nemzeti_Bajnoks%C3%A1g_I",
+     "https://en.wikipedia.org/wiki/1966_Magyar_Kupa",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_Inter-Cities_Fairs_Cup"
     ],
-    "note": "World Cup 4gp/4g verified (scored in every game). League 1966 and Fairs Cup 1965/66 (QF vs Leeds) estimated from memory. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "World Cup 4gp/4g verified (scored in every game). League 1966 and Fairs Cup 1965/66 (QF vs Leeds) estimated from memory. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "Lev Yashin",
@@ -240,18 +292,27 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://en.wikipedia.org/wiki/Lev_Yashin",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1966_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_Soviet_Cup"
     ],
-    "note": "Soviet league 1966 (calendar year) estimated. World Cup: played 4 of the 6 games (Kavazashvili played 2), 4th place — from memory. Tied 7th (6 pts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 22→8."
+    "note": "Soviet league 1966 (calendar year) estimated. World Cup: played 4 of the 6 games (Kavazashvili played 2), 4th place — from memory. Tied 7th (6 pts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 22→8. Awards: not found on Wikipedia: league top scorer, tournament best player."
    },
    {
     "name": "Alan Ball",
@@ -271,21 +332,30 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 7.5,
     "rank": 7,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://en.wikipedia.org/wiki/Alan_Ball_Jr.",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Everton_F.C._season",
      "https://en.wikipedia.org/wiki/1965%E2%80%9366_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_UEFA_Cup_Winners'_Cup",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_FA_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup_Winners'_Cup"
     ],
-    "note": "Transferred to Everton in Aug 1966. League (Blackpool 1965/66 + Everton 1966/67) and Cup Winners' Cup 1966/67 (autumn) estimated from memory. World Cup 4gp/0g, champion. Tied 7th (6 pts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1966–67 UEFA Cup Winners' Cup). Changed: gp 43→41, g 17→16, uG 1→0, uT →CWC."
+    "note": "Transferred to Everton in Aug 1966. League (Blackpool 1965/66 + Everton 1966/67) and Cup Winners' Cup 1966/67 (autumn) estimated from memory. World Cup 4gp/0g, champion. Tied 7th (6 pts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1966–67 UEFA Cup Winners' Cup). Changed: gp 43→41, g 17→16, uG 1→0, uT →CWC. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "János Farkas",
@@ -305,20 +375,29 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://fbref.com/en/squads/b4ac5e97/1966/Hungary-Men-Stats",
      "https://beyondthelastman.com/2017/01/25/after-the-mighty-magyars-janos-farkas/",
      "https://en.wikipedia.org/wiki/J%C3%A1nos_Farkas",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1966_Nemzeti_Bajnoks%C3%A1g_I",
+     "https://en.wikipedia.org/wiki/1966_Magyar_Kupa"
     ],
-    "note": "Top scorer of the 1966 Hungarian league with 25 goals (verified); games (~25) estimated. Vasas champions 1966. European Cup 1966/67 (R1 Sporting, R2 Inter) in the autumn: 4gp/~3g estimated; the edition ends in 1967. World Cup 4gp/1g (goal against Brazil). Tied 7th (6 pts). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Top scorer of the 1966 Hungarian league with 25 goals (verified); games (~25) estimated. Vasas champions 1966. European Cup 1966/67 (R1 Sporting, R2 Inter) in the autumn: 4gp/~3g estimated; the edition ends in 1967. World Cup 4gp/1g (goal against Brazil). Tied 7th (6 pts). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: tournament best player."
    },
    {
     "name": "José Torres",
@@ -338,18 +417,28 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://en.wikipedia.org/wiki/Jos%C3%A9_Torres_(footballer,_born_1938)",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_Primeira_Divis%C3%A3o",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_Ta%C3%A7a_de_Portugal",
+     "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
     ],
-    "note": "League estimated from memory. World Cup 6gp/3g, 3rd place. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "League estimated from memory. World Cup 6gp/3g, 3rd place. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, tournament best player."
    },
    {
     "name": "Pelé",
@@ -369,20 +458,28 @@
     "ntT": "WC",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy66.html",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://www.hitc.com/how-many-ballons-dor-did-pele-win-why-footballs-greatest-legend-never-won-the-award/",
      "https://en.wikipedia.org/wiki/Pel%C3%A9",
-     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1966_Campeonato_Brasileiro_S%C3%A9rie_A"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. Santos did not play the 1966 Libertadores. World Cup: 2gp/1g, knocked out in the group stage (injured). Ineligible (non-European); FF did not award him 1966 retroactively. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. Santos did not play the 1966 Libertadores. World Cup: 2gp/1g, knocked out in the group stage (injured). Ineligible (non-European); FF did not award him 1966 retroactively. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page, tournament best player."
    }
   ]
  },
@@ -413,21 +510,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 1,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://en.wikipedia.org/wiki/1967_Nemzeti_Bajnoks%C3%A1g_I",
      "https://national-football-teams.com/club/1142/1967_2/Ferencvarosi_Tc.html",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Inter-Cities_Fairs_Cup",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Inter-Cities_Fairs_Cup",
-     "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert"
+     "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert",
+     "https://en.wikipedia.org/wiki/1967_Magyar_Kupa"
     ],
-    "note": "Hungarian league 1967 (calendar year) 27gp/28g and Ferencváros's title verified. Europe estimated: R3 of the 1966/67 Fairs Cup vs Eintracht (knocked out; round of 16 → uS 1) + R1 Argeș and R2 of the 1967/68 Fairs Cup in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1966–67 Inter-Cities Fairs Cup: Third round); to verify: title. Changed: g 31→32, uG 3→4."
+    "note": "Hungarian league 1967 (calendar year) 27gp/28g and Ferencváros's title verified. Europe estimated: R3 of the 1966/67 Fairs Cup vs Eintracht (knocked out; round of 16 → uS 1) + R1 Argeș and R2 of the 1967/68 Fairs Cup in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1966–67 Inter-Cities Fairs Cup: Third round); to verify: title. Changed: g 31→32, uG 3→4. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Bobby Charlton",
@@ -447,12 +552,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://www.11v11.com/players/bobby-charlton-21447/",
@@ -460,7 +572,9 @@
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_FA_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
     ],
     "note": "League 1966/67 42gp/12g verified (champion); 1967/68 and calendar-year split estimated. European Cup 1967/68: R1 Hibernians and R2 Sarajevo in the autumn (4gp, 0g) — the edition ends in 1968. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1967–68 European Cup). Changed: gp 46→45, g 14→18, uT →UCL."
    },
@@ -482,21 +596,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://en.wikipedia.org/wiki/Jimmy_Johnstone",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Celtic_F.C._season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Celtic_F.C._season",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Scottish_Division_One",
-     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Scottish_Cup"
     ],
-    "note": "Scottish and European champion 1966/67. League and European Cup estimated from memory (European Cup 1967: QF Vojvodina, SF Dukla, final Inter = 5gp; autumn: R1 Dynamo Kyiv 2gp). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1966–67 European Cup: Final). Changed: gp 37→34, g 12→15, uG 1→2."
+    "note": "Scottish and European champion 1966/67. League and European Cup estimated from memory (European Cup 1967: QF Vojvodina, SF Dukla, final Inter = 5gp; autumn: R1 Dynamo Kyiv 2gp). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1966–67 European Cup: Final). Changed: gp 37→34, g 12→15, uG 1→2. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Franz Beckenbauer",
@@ -516,12 +638,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://statscrew.com/worldfootball/stats/p-beckefra009",
@@ -529,7 +658,9 @@
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Bundesliga",
-     "https://en.wikipedia.org/wiki/1966%E2%80%9367_UEFA_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup_Winners'_Cup"
     ],
     "note": "Bundesliga 1966/67 33gp/0g verified; 1967/68 estimated. Cup Winners' Cup 1966/67 won (QF Rapid, SF Standard, final Rangers in 1967) + R1/R2 1967/68 in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1966–67 UEFA Cup Winners' Cup: Final). Changed: gp 41→38, g 3→4."
    },
@@ -551,19 +682,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 5,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Primeira_Divis%C3%A3o",
      "https://en.wikipedia.org/wiki/Eus%C3%A9bio",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_S.L._Benfica_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_S.L._Benfica_season",
-     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Inter-Cities_Fairs_Cup"
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Inter-Cities_Fairs_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Ta%C3%A7a_de_Portugal"
     ],
     "note": "League 1966/67 26gp/31g and title verified (top scorer); 1967/68 (42 goals, from memory) and calendar-year split estimated. European Cup 1967/68 R1 Glentoran and R2 Saint-Étienne in the autumn (4gp/~2g). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1967–68 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1966–67 Inter-Cities Fairs Cup: Third round). Changed: gp 28→33, g 36→44, uG 2→5, uT →UEL, uS 0→1."
    },
@@ -585,17 +724,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
-     "https://en.wikipedia.org/wiki/Tommy_Gemmell"
+     "https://en.wikipedia.org/wiki/Tommy_Gemmell",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Scottish_Division_One",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Scottish_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
     ],
-    "note": "Left-back; scored in the Lisbon final. The rest estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Left-back; scored in the Lisbon final. The rest estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Gerd Müller",
@@ -615,19 +764,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 1,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://en.wikipedia.org/wiki/Gerd_M%C3%BCller",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Bundesliga",
-     "https://en.wikipedia.org/wiki/1966%E2%80%9367_UEFA_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup_Winners'_Cup"
     ],
     "note": "Bundesliga 1966/67 (28 goals, joint top scorer) and 1967/68 from memory; calendar year estimated. 18 or 19 pts (FF/RSSSF disagree). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1966–67 UEFA Cup Winners' Cup: Final). Changed: gp 42→41, g 30→25, uG 6→11."
    },
@@ -649,19 +807,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://en.wikipedia.org/wiki/George_Best",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_FA_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
     ],
     "note": "Champion 1966/67. League and European Cup (autumn 1967) estimated from memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1967–68 European Cup). Changed: g 19→16, uT →UCL."
    },
@@ -683,17 +850,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
-     "https://en.wikipedia.org/wiki/Igor_Chislenko"
+     "https://en.wikipedia.org/wiki/Igor_Chislenko",
+     "https://en.wikipedia.org/wiki/1967_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Soviet_Cup"
     ],
-    "note": "Soviet league 1967 (calendar year) estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Soviet league 1967 (calendar year) estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "János Farkas",
@@ -713,17 +889,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
-     "https://en.wikipedia.org/wiki/J%C3%A1nos_Farkas"
+     "https://en.wikipedia.org/wiki/J%C3%A1nos_Farkas",
+     "https://en.wikipedia.org/wiki/1967_Nemzeti_Bajnoks%C3%A1g_I",
+     "https://en.wikipedia.org/wiki/1967_Magyar_Kupa",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
     ],
-    "note": "League 1967 estimated. European Cup 1966/67: knocked out by Inter in R2 (round of 16, games in 1966) → uS 1; European goals = European Cup 1967/68 R1/R2 in the autumn (estimated). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "League 1967 estimated. European Cup 1966/67: knocked out by Inter in R2 (round of 16, games in 1966) → uS 1; European goals = European Cup 1967/68 R1/R2 in the autumn (estimated). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Sandro Mazzola",
@@ -743,19 +929,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 10,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://en.wikipedia.org/wiki/Sandro_Mazzola",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Inter_Milan_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Inter_Milan_season",
      "https://en.wikipedia.org/wiki/1966%E2%80%9367_Serie_A",
-     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Coppa_Italia"
     ],
     "note": "Losing finalist in the 1966/67 European Cup (penalty goal in the final). League and European Cup estimated from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1966–67 European Cup: Final). Changed: gp 36→40, g 17→21, uG 3→4."
    },
@@ -777,15 +971,25 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 7.5,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
-     "https://en.wikipedia.org/wiki/Pirri"
+     "https://en.wikipedia.org/wiki/Pirri",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_La_Liga",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
     ],
     "note": "Spanish champion 1966/67. Estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -807,19 +1011,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy67.html",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://www.hitc.com/how-many-ballons-dor-did-pele-win-why-footballs-greatest-legend-never-won-the-award/",
      "https://en.wikipedia.org/wiki/Pel%C3%A9"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. Santos Paulista champions 1967 (state championship, does not count as a national title). Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. Santos Paulista champions 1967 (state championship, does not count as a national title). Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league season page, cup page."
    }
   ]
  },
@@ -850,19 +1061,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/George_Best",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "League 1967/68 (28 goals, joint top scorer) and 1968/69 from memory; calendar year estimated. European Cup 1968: QF Górnik, SF Real Madrid, final Benfica (goal) + R1/R2 1968/69 in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1967–68 European Cup: Final). Changed: gp 51→49, g 26→27, uG 3→2."
    },
@@ -884,12 +1104,19 @@
     "ntT": "EURO",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Bobby_Charlton",
@@ -897,7 +1124,9 @@
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Football_League_First_Division",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
-     "https://en.wikipedia.org/wiki/UEFA_Euro_1968"
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1968",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "2 goals in the European Cup final. Euro 1968: SF Yugoslavia and the third-place game (goal). The rest estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1967–68 European Cup: Final). Changed: gp 48→45, g 13→11."
    },
@@ -919,16 +1148,26 @@
     "ntT": "EURO",
     "ntS": 4,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 1,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Dragan_D%C5%BEaji%C4%87",
-     "https://en.wikipedia.org/wiki/UEFA_Euro_1968"
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1968",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Yugoslav_First_League",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Yugoslav_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Yugoslav champion 1967/68. Euro 1968: 3gp/2g (SF England and first final), finalist. League and European Cup 1968/69 (R2 vs Celtic, Nov 1968) estimated. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
@@ -950,19 +1189,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8.5,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Franz_Beckenbauer",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Bundesliga",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_UEFA_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup_Winners'_Cup"
     ],
     "note": "Cup Winners' Cup 1967/68: QF Valencia, SF Milan (knocked out). Estimated from memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1967–68 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 36→33, g 4→1."
    },
@@ -984,18 +1233,27 @@
     "ntT": "EURO",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9,
     "rank": 5,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Giacinto_Facchetti",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Inter_Milan_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Serie_A",
-     "https://en.wikipedia.org/wiki/UEFA_Euro_1968"
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1968",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Euro 1968: SF, final and replay (champion captain). Inter without Europe in 1968. Estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 30→28, g 4→7."
    },
@@ -1017,17 +1275,26 @@
     "ntT": "EURO",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Gigi_Riva",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Serie_A",
-     "https://en.wikipedia.org/wiki/UEFA_Euro_1968"
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1968",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Euro 1968: played only the replay (goal). League estimated from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 27→26, g 16→13."
    },
@@ -1049,19 +1316,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Amancio_(footballer)",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_La_Liga",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Spanish champion 1967/68; European Cup SF vs Man United. Spain went out in the Euro quarter-finals (qualifying phase). Estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1967–68 European Cup: Semi-finals). Changed: gp 36→35, g 12→14, uG 2→4."
    },
@@ -1083,19 +1359,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 1,
+    "uTop": 1,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Eus%C3%A9bio",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_S.L._Benfica_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_S.L._Benfica_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Primeira_Divis%C3%A3o",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Ta%C3%A7a_de_Portugal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "League 1967/68 (42 goals, Golden Boot) from memory; calendar year estimated. Losing finalist in the 1967/68 European Cup. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1967–68 European Cup: Final). Changed: gp 32→33, g 37→48, uG 7→6."
    },
@@ -1117,12 +1402,19 @@
     "ntT": "EURO",
     "ntS": 5,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Gianni_Rivera",
@@ -1130,7 +1422,10 @@
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Serie_A",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_UEFA_Cup_Winners'_Cup",
-     "https://en.wikipedia.org/wiki/UEFA_Euro_1968"
+     "https://en.wikipedia.org/wiki/UEFA_Euro_1968",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup_Winners'_Cup"
     ],
     "note": "Italian champion and Cup Winners' Cup winner 1967/68. Euro 1968: only the SF vs the USSR. Estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1968–69 AC Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1967–68 UEFA Cup Winners' Cup: Final). Changed: gp 38→40, uG 1→2."
    },
@@ -1152,19 +1447,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://en.wikipedia.org/wiki/Jimmy_Greaves",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Tottenham_Hotspur_F.C._season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Tottenham_Hotspur_F.C._season",
      "https://en.wikipedia.org/wiki/1967%E2%80%9368_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1967%E2%80%9368_UEFA_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup_Winners'_Cup"
     ],
     "note": "League estimated from memory. Tottenham knocked out of the 1967/68 Cup Winners' Cup in 1967 (no European games in the window). Not at Euro 1968. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage from the edition page (1967–68 UEFA Cup Winners' Cup: Second round); to verify: club. Changed: uT →CWC, uS 0→1."
    },
@@ -1186,15 +1491,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 7.5,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
-     "https://en.wikipedia.org/wiki/Pirri"
+     "https://en.wikipedia.org/wiki/Pirri",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_La_Liga",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1967%E2%80%9368_European_Cup"
     ],
     "note": "Spanish champion 1967/68. Estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1216,19 +1532,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://www.hitc.com/how-many-ballons-dor-did-pele-win-why-footballs-greatest-legend-never-won-the-award/",
-     "https://en.wikipedia.org/wiki/Pel%C3%A9"
+     "https://en.wikipedia.org/wiki/Pel%C3%A9",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. Santos won the 1968 Torneio Roberto Gomes Pedrosa (national title) and the Paulista. Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. Santos won the 1968 Torneio Roberto Gomes Pedrosa (national title) and the Paulista. Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league season page, cup page."
    },
    {
     "name": "Juan Ramón Verón",
@@ -1248,17 +1572,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy68.html",
-     "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Ver%C3%B3n"
+     "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Ver%C3%B3n",
+     "https://en.wikipedia.org/wiki/1968_Argentine_Primera_Divisi%C3%B3n",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1968_Copa_Libertadores"
     ],
-    "note": "Winner of the 1968 Libertadores (and of the Intercontinental Cup vs Man United, which does not count). Argentine league 1968 and Libertadores estimated from memory. Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Winner of the 1968 Libertadores (and of the Intercontinental Cup vs Man United, which does not count). Argentine league 1968 and Libertadores estimated from memory. Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
    }
   ]
  },
@@ -1289,19 +1623,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Gianni_Rivera",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Serie_A",
-     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "European Cup 1968/69: QF Celtic, SF Man United, final Ajax (5gp) + R1 Avenir Beggen and R2 Feyenoord 1969/70 in the autumn. League estimated from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1968–69 European Cup: Final). Changed: gp 37→35, g 8→5, uG 1→2."
    },
@@ -1323,18 +1666,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Gigi_Riva",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Cagliari_Calcio_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Serie_A",
-     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup"
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Inter-Cities_Fairs_Cup"
     ],
     "note": "Top scorer of the 1968/69 and 1969/70 Serie A (from memory); calendar year estimated. Fairs Cup 1969/70 in the autumn (the edition ends in 1970). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1969–70 Inter-Cities Fairs Cup). Changed: gp 31→29, g 22→20, uG 2→0, uT →UEL."
    },
@@ -1356,19 +1709,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Gerd_M%C3%BCller",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Bundesliga",
-     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup"
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
     ],
     "note": "Champion and top scorer 1968/69 (30) and 1969/70 (38), from memory; calendar year estimated. European Cup 1969/70: knocked out in R1 (Saint-Étienne) in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1969–70 European Cup). Changed: gp 34→33, g 36→27, uG 1→0, uT →UCL."
    },
@@ -1390,19 +1753,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Johan_Cruyff",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Eredivisie",
-     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Losing finalist in the 1968/69 European Cup (QF Benfica after a play-off, SF Spartak Trnava). Fairs Cup 1969/70 R1/R2 in the autumn. Estimated from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1968–69 European Cup: Final). Changed: gp 42→39, g 29→30, uG 5→6."
+    "note": "Losing finalist in the 1968/69 European Cup (QF Benfica after a play-off, SF Spartak Trnava). Fairs Cup 1969/70 R1/R2 in the autumn. Estimated from memory. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1968–69 European Cup: Final). Changed: gp 42→39, g 29→30, uG 5→6. Awards: not found on Wikipedia: cup page."
    },
    {
     "name": "Ove Kindvall",
@@ -1422,17 +1793,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
-     "https://en.wikipedia.org/wiki/Ove_Kindvall"
+     "https://en.wikipedia.org/wiki/Ove_Kindvall",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Eredivisie",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Dutch champion 1968/69. European Cup 1969/70 (R1 KR, R2 Milan) in the autumn; edition won in 1970. Estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Dutch champion 1968/69. European Cup 1969/70 (R1 KR, R2 Milan) in the autumn; edition won in 1970. Estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    },
    {
     "name": "George Best",
@@ -1452,19 +1832,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/George_Best",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "SF of the 1968/69 European Cup (vs Milan). Estimated from memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1968–69 European Cup: Semi-finals). Changed: gp 45→43, g 22→25."
    },
@@ -1486,19 +1875,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Franz_Beckenbauer",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Bundesliga",
-     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup"
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
     ],
     "note": "Already a libero at Bayern. Champion 1968/69. Estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1969–70 European Cup). Changed: g 3→5, uT →UCL."
    },
@@ -1520,19 +1919,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Pierino_Prati",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Serie_A",
-     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Hat-trick in the 1969 European Cup final. Estimated from memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1969–70 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1968–69 European Cup: Final). Changed: gp 34→36, g 18→21."
    },
@@ -1554,17 +1962,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 1,
+    "gs": 1,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Petar_Zhekov",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_A_Group",
-     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup"
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Bulgarian_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_European_Cup"
     ],
     "note": "Bulgarian champion 1968/69 and top scorer in Europe (36 goals in 1968/69, from memory). Calendar year estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1969–70 European Cup). Changed: gp 32→29, g 33→36, uG 1→0, uT →UCL."
    },
@@ -1586,18 +2004,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8.5,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://en.wikipedia.org/wiki/Jack_Charlton",
      "https://en.wikipedia.org/wiki/1968%E2%80%9369_Leeds_United_A.F.C._season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Leeds_United_A.F.C._season",
-     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Inter-Cities_Fairs_Cup"
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Inter-Cities_Fairs_Cup",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_Football_League_First_Division",
+     "https://en.wikipedia.org/wiki/1968%E2%80%9369_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "English champion 1968/69. Fairs Cup 1968/69 (QF vs Újpest) + European Cup 1969/70 R1/R2 in the autumn. Estimated. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1968–69 Inter-Cities Fairs Cup: Quarter-finals); to verify: club, title."
    },
@@ -1619,19 +2047,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy69.html",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://www.hitc.com/how-many-ballons-dor-did-pele-win-why-footballs-greatest-legend-never-won-the-award/",
-     "https://en.wikipedia.org/wiki/Pel%C3%A9"
+     "https://en.wikipedia.org/wiki/Pel%C3%A9",
+     "https://en.wikipedia.org/wiki/1969_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. 1000th goal in Nov 1969. Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. 1000th goal in Nov 1969. Ineligible. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    }
   ]
  },
@@ -1662,12 +2099,19 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 1,
+    "uTop": 0,
+    "ntTop": 1,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1970.htm",
@@ -1676,7 +2120,9 @@
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Bundesliga",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "World Cup 6gp/10g (top scorer), 3rd place. Bundesliga 1969/70 (38 goals) and 1970/71 from memory; calendar year estimated. Fairs Cup 1970/71 (R1 Rangers, R2 Coventry, R3) in the autumn. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1969–70 European Cup: First round). Changed: g 33→38, uG 4→7, uT →UCL."
    },
@@ -1698,17 +2144,26 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9,
     "rank": 2,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Bobby_Moore",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "World Cup 4gp (QF lost to West Germany). League estimated. 70 pts (FF printed 69). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 38→40."
    },
@@ -1730,12 +2185,19 @@
     "ntT": "WC",
     "ntS": 4,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Gigi_Riva",
@@ -1743,7 +2205,9 @@
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_Cagliari_Calcio_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Serie_A",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Italian champion and top scorer 1969/70. Broke his leg on 31/10/1970 (national team). European Cup 1970/71 (R1 Saint-Étienne, R2 Atlético) in the autumn; the edition ends in 1971 (uS of the edition ending in 1970 = Fairs Cup 1969/70, knocked out in R2 in 1969 → 0). World Cup 6gp/3g, finalist. Estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1969–70 Inter-Cities Fairs Cup: Second round). Changed: gp 23→30, g 17→22, uG 2→1, uT UCL→UEL."
    },
@@ -1765,12 +2229,19 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Franz_Beckenbauer",
@@ -1778,7 +2249,9 @@
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_FC_Bayern_Munich_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Bundesliga",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Libero at Bayern; midfielder for the national team at the World Cup (goal vs England). Estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1969–70 European Cup: First round). Changed: gp 39→41, g 3→4, ntGP 6→5, uT →UCL."
    },
@@ -1800,16 +2273,26 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 5,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Wolfgang_Overath",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Bundesliga",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "World Cup 6gp/1g (3rd place). League and Fairs Cup 1970/71 (autumn) estimated. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
@@ -1831,15 +2314,25 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
-     "https://en.wikipedia.org/wiki/Dragan_D%C5%BEaji%C4%87"
+     "https://en.wikipedia.org/wiki/Dragan_D%C5%BEaji%C4%87",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Yugoslav_First_League",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Yugoslav_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Yugoslav champion 1969/70. Yugoslavia were not at the World Cup. European Cup 1970/71 R1/R2 in the autumn. Estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1861,17 +2354,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Johan_Cruyff",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Eredivisie",
-     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup"
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_KNVB_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "Dutch champion 1969/70; SF of the 1969/70 Fairs Cup (vs Arsenal). Injury in autumn 1970. Estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1969–70 Inter-Cities Fairs Cup: Semi-finals). Changed: gp 38→41, g 26→27."
    },
@@ -1893,19 +2395,28 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9.5,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Gordon_Banks",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Stoke_City_F.C._season",
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_Stoke_City_F.C._season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Football_League_First_Division",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_FA_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "World Cup: 3 games (missed the QF against West Germany through illness); famous save from Pelé. League estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 36→37."
    },
@@ -1927,19 +2438,28 @@
     "ntT": "WC",
     "ntS": 4,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Sandro_Mazzola",
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter_Milan_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Serie_A",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "'Staffetta' with Rivera at the World Cup (played the first halves). Inter: SF of the 1969/70 Fairs Cup (Anderlecht). Estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1969–70 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1969–70 Inter-Cities Fairs Cup: Semi-finals). Changed: gp 32→31, g 9→4."
    },
@@ -1961,15 +2481,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8.5,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
-     "https://en.wikipedia.org/wiki/Rinus_Isra%C3%ABl"
+     "https://en.wikipedia.org/wiki/Rinus_Isra%C3%ABl",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Eredivisie",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_KNVB_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup"
     ],
     "note": "European champion 1970 (goal in the final vs Celtic). Estimated from memory. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1991,12 +2522,19 @@
     "ntT": "WC",
     "ntS": 4,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 10,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Gianni_Rivera",
@@ -2004,7 +2542,9 @@
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Serie_A",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
     "note": "World Cup: goals against Mexico (QF) and the winner against West Germany (SF); 6 minutes in the final. Milan without Europe in 1970 (not confirmed). Estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1969–70 European Cup: Second round). Changed: g 8→10, uG 0→2, uT →UCL, uS 0→1."
    },
@@ -2026,18 +2566,28 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 10,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Uwe_Seeler",
      "https://en.wikipedia.org/wiki/1969%E2%80%9370_Bundesliga",
      "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1969%E2%80%9370_Inter-Cities_Fairs_Cup"
     ],
     "note": "World Cup 6gp/3g, 3rd place. League estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1970–71 Inter-Cities Fairs Cup). Changed: gp 32→30, g 15→17, uT →UEL."
    },
@@ -2059,18 +2609,28 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8.5,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Albert_Shesternyov",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1970_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1970_Soviet_Cup",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Captain; CSKA Soviet champions 1970 (calendar year). World Cup 4gp (QF). Estimated. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Captain; CSKA Soviet champions 1970 (calendar year). World Cup 4gp (QF). Estimated. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Pelé",
@@ -2090,21 +2650,30 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 1,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
      "https://www.hitc.com/how-many-ballons-dor-did-pele-win-why-footballs-greatest-legend-never-won-the-award/",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1970.htm",
      "https://en.wikipedia.org/wiki/Pel%C3%A9",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1970_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. World Cup 6gp/4g, ~6 assists (the usual figure, not verified), champion. FF retroactive winner 2016. Ineligible in 1970. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. World Cup 6gp/4g, ~6 assists (the usual figure, not verified), champion. FF retroactive winner 2016. Ineligible in 1970. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    },
    {
     "name": "Jairzinho",
@@ -2124,18 +2693,27 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Jairzinho",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1970_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. World Cup 6gp/7g (scored in every game), champion. Ineligible. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. World Cup 6gp/7g (scored in every game), champion. Ineligible. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    },
    {
     "name": "Tostão",
@@ -2155,18 +2733,27 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy70.html",
      "https://en.wikipedia.org/wiki/Tost%C3%A3o",
-     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1970_Campeonato_Brasileiro_S%C3%A9rie_A",
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
     ],
-    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. World Cup 6gp/2g, champion. Ineligible. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Brazil had no national league until 1971: 'league' = state championship + national tournament (Taça Brasil/Torneio Roberto Gomes Pedrosa), estimated. World Cup 6gp/2g, champion. Ineligible. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    }
   ]
  }

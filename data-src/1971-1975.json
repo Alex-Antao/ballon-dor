@@ -26,12 +26,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
@@ -39,7 +46,9 @@
           "https://en.wikipedia.org/wiki/Johan_Cruyff",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_AFC_Ajax_season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Eredivisie",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "116 pts. Eredivisie 1970/71 ~25 gp/21 g; European Cup 1970/71 won (European goals estimated). Ajax 2nd (Feyenoord champions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 European Cup: Final). Changed: gp 33→36, g 23→22, uG 2→4."
       },
@@ -61,12 +70,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
@@ -75,7 +91,9 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Serie_A",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "57 pts. Inter champions 1970/71; knocked out early in the 1970/71 Inter-Cities Fairs Cup (Newcastle, memory). League goals uncertain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1971–72 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: First round). Changed: gp 31→37, g 7→11, uG 0→1."
       },
@@ -97,12 +115,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
@@ -110,7 +135,9 @@
           "https://en.wikipedia.org/wiki/George_Best",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Manchester_United_F.C._season",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "56 pts. League 1970/71 ~40 gp/18 g; Man United without Europe. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: g 18→26."
       },
@@ -132,17 +159,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
           "https://ballondor.com/all-rankings?year=1971",
-          "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer"
+          "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Bundesliga",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
         ],
         "note": "30 pts. Champion 1970/71; European Cup 1970/71 knocked out by Everton on penalties (2nd round = round of 16). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -164,12 +202,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
@@ -178,7 +223,9 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Bundesliga",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "27 pts. Bayern 2nd 1970/71; Fairs Cup: knocked out in the quarter-finals by Liverpool. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: Quarter-finals). Changed: gp 42→39, g 3→7, uG 1→0."
       },
@@ -200,12 +247,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
@@ -214,7 +268,9 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Bundesliga",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "18 pts (tied). Bundesliga 1970/71 ~32 gp/22 g; Fairs Cup goals estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: Quarter-finals). Changed: gp 40→39, g 28→33, uG 6→4."
       },
@@ -236,21 +292,31 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
           "https://ballondor.com/all-rankings?year=1971",
           "https://en.wikipedia.org/wiki/Josip_Skoblar",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_French_Division_1",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Coupe_de_France",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
         ],
-        "note": "18 pts (tied). 44 goals in the 1970/71 Division 1 (record), Marseille champions. European participation in 1970/71 (Fairs Cup, early exit) is uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1971–72 European Cup). Changed: gp 39→38, uT UEL→UCL."
+        "note": "18 pts (tied). 44 goals in the 1970/71 Division 1 (record), Marseille champions. European participation in 1970/71 (Fairs Cup, early exit) is uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1971–72 European Cup). Changed: gp 39→38, uT UEL→UCL. Awards: not found on Wikipedia: cup winner."
       },
       {
         "name": "Martin Chivers",
@@ -270,17 +336,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
           "https://ballondor.com/all-rankings?year=1971",
-          "https://en.wikipedia.org/wiki/Martin_Chivers"
+          "https://en.wikipedia.org/wiki/Martin_Chivers",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "12 pts. League 1970/71 ~42 gp/21 g; Spurs without Europe in 1970/71 (the 1971/72 UEFA Cup goals, autumn 1971, fall outside the S window). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -302,12 +378,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
@@ -315,7 +398,9 @@
           "https://en.wikipedia.org/wiki/Piet_Keizer",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_AFC_Ajax_season",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Eredivisie",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "9 pts. European Cup 1970/71 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 European Cup: Final). Changed: gp 38→41, g 12→15, uG 2→4."
       },
@@ -337,19 +422,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
           "https://ballondor.com/all-rankings?year=1971",
           "https://en.wikipedia.org/wiki/Bobby_Moore",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_West_Ham_United_F.C._season",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "7 pts (tied). West Ham in the bottom half of the table 1970/71. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 West Ham United: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 39→41."
       },
@@ -371,19 +465,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1971_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1971.htm",
           "https://ballondor.com/all-rankings?year=1971",
-          "https://en.wikipedia.org/wiki/Ferenc_Bene"
+          "https://en.wikipedia.org/wiki/Ferenc_Bene",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_Nemzeti_Bajnoks%C3%A1g_I",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
         ],
-        "note": "7 pts (tied). Format of the 1970/71 Hungarian league (autumn–spring season) and Bene's numbers very uncertain; Újpest champions. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "7 pts (tied). Format of the 1970/71 Hungarian league (autumn–spring season) and Bene's numbers very uncertain; Újpest champions. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Tostão",
@@ -403,18 +507,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
-          "https://en.wikipedia.org/wiki/Tost%C3%A3o"
+          "https://en.wikipedia.org/wiki/Tost%C3%A3o",
+          "https://en.wikipedia.org/wiki/1971_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Ineligible (Brazilian). South American player of the year 1971 (El Mundo, memory). Campeonato Nacional 1971; numbers roughly estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Ineligible (Brazilian). South American player of the year 1971 (El Mundo, memory). Campeonato Nacional 1971; numbers roughly estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -445,12 +558,19 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9.5,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
@@ -460,7 +580,10 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Bundesliga",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1972"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1972",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners'_Cup"
         ],
         "note": "81 pts. Bayern champions 1971/72; Cup Winners' Cup: semi-finals (Rangers). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup Winners' Cup: Semi-finals). Changed: g 7→6."
       },
@@ -482,12 +605,19 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 1,
+        "ntBest": 1,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
@@ -497,7 +627,10 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Bundesliga",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1972"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1972",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners'_Cup"
         ],
         "note": "79 pts (tied). 40 goals in the 1971/72 Bundesliga; 4 goals at the Euro (2 against Belgium, 2 against the USSR in the final). Cup Winners' Cup goals estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 41→42, g 45→53, uG 5→11."
       },
@@ -519,18 +652,29 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy72.html",
           "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1972"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1972",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_Bundesliga",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "79 pts (tied). Gladbach 3rd; European Cup 1971/72: 7-1 against Inter annulled (not counted), knocked out in the round of 16. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -552,12 +696,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
@@ -565,7 +716,9 @@
           "https://en.wikipedia.org/wiki/Johan_Cruyff",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_AFC_Ajax_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "73 pts. Top scorer of the 1971/72 Eredivisie (~25 g); 2 goals in the European Cup final against Inter. The Netherlands did not reach the Euro finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1972–73 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1971–72 European Cup: Final). Changed: gp 41→39, g 30→29, uG 5→4."
       },
@@ -587,12 +740,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
@@ -600,7 +760,9 @@
           "https://en.wikipedia.org/wiki/Piet_Keizer",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_AFC_Ajax_season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "13 pts. European Cup and Eredivisie 1971/72. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1972–73 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1971–72 European Cup: Final). Changed: gp 40→38, g 12→15, uG 2→1."
       },
@@ -622,21 +784,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy72.html",
           "https://en.wikipedia.org/wiki/Kazimierz_Deyna",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Ekstraklasa",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "6 pts. 1972 Olympic gold does not count. Legia's 1971/72 European participation uncertain (left at 0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup: Second round). Changed: gp 26→30, uT →UEL."
+        "note": "6 pts. 1972 Olympic gold does not count. Legia's 1971/72 European participation uncertain (left at 0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup: Second round). Changed: gp 26→30, uT →UEL. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Gordon Banks",
@@ -656,12 +826,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
@@ -670,7 +847,10 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Stoke_City_F.C._season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Stoke_City_F.C._season",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_UEFA_Cup"
         ],
         "note": "4 pts (tied). The 1972 League Cup does not count; a car crash in Oct 1972 ended his career. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1972–73 UEFA Cup). Changed: gp 36→22, uT →UEL."
       },
@@ -692,17 +872,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy72.html",
-          "https://en.wikipedia.org/wiki/Barry_Hulshoff"
+          "https://en.wikipedia.org/wiki/Barry_Hulshoff",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "4 pts (tied). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -724,21 +915,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy72.html",
           "https://en.wikipedia.org/wiki/W%C5%82odzimierz_Luba%C5%84ski",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Ekstraklasa",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "4 pts (tied). Górnik champions; numbers and 1971/72 European run very uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 European Cup: First round). Changed: gp 28→27, g 18→15."
+        "note": "4 pts (tied). Górnik champions; numbers and 1971/72 European run very uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 European Cup: First round). Changed: gp 28→27, g 18→15. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Bobby Moore",
@@ -758,12 +957,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1972_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1972.htm",
@@ -771,7 +977,9 @@
           "https://en.wikipedia.org/wiki/Bobby_Moore",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_West_Ham_United_F.C._season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_West_Ham_United_F.C._season",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_Football_League_First_Division"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "4 pts (tied). England knocked out in the Euro quarter-finals (qualifying phase, does not count). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 40→43, g 1→3."
       },
@@ -793,19 +1001,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
           "https://en.wikipedia.org/wiki/Te%C3%B3filo_Cubillas",
-          "https://en.wikipedia.org/wiki/1972_Copa_Libertadores"
+          "https://en.wikipedia.org/wiki/1972_Copa_Libertadores",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Ineligible (Peruvian). lg PER = Peru's Campeonato Descentralizado. South American player of the year 1972 (El Mundo, memory). Numbers roughly estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1972 Copa Libertadores: Group Stage); to verify: title. Changed: gp 30→29, g 20→14, uT →LIB, uS 0→2."
+        "note": "Ineligible (Peruvian). lg PER = Peru's Campeonato Descentralizado. South American player of the year 1972 (El Mundo, memory). Numbers roughly estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1972 Copa Libertadores: Group Stage); to verify: title. Changed: gp 30→29, g 20→14, uT →LIB, uS 0→2. Awards: not found on Wikipedia: league season page."
       }
     ]
   },
@@ -836,12 +1052,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
@@ -849,7 +1072,9 @@
           "https://en.wikipedia.org/wiki/Johan_Cruyff",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Eredivisie",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "96 pts. Ajax 1972/73: Eredivisie (~26 gp/16 g) and European Cup won. Barcelona games in autumn 1973 NOT included (S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Final). Changed: gp 32→38, g 19→20."
       },
@@ -871,12 +1096,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9.5,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
@@ -885,7 +1117,9 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Serie_A",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "47 pts. Juventus champions 1972/73; European Cup final lost to Ajax. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Final). Changed: gp 39→35."
       },
@@ -907,12 +1141,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
@@ -921,7 +1162,9 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "44 pts. Bundesliga 1972/73 ~36 g; top scorer of the 1972/73 European Cup (~11 g, memory); knocked out by Ajax in the quarter-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Quarter-finals). Changed: g 47→37, uG 11→5."
       },
@@ -943,12 +1186,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
@@ -957,7 +1207,9 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "30 pts. Bayern champions 1972/73. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Quarter-finals). Changed: gp 40→39, g 7→4, uG 1→0."
       },
@@ -979,19 +1231,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy73.html",
           "https://en.wikipedia.org/wiki/Billy_Bremner",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup"
         ],
         "note": "22 pts. 1973 Cup Winners' Cup final lost to Milan (Bremner suspended for the final). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Final). Changed: g 5→4, uG 1→0."
       },
@@ -1013,21 +1275,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy73.html",
           "https://en.wikipedia.org/wiki/Kazimierz_Deyna",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Ekstraklasa",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup"
         ],
-        "note": "16 pts. Poland's qualification for the 1974 World Cup (Wembley, Oct 1973) does not count. European run uncertain (0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Second round). Changed: uG 0→3, uT →CWC, uS 0→1."
+        "note": "16 pts. Poland's qualification for the 1974 World Cup (Wembley, Oct 1973) does not count. European run uncertain (0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Second round). Changed: uG 0→3, uT →CWC, uS 0→1. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Eusébio",
@@ -1047,12 +1318,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
@@ -1061,9 +1339,10 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Primeira_Divis%C3%A3o",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "14 pts. ~40 league goals in 1972/73 (Golden Boot); Benfica champions; knocked out by Derby in the 2nd round (round of 16). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Second round). Changed: gp 32→27, g 41→28."
+        "note": "14 pts. ~40 league goals in 1972/73 (Golden Boot); Benfica champions; knocked out by Derby in the 2nd round (round of 16). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Second round). Changed: gp 32→27, g 41→28. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Gianni Rivera",
@@ -1083,12 +1362,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
@@ -1097,7 +1383,10 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Serie_A",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup"
         ],
         "note": "12 pts. Top scorer of the 1972/73 Serie A (17 g, tied); Cup Winners' Cup won; Milan lost the title on the last matchday. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Final). Changed: gp 35→34, g 19→13, uG 2→0."
       },
@@ -1119,21 +1408,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy73.html",
           "https://en.wikipedia.org/wiki/Ralf_Edstr%C3%B6m",
           "https://en.wikipedia.org/wiki/1973_Allsvenskan",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "11 pts (tied). Allsvenskan (calendar year) 1973 with Åtvidaberg champions; transfer date to PSV and numbers uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1972–73 UEFA Cup: First round); Swedish champion 1973 with Åtvidaberg (11 of 26 rounds, ≥ 1/3) before moving to PSV. Changed: gp 20→11, g 12→6, uT →UEL."
+        "note": "11 pts (tied). Allsvenskan (calendar year) 1973 with Åtvidaberg champions; transfer date to PSV and numbers uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1972–73 UEFA Cup: First round); Swedish champion 1973 with Åtvidaberg (11 of 26 rounds, ≥ 1/3) before moving to PSV. Changed: gp 20→11, g 12→6, uT →UEL. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Günter Netzer",
@@ -1153,17 +1450,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1973_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1973.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy73.html",
-          "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer"
+          "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
         ],
         "note": "11 pts (tied). 1973 UEFA Cup final lost to Liverpool. Real Madrid games in autumn 1973 not included. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1185,18 +1493,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
-          "https://en.wikipedia.org/wiki/Pel%C3%A9"
+          "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "https://en.wikipedia.org/wiki/1973_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Ineligible (Brazilian). South American player of the year 1973 (El Mundo, memory). Campeonato Nacional 1973; numbers estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Ineligible (Brazilian). South American player of the year 1973 (El Mundo, memory). Campeonato Nacional 1973; numbers estimated. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -1227,12 +1544,19 @@
         "ntT": "WC",
         "ntS": 4,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1243,9 +1567,11 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Eredivisie",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_La_Liga",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "116 pts. La Liga 1973/74 (~26 gp/16 g from Oct 1973), Barcelona champions; World Cup final lost. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup: First round). Changed: gp 26→28, g 16→19, uT →UEL."
+        "note": "116 pts. La Liga 1973/74 (~26 gp/16 g from Oct 1973), Barcelona champions; World Cup final lost. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup: First round). Changed: gp 26→28, g 16→19, uT →UEL. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Franz Beckenbauer",
@@ -1265,12 +1591,19 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 10,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1280,9 +1613,11 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Bundesliga",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "105 pts. Bayern champions 1973/74 and European Cup winners (final + replay against Atlético); world champion as captain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 4→5, uG 0→1."
+        "note": "105 pts. Bayern champions 1973/74 and European Cup winners (final + replay against Atlético); world champion as captain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 4→5, uG 0→1. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Kazimierz Deyna",
@@ -1302,12 +1637,19 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1315,9 +1657,11 @@
           "https://en.wikipedia.org/wiki/Kazimierz_Deyna",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
-        "note": "35 pts. World Cup: 3rd place, 2 goals (Haiti, penalty against Yugoslavia — memory). League numbers estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: First round). Changed: gp 35→32, g 13→10, uG 0→2, ntG 2→3, uT →CWC."
+        "note": "35 pts. World Cup: 3rd place, 2 goals (Haiti, penalty against Yugoslavia — memory). League numbers estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: First round). Changed: gp 35→32, g 13→10, uG 0→2, ntG 2→3, uT →CWC. Awards: not found on Wikipedia: cup page, tournament best player."
       },
       {
         "name": "Paul Breitner",
@@ -1337,12 +1681,19 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1352,9 +1703,11 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Bundesliga",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "32 pts. 3 goals at the World Cup (Chile, Yugoslavia, penalty in the final). Moved to Real Madrid in summer 1974. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1974–75 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 41→35, g 6→8."
+        "note": "32 pts. 3 goals at the World Cup (Chile, Yugoslavia, penalty in the final). Moved to Real Madrid in summer 1974. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1974–75 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 41→35, g 6→8. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Johan Neeskens",
@@ -1374,12 +1727,19 @@
         "ntT": "WC",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1388,9 +1748,11 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Eredivisie",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "21 pts. Ajax knocked out by CSKA Sofia in the 2nd round (round of 16) 1973/74; 5 goals at the World Cup. Barcelona from summer 1974 (outside the S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Second round). Changed: gp 37→33, g 13→14, uG 2→0."
+        "note": "21 pts. Ajax knocked out by CSKA Sofia in the 2nd round (round of 16) 1973/74; 5 goals at the World Cup. Barcelona from summer 1974 (outside the S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Second round). Changed: gp 37→33, g 13→14, uG 2→0. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Grzegorz Lato",
@@ -1410,21 +1772,30 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 1,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy74.html",
           "https://en.wikipedia.org/wiki/Grzegorz_Lato",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_Ekstraklasa",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "16 pts. World Cup top scorer (7 g). League numbers and European run estimated. Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1973–74 European Cup: First round); to verify: club, title."
+        "note": "16 pts. World Cup top scorer (7 g). League numbers and European run estimated. Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1973–74 European Cup: First round); to verify: club, title. Awards: not found on Wikipedia: cup page, tournament best player."
       },
       {
         "name": "Gerd Müller",
@@ -1444,12 +1815,19 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1459,9 +1837,11 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Bundesliga",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "14 pts. Bundesliga 1973/74 ~30 g; winning goal in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 38→32."
+        "note": "14 pts. Bundesliga 1973/74 ~30 g; winning goal in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 38→32. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Robert Gadocha",
@@ -1481,20 +1861,29 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy74.html",
           "https://en.wikipedia.org/wiki/Robert_Gadocha",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_Ekstraklasa",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "11 pts. World Cup: many assists, no goals (memory). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "11 pts. World Cup: many assists, no goals (memory). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page, tournament best player."
       },
       {
         "name": "Billy Bremner",
@@ -1514,12 +1903,19 @@
         "ntT": "WC",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1528,9 +1924,11 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Leeds_United_A.F.C._season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "9 pts. Leeds champions 1973/74; UEFA Cup: knocked out in the 3rd round (round of 16). Scotland knocked out unbeaten in the group stage. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup: Third round). Changed: gp 44→46."
+        "note": "9 pts. Leeds champions 1973/74; UEFA Cup: knocked out in the 3rd round (round of 16). Scotland knocked out unbeaten in the group stage. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup: Third round). Changed: gp 44→46. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Ralf Edström",
@@ -1550,12 +1948,19 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1563,9 +1968,12 @@
           "https://en.wikipedia.org/wiki/Ralf_Edstr%C3%B6m",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Eredivisie",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
-        "note": "4 pts (tied). 4 goals at the World Cup (Sweden in the second round). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1974–75 UEFA Cup Winners' Cup). Changed: gp 28→33, g 14→19, uT →CWC."
+        "note": "4 pts (tied). 4 goals at the World Cup (Sweden in the second round). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1974–75 UEFA Cup Winners' Cup). Changed: gp 28→33, g 14→19, uT →CWC. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Jürgen Sparwasser",
@@ -1585,20 +1993,30 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy74.html",
           "https://en.wikipedia.org/wiki/J%C3%BCrgen_Sparwasser",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_DDR-Oberliga",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
-        "note": "4 pts (tied). Magdeburg 1974 Cup Winners' Cup winners and DDR-Oberliga champions 1973/74; goal against West Germany at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "4 pts (tied). Magdeburg 1974 Cup Winners' Cup winners and DDR-Oberliga champions 1973/74; goal against West Germany at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page, tournament best player."
       },
       {
         "name": "Berti Vogts",
@@ -1618,12 +2036,19 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1974_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1974.htm",
@@ -1633,9 +2058,12 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Bundesliga",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
-        "note": "4 pts (tied). Gladbach 2nd; Cup Winners' Cup semi-finals (Milan). Marked Cruyff in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 42→38, g 2→5, uG 0→2."
+        "note": "4 pts (tied). Gladbach 2nd; Cup Winners' Cup semi-finals (Milan). Marked Cruyff in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 42→38, g 2→5, uG 0→2. Awards: not found on Wikipedia: tournament best player."
       },
       {
         "name": "Héctor Yazalde",
@@ -1655,19 +2083,29 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
           "https://en.wikipedia.org/wiki/H%C3%A9ctor_Yazalde",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_Primeira_Divis%C3%A3o",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
-        "note": "Ineligible (Argentine) at a European club. 46 league goals in 1973/74 (Golden Boot, memory); Sporting champions; Cup Winners' Cup semi-finals (Magdeburg). 2 goals against Haiti at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 4→3."
+        "note": "Ineligible (Argentine) at a European club. 46 league goals in 1973/74 (Golden Boot, memory); Sporting champions; Cup Winners' Cup semi-finals (Magdeburg). 2 goals against Haiti at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 4→3. Awards: not found on Wikipedia: league top scorer, cup page, tournament best player."
       },
       {
         "name": "Elías Figueroa",
@@ -1687,19 +2125,28 @@
         "ntT": "WC",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": null,
         "elig": 0,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
           "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa",
-          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1974_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Ineligible (Chilean). South American player of the year 1974 (El Mundo, memory). Chile knocked out in the World Cup group stage. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "Ineligible (Chilean). South American player of the year 1974 (El Mundo, memory). Chile knocked out in the World Cup group stage. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page, tournament best player."
       }
     ]
   },
@@ -1730,20 +2177,31 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy75.html",
           "https://en.wikipedia.org/wiki/Oleg_Blokhin",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1975_Soviet_Top_League",
+          "https://en.wikipedia.org/wiki/1975_Soviet_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners'_Cup"
         ],
-        "note": "122 pts. Soviet champion 1975 and top scorer (~18 g, memory); Cup Winners' Cup 1975 won (goal in the final against Ferencváros). The European Super Cup does not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→36."
+        "note": "122 pts. Soviet champion 1975 and top scorer (~18 g, memory); Cup Winners' Cup 1975 won (goal in the final against Ferencváros). The European Super Cup does not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→36. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Franz Beckenbauer",
@@ -1763,12 +2221,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9.5,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -1777,7 +2242,9 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "42 pts. European Cup 1975 won (final against Leeds); Bayern mid-table in the Bundesliga. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Final). Changed: gp 40→42, g 1→3, uG 0→1."
       },
@@ -1799,12 +2266,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -1813,7 +2287,9 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_La_Liga",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "27 pts. European Cup semi-finals 1974/75 (Leeds). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Semi-finals). Changed: g 9→7, uG 2→0."
       },
@@ -1835,12 +2311,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -1849,7 +2332,9 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "25 pts. Gladbach champions 1974/75 and UEFA Cup winners (Twente). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Final). Changed: gp 46→45, g 3→1."
       },
@@ -1871,12 +2356,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -1885,7 +2377,9 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "20 pts. European Cup 1975 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1974–75 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Final). Changed: gp 41→42."
       },
@@ -1907,19 +2401,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy75.html",
           "https://en.wikipedia.org/wiki/Ruud_Geels",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Eredivisie",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "18 pts. Top scorer of the 1974/75 Eredivisie (~30 g, memory); UEFA Cup run estimated (round of 16). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Third round). Changed: gp 38→37, g 33→31, uG 3→1."
       },
@@ -1941,12 +2444,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -1955,7 +2465,9 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "17 pts. Top scorer of the 1974/75 Bundesliga (~27 g) and the UEFA Cup (~11 g, incl. a hat-trick in the second leg of the final) — memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1975–76 Borussia Mönchengladbach: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Final). Changed: gp 46→36, g 38→31, uG 11→8."
       },
@@ -1977,12 +2489,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -1991,7 +2510,10 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_La_Liga",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners'_Cup"
         ],
         "note": "14 pts. Real Madrid champions 1974/75; Cup Winners' Cup: quarter-finals (Red Star, penalties). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 39→35, g 5→3, uG 1→0."
       },
@@ -2013,17 +2535,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy75.html",
-          "https://en.wikipedia.org/wiki/Colin_Todd"
+          "https://en.wikipedia.org/wiki/Colin_Todd",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
         "note": "12 pts. Derby champions 1974/75; UEFA Cup knocked out in the 3rd round (round of 16, Velež). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -2045,12 +2578,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1975_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1975.htm",
@@ -2059,7 +2599,9 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_FC_Dinamo_Bucure%C8%99ti_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_FC_Dinamo_Bucure%C8%99ti_season",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Divizia_A",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_Cupa_Rom%C3%A2niei",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "11 pts. Golden Boot 1975 (~33 league goals in 1974/75, memory); Dinamo champions; European run uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Second round). Changed: gp 33→34."
       },
@@ -2081,18 +2623,28 @@
         "ntT": "COPA",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9.5,
         "rank": null,
         "elig": 0,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
           "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
-          "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa"
+          "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa",
+          "https://en.wikipedia.org/wiki/1975_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975_Copa_Am%C3%A9rica"
         ],
-        "note": "Ineligible (Chilean). South American player of the year 1975 (El Mundo, memory); Internacional Brazilian champions 1975 (Figueroa's goal in the final). Chile knocked out in the group stage of the 1975 Copa América. Second pass: club statistics not verified (no usable career table); to verify: club, national team, title, European stage."
+        "note": "Ineligible (Chilean). South American player of the year 1975 (El Mundo, memory); Internacional Brazilian champions 1975 (Figueroa's goal in the final). Chile knocked out in the group stage of the 1975 Copa América. Second pass: club statistics not verified (no usable career table); to verify: club, national team, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   }

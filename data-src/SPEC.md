@@ -18,8 +18,9 @@ Each `data-src/YYYY-YYYY.json` file covers a block of years. `gen-data.js` merge
       { "name": "Zinedine Zidane", "club": "Juventus", "lg": "SA", "pos": "AM",
         "gp": 0, "g": 0, "a": 0, "uT": "UCL", "uG": 0, "uA": 0, "uS": 4,
         "ntGP": 0, "ntG": 0, "ntA": 0, "ntT": "WC", "ntS": 5,
-        "title": 1, "cont": null, "rank": 1, "elig": 1,
-        "win": "CY", "conf": "A", "aConf": "C",
+        "title": 1, "cup": 0, "lgTop": 0, "gs": 0, "uTop": 0, "ntTop": 0, "ntBest": 1,
+        "cont": null, "rank": 1, "elig": 1,
+        "win": "CY", "conf": "A", "aConf": "C", "awConf": "A",
         "sources": ["https://..."], "note": "" }
     ]
   }
@@ -52,6 +53,11 @@ With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second h
 - `uS`: stage reached in that edition, counted by distance to the final: 0 = out before the round of 16 or did not play, 1 = round of 16 (or equivalent round: 16 teams), 2 = quarter-finals, 3 = semi-finals, 4 = lost final, 5 = winner. Formats with groups (UCL 1992/93, 1993/94; old Libertadores) → equivalent by distance to the final. Do NOT discount by competition: the weight of each competition is handled in models.js.
 - `ntT`: WC, EURO, COPA, AFCON, ASIAN, GOLD or "" (the Confederations Cup and the Olympic Games do NOT count). `ntGP/ntG/ntA` games/goals/assists in the final tournament only. `ntS` final-tournament stage on the same 0–5 scale (group stage = 0; formats with a second group/league stage → equivalent by distance to the final; Copa América as a league: 1st = 5, 2nd = 4, 3rd/4th = 3, rest = 1). Euro 1960–1976 (4 teams): semi-finals = 3.
 - `title`: 1 if they were league champion in a league whose season ended in the window, with a relevant role (≥1/3 of the games).
+- Trophies and individual awards (0/1), filled by `node verify/awards.js` from Wikipedia infoboxes and the European Golden Shoe table, for the season ending in the window (calendar-year leagues: the year):
+  - `cup`: the player's club won the main domestic cup (for "Club A / Club B": A in a calendar year, B in a season).
+  - `lgTop`: top scorer of the league (shared counts). `gs`: European Golden Shoe (awarded from 1967–68; none 1991–1996).
+  - `uTop`: top scorer of the continental edition in `uT`. `ntTop` / `ntBest`: top scorer / best player of the tournament in `ntT`.
+  - `awConf`: A if every page was found, B if some were missing (that award stays 0 and the note says which).
 - `cont`: only for CM/DM/DF/GK (null for FW/W/AM). Non-attacking contribution 0–10, a SUBJECTIVE ESTIMATE. Calibration of the current data: Neuer 2014 = 10, Rodri 2024 = 10, Buffon 2017 = 9.5, Van Dijk 2019 = 9.5, Modrić 2018 = 9.5, Kanté 2021 = 9.5, Xavi = 9, Thiago Silva 2013 = 9, Carvajal 2024 = 9, Iniesta = 8.5, Jorginho 2021 = 8.5, Vitinha 2025 = 8.5, Hakimi 2025 = 8.5. An elite candidate is typically between 7 and 10.
 - `rank`: position in the official vote (ties = same position). `null` if not voted for/ineligible.
 - `conf` (numbers other than assists): A = verified in ≥1 reliable source for that window; B = partly verified (e.g. season totals verified, calendar-year split estimated from known games); C = estimate, or `win: "S"` in a CY year.

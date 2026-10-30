@@ -26,12 +26,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
@@ -40,9 +47,10 @@
      "https://en.wikipedia.org/wiki/Stanley_Matthews",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_Blackpool_F.C._season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Blackpool_F.C._season",
-     "https://en.wikipedia.org/wiki/1955%E2%80%9356_Football_League"
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_Football_League",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_FA_Cup"
     ],
-    "note": "Blackpool 2nd in 1955/56 and 4th in 1956/57.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 30→36, g 2→3."
+    "note": "Blackpool 2nd in 1955/56 and 4th in 1956/57.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 30→36, g 2→3. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Alfredo Di Stéfano",
@@ -62,12 +70,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
@@ -77,7 +92,8 @@
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_La_Liga",
-     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup",
+     "https://en.wikipedia.org/wiki/1956_Copa_del_General%C3%ADsimo"
     ],
     "note": "Naturalised Spanish in 1956. UCL: second leg of the QF, semi-finals and final of 1955/56 + 1st round of 1956/57 (Rapid Vienna) in the window.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1956–57 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→41, g 30→38, uG 3→7."
    },
@@ -99,12 +115,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
@@ -115,7 +138,7 @@
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_French_Division_1",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
-    "note": "1955/56 European Cup finalist with Reims; transferred to Real Madrid in summer 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→37, g 8→5, uG 1→0."
+    "note": "1955/56 European Cup finalist with Reims; transferred to Real Madrid in summer 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→37, g 8→5, uG 1→0. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Ferenc Puskás",
@@ -135,21 +158,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s",
-     "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I"
+     "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
-    "note": "1956 championship (calendar year) interrupted in October; European Cup 1956/57 games vs Athletic (Nov–Dec 1956) count in gp/g, but Honvéd were not in the edition ending in 1956 (uS 0). Defected after the revolution.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→21, g 17→9."
+    "note": "1956 championship (calendar year) interrupted in October; European Cup 1956/57 games vs Athletic (Nov–Dec 1956) count in gp/g, but Honvéd were not in the edition ending in 1956 (uS 0). Defected after the revolution.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→21, g 17→9. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Lev Yashin",
@@ -169,20 +200,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8.5,
     "rank": 5,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
-     "https://en.wikipedia.org/wiki/Lev_Yashin"
+     "https://en.wikipedia.org/wiki/Lev_Yashin",
+     "https://en.wikipedia.org/wiki/1956_Soviet_Top_League"
     ],
-    "note": "Soviet calendar-year league; the 1956 champions were Spartak. 1956 Olympic gold does not count.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; to verify: title, European stage. Changed: gp 20→19."
+    "note": "Soviet calendar-year league; the 1956 champions were Spartak. 1956 Olympic gold does not count.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; to verify: title, European stage. Changed: gp 20→19. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "József Bozsik",
@@ -202,20 +241,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
-     "https://en.wikipedia.org/wiki/J%C3%B3zsef_Bozsik"
+     "https://en.wikipedia.org/wiki/J%C3%B3zsef_Bozsik",
+     "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
-    "note": "See Puskás's note on 1956. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "See Puskás's note on 1956. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Ernst Ocwirk",
@@ -235,20 +283,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
-     "https://en.wikipedia.org/wiki/Ernst_Ocwirk"
+     "https://en.wikipedia.org/wiki/Ernst_Ocwirk",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_Serie_A"
     ],
-    "note": "Moved to Sampdoria in summer 1956; lg set to Serie A by estimate. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Moved to Sampdoria in summer 1956; lg set to Serie A by estimate. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    },
    {
     "name": "Sándor Kocsis",
@@ -268,21 +324,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/S%C3%A1ndor_Kocsis",
-     "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I"
+     "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
-    "note": "See Puskás's note on 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→23, g 16→15, uG 1→2."
+    "note": "See Puskás's note on 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→23, g 16→15, uG 1→2. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Ivan Kolev",
@@ -302,18 +366,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
-     "https://en.wikipedia.org/wiki/Ivan_Kolev_(footballer,_born_1930)"
+     "https://en.wikipedia.org/wiki/Ivan_Kolev_(footballer,_born_1930)",
+     "https://en.wikipedia.org/wiki/1956_A_Group",
+     "https://en.wikipedia.org/wiki/1956_Bulgarian_Cup",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
     ],
     "note": "Bulgarian calendar-year league in 1956 (CDNA champions). European Cup 1956/57 started in autumn 1956; the 1955/56 edition without CDNA (uS 0). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -335,12 +409,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
@@ -349,7 +430,7 @@
      "https://en.wikipedia.org/wiki/Thad%C3%A9e_Cisowski",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_French_Division_1"
     ],
-    "note": "D1 top scorer in 1955/56 and 1956/57 (from memory).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 34→29, g 33→31."
+    "note": "D1 top scorer in 1955/56 and 1956/57 (from memory).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 34→29, g 33→31. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Billy Wright",
@@ -369,20 +450,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy56.html",
      "https://en.wikipedia.org/wiki/1956_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1956.htm",
      "https://ballondor.com/all-rankings?year=1956",
-     "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)"
+     "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_Football_League",
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_FA_Cup"
     ],
-    "note": "Tied 9th with Kolev and Cisowski (4 points); some sources (goal.com) break the tie as 9th/10th/11th. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Tied 9th with Kolev and Cisowski (4 points); some sources (goal.com) break the tie as 9th/10th/11th. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    }
   ]
  },
@@ -413,12 +503,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
@@ -428,7 +525,8 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
+     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Final). Changed: gp 37→40, g 32→40, uG 7→9."
    },
@@ -450,20 +548,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 2,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1957.htm",
      "https://ballondor.com/all-rankings?year=1957",
-     "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)"
+     "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup"
     ],
-    "note": "Wolves champions only in May 1958 (outside the window). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Wolves champions only in May 1958 (outside the window). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Duncan Edwards",
@@ -483,12 +590,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8.5,
     "rank": 3,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
@@ -497,9 +611,11 @@
      "https://en.wikipedia.org/wiki/Duncan_Edwards",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Manchester_United_F.C._season",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup"
     ],
-    "note": "European Cup semi-finals 1956/57; English champion 1956/57. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1956–57 European Cup: Semi-finals); to verify: club, title."
+    "note": "European Cup semi-finals 1956/57; English champion 1956/57. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1956–57 European Cup: Semi-finals); to verify: club, title. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Raymond Kopa",
@@ -519,12 +635,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
@@ -534,7 +657,8 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
+     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Final). Changed: gp 35→30, g 9→8."
    },
@@ -556,19 +680,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 5,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1957.htm",
      "https://ballondor.com/all-rankings?year=1957",
      "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Kubala",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
+     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo"
     ],
     "note": "Spain international (eligible). The 1955–58 Inter-Cities Fairs Cup only ended in 1958; not counted.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; to verify: European stage. Changed: gp 27→18, g 15→9."
    },
@@ -590,12 +722,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
@@ -603,9 +742,10 @@
      "https://ballondor.com/all-rankings?year=1957",
      "https://en.wikipedia.org/wiki/John_Charles",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Juventus_FC_season",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup"
     ],
-    "note": "Top scorer of the 1956/57 First Division; transferred to Juventus in 1957.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1956–57 Leeds United: half of the totals); games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 32→35, g 32→36."
+    "note": "Top scorer of the 1956/57 First Division; transferred to Juventus in 1957.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1956–57 Leeds United: half of the totals); games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 32→35, g 32→36. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Eduard Streltsov",
@@ -625,20 +765,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1957.htm",
      "https://ballondor.com/all-rankings?year=1957",
-     "https://en.wikipedia.org/wiki/Eduard_Streltsov"
+     "https://en.wikipedia.org/wiki/Eduard_Streltsov",
+     "https://en.wikipedia.org/wiki/1957_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1957_Soviet_Cup"
     ],
-    "note": "Soviet calendar-year league.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; to verify: title, European stage."
+    "note": "Soviet calendar-year league.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; to verify: title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Tommy Taylor",
@@ -658,12 +807,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
@@ -673,9 +829,10 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup"
     ],
-    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Semi-finals). Changed: gp 43→36, g 26→31, uG 6→7."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Semi-finals). Changed: gp 43→36, g 26→31, uG 6→7. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "József Bozsik",
@@ -695,20 +852,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1957.htm",
      "https://ballondor.com/all-rankings?year=1957",
-     "https://en.wikipedia.org/wiki/J%C3%B3zsef_Bozsik"
+     "https://en.wikipedia.org/wiki/J%C3%B3zsef_Bozsik",
+     "https://en.wikipedia.org/wiki/1957_Nemzeti_Bajnoks%C3%A1g_I"
     ],
-    "note": "Hungarian transition championship (spring 1957) + autumn 1957/58. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Hungarian transition championship (spring 1957) + autumn 1957/58. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Igor Netto",
@@ -728,20 +893,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy57.html",
      "https://en.wikipedia.org/wiki/1957_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1957.htm",
      "https://ballondor.com/all-rankings?year=1957",
-     "https://en.wikipedia.org/wiki/Igor_Netto"
+     "https://en.wikipedia.org/wiki/Igor_Netto",
+     "https://en.wikipedia.org/wiki/1957_Soviet_Top_League",
+     "https://en.wikipedia.org/wiki/1957_Soviet_Cup"
     ],
-    "note": "Tied with Bozsik (9 points); ballondor.com puts him 10th. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Tied with Bozsik (9 points); ballondor.com puts him 10th. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    }
   ]
  },
@@ -772,12 +946,19 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -787,7 +968,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_La_Liga",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1958_Copa_del_General%C3%ADsimo"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1957–58 European Cup: Final). Changed: g 7→11, uG 2→3."
    },
@@ -809,18 +991,27 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
      "https://www.footballsite.co.uk/Awards/EuropeanFootballeroftheYear1958.htm",
      "https://en.wikipedia.org/wiki/Helmut_Rahn",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_Oberliga",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_DFB-Pokal"
     ],
     "note": "Oberliga West.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 28→27, g 12→8."
    },
@@ -842,20 +1033,30 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 1,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
      "https://www.footballsite.co.uk/Awards/EuropeanFootballeroftheYear1958.htm",
      "https://en.wikipedia.org/wiki/Just_Fontaine",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_French_Division_1",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_Coupe_de_France",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
-    "note": "Record 13 goals at one World Cup. European Cup 1958/59 games (autumn 1958) included; Reims were not in the 1957/58 edition (uS 0).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 34→26, g 37→34, uG 7→0."
+    "note": "Record 13 goals at one World Cup. European Cup 1958/59 games (autumn 1958) included; Reims were not in the 1957/58 edition (uS 0).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 34→26, g 37→34, uG 7→0. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "John Charles",
@@ -875,12 +1076,19 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -889,7 +1097,9 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Serie_A",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1958_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
     "note": "Capocannoniere 1957/58. Missed the World Cup quarter-final through injury (Wales knocked out by Brazil). Juventus knocked out by Wiener SC in autumn 1958.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page. Changed: gp 33→35, g 24→21, uG 1→0."
    },
@@ -911,18 +1121,27 @@
     "ntT": "WC",
     "ntS": 4,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
      "https://www.footballsite.co.uk/Awards/EuropeanFootballeroftheYear1958.htm",
      "https://en.wikipedia.org/wiki/Kurt_Hamrin",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_Serie_A",
+     "https://en.wikipedia.org/wiki/1958_Coppa_Italia"
     ],
     "note": "Points disagree (15 vs 16); exact club in the window to confirm. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
    },
@@ -944,20 +1163,30 @@
     "ntT": "WC",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 6,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
      "https://www.footballsite.co.uk/Awards/EuropeanFootballeroftheYear1958.htm",
      "https://en.wikipedia.org/wiki/Billy_Wright_(footballer,_born_1924)",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_Football_League",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_FA_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
-    "note": "English champion 1957/58. England knocked out in the group play-off. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "English champion 1957/58. England knocked out in the group play-off. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Johnny Haynes",
@@ -977,20 +1206,29 @@
     "ntT": "WC",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
      "https://www.footballsite.co.uk/Awards/EuropeanFootballeroftheYear1958.htm",
      "https://en.wikipedia.org/wiki/Johnny_Haynes",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_Football_League",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_FA_Cup"
     ],
-    "note": "lg EN2 = English Second Division (second tier); Fulham promoted in 1959.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 40→38, g 20→15, ntG 0→1."
+    "note": "lg EN2 = English Second Division (second tier); Fulham promoted in 1959.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; to verify: title, European stage. Changed: gp 40→38, g 20→15, ntG 0→1. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Nils Liedholm",
@@ -1010,12 +1248,19 @@
     "ntT": "WC",
     "ntS": 4,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -1025,7 +1270,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_AC_Milan_season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Serie_A",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1958_Coppa_Italia"
     ],
     "note": "Finalist of the 1957/58 European Cup and the 1958 World Cup.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1957–58 European Cup: Final). Changed: gp 34→30, g 4→8, uG 1→2, ntGP 6→5, ntG 1→2."
    },
@@ -1047,18 +1293,27 @@
     "ntT": "WC",
     "ntS": 3,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 7.5,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
      "https://www.footballsite.co.uk/Awards/EuropeanFootballeroftheYear1958.htm",
      "https://en.wikipedia.org/wiki/Horst_Szymaniak",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_Oberliga",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_DFB-Pokal"
     ],
     "note": "Oberliga West. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 5→6."
    },
@@ -1080,12 +1335,19 @@
     "ntT": "WC",
     "ntS": 2,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 8,
     "rank": 8,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -1094,9 +1356,11 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Football_League",
-     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+     "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_FA_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
-    "note": "Munich survivor (Feb. 1958); considered the best goalkeeper of the World Cup.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1957–58 Doncaster Rovers: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 38→45."
+    "note": "Munich survivor (Feb. 1958); considered the best goalkeeper of the World Cup.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1957–58 Doncaster Rovers: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 38→45. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Pelé",
@@ -1116,12 +1380,19 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -1131,7 +1402,7 @@
      "https://en.wikipedia.org/wiki/Pel%C3%A9",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeonato Paulista 1958 (state championship, calendar year; ~58 goals from memory) — lg BRA approximate. FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+    "note": "Campeonato Paulista 1958 (state championship, calendar year; ~58 goals from memory) — lg BRA approximate. FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: league season page, cup page."
    },
    {
     "name": "Didi",
@@ -1151,12 +1422,19 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 1,
     "cont": 7,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -1166,7 +1444,7 @@
      "https://en.wikipedia.org/wiki/Didi_(footballer,_born_1928)",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeonato Carioca (state championship). Best player of the 1958 World Cup according to FIFA. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 6→3."
+    "note": "Campeonato Carioca (state championship). Best player of the 1958 World Cup according to FIFA. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 6→3. Awards: not found on Wikipedia: league season page, cup page."
    },
    {
     "name": "Garrincha",
@@ -1186,12 +1464,19 @@
     "ntT": "WC",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://en.wikipedia.org/wiki/1958_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1958.htm",
@@ -1202,7 +1487,7 @@
      "https://en.wikipedia.org/wiki/1958_Campeonato_Carioca",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
     ],
-    "note": "Campeonato Carioca (state championship).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 24→26, g 8→9."
+    "note": "Campeonato Carioca (state championship).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 24→26, g 8→9. Awards: not found on Wikipedia: league season page, cup page."
    }
   ]
  },
@@ -1233,12 +1518,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
@@ -1248,7 +1540,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
     ],
     "note": "Pichichi 1958/59.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 34→31, g 26→24, uG 8→5."
    },
@@ -1270,12 +1563,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
@@ -1284,7 +1584,8 @@
      "https://en.wikipedia.org/wiki/Raymond_Kopa",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
     ],
     "note": "Returned to Reims in summer 1959.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 36→37, g 9→11."
    },
@@ -1306,12 +1607,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
@@ -1321,7 +1629,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Serie_A",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Coppa_Italia"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Preliminary round). Changed: gp 30→29, g 22→18, uT →UCL."
    },
@@ -1343,18 +1652,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1959.htm",
      "https://ballondor.com/all-rankings?year=1959",
-     "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
+     "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
     "note": "Spanish champion 1958/59. Barcelona were not in the 1958/59 European Cup (uS 0); games from 1959/60 (CDNA, Milan) and from the 1958–60 Inter-Cities Fairs Cup in the autumn included by estimate. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1376,20 +1695,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 5,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1959.htm",
      "https://ballondor.com/all-rankings?year=1959",
-     "https://en.wikipedia.org/wiki/Agne_Simonsson"
+     "https://en.wikipedia.org/wiki/Agne_Simonsson",
+     "https://en.wikipedia.org/wiki/1959_Allsvenskan"
     ],
-    "note": "Örgryte's division in 1959 (Allsvenskan or Division 2) to be confirmed. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Örgryte's division in 1959 (Allsvenskan or Division 2) to be confirmed. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    },
    {
     "name": "Lajos Tichy",
@@ -1409,20 +1736,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1959.htm",
      "https://ballondor.com/all-rankings?year=1959",
-     "https://en.wikipedia.org/wiki/Lajos_Tichy"
+     "https://en.wikipedia.org/wiki/Lajos_Tichy",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Nemzeti_Bajnoks%C3%A1g_I"
     ],
-    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 26→22, g 20→15."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 26→22, g 20→15. Awards: not found on Wikipedia: league top scorer, cup page."
    },
    {
     "name": "Ferenc Puskás",
@@ -1442,12 +1777,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
@@ -1457,7 +1799,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
     ],
     "note": "Missed the 1959 final through injury (from memory).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 30→29, g 29→23, uG 5→2."
    },
@@ -1479,12 +1822,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 8,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
@@ -1494,7 +1844,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 34→29, g 11→8, uG 3→1."
    },
@@ -1516,18 +1867,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1959.htm",
      "https://ballondor.com/all-rankings?year=1959",
-     "https://en.wikipedia.org/wiki/Helmut_Rahn"
+     "https://en.wikipedia.org/wiki/Helmut_Rahn",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Oberliga",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_DFB-Pokal"
     ],
     "note": "RSSSF lists him under 1. FC Köln. Oberliga West.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 28→23, g 12→9."
    },
@@ -1549,18 +1909,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 7.5,
     "rank": 10,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1959.htm",
      "https://ballondor.com/all-rankings?year=1959",
-     "https://en.wikipedia.org/wiki/Horst_Szymaniak"
+     "https://en.wikipedia.org/wiki/Horst_Szymaniak",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Oberliga",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_DFB-Pokal"
     ],
     "note": "RSSSF lists him under Karlsruher SC (Oberliga Süd). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1582,12 +1951,19 @@
     "ntT": "COPA",
     "ntS": 4,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://rsssf.org/miscellaneous/europa-poy59.html",
      "https://en.wikipedia.org/wiki/1959_Ballon_d%27Or",
@@ -1595,9 +1971,10 @@
      "https://ballondor.com/all-rankings?year=1959",
      "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
-     "https://en.wikipedia.org/wiki/Pel%C3%A9"
+     "https://en.wikipedia.org/wiki/Pel%C3%A9",
+     "https://en.wikipedia.org/wiki/1959_Campeonato_Brasileiro_S%C3%A9rie_A"
     ],
-    "note": "Campeonato Paulista 1959 (state championship). Top scorer of the 1959 Copa América (Argentina), Brazil 2nd. FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, national team, title, European stage."
+    "note": "Campeonato Paulista 1959 (state championship). Top scorer of the 1959 Copa América (Argentina), Brazil 2nd. FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, national team, title, European stage. Awards: not found on Wikipedia: cup page, tournament page."
    }
   ]
  },
@@ -1628,17 +2005,27 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 1,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
-     "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
+     "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Spanish champion 1959/60. Also won the 1958–60 Inter-Cities Fairs Cup (counted in gp/g); uT = UCL (semi-finals 1959/60) as the more important competition. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1660,12 +2047,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 1,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 2,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
@@ -1674,7 +2068,8 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo"
     ],
     "note": "4 goals in the Hampden final; Pichichi 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1959–60 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1959–60 European Cup: Final). Changed: gp 32→31, g 34→33, uG 9→6."
    },
@@ -1696,18 +2091,28 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 3,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
      "https://en.wikipedia.org/wiki/Uwe_Seeler",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Hamburger_SV_season"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Hamburger_SV_season",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Oberliga",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_DFB-Pokal",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Oberliga Nord + final round of the German championship (HSV champions 1960). HSV in the 1960/61 European Cup from autumn 1960 (uS 0 for 1959/60).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 32→33, g 37→49, uG 2→13."
    },
@@ -1729,12 +2134,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 4,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
@@ -1743,7 +2155,8 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo"
     ],
     "note": "Hat-trick in the 1960 final.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1960–61 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1959–60 European Cup: Final). Changed: gp 30→29, g 25→22, uG 8→7."
    },
@@ -1765,21 +2178,29 @@
     "ntT": "EURO",
     "ntS": 5,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 9,
     "rank": 5,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
      "https://en.wikipedia.org/wiki/Lev_Yashin",
      "https://en.wikipedia.org/wiki/1960_Soviet_Top_League",
-     "https://en.wikipedia.org/wiki/1960_European_Nations'_Cup"
+     "https://en.wikipedia.org/wiki/1960_European_Nations'_Cup",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Soviet_Cup"
     ],
-    "note": "European national-team champion 1960.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 27→18."
+    "note": "European national-team champion 1960.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; to verify: European stage. Changed: gp 27→18. Awards: not found on Wikipedia: league top scorer, tournament best player."
    },
    {
     "name": "Raymond Kopa",
@@ -1799,19 +2220,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 6,
     "elig": 1,
     "win": "S",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
-     "https://en.wikipedia.org/wiki/Raymond_Kopa"
+     "https://en.wikipedia.org/wiki/Raymond_Kopa",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_French_Division_1",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Coupe_de_France",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
-    "note": "French champion 1959/60. Absence from Euro 1960 (France 4th) given from memory — to confirm.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 37→36, g 11→14, uG 1→0."
+    "note": "French champion 1959/60. Absence from Euro 1960 (France 4th) given from memory — to confirm.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 37→36, g 11→14, uG 1→0. Awards: not found on Wikipedia: league top scorer, cup winner."
    },
    {
     "name": "John Charles",
@@ -1831,12 +2262,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
@@ -1844,7 +2282,9 @@
      "https://en.wikipedia.org/wiki/John_Charles",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Italian champion 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: gp 32→34, g 19→21, uG 1→0."
    },
@@ -1866,12 +2306,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 7,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
@@ -1879,9 +2326,10 @@
      "https://en.wikipedia.org/wiki/Bobby_Charlton",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Manchester_United_F.C._season",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Football_League"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Football_League",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_FA_Cup"
     ],
-    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: g 17→22."
+    "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: g 17→22. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Omar Sívori",
@@ -1901,12 +2349,19 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 1,
+    "lgTop": 1,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "B",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
@@ -1914,7 +2369,9 @@
      "https://en.wikipedia.org/wiki/Omar_S%C3%ADvori",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Coppa_Italia",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Naturalised Italian (eligible). Capocannoniere 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: gp 31→30, g 28→21."
    },
@@ -1936,17 +2393,26 @@
     "ntT": "",
     "ntS": 0,
     "title": 0,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": 7.5,
     "rank": 9,
     "elig": 1,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "A",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
-     "https://en.wikipedia.org/wiki/Horst_Szymaniak"
+     "https://en.wikipedia.org/wiki/Horst_Szymaniak",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Oberliga",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_DFB-Pokal"
     ],
     "note": "Oberliga Süd. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1968,21 +2434,29 @@
     "ntT": "",
     "ntS": 0,
     "title": 1,
+    "cup": 0,
+    "lgTop": 0,
+    "gs": 0,
+    "uTop": 0,
+    "ntTop": 0,
+    "ntBest": 0,
     "cont": null,
     "rank": null,
     "elig": 0,
     "win": "CY",
     "conf": "C",
     "aConf": "C",
+    "awConf": "B",
     "sources": [
      "https://www.rsssf.org/miscellaneous/europa-poy60.html",
      "https://www.wikiwand.com/en/articles/1960_Ballon_d%27Or",
      "https://www.topendsports.com/sport/soccer/awards/ballondor-1960.htm",
      "https://www.givemesport.com/footballers-retrospectively-recognised-ballon-dor-winners-pele-maradona/",
      "https://www.sportbible.com/football/football-news/lionel-messi-pele-ballon-dor-france-football-642133-20231027",
-     "https://en.wikipedia.org/wiki/Pel%C3%A9"
+     "https://en.wikipedia.org/wiki/Pel%C3%A9",
+     "https://en.wikipedia.org/wiki/1960_Campeonato_Brasileiro_S%C3%A9rie_A"
     ],
-    "note": "Campeonato Paulista 1960 (state championship; Santos champions, Pelé top scorer, from memory). FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+    "note": "Campeonato Paulista 1960 (state championship; Santos champions, Pelé top scorer, from memory). FF retroactive winner 2016. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    }
   ]
  }

@@ -46,8 +46,11 @@ test('row fields have the right types and ranges', () => {
     assert.ok(POS.includes(r.pos), `${at}: pos ${r.pos}`);
     assert.ok(r.uS <= 5 && r.ntS <= 5, `${at}: stage`);
     assert.ok(r.uG <= r.g && r.uA <= r.a, `${at}: Europe is a subset of the totals`);
-    assert.ok([0, 1].includes(r.title) && [0, 1].includes(r.elig), `${at}: title/elig`);
-    assert.ok(['A', 'B', 'C'].includes(r.conf) && ['A', 'B', 'C'].includes(r.aConf), `${at}: confidence`);
+    for (const k of ['title', 'elig', 'cup', 'lgTop', 'gs', 'uTop', 'ntTop', 'ntBest']) assert.ok([0, 1].includes(r[k]), `${at}: ${k}`);
+    if (!r.uT) assert.equal(r.uTop, 0, `${at}: continental top scorer without a competition`);
+    if (!r.ntT) assert.ok(!r.ntTop && !r.ntBest, `${at}: tournament award without a tournament`);
+    if (y < 1968) assert.equal(r.gs, 0, `${at}: Golden Shoe before 1968`);
+    assert.ok([r.conf, r.aConf, r.awConf].every(c => ['A', 'B', 'C'].includes(c)), `${at}: confidence`);
     assert.ok(['CY', 'S', 'P'].includes(r.win), `${at}: win ${r.win}`);
     assert.ok(r.uT in CUP_ERA, `${at}: uT ${r.uT}`);
     assert.ok(r.ntT in NTMULT, `${at}: ntT ${r.ntT}`);
