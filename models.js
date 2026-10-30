@@ -18,7 +18,7 @@
   function parts(r, o) {
     const aw = o.assistW, lm = leagueStrength(r.lg, r.y), nm = NTMULT[r.ntT] || 1, cw = cupW(r);
     const club = (r.g + aw * r.a) * lm;
-    const eu = o.euBonus * cw * (r.uG + aw * r.uA) * lm;  // extra credit for European opposition
+    const eu = o.euBonus * cw * (r.uG + aw * r.uA) * lm;  // extra credit for continental-cup opposition
     const nt = (r.ntG + aw * r.ntA) * nm * (o.ntBoost || 1);
     return { club, eu, nt, total: club + eu + nt, games: r.gp + r.ntGP,
              uProd: cw * (r.uG + aw * r.uA), nProd: r.ntG + aw * r.ntA };
@@ -76,9 +76,9 @@
   // ---------- Algorithm 1: "Prediction" (weights fitted to the winners of earlier years) ----------
   const PRED_FEATURES = [
     ['prod',      'Total output (goals + assists, league-adjusted)'],
-    ['uStage',    'Stage reached in Europe'],
-    ['uWin',      'European champion (UCL)'],
-    ['uProd',     'Goals + assists in Europe'],
+    ['uStage',    'Stage reached in the continental cup'],
+    ['uWin',      'Continental champion (UCL = 1)'],
+    ['uProd',     'Goals + assists in the continental cup'],
     ['ntStage',   'Stage in the national-team tournament'],
     ['ntWin',     'National-team champion'],
     ['wcFinal',   'World Cup finalist/champion'],
@@ -86,11 +86,11 @@
     ['title',     'League champion'],
     ['cont',      'Non-attacking contribution (estimated)'],
     ['prodRel',   "Output relative to the year's rivals"],
-    ['uProdRel',  'European output relative to rivals'],
+    ['uProdRel',  'Continental output relative to rivals'],
     ['isAtt',     'Attacking position (voter bias)'],
     ['goalsRel',  "Goals relative to the year's top scorer"],
-    ['uFinal',    'Reached the European final'],
-    ['uWinXprod', 'European champion × relative output'],
+    ['uFinal',    'Reached the continental final'],
+    ['uWinXprod', 'Continental champion × relative output'],
     ['ntWinXatt', 'National-team champion × attacker'],
     ['ntFinal',   'Reached the national-team final'],
     ['prodXtitle','Relative output × league champion'],

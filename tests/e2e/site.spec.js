@@ -148,6 +148,16 @@ test('player detail opens, loads sources and closes', async ({ page }) => {
   }
 });
 
+test('continental box is named after where the club plays', async ({ page }) => {
+  await page.goto('/#/2026');
+  await page.locator('#col-pred .row[data-n="Lionel Messi"]').evaluate(b => b.click());
+  const detail = page.locator('#detail');
+  await expect(detail.locator('h2')).toHaveText('Lionel Messi');
+  await expect(detail.locator('.fact .kicker')).toHaveText(['League', 'North America', 'National team']);
+  await expect(detail.locator('.facts')).not.toContainText('Europe');
+  await expect(detail).toContainText('CONCACAF cups are not counted');
+});
+
 test('"Everyone" list shows retroactive winners and is remembered', async ({ page }) => {
   await page.goto('/#/1986');
   await expect(page.locator('#winner strong')).toHaveText('Igor Belanov');
