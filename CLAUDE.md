@@ -6,7 +6,7 @@ Língua com o utilizador: português de Portugal.
 ## Estado atual
 - data.js: GERADO por gen-data.js a partir de data-src/ (1956–2026, 803 linhas). Campos em comentário no topo. Confiança A/B/C por linha. `cont` (médios/defesas/GR) é estimativa subjetiva.
 - models.js: Histórico (19 critérios, pesos de fit-result.json), Justo (só individual), Meu (individual + crédito de equipa proporcional). Corre em Node e no browser.
-- lp3.py (+ dump.js → feats.json): ajuste por programa linear com hinge. Resultado: 13/15 vencedores 2010–2025 em amostra, 9/15 leave-one-year-out. Falha Messi 2010 e Messi 2023. 2026 previsto Yamal (real: Kane).
+- lp3.py (+ dump.js → feats.json): ajuste por programa linear com hinge. No Windows correr com `PYTHONUTF8=1 python lp3.py` (senão lê feats.json em cp1252). Resultados com os dados da 2.ª passagem no Passo 1.
 - build.js: junta site.src.html + data + models + pesos em index.html (página única, publicada como Artifact).
 - Vídeo mostra para 2026 (modelo dele): Kane, Olise, Dembélé, Mbappé, Yamal, Rodri, Haaland, Kvaratskhelia, Díaz, Vitinha. Ajustar a esta ordem com os meus critérios fazia perder vencedores reais.
 
@@ -23,8 +23,13 @@ Decisões do utilizador: top 10 oficial por ano + inelegíveis fortes (`elig:0`,
 - Confiança depois da 2.ª passagem: total A 52 / B 438 / C 313 (antes A 14 / B 40 / C 740). 2010–2026: A 52 / B 116 / C 3; 1990–2009: B 166 / C 59; 1956–1989: B 156 / C 251. CY fica no máximo B (jogos estimados pela proporção de jogos do clube no ano); época (2022+) chega a A. 178 linhas em `win: "S"` (sem páginas de época com todos os jogos).
 - Erros da 1.ª passagem apanhados, entre outros: títulos de Eto'o 2011 e Donnarumma 2021 (não eram campeões), fase europeia de Bale 2013, Häßler 1992 (Taça das Taças), muitos `ntGP`/`ntG`, valores de 2026 fora do top 3.
 - O que fica em C: sobretudo jogadores sem tabela "Career statistics" na Wikipédia inglesa (≈124 linhas, quase todas antes de 1990: Bozsik, Kopa/Fontaine em parte, Garrincha, soviéticos e húngaros…), torneios sem onzes (CAN/Copa antigas), títulos belgas (páginas sem campeão na caixa), Argentina 1991–2014 (Apertura/Clausura, título manual), RFA antes de 1963 (Oberligen; título manual), Messi 2026 (MLS). Assistências continuam estimadas (aConf C).
-- `check.js` com o data.js novo e os pesos antigos: Histórico 29/69 (elegíveis). O reajuste (`lp3.py`) ainda não foi corrido com os dados novos: falta numpy/scipy no Python desta máquina.
-- Próximo: reajuste (dentro da amostra e LOO, 2010–2025 e período completo); depois site (build.js) e passo 2. Para melhorar o C antigo: Wikipédia noutras línguas (de/it/hu/fr) para as tabelas de carreira, RSSSF para ligas antigas.
+- Reajuste com os dados da 2.ª passagem (fit-result.json; 1.ª passagem entre parênteses):
+  - treino 2010–2025 (elegíveis): dentro 14/15 (14/15), LOO 9/15 (9/15); só falha Modrić 2018 (→ Griezmann); 2026 → Mbappé.
+  - treino 1956–2025 (elegíveis, pesos usados no site): dentro 30/69 (28/69), LOO 27/69 (26/69); em 2010–2025 dentro 8/15, LOO 8/15; 2026 → Kane (certo).
+  - treino 1956–2025 (lista "Todos"): dentro 28/69, LOO 27/69; 2026 → Yamal.
+  - check.js: Histórico 30/69, Justo 20/69, Meu 24/69 (elegíveis). Pesos fixos continuam a não explicar 70 anos de votos; os dados melhores não mudaram isso.
+- index.html regenerado com build.js (não versionado); o Artifact publicado ainda não foi atualizado.
+- Próximo: passo 2 (troféus/prémios individuais, reportando dentro da amostra vs LOO); talvez pesos por era em vez de fixos. Para melhorar o C antigo: Wikipédia noutras línguas (de/it/hu/fr) para as tabelas de carreira, RSSSF para ligas antigas.
 
 ## Próximos passos pedidos pelo utilizador
 1. Estender os dados o mais atrás possível (mínimo 1992; idealmente desde 1956), marcando confiança.

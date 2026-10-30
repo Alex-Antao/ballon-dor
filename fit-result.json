@@ -1,28 +1,28 @@
 {
  "weights": [
+  0.0491,
+  0.0138,
+  0.0,
+  0.0279,
+  0.0,
+  0.0403,
+  0.0697,
+  0.0482,
+  0.0,
+  1.0867,
+  0.0,
+  0.0344,
+  0.9553,
   0.0,
   0.0,
-  0.2288,
-  0.0,
-  0.1519,
-  0.0,
-  0.1109,
-  0.0535,
-  0.0,
-  2.9721,
-  0.0,
-  0.4402,
-  2.2145,
-  0.3948,
+  0.0417,
   0.0,
   0.0,
-  0.3855,
-  0.0,
-  0.0219
+  0.0423
  ],
- "inSample": 13,
- "loo": 9,
- "n": 15,
+ "inSample": 30,
+ "loo": 27,
+ "n": 69,
  "train": [
   1956,
   2025
@@ -36,30 +36,30 @@
    ],
    "n": 15,
    "weights": [
+    0.6101,
+    0.3558,
     0.0,
     0.0,
-    0.2288,
+    0.0192,
+    0.1308,
+    0.0874,
+    0.3454,
     0.0,
-    0.1519,
-    0.0,
-    0.1109,
-    0.0535,
-    0.0,
-    2.9721,
-    0.0,
-    0.4402,
-    2.2145,
-    0.3948,
+    3.0,
     0.0,
     0.0,
-    0.3855,
+    2.3637,
     0.0,
-    0.0219
+    0.0745,
+    0.0,
+    0.0,
+    0.0084,
+    0.0739
    ],
-   "inSample": 13,
+   "inSample": 14,
    "loo": 9,
    "inSample2010": [
-    13,
+    14,
     15
    ],
    "loo2010": [
@@ -68,17 +68,12 @@
    ],
    "misses": [
     [
-     "2010",
-     "Lionel Messi",
-     "Xavi"
-    ],
-    [
-     "2023",
-     "Lionel Messi",
-     "Erling Haaland"
+     "2018",
+     "Luka Modrić",
+     "Antoine Griezmann"
     ]
    ],
-   "pred2026": "Lamine Yamal"
+   "pred2026": "Kylian Mbappé"
   },
   "elig": {
    "list": "elig",
@@ -86,51 +81,236 @@
     1956,
     2025
    ],
-   "n": 15,
+   "n": 69,
    "weights": [
+    0.0491,
+    0.0138,
+    0.0,
+    0.0279,
+    0.0,
+    0.0403,
+    0.0697,
+    0.0482,
+    0.0,
+    1.0867,
+    0.0,
+    0.0344,
+    0.9553,
     0.0,
     0.0,
-    0.2288,
-    0.0,
-    0.1519,
-    0.0,
-    0.1109,
-    0.0535,
-    0.0,
-    2.9721,
-    0.0,
-    0.4402,
-    2.2145,
-    0.3948,
+    0.0417,
     0.0,
     0.0,
-    0.3855,
-    0.0,
-    0.0219
+    0.0423
    ],
-   "inSample": 13,
-   "loo": 9,
+   "inSample": 30,
+   "loo": 27,
    "inSample2010": [
-    13,
+    8,
     15
    ],
    "loo2010": [
-    9,
+    8,
     15
    ],
    "misses": [
     [
-     "2010",
-     "Lionel Messi",
-     "Xavi"
+     "1956",
+     "Stanley Matthews",
+     "Alfredo Di Stéfano"
     ],
     [
-     "2023",
+     "1958",
+     "Raymond Kopa",
+     "Just Fontaine"
+    ],
+    [
+     "1960",
+     "Luis Suárez",
+     "Uwe Seeler"
+    ],
+    [
+     "1961",
+     "Omar Sívori",
+     "José Águas"
+    ],
+    [
+     "1964",
+     "Denis Law",
+     "Amancio"
+    ],
+    [
+     "1966",
+     "Bobby Charlton",
+     "Bobby Moore"
+    ],
+    [
+     "1967",
+     "Flórián Albert",
+     "Gerd Müller"
+    ],
+    [
+     "1968",
+     "George Best",
+     "Eusébio"
+    ],
+    [
+     "1969",
+     "Gianni Rivera",
+     "Pierino Prati"
+    ],
+    [
+     "1972",
+     "Franz Beckenbauer",
+     "Gerd Müller"
+    ],
+    [
+     "1974",
+     "Johan Cruyff",
+     "Gerd Müller"
+    ],
+    [
+     "1975",
+     "Oleg Blokhin",
+     "Jupp Heynckes"
+    ],
+    [
+     "1976",
+     "Franz Beckenbauer",
+     "Gerd Müller"
+    ],
+    [
+     "1978",
+     "Kevin Keegan",
+     "Rob Rensenbrink"
+    ],
+    [
+     "1979",
+     "Kevin Keegan",
+     "Trevor Francis"
+    ],
+    [
+     "1982",
+     "Paolo Rossi",
+     "Karl-Heinz Rummenigge"
+    ],
+    [
+     "1983",
+     "Michel Platini",
+     "Kenny Dalglish"
+    ],
+    [
+     "1986",
+     "Igor Belanov",
+     "Emilio Butragueño"
+    ],
+    [
+     "1987",
+     "Ruud Gullit",
+     "Emilio Butragueño"
+    ],
+    [
+     "1989",
+     "Marco van Basten",
+     "Gheorghe Hagi"
+    ],
+    [
+     "1990",
+     "Lothar Matthäus",
+     "Jürgen Klinsmann"
+    ],
+    [
+     "1991",
+     "Jean-Pierre Papin",
+     "Darko Pančev"
+    ],
+    [
+     "1992",
+     "Marco van Basten",
+     "Hristo Stoichkov"
+    ],
+    [
+     "1994",
+     "Hristo Stoichkov",
+     "Paolo Maldini"
+    ],
+    [
+     "1995",
+     "George Weah",
+     "Jari Litmanen"
+    ],
+    [
+     "1996",
+     "Matthias Sammer",
+     "Jürgen Klinsmann"
+    ],
+    [
+     "1998",
+     "Zinedine Zidane",
+     "Ronaldo"
+    ],
+    [
+     "2000",
+     "Luís Figo",
+     "Raúl"
+    ],
+    [
+     "2001",
+     "Michael Owen",
+     "Raúl"
+    ],
+    [
+     "2003",
+     "Pavel Nedvěd",
+     "Ruud van Nistelrooy"
+    ],
+    [
+     "2004",
+     "Andriy Shevchenko",
+     "Thierry Henry"
+    ],
+    [
+     "2007",
+     "Kaká",
+     "Robinho"
+    ],
+    [
+     "2010",
      "Lionel Messi",
-     "Erling Haaland"
+     "David Villa"
+    ],
+    [
+     "2012",
+     "Lionel Messi",
+     "Cristiano Ronaldo"
+    ],
+    [
+     "2014",
+     "Cristiano Ronaldo",
+     "Thomas Müller"
+    ],
+    [
+     "2016",
+     "Cristiano Ronaldo",
+     "Lionel Messi"
+    ],
+    [
+     "2018",
+     "Luka Modrić",
+     "Antoine Griezmann"
+    ],
+    [
+     "2021",
+     "Lionel Messi",
+     "Robert Lewandowski"
+    ],
+    [
+     "2025",
+     "Ousmane Dembélé",
+     "Raphinha"
     ]
    ],
-   "pred2026": "Lamine Yamal"
+   "pred2026": "Harry Kane"
   },
   "all": {
    "list": "all",
@@ -138,48 +318,243 @@
     1956,
     2025
    ],
-   "n": 15,
+   "n": 69,
    "weights": [
+    0.1111,
+    0.0393,
+    0.0,
+    0.0253,
+    0.0081,
+    0.0362,
+    0.0857,
+    0.0457,
+    0.0,
+    1.2291,
     0.0,
     0.0,
-    0.2288,
+    1.0832,
     0.0,
-    0.1519,
+    0.0075,
+    0.0303,
     0.0,
-    0.1109,
-    0.0535,
-    0.0,
-    2.9721,
-    0.0,
-    0.4402,
-    2.2145,
-    0.3948,
-    0.0,
-    0.0,
-    0.3855,
-    0.0,
-    0.0219
+    0.0075,
+    0.0503
    ],
-   "inSample": 13,
-   "loo": 9,
+   "inSample": 28,
+   "loo": 27,
    "inSample2010": [
-    13,
+    8,
     15
    ],
    "loo2010": [
-    9,
+    8,
     15
    ],
    "misses": [
     [
-     "2010",
-     "Lionel Messi",
-     "Xavi"
+     "1956",
+     "Stanley Matthews",
+     "Alfredo Di Stéfano"
     ],
     [
-     "2023",
+     "1960",
+     "Pelé",
+     "Uwe Seeler"
+    ],
+    [
+     "1961",
+     "Pelé",
+     "José Águas"
+    ],
+    [
+     "1962",
+     "Garrincha",
+     "Pelé"
+    ],
+    [
+     "1963",
+     "Pelé",
+     "Jimmy Greaves"
+    ],
+    [
+     "1964",
+     "Pelé",
+     "Amancio"
+    ],
+    [
+     "1965",
+     "Eusébio",
+     "Pelé"
+    ],
+    [
+     "1966",
+     "Bobby Charlton",
+     "Bobby Moore"
+    ],
+    [
+     "1967",
+     "Flórián Albert",
+     "Eusébio"
+    ],
+    [
+     "1968",
+     "George Best",
+     "Eusébio"
+    ],
+    [
+     "1969",
+     "Gianni Rivera",
+     "Johan Cruyff"
+    ],
+    [
+     "1972",
+     "Franz Beckenbauer",
+     "Gerd Müller"
+    ],
+    [
+     "1973",
+     "Johan Cruyff",
+     "Gerd Müller"
+    ],
+    [
+     "1974",
+     "Johan Cruyff",
+     "Franz Beckenbauer"
+    ],
+    [
+     "1975",
+     "Oleg Blokhin",
+     "Jupp Heynckes"
+    ],
+    [
+     "1976",
+     "Franz Beckenbauer",
+     "Gerd Müller"
+    ],
+    [
+     "1977",
+     "Allan Simonsen",
+     "Roberto Bettega"
+    ],
+    [
+     "1978",
+     "Mario Kempes",
+     "Rob Rensenbrink"
+    ],
+    [
+     "1979",
+     "Kevin Keegan",
+     "Trevor Francis"
+    ],
+    [
+     "1982",
+     "Paolo Rossi",
+     "Karl-Heinz Rummenigge"
+    ],
+    [
+     "1987",
+     "Ruud Gullit",
+     "Hugo Sánchez"
+    ],
+    [
+     "1989",
+     "Marco van Basten",
+     "Romário"
+    ],
+    [
+     "1990",
+     "Diego Maradona",
+     "Jürgen Klinsmann"
+    ],
+    [
+     "1991",
+     "Jean-Pierre Papin",
+     "Darko Pančev"
+    ],
+    [
+     "1992",
+     "Marco van Basten",
+     "Hristo Stoichkov"
+    ],
+    [
+     "1995",
+     "George Weah",
+     "Jari Litmanen"
+    ],
+    [
+     "1996",
+     "Matthias Sammer",
+     "Jürgen Klinsmann"
+    ],
+    [
+     "1998",
+     "Zinedine Zidane",
+     "Ronaldo"
+    ],
+    [
+     "2000",
+     "Luís Figo",
+     "Thierry Henry"
+    ],
+    [
+     "2001",
+     "Michael Owen",
+     "Raúl"
+    ],
+    [
+     "2003",
+     "Pavel Nedvěd",
+     "Ruud van Nistelrooy"
+    ],
+    [
+     "2004",
+     "Andriy Shevchenko",
+     "Thierry Henry"
+    ],
+    [
+     "2006",
+     "Fabio Cannavaro",
+     "Thierry Henry"
+    ],
+    [
+     "2007",
+     "Kaká",
+     "Robinho"
+    ],
+    [
+     "2010",
      "Lionel Messi",
-     "Erling Haaland"
+     "David Villa"
+    ],
+    [
+     "2012",
+     "Lionel Messi",
+     "Cristiano Ronaldo"
+    ],
+    [
+     "2014",
+     "Cristiano Ronaldo",
+     "Thomas Müller"
+    ],
+    [
+     "2016",
+     "Cristiano Ronaldo",
+     "Lionel Messi"
+    ],
+    [
+     "2018",
+     "Luka Modrić",
+     "Antoine Griezmann"
+    ],
+    [
+     "2021",
+     "Lionel Messi",
+     "Robert Lewandowski"
+    ],
+    [
+     "2025",
+     "Ousmane Dembélé",
+     "Raphinha"
     ]
    ],
    "pred2026": "Lamine Yamal"
