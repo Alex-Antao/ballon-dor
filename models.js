@@ -73,7 +73,7 @@
       'Crédito de equipa (proporcional ao contributo)': o.wTeam * team } };
   }
 
-  // ---------- Algoritmo 1: "Histórico" (regras calibradas para reproduzir os vencedores) ----------
+  // ---------- Algoritmo 1: "Previsão" (antes "Histórico": regras calibradas com os vencedores dos anos anteriores) ----------
   const HIST_FEATURES = [
     ['prod',      'Produção total (golos+assist., ajustada à liga)'],
     ['uStage',    'Fase atingida na Europa'],

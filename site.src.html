@@ -2,7 +2,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-/* Layout: cabeçalho + faixa de anos; quatro colunas de ranking lado a lado (Real, Histórico, Justo, Meu); detalhe do jogador por baixo. */
+/* Layout: cabeçalho + faixa de anos; quatro colunas de ranking lado a lado (Real, Previsão, Justo, Meu); detalhe do jogador por baixo. */
 :root{
   --bg:#f3f5f7; --panel:#ffffff; --fg:#14202b; --muted:#5d6b78; --line:#d9e0e6;
   --real:#14202b; --hist:#2b5fd9; --fair:#0f8a7e; --mine:#b4690e;
@@ -117,11 +117,16 @@ const HW=/*WEIGHTS*/[];
 const FITS=/*STATS*/{};
 const SOURCES=/*SOURCES*/{};
 const HWL=L=>(FITS[L]||FITS.elig).weights;
+const SEL=/*SELECAO*/{};
+// pesos da Previsão para o ano y: na lista de elegíveis, treinados só com anos anteriores (previsão honesta); senão o ajuste único
+const TW=y=>st.list==='elig'&&SEL.temporal&&SEL.temporal[y]?SEL.temporal[y]:null;
+const HWY=y=>{const t=TW(y);return t?t.weights:HWL(st.list)};
+const histDesc=y=>{const t=TW(y);return t?`Pesos treinados só com ${t.train[0]}–${t.train[1]}`:(st.list==='elig'?'Sem anos anteriores suficientes: ajuste a todos os anos (dentro da amostra)':'Ajuste único aos vencedores (dentro da amostra)')};
 const LISTS=[['elig','Só elegíveis'],['all','Todos (incl. inelegíveis)']];
 const CUPN={UCL:'Taça dos Campeões/UCL',CWC:'Taça das Taças',UEL:'Taça UEFA/Liga Europa',ECL:'Liga Conferência',LIB:'Libertadores',SUD:'Sul-Americana'};
 const WIN={CY:'ano civil',S:'época que termina no ano (recurso)',P:'época'};
 const ALGS=[{k:'real',n:'Resultado real',c:'var(--real)',d:'Votação oficial'},
- {k:'hist',n:'Histórico',c:'var(--hist)',d:'Regras ajustadas aos vencedores'},
+ {k:'hist',n:'Previsão',c:'var(--hist)',d:'Pesos treinados só com anos anteriores'},
  {k:'fair',n:'Justo',c:'var(--fair)',d:'Só desempenho individual'},
  {k:'mine',n:'O meu',c:'var(--mine)',d:'Individual + crédito de equipa proporcional'}];
 const VIDEO26=['Harry Kane','Michael Olise','Ousmane Dembélé','Kylian Mbappé','Lamine Yamal','Rodri','Erling Haaland','Khvicha Kvaratskhelia','Luis Díaz','Vitinha'];
@@ -139,7 +144,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const $=s=>document.querySelector(s);
 
 function compute(y){
-  const rows=rowsOf(y), ctx=M.histCtx(rows), w=HWL(st.list);
+  const rows=rowsOf(y), ctx=M.histCtx(rows), w=HWY(y);
   return {
     hist:M.rankYear(rows,r=>M.hist(r,w,ctx)),
     fair:M.rankYear(rows,r=>M.fair(r)),
@@ -188,7 +193,7 @@ function colHtml(a,res,y){
       ${it.score==null?'':`<span class="bar"><i style="width:${it.w}%"></i></span>`}
     </button></li>`;
   }).join('');
-  return `<section class="col" style="--c:${a.c}"><header><h2>${a.n}</h2><span>${a.d}</span></header><ul class="list">${li}</ul></section>`;
+  return `<section class="col" style="--c:${a.c}"><header><h2>${a.n}</h2><span>${a.k==='hist'?histDesc(y):a.d}</span></header><ul class="list">${li}</ul></section>`;
 }
 
 function detail(y,res){
@@ -196,7 +201,7 @@ function detail(y,res){
   const r=rowsOf(y).find(x=>x.name===st.sel); if(!r)return '';
   const ctx=M.histCtx(rowsOf(y));
   const pos=k=>res[k].findIndex(x=>x.r===r)+1;
-  const parts={hist:M.hist(r,HWL(st.list),ctx).parts,fair:M.fair(r).parts,mine:M.mine(r,st.mine).parts};
+  const parts={hist:M.hist(r,HWY(y),ctx).parts,fair:M.fair(r).parts,mine:M.mine(r,st.mine).parts};
   const brk=k=>{const a=ALGS.find(z=>z.k===k);const e=Object.entries(parts[k]).filter(([,v])=>v>0.0001).sort((p,q)=>q[1]-p[1]);
     const mx=Math.max(...e.map(x=>x[1]),1e-9);
     return `<div style="--c:${a.c}"><h3 style="color:${a.c}">${a.n} · ${pos(k)}.º lugar</h3><div class="brk">${e.map(([n,v])=>`<div><em title="${esc(n)}">${esc(n)}</em><span class="sc">${v.toFixed(k==='hist'?2:0)}</span><span class="bb"><i style="width:${v/mx*100}%"></i></span></div>`).join('')}</div></div>`};
@@ -229,7 +234,7 @@ function viewYear(){
   $('#view').innerHTML=`<div style="display:flex;flex-direction:column;gap:14px">${yearStrip()}
    <div class="bar-top"><div class="meta"><span>${esc(Y.label)}</span><span>${esc(Y.award)}</span><span>${winTxt}</span>${picks}</div>${listToggle()}</div>
    ${Y.notes||nIn?`<div class="note">${esc(Y.notes||'')}${nIn?` ${nIn} candidato(s) inelegíve(is) neste ano: só aparecem na lista “Todos”.`:''}${Y.realAllNote?' '+esc(Y.realAllNote):''}</div>`:''}
-   ${y===2026?'<div class="note">2026 é o teste a sério: o Histórico foi calibrado com 1956–2025 e não viu estes dados. A última coluna é a ordem que o vídeo mostra para o seu modelo histórico. O meu Histórico não a reproduz: ordenei os candidatos sem as taças nacionais e sem a contagem fina de troféus que o vídeo parece usar, por isso Olise e Dembélé ficam mais abaixo.</div>':''}
+   ${y===2026?'<div class="note">Em 2026 a Previsão usa só 2000–2025 e não viu estes dados. A última coluna é a ordem que o vídeo mostra para o seu modelo histórico. A minha Previsão não a reproduz: ordenei os candidatos sem as taças nacionais e sem a contagem fina de troféus que o vídeo parece usar, por isso Olise e Dembélé ficam mais abaixo.</div>':''}
    <div class="grid">${ALGS.concat(y===2026?[VID]:[]).map(a=>colHtml(a,res,y)).join('')}</div>
    ${detail(y,res)}${minePanel()}</div>`;
   $('#view').querySelectorAll('.yr').forEach(b=>b.onclick=()=>{st.year=+b.dataset.y;st.sel=null;try{location.hash='a'+st.year}catch(e){}viewYear()});
@@ -264,8 +269,8 @@ function summary(){
   $('#view').innerHTML=`<div style="display:flex;flex-direction:column;gap:16px">
    <div class="bar-top"><span class="meta">Lista: ${st.list==='all'?'todos os candidatos; o alvo é o vencedor retroativo da France Football quando o melhor era inelegível':'só quem podia ganhar segundo as regras de cada ano'}</span>${listToggle()}</div>
    <div class="cards">${cards}</div>
-   <div class="note">O Histórico foi ajustado aos ${F.n} vencedores de ${F.train[0]}–${F.train[1]}, por isso o seu resultado nesse período é “dentro da amostra” (${F.inSample}/${F.n}). Deixando um ano de fora de cada vez (validação honesta), acertou ${F.loo} de ${F.n}; em 2010–2025, ${F.loo2010[0]} de ${F.loo2010[1]}. Para comparação, ajustado só a 2010–2025: ${Fr.inSample}/${Fr.n} dentro da amostra e ${Fr.loo}/${Fr.n} deixando um ano de fora. O Justo e o Meu não foram ajustados aos vencedores. O Meu muda com os controlos na vista “Por ano”.</div>
-   <div class="panel"><div class="scroll"><table><tr><th>Ano</th><th>Vencedor real</th><th style="color:var(--hist)">Histórico</th><th style="color:var(--fair)">Justo</th><th style="color:var(--mine)">O meu</th></tr>${rowsH}</table></div></div></div>`;
+   <div class="note">${st.list==='elig'&&SEL.temporal?`Nos elegíveis, a Previsão de cada ano é a previsão que se teria feito na altura: pesos treinados só com os anos anteriores, sem ver esse ano nem os seguintes. Em 2010–2026 acerta ${SEL.nestedWindow.hits} de ${SEL.targets.length}; em 1961–2009, ${SEL.temporalOld[0]} de ${SEL.temporalOld[1]}. Nos anos ${years[0]}–${years[0]+4} não há anos anteriores suficientes e usa-se o ajuste a todos os anos (dentro da amostra).`:`Na lista “Todos” a Previsão usa um ajuste único aos vencedores retroativos de ${F.train[0]}–${F.train[1]}, por isso o resultado é “dentro da amostra” (${F.inSample}/${F.n}); deixando um ano de fora, ${F.loo} de ${F.n}.`} O Justo e o Meu não foram ajustados aos vencedores. O Meu muda com os controlos na vista “Por ano”.</div>
+   <div class="panel"><div class="scroll"><table><tr><th>Ano</th><th>Vencedor real</th><th style="color:var(--hist)">Previsão</th><th style="color:var(--fair)">Justo</th><th style="color:var(--mine)">O meu</th></tr>${rowsH}</table></div></div></div>`;
   bindList(summary);
   $('#view').querySelectorAll('a[data-y]').forEach(a=>a.onclick=e=>{e.preventDefault();st.year=+a.dataset.y;st.tab='ano';st.sel=null;try{location.hash='a'+st.year}catch(x){}render()});
 }
@@ -273,12 +278,19 @@ function summary(){
 function method(){
   const F=FITS.elig, FA=FITS.all, Fr=FITS.recent;
   const miss=F.misses.map(([y,r,p])=>`${y} (${r}; previu ${p})`).join(', ');
-  const hw=M.HIST_FEATURES.map((f,i)=>[f[1],HW[i]]).filter(x=>x[1]>0.001).sort((a,b)=>b[1]-a[1]);
+  const W27=SEL.temporal&&SEL.temporal['2027']?SEL.temporal['2027'].weights:HW;
+  const hw=M.HIST_FEATURES.map((f,i)=>[f[1],W27[i]]).filter(x=>Math.abs(x[1])>0.001).sort((a,b)=>b[1]-a[1]);
   $('#view').innerHTML=`<div class="panel"><div class="prose">
   <h2>Como funciona</h2>
   <p>O vídeo que serviu de base descreve dois modelos: um “histórico”, com regras ajustadas para os vencedores de 2010 a 2025, e um “justo”, sem troféus de equipa e corrigido por posição, força da liga e minutos. Os pesos não são divulgados, por isso recriei-os por aproximação. O que está aqui não é o modelo do vídeo, é uma reconstrução minha.</p>
-  <h3 style="color:var(--hist)">Histórico</h3>
-  <p>Pontuação linear sobre ${M.HIST_FEATURES.length} critérios (produção ofensiva, fase europeia, seleção, título, posição, contributo não ofensivo e versões relativas aos rivais do ano). Os pesos saem de um programa linear que tenta pôr cada vencedor à frente de todos os outros candidatos do seu ano, com os vencedores de ${F.train[0]} a ${F.train[1]}. Resultado: ${F.inSample} de ${F.n} dentro da amostra e ${F.loo} de ${F.n} deixando um ano de fora (2010–2025: ${F.inSample2010[0]}/${F.inSample2010[1]} e ${F.loo2010[0]}/${F.loo2010[1]}). Falhas dentro da amostra: ${esc(miss)||'nenhuma'}. Em 2026 prevê ${esc(F.pred2026)} (ganhou ${esc(YEARS[2026].real)}). Na lista “Todos” há um ajuste à parte, com os vencedores retroativos: ${FA.inSample}/${FA.n} dentro da amostra e ${FA.loo}/${FA.n} deixando um ano de fora. Ajustado só a 2010–2025, como na versão anterior: ${Fr.inSample}/${Fr.n} e ${Fr.loo}/${Fr.n}. Tentei também ajustar os pesos à ordem do top 10 que o vídeo mostra para 2026, mas com os meus critérios isso fazia o modelo perder vencedores reais (de 13 para 10 ou 12 em 15), por isso não a usei. Mostro essa lista como referência.</p>
+  <h3 style="color:var(--hist)">Previsão</h3>
+  <p>Pontuação linear sobre ${M.HIST_FEATURES.length} critérios (produção ofensiva, fase europeia, seleção, título, posição, contributo não ofensivo e versões relativas aos rivais do ano). Os pesos saem de um programa linear que tenta pôr cada vencedor à frente de todos os outros candidatos do seu ano. Para os anos já atribuídos, a resposta é a votação real; o que interessa é prever o ano seguinte. Por isso a Previsão é avaliada como seria usada: para prever o ano Y treina-se só com anos anteriores a Y.</p>
+  ${SEL.temporal?`<p>Como se escolhe o treino: para cada ano, entre várias janelas (desde 1956, 1970, 1980, 1990, 2000 ou 2005, ou só os últimos 10–25 anos), pesos para os anos recentes e regularização, fica a combinação que melhor teria previsto os 12 anos anteriores. Com esta regra, em 2010–2026 acerta ${SEL.nestedWindow.hits} de ${SEL.targets.length} (vencedor real, em média, no ${SEL.nestedWindow.meanRank.toFixed(2).replace('.',',')}.º lugar), contra ${SEL.baseline.hits} de ${SEL.targets.length} treinando sempre com todos os anos desde 1956. Os votos antigos atrapalham a previsão dos recentes: a partir de 2013 a regra escolhe sempre “treino desde 2000”. Para a próxima Bola de Ouro o modelo é: ${esc(SEL.final.label)}, treino ${SEL.final.train[0]}–${SEL.final.train[1]} (pesos na tabela).</p>
+  ${SEL.nested?`<p>Também tentei escolher só alguns critérios. Olhando para os mesmos anos parecia muito melhor (${SEL.selection.res[0]} de ${SEL.targets.length} com ${SEL.selection.chosen.length} critérios), mas fazendo essa escolha só com o passado de cada ano o resultado desce para ${SEL.nested.hits} de ${SEL.targets.length}, com o vencedor real, em média, no ${SEL.nested.meanRank.toFixed(2).replace('.',',')}.º lugar: era sobreajuste. Ficam os ${M.HIST_FEATURES.length} critérios.</p>`:''}`:''}
+  ${SEL.videoStyle?(()=>{const V=SEL.videoStyle,b=V.find(v=>!v.extra),all=V.filter(v=>v.extra&&v.inSample===SEL.targets.length),n=SEL.targets.length;
+    return `<p>O vídeo diz acertar todos os vencedores de 2010 a 2026, ajustando os pesos a esses mesmos anos. Fiz o mesmo: com os ${M.HIST_FEATURES.length} critérios, o ajuste a 2010–2026 acerta ${b.inSample} de ${n}; juntando um só critério de reputação ou de “figura do torneio”, chega a ${n} de ${n} (qualquer um destes: ${all.map(v=>esc(v.desc)).join('; ')}). Mas acertar anos que o modelo já viu é decorá-los. A prever cada ano sem o ver, nenhum destes critérios melhora a Previsão: com eles fica entre ${Math.min(...all.map(v=>v.temporal))} e ${Math.max(...all.map(v=>v.temporal))} de ${n}, contra ${b.temporal} de ${n} sem eles. Por isso a Previsão fica sem eles.</p>
+    <div class="scroll"><table><tr><th>Critérios</th><th>Ajustado a 2010–2026 (dentro da amostra)</th><th>A prever sem ver o ano</th></tr>${V.map(v=>`<tr><td>${v.extra?'19 + '+esc(v.desc):'Só os 19 critérios'}</td><td class="n">${v.inSample}/${n}</td><td class="n">${v.temporal}/${n}</td></tr>`).join('')}</table></div>`})():''}
+  <p>Na lista “Todos” há um ajuste único à parte, com os vencedores retroativos: ${FA.inSample}/${FA.n} dentro da amostra e ${FA.loo}/${FA.n} deixando um ano de fora. Tentei também ajustar os pesos à ordem do top 10 que o vídeo mostra para 2026, mas com os meus critérios isso fazia o modelo perder vencedores reais, por isso não a usei. Mostro essa lista como referência.</p>
   <div class="scroll"><table><tr><th>Critério</th><th>Peso</th></tr>${hw.map(x=>`<tr><td>${esc(x[0])}</td><td class="n">${x[1].toFixed(2)}</td></tr>`).join('')}</table></div>
   <h3 style="color:var(--fair)">Justo</h3>
   <p>Só desempenho individual. Golos e assistências ajustados à força da liga em cada década, com bónus pequeno para a Europa, comparados com o que se espera de um candidato de elite na posição e encolhidos para a média quando há poucos jogos. Para médios, defesas e guarda-redes entra uma estimativa subjetiva do contributo não ofensivo.</p>
@@ -292,7 +304,7 @@ function method(){
    <li>Confiança: A verificado em fontes, B parcialmente verificado, C estimativa. As assistências têm confiança própria: antes de cerca de 2005 são quase sempre estimadas.</li>
    <li>A força das ligas e o peso das taças europeias (Taça das Taças, Taça UEFA, Libertadores) mudam por década. São estimativas minhas, não ajustadas aos vencedores.</li>
    <li>O contributo não ofensivo é uma estimativa minha e pesa bastante nos médios e defesas.</li>
-   <li>Os modelos medem desempenho, não a narrativa que influencia os votantes, e com uma amostra tão pequena o Histórico pode estar sobreajustado.</li>
+   <li>Os modelos medem desempenho, não a narrativa que influencia os votantes, e com uma amostra tão pequena qualquer ajuste aos vencedores pode estar sobreajustado (ver o Método).</li>
   </ul>
   <h2>Fontes</h2>
   <p>Resultados das votações: Wikipedia, RSSSF e FIFA/France Football. 2026: Yahoo Sports e Foot Africa. Estatísticas: as fontes consultadas para cada jogador aparecem no seu detalhe, na vista “Por ano” (ficheiro sources.json no repositório). Vídeo: “I know who wins the Ballon d’Or 2026” (Pogorabona).</p>
