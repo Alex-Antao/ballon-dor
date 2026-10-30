@@ -57,6 +57,10 @@ test('row fields have the right types and ranges', () => {
     assert.ok(r.lg in LEAGUE_ERA, `${at}: league ${r.lg} has no strength`);
     if (!r.uT) assert.equal(r.uS, 0, `${at}: stage without a competition`);
     if (!r.ntT) assert.ok(!r.ntGP && !r.ntG && !r.ntA && !r.ntS, `${at}: national-team numbers without a tournament`);
+    if ('uOpp' in r) {   // opponents of the continental goals: UEFA competitions only
+      assert.ok(['UCL', 'CWC', 'UEL', 'ECL'].includes(r.uT) && r.uOpp >= 0.3 && r.uOpp <= 2, `${at}: uOpp ${r.uOpp}`);
+      assert.ok(Number.isInteger(r.uOppN) && r.uOppN >= 0, `${at}: uOppN`);
+    }
     if ('nlS' in r) {   // Nations League Finals: only the final-four years, on players who played in them
       assert.ok([2019, 2021, 2023, 2025].includes(+y), `${at}: no Nations League Finals that year`);
       assert.ok([3, 4, 5].includes(r.nlS) && Number.isInteger(r.nlGP) && r.nlGP >= 1 && Number.isInteger(r.nlG) && r.nlG >= 0, `${at}: nlGP/nlG/nlS`);

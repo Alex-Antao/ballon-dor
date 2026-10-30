@@ -20,6 +20,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.03,
+    "uOppN": 8,
     "ntGP": 4,
     "ntG": 4,
     "ntA": 1,
@@ -50,7 +52,8 @@
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Soviet_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
     "note": "84 pts. League 1986 verified: 22 games/10 goals (ru.wikipedia, teams.by). Europe (Cup Winners' Cup 85/86 QF–final + European Cup 86/87 R1–R2, 9 games) estimated; 5 goals in the whole 85/86 Cup Winners' Cup (some in 1985). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup Winners' Cup: Final). Changed: gp 31→30, g 15→14, uG 5→4."
    },
@@ -112,6 +115,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.66,
+    "uOppN": 4,
     "ntGP": 5,
     "ntG": 5,
     "ntA": 1,
@@ -141,7 +146,8 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
     "note": "59 pts. League and UEFA Cup champion 1985/86. World Cup: 5 goals (4 against Denmark). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup: Final). Changed: gp 44→40, g 15→13."
    },
@@ -284,6 +290,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.77,
+    "uOppN": 4,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 1,
@@ -312,7 +320,8 @@
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Soviet_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
     "note": "20 pts (tied 6th). Scored in the 1986 Cup Winners' Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup Winners' Cup: Final). Changed: gp 34→27, g 9→6, ntGP 3→4."
    },
@@ -370,6 +379,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.52,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -397,7 +408,8 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Eredivisie",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup_Winners'_Cup"
     ],
     "note": "10 pts (tied 8th). Golden Boot 1985/86 (37 goals). Cup Winners' Cup 86/87 only R1–R2 in the window (the edition ends in 1987): uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1985–86 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1985–86 European Cup: First round). Changed: gp 34→33, g 38→40, uT CWC→UCL."
    },
@@ -413,6 +425,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 3,
+    "uOpp": 0.8,
+    "uOppN": 5,
     "ntGP": 4,
     "ntG": 4,
     "ntA": 0,
@@ -442,7 +456,8 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup"
     ],
     "note": "9 pts. Inter UEFA Cup semi-finalists 1985/86. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup: Semi-finals). Changed: g 16→14, uG 4→3."
    },
@@ -505,6 +520,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.87,
+    "uOppN": 5,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
@@ -534,7 +551,8 @@
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1985%E2%80%9386_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup"
     ],
     "note": "Ineligible (Mexican). Pichichi 1985/86 (22). Mexico in the World Cup quarter-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1985–86 UEFA Cup: Final). Changed: gp 42→43, g 31→32, ntGP 5→4."
    }
@@ -561,6 +579,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.33,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -588,7 +608,9 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Eredivisie",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup"
     ],
     "note": "106 pts. Dutch champion 1986/87 with PSV; Milan from Aug. PSV knocked out of the European Cup in 1986; Milan in the 87/88 UEFA Cup (R1–R2): uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 PSV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: First round). Changed: gp 31→33, g 16→14, uT UEL→UCL."
    },
@@ -604,6 +626,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.1,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -631,7 +655,8 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Atl%C3%A9tico_Madrid_season",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Primeira_Divis%C3%A3o",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
     "note": "91 pts. European champion with Porto (final 27/05/1987). lg/club: unclear whether Atlético played European games in autumn 1987 (assumed not). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Final). Changed: gp 33→34, g 11→12, uG 1→2. Awards: not found on Wikipedia: cup page."
    },
@@ -647,6 +672,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 3,
+    "uOpp": 0.95,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -675,7 +702,8 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
     "note": "61 pts. Spanish champion 1986/87; European Cup semi-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Semi-finals). Changed: gp 49→39, g 15→16, uG 2→4."
    },
@@ -691,6 +719,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.04,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -719,7 +749,8 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
     "note": "29 pts. Right midfielder/winger. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1986–87 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Semi-finals). Changed: gp 47→44, g 9→12, uG 1→3."
    },
@@ -822,6 +853,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.97,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -851,7 +884,9 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_KNVB_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup"
     ],
     "note": "10 pts (tied 6th). Goal in the 1987 Cup Winners' Cup final; injured for almost all of the autumn at Milan. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 UEFA Cup Winners' Cup: Final). Changed: gp 23→24, g 19→17."
    },
@@ -953,6 +988,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1.13,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -979,7 +1016,8 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_French_Division_1",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Coupe_de_France",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup_Winners'_Cup"
     ],
     "note": "6 pts (tied 10th). Cup Winners' Cup 87/88 with Marseille (only the autumn in the window). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -995,6 +1033,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 0.33,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1021,7 +1061,8 @@
      "https://en.wikipedia.org/wiki/1987_Allsvenskan",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Svenska_Cupen",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup"
+     "https://en.wikipedia.org/wiki/1986%E2%80%9387_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup"
     ],
     "note": "6 pts (tied 10th). Winner of the 1987 UEFA Cup with Göteborg; Fiorentina from the summer. title=1 assumed (Göteborg Swedish champions 1987; ~half of the games), to confirm. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1082,6 +1123,8 @@
     "uG": 3,
     "uA": 0,
     "uS": 3,
+    "uOpp": 1.09,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1110,7 +1153,8 @@
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_La_Liga",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_European_Cup",
      "https://en.wikipedia.org/wiki/1986%E2%80%9387_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup"
     ],
     "note": "Ineligible. Pichichi 1986/87 (34). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1986–87 European Cup: Semi-finals). Changed: gp 49→44, g 35→33."
    }
@@ -1137,6 +1181,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.73,
+    "uOppN": 5,
     "ntGP": 5,
     "ntG": 5,
     "ntA": 1,
@@ -1166,7 +1212,8 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
     "note": "129 pts. Euro: 5 goals, champion. Serie A 87/88: only 11 games (injury) but ≥1/3 → title 1. Milan without Europe in 87/88 after Nov 1987; European Cup 88/89 autumn only: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 UEFA Cup: Second round). Changed: gp 24→22, g 15→11, uT UCL→UEL."
    },
@@ -1182,6 +1229,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.64,
+    "uOppN": 1,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 1,
@@ -1211,7 +1260,8 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
     "note": "88 pts. Italian and European (national-team) champion. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 UEFA Cup: Second round). Changed: gp 31→28, g 11→9, uT UCL→UEL."
    },
@@ -1227,6 +1277,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.9,
+    "uOppN": 0,
     "ntGP": 5,
     "ntG": 0,
     "ntA": 0,
@@ -1317,6 +1369,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.24,
+    "uOppN": 2,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 0,
@@ -1345,7 +1399,8 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_KNVB_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
     "note": "39 pts. PSV treble 1987/88 (league, cup, European Cup) + Euro. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: Final). Changed: gp 41→40, g 21→22, uG 3→1."
    },
@@ -1361,6 +1416,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.83,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
@@ -1391,7 +1448,8 @@
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
     "note": "10 pts. Bayern in the 87/88 European Cup quarter-finals; Inter from Aug (UEFA Cup 88/89 R1–R3). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: Quarter-finals). Changed: gp 37→28, g 12→14, uG 2→0."
    },
@@ -1407,6 +1465,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.43,
+    "uOppN": 6,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
@@ -1437,7 +1497,8 @@
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup_Winners'_Cup"
     ],
     "note": "7 pts. Cup Winners' Cup 88/89 only the autumn in the window. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1988–89 UEFA Cup Winners' Cup). Changed: gp 32→31, g 16→15."
    },
@@ -1498,6 +1559,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.64,
+    "uOppN": 3,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
@@ -1542,6 +1605,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.58,
+    "uOppN": 0,
     "ntGP": 5,
     "ntG": 0,
     "ntA": 1,
@@ -1570,7 +1635,8 @@
      "https://en.wikipedia.org/wiki/UEFA_Euro_1988",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
     "note": "5 pts (tied 8th). Juventus from the summer. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1987–88 European Cup: First round); to verify: title. Changed: gp 31→29, uG 1→0, uT UEL→UCL."
    },
@@ -1586,6 +1652,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.58,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1614,7 +1682,8 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Serie_A",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup"
     ],
     "note": "Ineligible. Capocannoniere 1987/88 (15). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Napoli: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: First round). Changed: gp 35→36, g 14→16, uT UEL→UCL."
    },
@@ -1630,6 +1699,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 3,
+    "uOpp": 0.79,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1658,7 +1729,8 @@
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_La_Liga",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_European_Cup",
      "https://en.wikipedia.org/wiki/1987%E2%80%9388_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
     ],
     "note": "Ineligible. Pichichi 1987/88 (29). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1987–88 European Cup: Semi-finals). Changed: gp 44→46, g 33→34, uG 4→5."
    }
@@ -1685,6 +1757,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.12,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1713,7 +1787,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
     "note": "119 pts. European champion (2 goals in the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 40→43, uG 7→6."
    },
@@ -1773,6 +1848,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.22,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1801,7 +1878,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
     "note": "43 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 40→43, g 3→7, uG 1→2."
    },
@@ -1945,6 +2023,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.06,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1973,7 +2053,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
     "note": "16 pts. 2 goals in the European Cup final; injured (knee) for almost all of the second half of the year. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: gp 15→18."
    },
@@ -1989,6 +2070,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 4,
+    "uOpp": 0.63,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2015,7 +2098,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Divizia_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Cupa_Rom%C3%A2niei",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
     "note": "11 pts (tied 8th). 1989 European Cup finalist; Romanian champion 1988/89. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1988–89 European Cup: Final). Changed: g 26→37, uG 4→6."
    },
@@ -2031,6 +2115,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.58,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2058,7 +2144,9 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Bundesliga",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup"
     ],
     "note": "11 pts (tied 8th). 1989 UEFA Cup finalist with Stuttgart; Inter from Aug. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 VfB Stuttgart: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Final). Changed: gp 36→34, g 16→17, uG 3→2."
    },
@@ -2160,6 +2248,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.05,
+    "uOppN": 2,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 2,
@@ -2189,7 +2279,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1989_Copa_Am%C3%A9rica"
+     "https://en.wikipedia.org/wiki/1989_Copa_Am%C3%A9rica",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup"
     ],
     "note": "Ineligible. Winner of the 1989 UEFA Cup. Copa América 1989: Argentina 3rd in the final round. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1988–89 Napoli: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Final); to verify: national team. Changed: gp 34→37, g 15→13, uG 4→2."
    },
@@ -2205,6 +2296,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.08,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2233,7 +2326,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Serie_A",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup"
     ],
     "note": "Ineligible (Brazilian). Goals in the 1989 UEFA Cup final. Absence from the 1989 Copa América assumed. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1989–90 Napoli: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1988–89 UEFA Cup: Final). Changed: gp 38→40, g 18→23, uG 4→6."
    },
@@ -2249,6 +2343,8 @@
     "uG": 5,
     "uA": 0,
     "uS": 2,
+    "uOpp": 0.85,
+    "uOppN": 8,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 0,
@@ -2276,7 +2372,8 @@
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_Eredivisie",
      "https://en.wikipedia.org/wiki/1988%E2%80%9389_KNVB_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup"
+     "https://en.wikipedia.org/wiki/1988%E2%80%9389_European_Cup",
+     "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup"
     ],
     "note": "Ineligible (Brazilian). Dutch champion 88/89; 1989 Copa América champion (decisive goal against Uruguay). Copa goals uncertain. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Changed: ntG 1→3."
    }
@@ -2303,6 +2400,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1,
+    "uOppN": 3,
     "ntGP": 7,
     "ntG": 4,
     "ntA": 1,
@@ -2332,7 +2431,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_UEFA_Cup"
     ],
     "note": "137 pts. World champion (captain). Inter out of the 89/90 European Cup in 1989; UEFA Cup 90/91 autumn only: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: First round). Changed: gp 38→34, g 15→18, uG 2→3, uT UEL→UCL."
    },
@@ -2348,6 +2448,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.66,
+    "uOppN": 4,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 1,
@@ -2377,7 +2479,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup"
     ],
     "note": "84 pts. Winner of the 1990 UEFA Cup; Golden Boot and Golden Ball at the 1990 World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Final). Changed: g 16→10, uG 4→3."
    },
@@ -2393,6 +2496,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.79,
+    "uOppN": 0,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 1,
@@ -2422,7 +2527,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_UEFA_Cup"
     ],
     "note": "68 pts. Decisive penalty in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: First round). Changed: gp 36→30, g 3→1, ntGP 7→6, uT UEL→UCL."
    },
@@ -2527,6 +2633,8 @@
     "uG": 5,
     "uA": 0,
     "uS": 2,
+    "uOpp": 0.71,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
@@ -2571,6 +2679,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.71,
+    "uOppN": 2,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 1,
@@ -2600,7 +2710,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_UEFA_Cup"
     ],
     "note": "12 pts (tied 6th). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: First round). Changed: gp 36→35, g 15→13, uT UEL→UCL."
    },
@@ -2616,6 +2727,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.76,
+    "uOppN": 7,
     "ntGP": 5,
     "ntG": 2,
     "ntA": 0,
@@ -2645,7 +2758,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup_Winners'_Cup"
     ],
     "note": "8 pts. 1990 UEFA Cup finalist with Fiorentina; Juventus from the summer (Cup Winners' Cup 90/91 in the autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1990–91 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Final). Changed: gp 38→43, g 19→21, uG 3→5."
    },
@@ -2661,6 +2775,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 1.2,
+    "uOppN": 1,
     "ntGP": 4,
     "ntG": 0,
     "ntA": 0,
@@ -2690,7 +2806,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
     "note": "7 pts. Goal in the 1990 European Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 European Cup: Final). Changed: gp 36→34, g 3→2."
    },
@@ -2749,6 +2866,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.62,
+    "uOppN": 2,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 1,
@@ -2779,7 +2898,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
     "note": "Ineligible. FF retroactive winner 2016. Italian champion 1989/90; World Cup finalist. European Cup 90/91 autumn only: uS 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1989–90 UEFA Cup: Third round). Changed: gp 33→26, uT UCL→UEL, uS 0→1."
    },
@@ -2795,6 +2915,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 1,
+    "uOpp": 0.76,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2823,7 +2945,8 @@
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_La_Liga",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_European_Cup",
      "https://en.wikipedia.org/wiki/1989%E2%80%9390_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1990%E2%80%9391_European_Cup"
     ],
     "note": "Ineligible. Pichichi 1989/90 (38 goals, equalled the record). Mexico absent from the 1990 World Cup (suspended). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1989–90 European Cup: Second round). Changed: gp 33→38, g 29→39, uG 3→1, uS 0→1."
    }

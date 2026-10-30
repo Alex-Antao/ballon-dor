@@ -1,0 +1,33 @@
+{
+ "data": [
+  {
+   "rank": 1,
+   "player": {
+    "id": 0,
+    "slug": null,
+    "name": "Rodri Hernández",
+    "photoUrl": ""
+   },
+   "team": {
+    "id": 0,
+    "slug": null,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "code": null,
+    "crestUrl": ""
+   },
+   "value": 2,
+   "stats": {
+    "appearances": 9,
+    "starts": 9,
+    "minutes": 810,
+    "goals": 0,
+    "assists": 2
+   }
+  }
+ ],
+ "meta": {
+  "season": "2026-27",
+  "limit": 100
+ }
+}

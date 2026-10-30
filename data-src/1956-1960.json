@@ -64,6 +64,8 @@
     "uG": 7,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.29,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -93,7 +95,8 @@
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_La_Liga",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup",
-     "https://en.wikipedia.org/wiki/1956_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1956_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
     "note": "Naturalised Spanish in 1956. UCL: second leg of the QF, semi-finals and final of 1955/56 + 1st round of 1956/57 (Rapid Vienna) in the window.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1956–57 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→41, g 30→38, uG 3→7."
    },
@@ -109,6 +112,8 @@
     "uG": 0,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.15,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -136,7 +141,8 @@
      "https://en.wikipedia.org/wiki/Raymond_Kopa",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1955%E2%80%9356_French_Division_1",
-     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
     "note": "1955/56 European Cup finalist with Reims; transferred to Real Madrid in summer 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1955–56 European Cup: Final). Changed: gp 36→37, g 8→5, uG 1→0. Awards: not found on Wikipedia: league top scorer, cup page."
    },
@@ -152,6 +158,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -178,7 +186,8 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s",
      "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I",
-     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
     "note": "1956 championship (calendar year) interrupted in October; European Cup 1956/57 games vs Athletic (Nov–Dec 1956) count in gp/g, but Honvéd were not in the edition ending in 1956 (uS 0). Defected after the revolution.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→21, g 17→9. Awards: not found on Wikipedia: league top scorer, cup page."
    },
@@ -318,6 +327,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -344,7 +355,8 @@
      "https://ballondor.com/all-rankings?year=1956",
      "https://en.wikipedia.org/wiki/S%C3%A1ndor_Kocsis",
      "https://en.wikipedia.org/wiki/1956_Nemzeti_Bajnoks%C3%A1g_I",
-     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
     "note": "See Puskás's note on 1956.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; to verify: European stage. Changed: gp 22→23, g 16→15, uG 1→2. Awards: not found on Wikipedia: league top scorer, cup page."
    },
@@ -360,6 +372,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.82,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -387,7 +401,8 @@
      "https://en.wikipedia.org/wiki/Ivan_Kolev_(footballer,_born_1930)",
      "https://en.wikipedia.org/wiki/1956_A_Group",
      "https://en.wikipedia.org/wiki/1956_Bulgarian_Cup",
-     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup"
+     "https://en.wikipedia.org/wiki/1955%E2%80%9356_European_Cup",
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup"
     ],
     "note": "Bulgarian calendar-year league in 1956 (CDNA champions). European Cup 1956/57 started in autumn 1956; the 1955/56 edition without CDNA (uS 0). Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -497,6 +512,8 @@
     "uG": 9,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.98,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -526,7 +543,8 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
-     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Final). Changed: gp 37→40, g 32→40, uG 7→9."
    },
@@ -584,6 +602,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1.18,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -613,7 +633,8 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
     "note": "European Cup semi-finals 1956/57; English champion 1956/57. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1956–57 European Cup: Semi-finals); to verify: club, title. Awards: not found on Wikipedia: league top scorer."
    },
@@ -629,6 +650,8 @@
     "uG": 2,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.98,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -658,7 +681,8 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_La_Liga",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
-     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1957_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Final). Changed: gp 35→30, g 9→8."
    },
@@ -801,6 +825,8 @@
     "uG": 7,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1.19,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -830,7 +856,8 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_Manchester_United_F.C._season",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_Football_League",
      "https://en.wikipedia.org/wiki/1956%E2%80%9357_European_Cup",
-     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup"
+     "https://en.wikipedia.org/wiki/1956%E2%80%9357_FA_Cup",
+     "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1956–57 European Cup: Semi-finals). Changed: gp 43→36, g 26→31, uG 6→7. Awards: not found on Wikipedia: league top scorer."
    },
@@ -940,6 +967,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.74,
+    "uOppN": 3,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 4,
@@ -969,7 +998,8 @@
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_La_Liga",
      "https://en.wikipedia.org/wiki/1957%E2%80%9358_European_Cup",
      "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup",
-     "https://en.wikipedia.org/wiki/1958_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1958_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1957–58 European Cup: Final). Changed: g 7→11, uG 2→3."
    },
@@ -1242,6 +1272,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 4,
+    "uOpp": 1.19,
+    "uOppN": 2,
     "ntGP": 5,
     "ntG": 2,
     "ntA": 1,
@@ -1512,6 +1544,8 @@
     "uG": 5,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.07,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1541,7 +1575,8 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Pichichi 1958/59.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1958–59 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 34→31, g 26→24, uG 8→5."
    },
@@ -1557,6 +1592,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.08,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1585,7 +1622,8 @@
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Returned to Reims in summer 1959.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 36→37, g 9→11."
    },
@@ -1646,6 +1684,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 0,
+    "uOpp": 1.46,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1673,7 +1713,8 @@
      "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Spanish champion 1958/59. Barcelona were not in the 1958/59 European Cup (uS 0); games from 1959/60 (CDNA, Milan) and from the 1958–60 Inter-Cities Fairs Cup in the autumn included by estimate. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -1771,6 +1812,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.72,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1800,7 +1843,8 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "Missed the 1959 final through injury (from memory).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 30→29, g 29→23, uG 5→2."
    },
@@ -1816,6 +1860,8 @@
     "uG": 1,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.22,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1845,7 +1891,8 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_La_Liga",
      "https://en.wikipedia.org/wiki/1958%E2%80%9359_European_Cup",
-     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1958%E2%80%9359_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
     ],
     "note": "org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1958–59 European Cup: Final). Changed: gp 34→29, g 11→8, uG 3→1."
    },
@@ -1999,6 +2046,8 @@
     "uG": 5,
     "uA": 3,
     "uS": 3,
+    "uOpp": 1.53,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2025,7 +2074,9 @@
      "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_Inter-Cities_Fairs_Cup"
     ],
     "note": "Spanish champion 1959/60. Also won the 1958–60 Inter-Cities Fairs Cup (counted in gp/g); uT = UCL (semi-finals 1959/60) as the more important competition. Statistics NOT verified on the web (search budget exhausted; rsssf.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -2041,6 +2092,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.28,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2069,7 +2122,8 @@
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
     ],
     "note": "4 goals in the Hampden final; Pichichi 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1959–60 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1959–60 European Cup: Final). Changed: gp 32→31, g 34→33, uG 9→6."
    },
@@ -2085,6 +2139,8 @@
     "uG": 13,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1.33,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2112,7 +2168,8 @@
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Hamburger_SV_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Oberliga",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
     ],
     "note": "Oberliga Nord + final round of the German championship (HSV champions 1960). HSV in the 1960/61 European Cup from autumn 1960 (uS 0 for 1959/60).org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 32→33, g 37→49, uG 2→13."
    },
@@ -2128,6 +2185,8 @@
     "uG": 7,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.26,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2156,7 +2215,8 @@
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_La_Liga",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_Copa_del_General%C3%ADsimo",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
     ],
     "note": "Hat-trick in the 1960 final.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1960–61 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1959–60 European Cup: Final). Changed: gp 30→29, g 25→22, uG 8→7."
    },
@@ -2214,6 +2274,8 @@
     "uG": 0,
     "uA": 2,
     "uS": 0,
+    "uOpp": 0.58,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2240,7 +2302,8 @@
      "https://en.wikipedia.org/wiki/Raymond_Kopa",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_French_Division_1",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
     ],
     "note": "French champion 1959/60. Absence from Euro 1960 (France 4th) given from memory — to confirm.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); to verify: title, European stage. Changed: gp 37→36, g 11→14, uG 1→0. Awards: not found on Wikipedia: league top scorer, cup winner."
    },
@@ -2343,6 +2406,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1.22,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2371,7 +2436,8 @@
      "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Serie_A",
      "https://en.wikipedia.org/wiki/1959%E2%80%9360_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup"
+     "https://en.wikipedia.org/wiki/1959%E2%80%9360_European_Cup",
+     "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
     ],
     "note": "Naturalised Italian (eligible). Capocannoniere 1959/60.org and wikipedia.org blocked on the session network): estimate from memory, calendar-year split estimated proportionally. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page. Changed: gp 31→30, g 28→21."
    },
