@@ -20,7 +20,7 @@
     { k: 'real', n: 'Actual result', short: 'Actual', c: 'var(--c-real)', d: 'Official vote' },
     { k: 'pred', n: 'Prediction', short: 'Prediction', c: 'var(--c-pred)', d: 'Weights trained only on earlier years' },
     { k: 'fair', n: 'Fair', short: 'Fair', c: 'var(--c-fair)', d: 'Individual performance only' },
-    { k: 'mine', n: 'My model', short: 'Mine', c: 'var(--c-mine)', d: 'Individual + proportional team credit' },
+    { k: 'mine', n: 'Custom', short: 'Custom', c: 'var(--c-mine)', d: 'Individual + proportional team credit' },
   ];
   const MODELS = ['pred', 'fair', 'mine'];
   const LISTS = [['elig', 'Eligible only'], ['all', 'Everyone']];
@@ -42,7 +42,7 @@
   ];
   const MQ = { phone: matchMedia('(max-width: 699px)'), desk: matchMedia('(min-width: 1100px)') };
 
-  // ---------- state (list choice and "My model" weights persist per viewer) ----------
+  // ---------- state (list choice and "Custom" weights persist per viewer) ----------
   const MINE0 = Object.assign({}, M.MINE_DEFAULT);
   const stored = (() => { try { return JSON.parse(localStorage.getItem('bdo-lab') || '{}'); } catch (e) { return {}; } })();
   const st = {
@@ -192,8 +192,8 @@
   function tuneHtml() {
     const m = st.mine;
     return `<details class="tune panel" id="tune"${MQ.desk.matches ? ' open' : ''}>
-      <summary><h2><span class="swatch" style="--c:var(--c-mine)" aria-hidden="true"></span>Tune my model</h2></summary>
-      <p class="note">Move the weights and watch “My model” change in every year, including the Summary.</p>
+      <summary><h2><span class="swatch" style="--c:var(--c-mine)" aria-hidden="true"></span>Tune Custom</h2></summary>
+      <p class="note">Move the weights and watch “Custom” change in every year, including the Summary.</p>
       <div class="sliders">${SLIDERS.map(([k, l, min, max, step, f]) => `<label for="s_${k}">${l}<b><span></span><span id="v_${k}" class="num">${f(m[k])}</span></b>
         <input type="range" id="s_${k}" data-k="${k}" min="${min}" max="${max}" step="${step}" value="${m[k]}"></label>`).join('')}</div>
       <button type="button" class="btn" id="reset">Reset to defaults</button></details>`;
@@ -334,9 +334,13 @@
     const fact = (k, body, sub) => `<div class="fact"><span class="kicker">${k}</span>${body}${sub ? `<small>${esc(sub)}</small>` : ''}</div>`;
     const NONE = '<p class="nums"><span><b>—</b></span></p>';
     const reg = region(r);
+    const lgK = r.uT ? `League + ${reg}` : 'League';
     const facts = [
-      fact(r.uT ? `League + ${reg}` : 'League', nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists']),
-        r.gNow != null ? `projected to the full season; so far ${r.gpNow} gp · ${r.gNow} g · ${r.aNow} a` : ''),
+      // Forecast: the season so far in big numbers; the full-season projection the models score is the footnote.
+      r.gNow != null
+        ? fact(`${lgK} · so far`, nums([r.gpNow, 'games'], [r.gNow, 'goals'], [r.aNow, 'assists']),
+          `projected to the full season (what the models score): ${r.gp} gp · ${r.g} g · ${r.a} a`)
+        : fact(lgK, nums([r.gp, 'games'], [r.g, 'goals'], [r.a, 'assists'])),
       fact(reg, r.uT ? nums([r.uG, 'goals'], [r.uA, 'assists']) : NONE,
         r.uT ? `${CUPN[r.uT]}: ${STAGE[r.uS]} · weight ${fmt(cupWeight(r.uT, y))}` : reg === 'North America' ? 'CONCACAF cups are not counted' : 'no continental competition'),
       fact('National team', r.ntT ? nums([r.ntGP, 'games'], [r.ntG, 'goals'], [r.ntA, 'assists']) : NONE,
@@ -407,12 +411,12 @@
       return `<tr><td class="num"><a href="#/${o.y}">${o.y}</a></td><td data-k="Winner"><b>${o.t ? esc(o.t) : 'not awarded'}</b></td>${cell('pred')}${cell('fair')}${cell('mine')}</tr>`;
     }).join('');
     $('#main').innerHTML = `<div class="page-head"><span class="kicker">Summary</span><h1>How often each model gets it right</h1>
-        <p>${st.list === 'all' ? 'All candidates; the target is France Football’s retroactive winner when the best player was ineligible.' : 'Only players who could win under each year’s rules.'} “My model” follows the sliders in the Years view.</p>${listToggle()}</div>
+        <p>${st.list === 'all' ? 'All candidates; the target is France Football’s retroactive winner when the best player was ineligible.' : 'Only players who could win under each year’s rules.'} “Custom” follows the sliders in the Years view.</p>${listToggle()}</div>
       <div class="stats">${cards}</div>
       <section class="panel chart-panel"><header><h2>Winners called right, cumulative</h2>
         <div class="legend">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n}</span>`).join('')}</div></header>
         <div class="chart" id="cum-chart" role="img" aria-label="Cumulative number of winners called right by each model from ${done[0]} to ${DONE}: ${MODELS.map(k => `${alg(k).n} ${s[k].cum[s[k].cum.length - 1][1]}`).join(', ')}. The table below has every year."></div></section>
-      <p class="note" style="margin-bottom:16px">${note} The Fair and My models were not fitted to the winners.</p>
+      <p class="note" style="margin-bottom:16px">${note} The Fair and Custom models were not fitted to the winners.</p>
       <section class="panel"><h2 style="margin-bottom:8px">Every year</h2><div class="scroll"><table class="years-table"><thead><tr><th>Year</th><th>Winner</th>${MODELS.map(k => `<th>${alg(k).n}</th>`).join('')}</tr></thead><tbody>${tbl}</tbody></table></div></section>`;
     $$('[data-list]').forEach(b => b.onclick = () => { st.list = b.dataset.list; save(); viewSummary(); });
     drawCum(s);
@@ -494,7 +498,7 @@
       <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. League numbers are projected to a full season, because the models were fitted on whole seasons; league leaders count as champions until the season ends. Candidates are the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
       <h3><span class="swatch" style="--c:var(--c-fair)"></span>Fair</h3>
       <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for continental club cups, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
-      <h3><span class="swatch" style="--c:var(--c-mine)"></span>My model</h3>
+      <h3><span class="swatch" style="--c:var(--c-mine)"></span>Custom</h3>
       <p>About 80% individual performance and 20% team credit. Team credit only counts in proportion to what the player produced in continental cups, for the national team and in the league, so winning without contributing earns nothing. Output against top opposition (continental cups and national-team tournaments) weighs more. Every weight can be changed in the Years view.</p>
       <h2>Data limits</h2>
       <ul>

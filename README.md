@@ -6,7 +6,7 @@ Site: https://alex-antao.github.io/ballon-dor/
 
 - **Prediction** — a linear score over 19 criteria whose weights are fitted to past winners. Each year is predicted using only earlier years, so the hit rate is an honest forecast (9 of 16 in 2010–2026).
 - **Fair** — individual performance only, adjusted for position, league strength and games played.
-- **My model** — individual performance plus team credit in proportion to the player's own contribution; every weight can be tuned on the site.
+- **Custom** — individual performance plus team credit in proportion to the player's own contribution; every weight can be tuned on the site.
 
 ## Run it
 

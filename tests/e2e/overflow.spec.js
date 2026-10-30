@@ -45,7 +45,7 @@ function findOverflow(rootSel) {
   return out;
 }
 
-// Closed <details> (About, Tune my model, Data notes) are opened so their text is checked too.
+// Closed <details> (About, Tune Custom, Data notes) are opened so their text is checked too.
 const check = async (page, sel, what) => {
   await page.evaluate(s => { document.querySelectorAll(s + ' details').forEach(d => { d.open = true; }); return document.fonts.ready; }, sel);
   expect(await page.evaluate(findOverflow, sel), `text outside its box (${what})`).toEqual([]);
