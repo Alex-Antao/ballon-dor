@@ -282,7 +282,12 @@
       d.classList.add('open'); $('#backdrop').hidden = false; document.body.style.overflow = 'hidden';
       const cb = $('#detail .close'); (cb || d).focus({ preventScroll: true });
     }
-    if (!sources) loadSources().then(() => { if (st.sel === name && st.view === 'year') { $('#detail').innerHTML = detailHtml(st.year, compute(st.year)); bindDetail(); } });
+    if (!sources) loadSources().then(() => {
+      if (st.sel !== name || st.view !== 'year') return;
+      const d2 = $('#detail'), hadFocus = d2.contains(document.activeElement);
+      d2.innerHTML = detailHtml(st.year, compute(st.year)); bindDetail();
+      if (hadFocus) { const c = $('#detail .close'); (c && c.offsetParent ? c : d2).focus({ preventScroll: true }); }
+    });
   }
   function closeDetail(restoreFocus = true) {
     const d = $('#detail');
