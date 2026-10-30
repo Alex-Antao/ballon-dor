@@ -20,6 +20,8 @@
         "uG": 4,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.96,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -48,7 +50,8 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Eredivisie",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "116 pts. Eredivisie 1970/71 ~25 gp/21 g; European Cup 1970/71 won (European goals estimated). Ajax 2nd (Feyenoord champions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 European Cup: Final). Changed: gp 33→36, g 23→22, uG 2→4."
       },
@@ -64,6 +67,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 0,
+        "uOpp": 0.52,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -93,7 +98,8 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Serie_A",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Inter-Cities_Fairs_Cup",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "57 pts. Inter champions 1970/71; knocked out early in the 1970/71 Inter-Cities Fairs Cup (Newcastle, memory). League goals uncertain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1971–72 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 Inter-Cities Fairs Cup: First round). Changed: gp 31→37, g 7→11, uG 0→1."
       },
@@ -153,6 +159,8 @@
         "uG": 2,
         "uA": 2,
         "uS": 1,
+        "uOpp": 0.93,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -180,7 +188,8 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Bundesliga",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "30 pts. Champion 1970/71; European Cup 1970/71 knocked out by Everton on penalties (2nd round = round of 16). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -196,6 +205,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 2,
+        "uOpp": 1.17,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -241,6 +252,8 @@
         "uG": 4,
         "uA": 1,
         "uS": 2,
+        "uOpp": 1.17,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -372,6 +385,8 @@
         "uG": 4,
         "uA": 3,
         "uS": 5,
+        "uOpp": 0.97,
+        "uOppN": 4,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -400,7 +415,8 @@
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Eredivisie",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "9 pts. European Cup 1970/71 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1970–71 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1970–71 European Cup: Final). Changed: gp 38→41, g 12→15, uG 2→4."
       },
@@ -459,6 +475,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 0,
+        "uOpp": 0.59,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -485,7 +503,8 @@
           "https://en.wikipedia.org/wiki/Ferenc_Bene",
           "https://en.wikipedia.org/wiki/1970%E2%80%9371_Nemzeti_Bajnoks%C3%A1g_I",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup"
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_European_Cup",
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
         ],
         "note": "7 pts (tied). Format of the 1970/71 Hungarian league (autumn–spring season) and Bene's numbers very uncertain; Újpest champions. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
       },
@@ -552,6 +571,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 3,
+        "uOpp": 0.63,
+        "uOppN": 1,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 1,
@@ -583,7 +604,8 @@
           "https://en.wikipedia.org/wiki/UEFA_Euro_1972",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
         "note": "81 pts. Bayern champions 1971/72; Cup Winners' Cup: semi-finals (Rangers). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup Winners' Cup: Semi-finals). Changed: g 7→6."
       },
@@ -599,6 +621,8 @@
         "uG": 11,
         "uA": 1,
         "uS": 3,
+        "uOpp": 0.51,
+        "uOppN": 12,
         "ntGP": 2,
         "ntG": 4,
         "ntA": 0,
@@ -630,7 +654,8 @@
           "https://en.wikipedia.org/wiki/UEFA_Euro_1972",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
         "note": "79 pts (tied). 40 goals in the 1971/72 Bundesliga; 4 goals at the Euro (2 against Belgium, 2 against the USSR in the final). Cup Winners' Cup goals estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1971–72 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 41→42, g 45→53, uG 5→11."
       },
@@ -646,6 +671,8 @@
         "uG": 1,
         "uA": 2,
         "uS": 1,
+        "uOpp": 0.46,
+        "uOppN": 2,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 2,
@@ -674,7 +701,8 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Bundesliga",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
         ],
         "note": "79 pts (tied). Gladbach 3rd; European Cup 1971/72: 7-1 against Inter annulled (not counted), knocked out in the round of 16. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -690,6 +718,8 @@
         "uG": 4,
         "uA": 3,
         "uS": 5,
+        "uOpp": 0.88,
+        "uOppN": 4,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -718,7 +748,8 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
         "note": "73 pts. Top scorer of the 1971/72 Eredivisie (~25 g); 2 goals in the European Cup final against Inter. The Netherlands did not reach the Euro finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1972–73 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1971–72 European Cup: Final). Changed: gp 41→39, g 30→29, uG 5→4."
       },
@@ -734,6 +765,8 @@
         "uG": 1,
         "uA": 3,
         "uS": 5,
+        "uOpp": 0.83,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -762,7 +795,8 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
         "note": "13 pts. European Cup and Eredivisie 1971/72. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1972–73 Ajax: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1971–72 European Cup: Final). Changed: gp 40→38, g 12→15, uG 2→1."
       },
@@ -866,6 +900,8 @@
         "uG": 2,
         "uA": 0,
         "uS": 5,
+        "uOpp": 0.97,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -893,7 +929,8 @@
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Eredivisie",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_KNVB_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup"
+          "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
         "note": "4 pts (tied). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -909,6 +946,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 0,
+        "uOpp": 0.69,
+        "uOppN": 5,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -935,7 +974,8 @@
           "https://en.wikipedia.org/wiki/W%C5%82odzimierz_Luba%C5%84ski",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1971%E2%80%9372_European_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup"
         ],
         "note": "4 pts (tied). Górnik champions; numbers and 1971/72 European run very uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1971–72 European Cup: First round). Changed: gp 28→27, g 18→15. Awards: not found on Wikipedia: cup page."
       },
@@ -1046,6 +1086,8 @@
         "uG": 3,
         "uA": 3,
         "uS": 5,
+        "uOpp": 1.09,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1074,7 +1116,9 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Eredivisie",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup"
         ],
         "note": "96 pts. Ajax 1972/73: Eredivisie (~26 gp/16 g) and European Cup won. Barcelona games in autumn 1973 NOT included (S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Final). Changed: gp 32→38, g 19→20."
       },
@@ -1135,6 +1179,8 @@
         "uG": 5,
         "uA": 1,
         "uS": 2,
+        "uOpp": 0.98,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1164,7 +1210,8 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup"
         ],
         "note": "44 pts. Bundesliga 1972/73 ~36 g; top scorer of the 1972/73 European Cup (~11 g, memory); knocked out by Ajax in the quarter-finals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Quarter-finals). Changed: g 47→37, uG 11→5."
       },
@@ -1180,6 +1227,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 2,
+        "uOpp": 1.05,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1209,7 +1258,8 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup"
         ],
         "note": "30 pts. Bayern champions 1972/73. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Quarter-finals). Changed: gp 40→39, g 7→4, uG 1→0."
       },
@@ -1225,6 +1275,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 4,
+        "uOpp": 0.81,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1253,7 +1305,8 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_FA_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup"
         ],
         "note": "22 pts. 1973 Cup Winners' Cup final lost to Milan (Bremner suspended for the final). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Final). Changed: g 5→4, uG 1→0."
       },
@@ -1269,6 +1322,8 @@
         "uG": 3,
         "uA": 0,
         "uS": 1,
+        "uOpp": 0.67,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1296,7 +1351,8 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Ekstraklasa",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
         "note": "16 pts. Poland's qualification for the 1974 World Cup (Wembley, Oct 1973) does not count. European run uncertain (0). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Second round). Changed: uG 0→3, uT →CWC, uS 0→1. Awards: not found on Wikipedia: cup page."
       },
@@ -1312,6 +1368,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 1,
+        "uOpp": 1.15,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1340,7 +1398,8 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup"
         ],
         "note": "14 pts. ~40 league goals in 1972/73 (Golden Boot); Benfica champions; knocked out by Derby in the 2nd round (round of 16). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 European Cup: Second round). Changed: gp 32→27, g 41→28. Awards: not found on Wikipedia: cup page."
       },
@@ -1356,6 +1415,8 @@
         "uG": 0,
         "uA": 3,
         "uS": 5,
+        "uOpp": 0.81,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1386,7 +1447,8 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Coppa_Italia",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
         ],
         "note": "12 pts. Top scorer of the 1972/73 Serie A (17 g, tied); Cup Winners' Cup won; Milan lost the title on the last matchday. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1972–73 UEFA Cup Winners' Cup: Final). Changed: gp 35→34, g 19→13, uG 2→0."
       },
@@ -1444,6 +1506,8 @@
         "uG": 3,
         "uA": 3,
         "uS": 4,
+        "uOpp": 0.33,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1471,7 +1535,10 @@
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_Bundesliga",
           "https://en.wikipedia.org/wiki/1972%E2%80%9373_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1972%E2%80%9373_European_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup"
         ],
         "note": "11 pts (tied). 1973 UEFA Cup final lost to Liverpool. Real Madrid games in autumn 1973 not included. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1585,6 +1652,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.97,
+        "uOppN": 1,
         "ntGP": 7,
         "ntG": 0,
         "ntA": 2,
@@ -1615,7 +1684,8 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
         "note": "105 pts. Bayern champions 1973/74 and European Cup winners (final + replay against Atlético); world champion as captain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 4→5, uG 0→1. Awards: not found on Wikipedia: tournament best player."
       },
@@ -1631,6 +1701,8 @@
         "uG": 2,
         "uA": 0,
         "uS": 0,
+        "uOpp": 0.67,
+        "uOppN": 0,
         "ntGP": 7,
         "ntG": 3,
         "ntA": 4,
@@ -1659,7 +1731,8 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
         "note": "35 pts. World Cup: 3rd place, 2 goals (Haiti, penalty against Yugoslavia — memory). League numbers estimated. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: First round). Changed: gp 35→32, g 13→10, uG 0→2, ntG 2→3, uT →CWC. Awards: not found on Wikipedia: cup page, tournament best player."
       },
@@ -1675,6 +1748,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.97,
+        "uOppN": 1,
         "ntGP": 7,
         "ntG": 3,
         "ntA": 1,
@@ -1705,7 +1780,8 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
         "note": "32 pts. 3 goals at the World Cup (Chile, Yugoslavia, penalty in the final). Moved to Real Madrid in summer 1974. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1974–75 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 41→35, g 6→8. Awards: not found on Wikipedia: tournament best player."
       },
@@ -1721,6 +1797,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 1,
+        "uOpp": 0.69,
+        "uOppN": 0,
         "ntGP": 7,
         "ntG": 5,
         "ntA": 1,
@@ -1750,7 +1828,8 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
         "note": "21 pts. Ajax knocked out by CSKA Sofia in the 2nd round (round of 16) 1973/74; 5 goals at the World Cup. Barcelona from summer 1974 (outside the S window). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Second round). Changed: gp 37→33, g 13→14, uG 2→0. Awards: not found on Wikipedia: tournament best player."
       },
@@ -1809,6 +1888,8 @@
         "uG": 8,
         "uA": 1,
         "uS": 5,
+        "uOpp": 1,
+        "uOppN": 8,
         "ntGP": 7,
         "ntG": 4,
         "ntA": 0,
@@ -1839,7 +1920,8 @@
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup",
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
         "note": "14 pts. Bundesliga 1973/74 ~30 g; winning goal in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 European Cup: Final). Changed: gp 44→42, g 38→32. Awards: not found on Wikipedia: tournament best player."
       },
@@ -2030,6 +2112,8 @@
         "uG": 2,
         "uA": 0,
         "uS": 3,
+        "uOpp": 0.58,
+        "uOppN": 3,
         "ntGP": 7,
         "ntG": 0,
         "ntA": 1,
@@ -2061,7 +2145,8 @@
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup"
         ],
         "note": "4 pts (tied). Gladbach 2nd; Cup Winners' Cup semi-finals (Milan). Marked Cruyff in the World Cup final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1973–74 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 42→38, g 2→5, uG 0→2. Awards: not found on Wikipedia: tournament best player."
       },
@@ -2077,6 +2162,8 @@
         "uG": 4,
         "uA": 0,
         "uS": 3,
+        "uOpp": 0.85,
+        "uOppN": 3,
         "ntGP": 3,
         "ntG": 2,
         "ntA": 0,
@@ -2103,7 +2190,8 @@
           "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1973%E2%80%9374_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1973%E2%80%9374_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup"
         ],
         "note": "Ineligible (Argentine) at a European club. 46 league goals in 1973/74 (Golden Boot, memory); Sporting champions; Cup Winners' Cup semi-finals (Magdeburg). 2 goals against Haiti at the World Cup. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 4→3. Awards: not found on Wikipedia: league top scorer, cup page, tournament best player."
       },
@@ -2171,6 +2259,8 @@
         "uG": 5,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.9,
+        "uOppN": 4,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2199,7 +2289,8 @@
           "https://en.wikipedia.org/wiki/1975_Soviet_Top_League",
           "https://en.wikipedia.org/wiki/1975_Soviet_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "122 pts. Soviet champion 1975 and top scorer (~18 g, memory); Cup Winners' Cup 1975 won (goal in the final against Ferencváros). The European Super Cup does not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→36. Awards: not found on Wikipedia: league top scorer."
       },
@@ -2215,6 +2306,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 5,
+        "uOpp": 0.67,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2244,7 +2337,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "42 pts. European Cup 1975 won (final against Leeds); Bayern mid-table in the Bundesliga. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Final). Changed: gp 40→42, g 1→3, uG 0→1."
       },
@@ -2260,6 +2354,8 @@
         "uG": 0,
         "uA": 3,
         "uS": 3,
+        "uOpp": 0.77,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2289,7 +2385,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_La_Liga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Copa_del_General%C3%ADsimo",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup"
         ],
         "note": "27 pts. European Cup semi-finals 1974/75 (Leeds). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 European Cup: Semi-finals). Changed: g 9→7, uG 2→0."
       },
@@ -2305,6 +2402,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 5,
+        "uOpp": 0.67,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2334,7 +2433,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "25 pts. Gladbach champions 1974/75 and UEFA Cup winners (Twente). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Final). Changed: gp 46→45, g 3→1."
       },
@@ -2395,6 +2495,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 1,
+        "uOpp": 0.55,
+        "uOppN": 10,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2422,7 +2524,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Eredivisie",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_KNVB_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup"
         ],
         "note": "18 pts. Top scorer of the 1974/75 Eredivisie (~30 g, memory); UEFA Cup run estimated (round of 16). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Third round). Changed: gp 38→37, g 33→31, uG 3→1."
       },
@@ -2438,6 +2541,8 @@
         "uG": 8,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.7,
+        "uOppN": 10,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2467,7 +2572,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Bundesliga",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "17 pts. Top scorer of the 1974/75 Bundesliga (~27 g) and the UEFA Cup (~11 g, incl. a hat-trick in the second leg of the final) — memory. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1975–76 Borussia Mönchengladbach: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Final). Changed: gp 46→36, g 38→31, uG 11→8."
       },
@@ -2483,6 +2589,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 2,
+        "uOpp": 1.05,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2513,7 +2621,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Copa_del_General%C3%ADsimo",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1974%E2%80%9375_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "14 pts. Real Madrid champions 1974/75; Cup Winners' Cup: quarter-finals (Red Star, penalties). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup Winners' Cup: Quarter-finals). Changed: gp 39→35, g 5→3, uG 1→0."
       },
@@ -2572,6 +2681,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 0,
+        "uOpp": 1.2,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2601,7 +2712,8 @@
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Divizia_A",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1974%E2%80%9375_Cupa_Rom%C3%A2niei",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "11 pts. Golden Boot 1975 (~33 league goals in 1974/75, memory); Dinamo champions; European run uncertain. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1974–75 UEFA Cup: Second round). Changed: gp 33→34."
       },
