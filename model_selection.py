@@ -1,8 +1,9 @@
 # Model selection for the Prediction model: which training window, how much weight on recent years and which criteria.
 # TEMPORAL evaluation (as in a real forecast): to predict year Y, train only on years < Y.
-# Reads feats.json (node dump.js > feats.json). Usage: python model_selection.py [--nested] [--extra] [--awards] [--cont] [--out FILE]
-# --awards adds the trophies/awards study and --cont the study of the subjective rating (slow; stored under awardStudy /
-# contStudy and not re-checked by the Weights workflow).
+# Reads feats.json (node dump.js > feats.json).
+# Usage: python model_selection.py [--nested] [--extra] [--awards] [--cont] [--nations] [--out FILE]
+# --awards adds the trophies/awards study, --cont the study of the subjective rating and --nations the Nations League
+# Finals study (slow; stored under awardStudy / contStudy / nlStudy and not re-checked by the Weights workflow).
 # Writes model-selection.json (model-selection-extra.json with --extra). Does not touch fit-result.json.
 import json, sys, time
 sys.stdout.reconfigure(encoding="utf-8")  # names and arrows print fine on Windows consoles too
@@ -314,6 +315,43 @@ if '--cont' in sys.argv:
     ok.sort(key=lambda e: (e['fragile'], -e['old'][0], 'cont' in e['features']))
     out['contStudy'] = {'rule': CONT_RULE, 'variants': cs, 'adopted': ok[0]['key'] if ok else 'V0'}
     print(f"  → adopted: {out['contStudy']['adopted']}")
+
+# 8) the UEFA Nations League Finals (final four in June 2019, Oct 2021, June 2023, June 2025, June 2027). Rule written
+#    down BEFORE collecting the data and before the first run (30/10/2026):
+#    - the Finals enter the data in any case (nlGP/nlG/nlA/nlS; stage 3 semi-final, 4 lost final, 5 winner);
+#    - one variant only, N1: the Finals count as a national-team tournament with a FIXED weight of 0.4 (set beforehand,
+#      not fitted: two games among four teams, like the Conference League's 0.4): national-team stage = max(major
+#      tournament stage, 0.4 × Finals stage), national-team champion = max(…, 0.4 for the Finals winner), and the
+#      Finals goals/assists × 0.4 in the output. The World Cup and national-team final criteria stay major-only;
+#    - N1 is compared with N0 (the Finals ignored) using the official procedure. Years before 2019 cannot change (no
+#      Finals in the data or in their training years), so the decision is on 2010–2026: adopt N1 only if its hits are
+#      >= N0's AND the real winner's mean rank in 2019–2026 is not worse than N0's;
+#    - if adopted, Fair and Custom also count the Finals output and stage with the same 0.4; if not, the models ignore
+#      the Finals and the data keeps them.
+#    With four Finals and no fitted weight, the study can only show whether counting them hurts or helps a little.
+NL_RULE = ('one variant fixed beforehand (Finals at weight 0.4, not fitted); adopt only if 2010–2026 hits >= without the '
+           'Finals and the mean rank of the real winner in 2019–2026 is not worse')
+if '--nations' in sys.argv:
+    print(f'\nNations League Finals: rule fixed beforehand — {NL_RULE}')
+    F0 = F
+    FNL = {y: np.hstack([np.array([r['fNL'] for r in D[str(y)][L]['rows']], dtype=float), F0[y][:, len(BASE):]]) for y in YS}
+    ns = []
+    for key, desc, Fv in [('N0', 'Finals ignored (current)', F0), ('N1', 'Finals as a tournament at weight 0.4', FNL)]:
+        F = Fv; _cache.clear()
+        R = procedure_weights(BASE)
+        old = [r for Y, (w, r) in R.items() if Y < 2010]; new = [r for Y, (w, r) in R.items() if Y in TARGETS]
+        late = [r for Y, (w, r) in R.items() if Y in TARGETS and Y >= 2019]
+        e = {'key': key, 'desc': desc, 'old': [int(sum(r == 1 for r in old)), len(old)],
+             'hits': int(sum(r == 1 for r in new)), 'meanRank': float(np.mean(new)), 'lateRank': float(np.mean(late)),
+             'ranks': {str(Y): r for Y, (w, r) in R.items() if Y in TARGETS}}
+        ns.append(e)
+        print(f"  {key} {desc:38s} 1961–2009 {e['old'][0]}/{e['old'][1]} | 2010–2026 {e['hits']}/{len(TARGETS)} (rank {e['meanRank']:.2f}) | "
+              f"2019–2026 rank {e['lateRank']:.2f} | {e['ranks']} ({time.time() - t0:.0f}s)")
+    F = F0; _cache.clear()
+    n0, n1 = ns
+    out['nlStudy'] = {'rule': NL_RULE, 'variants': ns,
+                      'adopted': 'N1' if n1['hits'] >= n0['hits'] and n1['lateRank'] <= n0['lateRank'] else 'N0'}
+    print(f"  → adopted: {out['nlStudy']['adopted']}")
 
 json.dump(out, open(OUTF, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 print(f'\n({time.time() - t0:.0f}s)')

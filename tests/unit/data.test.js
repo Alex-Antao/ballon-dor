@@ -57,6 +57,10 @@ test('row fields have the right types and ranges', () => {
     assert.ok(r.lg in LEAGUE_ERA, `${at}: league ${r.lg} has no strength`);
     if (!r.uT) assert.equal(r.uS, 0, `${at}: stage without a competition`);
     if (!r.ntT) assert.ok(!r.ntGP && !r.ntG && !r.ntA && !r.ntS, `${at}: national-team numbers without a tournament`);
+    if ('nlS' in r) {   // Nations League Finals: only the final-four years, on players who played in them
+      assert.ok([2019, 2021, 2023, 2025].includes(+y), `${at}: no Nations League Finals that year`);
+      assert.ok([3, 4, 5].includes(r.nlS) && Number.isInteger(r.nlGP) && r.nlGP >= 1 && Number.isInteger(r.nlG) && r.nlG >= 0, `${at}: nlGP/nlG/nlS`);
+    }
     if (ATT.includes(r.pos)) assert.ok(r.cont == null, `${at}: attackers have no cont`);
     else assert.ok(typeof r.cont === 'number' && r.cont >= 0 && r.cont <= 10, `${at}: cont ${r.cont}`);
     if (r.rank != null) assert.ok(Number.isInteger(r.rank) && r.rank >= 1, `${at}: rank`);

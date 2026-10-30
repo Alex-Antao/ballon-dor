@@ -14,14 +14,18 @@
   // Continental stage on the UCL scale (0–5): stage reached × weight of the competition in that era
   const uStageEff = r => r.uS * cupWeight(r.uT, r.y);
   const ntWinW = r => r.ntS === 5 ? ({ AFCON: 0.6, ASIAN: 0.5, GOLD: 0.5 }[r.ntT] || 1) : 0;
+  // Weight of the UEFA Nations League Finals (nlG/nlS); 0 = ignored. Set by the study in model_selection.py (section 8).
+  const NL_W = 0;
+  const ntStageEff = (r, nlW = NL_W) => Math.max(r.ntS, nlW * (r.nlS || 0));
 
   function parts(r, o) {
     const aw = o.assistW, lm = leagueStrength(r.lg, r.y), nm = NTMULT[r.ntT] || 1, cw = cupW(r);
     const club = (r.g + aw * r.a) * lm;
     const eu = o.euBonus * cw * (r.uG + aw * r.uA) * lm;  // extra credit for continental-cup opposition
-    const nt = (r.ntG + aw * r.ntA) * nm * (o.ntBoost || 1);
-    return { club, eu, nt, total: club + eu + nt, games: r.gp + r.ntGP,
-             uProd: cw * (r.uG + aw * r.uA), nProd: r.ntG + aw * r.ntA };
+    const nlW = o.nlW ?? NL_W, nl = nlW * (r.nlG || 0);
+    const nt = ((r.ntG + aw * r.ntA) * nm + nl) * (o.ntBoost || 1);
+    return { club, eu, nt, total: club + eu + nt, games: r.gp + r.ntGP + (nlW ? r.nlGP || 0 : 0),
+             uProd: cw * (r.uG + aw * r.uA), nProd: r.ntG + aw * r.ntA + nl };
   }
 
   // Individual score 0–100 adjusted for position, league strength and games played (Bayesian shrinkage)
@@ -63,7 +67,7 @@
     const euContrib = s.prod.uProd + (na ? (r.cont / 10) * 4 : 0);
     const ntContrib = s.prod.nProd + (na ? (r.cont / 10) * 3 : 0);
     const euCredit = 0.45 * (uStageEff(r) / 5) * Math.min(1, euContrib / 6);
-    const ntCredit = 0.35 * (r.ntS / 5) * Math.min(1, ntContrib / 4);
+    const ntCredit = 0.35 * (ntStageEff(r) / 5) * Math.min(1, ntContrib / 4);
     const lgCredit = 0.20 * r.title * Math.min(1, s.prod.club / 20);
     const team = 100 * (euCredit + ntCredit + lgCredit);
     const score = (1 - o.wTeam) * s.final + o.wTeam * team;
@@ -96,19 +100,20 @@
     ['prodXtitle','Relative output × league champion'],
   ];
   // ctx = the year's maxima (for the relative features)
-  function predCtx(rows) {
-    const o = { assistW: 0.75, euBonus: 0, ntBoost: 1 };
+  function predCtx(rows, nlW = NL_W) {
+    const o = { assistW: 0.75, euBonus: 0, ntBoost: 1, nlW };
     return { mx: Math.max(...rows.map(r => parts(r, o).total / 50)), mu: Math.max(...rows.map(r => Math.min(parts(r, o).uProd, 20) / 10)),
              gm: Math.max(...rows.map(r => r.g)) };
   }
-  function predFeatures(r, c) {
-    const p = parts(r, { assistW: 0.75, euBonus: 0, ntBoost: 1 });
+  // nlW: weight of the Nations League Finals (the study passes 0.4; the site uses NL_W)
+  function predFeatures(r, c, nlW = NL_W) {
+    const p = parts(r, { assistW: 0.75, euBonus: 0, ntBoost: 1, nlW }), ntS = ntStageEff(r, nlW);
     const prod = p.total / 50, uProd = Math.min(p.uProd, 20) / 10, ntProd = Math.min(p.nProd, 14) / 8;
     const att = isAtt(r.pos) ? 1 : 0, cs = cupWeight(r.uT, r.y), uWin = r.uS === 5 ? cs : 0;
-    const ntWin = ntWinW(r), title = r.title;
+    const ntWin = Math.max(ntWinW(r), r.nlS === 5 ? nlW : 0), title = r.title;
     const prodRel = c.mx ? prod / c.mx : 0;
-    return [prod, uStageEff(r) / 5, uWin, uProd, r.ntS / 5, ntWin, (r.ntT === 'WC' && r.ntS >= 4) ? 1 : 0, ntProd, title,
-            (!att && r.cont != null) ? r.cont / 10 * Math.max(uStageEff(r), r.ntS) / 5 : 0, prodRel, c.mu ? uProd / c.mu : 0, att, c.gm ? r.g / c.gm : 0,
+    return [prod, uStageEff(r) / 5, uWin, uProd, ntS / 5, ntWin, (r.ntT === 'WC' && r.ntS >= 4) ? 1 : 0, ntProd, title,
+            (!att && r.cont != null) ? r.cont / 10 * Math.max(uStageEff(r), ntS) / 5 : 0, prodRel, c.mu ? uProd / c.mu : 0, att, c.gm ? r.g / c.gm : 0,
             r.uS >= 4 ? cs : 0, prodRel * uWin, ntWin * att, r.ntS >= 4 ? 1 : 0, prodRel * title];
   }
   function predict(r, w, c) {
@@ -129,7 +134,7 @@
     return sc;
   }
 
-  const api = { POS_BENCH, isAtt, parts, uStageEff, listRows, target, individual, fair, mine, predict, predFeatures, predCtx, PRED_FEATURES, rankYear,
+  const api = { POS_BENCH, NL_W, isAtt, parts, uStageEff, listRows, target, individual, fair, mine, predict, predFeatures, predCtx, PRED_FEATURES, rankYear,
                 FAIR_DEFAULT, MINE_DEFAULT };
   if (typeof module !== 'undefined') module.exports = api; else root.BDO_MODELS = api;
 })(typeof window !== 'undefined' ? window : globalThis);
