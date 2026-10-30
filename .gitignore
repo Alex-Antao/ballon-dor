@@ -1,5 +1,5 @@
-feats.json
-index.html
+/feats.json
+/index.html
 dist/
 *.zip
 node_modules/
