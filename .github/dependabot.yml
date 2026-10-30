@@ -15,3 +15,9 @@ updates:
     directory: /
     schedule:
       interval: monthly
+    # numpy 2.5+ and scipy 1.18+ need Python 3.12; CI (weights.yml) and the local setup use 3.11
+    ignore:
+      - dependency-name: numpy
+        versions: [">=2.5"]
+      - dependency-name: scipy
+        versions: [">=1.18"]
