@@ -86,7 +86,7 @@ With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second h
   - A: calendar-year numbers (or season numbers, if window P) counted from match-by-match data or from official totals for that exact window.
   - B: season totals verified and calendar-year split estimated with partial data.
   - C: estimate.
-- `aConf`: A/B only when a source records assists; otherwise C.
+- `aConf`: A/B only when a source records assists; otherwise C. 2023–2026 from `node verify/assists.js` (API-Football for 2023–2025, the Football API for 2026): A when league, continental and national-team assists all come from the API, B when the national-team number is kept (not recorded there); the row's note keeps the old values.
 
 ### Tools (verify/)
 `node verify/resolve.js` (names → Wikipedia titles in `verify/titles.json`; namesakes per era with a `Name@2010` key), then per block `node verify/verify.js 2010-2014.json [years]` (proposals in `verify/work/prop/`, report on screen), `node verify/big.js 2010-2014.json` (large differences to review by hand) and `node verify/apply.js 2010-2014.json` (writes to data-src; manual corrections in `verify/overrides.json`). Page cache in `verify/work/` (not versioned). To re-apply a block, always start from the clean file (`git checkout`), otherwise the "Changed: …" note loses the old values.

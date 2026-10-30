@@ -11473,9 +11473,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Ligue 1 32 gp/16 g/16 a; UCL ≈6 gp/4 g (missed 2 group games through injury), round of 16 (Bayern). World Cup: 7 g, 3 a, champion and Golden Ball of the tournament. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Round of 16). Changed: gp 38→39."
+   "note": "Ligue 1 32 gp/16 g/16 a; UCL ≈6 gp/4 g (missed 2 group games through injury), round of 16 (Bayern). World Cup: 7 g, 3 a, champion and Golden Ball of the tournament. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Round of 16). Changed: gp 38→39. Assists from API-Football (season 2022–23, WC too); before: a 19, uA 3, ntA 3."
   },
   "Erling Haaland": {
    "sources": [
@@ -11487,9 +11488,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "PL 35 gp/36 g/8 a (record); UCL 11 gp/12 g; treble. Norway were not at the World Cup. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final)."
+   "note": "PL 35 gp/36 g/8 a (record); UCL 11 gp/12 g; treble. Norway were not at the World Cup. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Assists from API-Football (season 2022–23); before: a 9, uA 1, ntA 0."
   },
   "Kylian Mbappé": {
    "sources": [
@@ -11502,9 +11504,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Ligue 1 34 gp/29 g/5 a (top scorer); UCL 8 gp/7 g. World Cup: 8 g (top scorer, hat-trick in the final), 2 a; finalist. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Round of 16)."
+   "note": "Ligue 1 34 gp/29 g/5 a (top scorer); UCL 8 gp/7 g. World Cup: 8 g (top scorer, hat-trick in the final), 2 a; finalist. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Round of 16). Assists from API-Football (season 2022–23, WC too); before: a 6, uA 1, ntA 2."
   },
   "Kevin De Bruyne": {
    "sources": [
@@ -11517,9 +11520,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "PL 32 gp/7 g/16 a (top assister); UCL 11 gp/2 g (goal against Real Madrid in the semi-finals). Belgium knocked out in the World Cup group stage. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 43→42."
+   "note": "PL 32 gp/7 g/16 a (top assister); UCL 11 gp/2 g (goal against Real Madrid in the semi-finals). Belgium knocked out in the World Cup group stage. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 43→42. Assists from API-Football (season 2022–23, WC too); before: a 19, uA 3, ntA 0."
   },
   "Rodri": {
    "sources": [
@@ -11533,9 +11537,10 @@
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_FA_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2023_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2023_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "UCL goals against Bayern (quarter-finals) and Inter (final, player of the final) — data.js had uG 0. World Cup: Spain in the round of 16. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 47→48."
+   "note": "UCL goals against Bayern (quarter-finals) and Inter (final, player of the final) — data.js had uG 0. World Cup: Spain in the round of 16. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 47→48. Assists from API-Football (season 2022–23, WC too); before: a 7, uA 1, ntA 0."
   },
   "Vinícius Júnior": {
    "sources": [
@@ -11548,9 +11553,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "LaLiga ≈33 gp/10 g/9 a; UCL 12 gp/7 g/5 a (semi-finals). World Cup: 4 gp/1 g (South Korea); Brazil in the quarter-finals. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals)."
+   "note": "LaLiga ≈33 gp/10 g/9 a; UCL 12 gp/7 g/5 a (semi-finals). World Cup: 4 gp/1 g (South Korea); Brazil in the quarter-finals. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals). Assists from API-Football (season 2022–23, WC too); before: a 14, uA 5, ntA 1."
   },
   "Julián Álvarez": {
    "sources": [
@@ -11563,9 +11569,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "PL 31 gp/9 g; UCL ≈10 gp/3 g. World Cup: 4 g (2 against Croatia in the semi-finals), champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final)."
+   "note": "PL 31 gp/9 g; UCL ≈10 gp/3 g. World Cup: 4 g (2 against Croatia in the semi-finals), champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Assists from API-Football (season 2022–23, WC too); before: a 2, uA 1, ntA 0."
   },
   "Victor Osimhen": {
    "sources": [
@@ -11577,9 +11584,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Serie_A",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Coppa_Italia",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Serie A 32 gp/26 g (capocannoniere, Napoli champions); UCL ≈6 gp/5 g, quarter-finals (Milan). Nigeria were not at the World Cup. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Quarter-finals)."
+   "note": "Serie A 32 gp/26 g (capocannoniere, Napoli champions); UCL ≈6 gp/5 g, quarter-finals (Milan). Nigeria were not at the World Cup. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Quarter-finals). Assists from API-Football (season 2022–23); before: a 4, uA 0, ntA 0."
   },
   "Bernardo Silva": {
    "sources": [
@@ -11592,9 +11600,10 @@
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Ambiguous position (right winger / inside midfielder); classified as CM for his off-the-ball role; cont 8 estimated. 2 goals against Real Madrid in the UCL semi-finals. World Cup: Portugal in the quarter-finals. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 45→47."
+   "note": "Ambiguous position (right winger / inside midfielder); classified as CM for his off-the-ball role; cont 8 estimated. 2 goals against Real Madrid in the UCL semi-finals. World Cup: Portugal in the quarter-finals. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 45→47. Assists from API-Football (season 2022–23, WC kept: not recorded there); before: a 5, uA 2, ntA 1."
   },
   "Luka Modrić": {
    "sources": [
@@ -11608,9 +11617,10 @@
     "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2022%E2%80%9323_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2023_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2023_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "World Cup: Croatia 3rd (lost the semi-final to Argentina; the third-place game does not change the stage). UCL up to the semi-finals. cont 8 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals). Changed: gp 44→43, g 5→6, uG 1→2."
+   "note": "World Cup: Croatia 3rd (lost the semi-final to Argentina; the third-place game does not change the stage). UCL up to the semi-finals. cont 8 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals). Changed: gp 44→43, g 5→6, uG 1→2. Assists from API-Football (season 2022–23, WC too); before: a 6, uA 2, ntA 0."
   },
   "_notes": "Window Aug 2022–Jul 2023, includes the Qatar World Cup (Nov–Dec 2022). Points (top 3): Messi 462, Haaland 357, Mbappé 270. Top 10 verified on the web; statistics from memory (conf C)."
  },
@@ -11625,9 +11635,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "PL ≈34 gp/8 g/9 a; UCL ≈9 gp, quarter-finals (Real Madrid, penalties). Euro: 6 gp (did not play Albania), goal against Georgia, player of the tournament, champion — data.js had 7 gp/0 g. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Changed: gp 43→42."
+   "note": "PL ≈34 gp/8 g/9 a; UCL ≈9 gp, quarter-finals (Real Madrid, penalties). Euro: 6 gp (did not play Albania), goal against Georgia, player of the tournament, champion — data.js had 7 gp/0 g. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Changed: gp 43→42. Assists from API-Football (season 2023–24, EURO too); before: a 10, uA 1, ntA 0."
   },
   "Vinícius Júnior": {
    "sources": [
@@ -11639,9 +11650,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024_Copa_Am%C3%A9rica",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "LaLiga 26 gp/15 g/5 a; UCL 10 gp/6 g/5 a (goal in the final). Copa América: 2 g against Paraguay; suspended for the quarter-finals (Brazil knocked out). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final)."
+   "note": "LaLiga 26 gp/15 g/5 a; UCL 10 gp/6 g/5 a (goal in the final). Copa América: 2 g against Paraguay; suspended for the quarter-finals (Brazil knocked out). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Assists from API-Football (season 2023–24, COPA too); before: a 10, uA 5, ntA 0."
   },
   "Jude Bellingham": {
    "sources": [
@@ -11653,9 +11665,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "LaLiga 28 gp/19 g/6 a; UCL ≈10 gp/4 g/5 a. Euro: 2 g (Serbia, Slovakia), finalist. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Changed: gp 38→39."
+   "note": "LaLiga 28 gp/19 g/6 a; UCL ≈10 gp/4 g/5 a. Euro: 2 g (Serbia, Slovakia), finalist. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Changed: gp 38→39. Assists from API-Football (season 2023–24, EURO too); before: a 11, uA 5, ntA 1."
   },
   "Dani Carvajal": {
    "sources": [
@@ -11667,9 +11680,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Goal in the UCL final. Euro: goal against Croatia; suspended for the semi-finals; champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Changed: gp 40→38, ntGP 6→5."
+   "note": "Goal in the UCL final. Euro: goal against Croatia; suspended for the semi-finals; champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Changed: gp 40→38, ntGP 6→5. Assists from API-Football (season 2023–24, EURO too); before: a 5, uA 1, ntA 0."
   },
   "Erling Haaland": {
    "sources": [
@@ -11680,9 +11694,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "PL 31 gp/27 g/5 a (top scorer); UCL ≈9 gp/6 g. Norway were not at the Euro. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals)."
+   "note": "PL 31 gp/27 g/5 a (top scorer); UCL ≈9 gp/6 g. Norway were not at the Euro. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Assists from API-Football (season 2023–24); before: a 6, uA 1, ntA 0."
   },
   "Kylian Mbappé": {
    "sources": [
@@ -11694,9 +11709,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Ligue 1 29 gp/27 g/7 a; UCL 12 gp/8 g, semi-finals. Euro: 5 gp (missed the game with the Netherlands after a broken nose), 1 g (penalty against Poland), assist for Kolo Muani in the semi-finals; data.js had 6 gp/0 a. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Semi-finals)."
+   "note": "Ligue 1 29 gp/27 g/7 a; UCL 12 gp/8 g, semi-finals. Euro: 5 gp (missed the game with the Netherlands after a broken nose), 1 g (penalty against Poland), assist for Kolo Muani in the semi-finals; data.js had 6 gp/0 a. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Semi-finals). Assists from API-Football (season 2023–24, EURO too); before: a 9, uA 2, ntA 1."
   },
   "Lautaro Martínez": {
    "sources": [
@@ -11708,9 +11724,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024_Copa_Am%C3%A9rica",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Coppa_Italia",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Serie A 33 gp/24 g (capocannoniere, Inter champions); UCL ≈7 gp, round of 16 (Atlético). Copa América: 5 g (top scorer, winning goal in the final), champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Round of 16). Changed: gp 40→41."
+   "note": "Serie A 33 gp/24 g (capocannoniere, Inter champions); UCL ≈7 gp, round of 16 (Atlético). Copa América: 5 g (top scorer, winning goal in the final), champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Round of 16). Changed: gp 40→41. Assists from API-Football (season 2023–24, COPA too); before: a 4, uA 1, ntA 0."
   },
   "Lamine Yamal": {
    "sources": [
@@ -11722,9 +11739,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Club numbers kept from data.js. Euro: 6 gp (did not play Albania), 1 g (France), 4 a, best young player, champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Changed: gp 44→47, g 6→5, uG 1→0, ntGP 6→7."
+   "note": "Club numbers kept from data.js. Euro: 6 gp (did not play Albania), 1 g (France), 4 a, best young player, champion. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Quarter-finals). Changed: gp 44→47, g 6→5, uG 1→0, ntGP 6→7. Assists from API-Football (season 2023–24, EURO too); before: a 10, uA 2, ntA 4."
   },
   "Toni Kroos": {
    "sources": [
@@ -11736,9 +11754,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Last season before retiring; LaLiga and UCL champion. Euro: Germany in the quarter-finals. cont 8.5 estimated; ntA uncertain. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final)."
+   "note": "Last season before retiring; LaLiga and UCL champion. Euro: Germany in the quarter-finals. cont 8.5 estimated; ntA uncertain. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Final). Assists from API-Football (season 2023–24, EURO too); before: a 10, uA 2, ntA 1."
   },
   "Harry Kane": {
    "sources": [
@@ -11750,9 +11769,10 @@
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/UEFA_Euro_2024",
     "https://en.wikipedia.org/wiki/2023%E2%80%9324_DFB-Pokal",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "BL 32 gp/36 g/8 a (top scorer, European Golden Shoe); UCL 12 gp/8 g, semi-finals. Euro: 3 g (Denmark, Slovakia, the Netherlands), finalist; ntA kept from data.js (uncertain). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Semi-finals)."
+   "note": "BL 32 gp/36 g/8 a (top scorer, European Golden Shoe); UCL 12 gp/8 g, semi-finals. Euro: 3 g (Denmark, Slovakia, the Netherlands), finalist; ntA kept from data.js (uncertain). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2023–24 UEFA Champions League: Semi-finals). Assists from API-Football (season 2023–24, EURO too); before: a 11, uA 3, ntA 2."
   },
   "_notes": "First edition co-organised with UEFA. Points (top 3): Rodri 1170, Vinícius 1129, Bellingham 917. Top 10 verified on the web; statistics from memory (conf C)."
  },
@@ -11768,9 +11788,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "Ligue 1 29 gp/21 g/6 a (joint top scorer with Greenwood); UCL 15 gp/8 g/6 a, champion. Played mostly as a false 9 (pos W kept from data.js). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final)."
+   "note": "Ligue 1 29 gp/21 g/6 a (joint top scorer with Greenwood); UCL 15 gp/8 g/6 a, champion. Played mostly as a false 9 (pos W kept from data.js). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Assists from API-Football (season 2024–25); before: a 12, uA 6, ntA 0."
   },
   "Lamine Yamal": {
    "sources": [
@@ -11783,9 +11804,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "Numbers kept from data.js (LaLiga ≈35 gp/9 g/13 a; UCL ≈13 gp/5 g/3 a); semi-finals (Inter). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals)."
+   "note": "Numbers kept from data.js (LaLiga ≈35 gp/9 g/13 a; UCL ≈13 gp/5 g/3 a); semi-finals (Inter). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals). Assists from API-Football (season 2024–25); before: a 16, uA 3, ntA 0."
   },
   "Vitinha": {
    "sources": [
@@ -11798,9 +11820,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→46, g 5→7."
+   "note": "Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→46, g 5→7. Assists from API-Football (season 2024–25); before: a 6, uA 3, ntA 0."
   },
   "Mohamed Salah": {
    "sources": [
@@ -11812,9 +11835,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "PL 38 gp/29 g/18 a (top scorer and top assister); UCL 9 gp, round of 16 (PSG). UCL goals possibly 3–4 (data.js: 2, kept). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Round of 16). Changed: g 31→32, uG 2→3."
+   "note": "PL 38 gp/29 g/18 a (top scorer and top assister); UCL 9 gp, round of 16 (PSG). UCL goals possibly 3–4 (data.js: 2, kept). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Round of 16). Changed: g 31→32, uG 2→3. Assists from API-Football (season 2024–25); before: a 22, uA 4, ntA 0."
   },
   "Raphinha": {
    "sources": [
@@ -11826,9 +11850,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "LaLiga ≈36 gp/18 g; UCL ≈14 gp/13 g/8 a (semi-finals). Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals). Changed: gp 49→50."
+   "note": "LaLiga ≈36 gp/18 g; UCL ≈14 gp/13 g/8 a (semi-finals). Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals). Changed: gp 49→50. Assists from API-Football (season 2024–25); before: a 17, uA 8, ntA 0."
   },
   "Achraf Hakimi": {
    "sources": [
@@ -11840,9 +11865,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "uG corrected from 1 to 3 (goals against Aston Villa in the quarter-finals, Arsenal in the semi-finals and Inter in the final). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 43→42, g 7→8, uG 3→4."
+   "note": "uG corrected from 1 to 3 (goals against Aston Villa in the quarter-finals, Arsenal in the semi-finals and Inter in the final). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 43→42, g 7→8, uG 3→4. Assists from API-Football (season 2024–25); before: a 12, uA 5, ntA 0."
   },
   "Kylian Mbappé": {
    "sources": [
@@ -11855,9 +11881,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Copa_del_Rey",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "LaLiga 34 gp/31 g (Pichichi, European Golden Shoe); UCL 14 gp/7 g, incl. 4 against Man City in the play-off; quarter-finals (Arsenal). data.js had 43 gp/35 g (uG 4). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals)."
+   "note": "LaLiga 34 gp/31 g (Pichichi, European Golden Shoe); UCL 14 gp/7 g, incl. 4 against Man City in the play-off; quarter-finals (Arsenal). data.js had 43 gp/35 g (uG 4). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals). Assists from API-Football (season 2024–25); before: a 5, uA 2, ntA 0."
   },
   "Cole Palmer": {
    "sources": [
@@ -11870,9 +11897,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Europa_Conference_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_FA_Cup",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Conference_League"
+    "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Conference_League",
+    "https://www.api-football.com"
    ],
-   "note": "PL 37 gp/15 g/8 a; few Conference League games (2 assists in the final against Betis, Chelsea champions). 2025 Club World Cup does not count. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Europa Conference League: Final). Changed: gp 40→45."
+   "note": "PL 37 gp/15 g/8 a; few Conference League games (2 assists in the final against Betis, Chelsea champions). 2025 Club World Cup does not count. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Europa Conference League: Final). Changed: gp 40→45. Assists from API-Football (season 2024–25); before: a 10, uA 2, ntA 0."
   },
   "Gianluigi Donnarumma": {
    "sources": [
@@ -11884,9 +11912,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "Yashin Trophy 2025; decisive in the shoot-out against Liverpool and in the UCL knockout rounds. Transferred to Man City in Sep 2025 (outside the window). cont 9 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→39."
+   "note": "Yashin Trophy 2025; decisive in the shoot-out against Liverpool and in the UCL knockout rounds. Transferred to Man City in Sep 2025 (outside the window). cont 9 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→39. Assists from API-Football (season 2024–25); before: a 0, uA 0, ntA 0."
   },
   "Nuno Mendes": {
    "sources": [
@@ -11899,9 +11928,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
+    "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals",
+    "https://www.api-football.com"
    ],
-   "note": "Goal against Aston Villa in the UCL quarter-finals; UCL and Ligue 1 champion. cont 8.5 estimated (same as Hakimi). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: g 3→5, uG 1→4."
+   "note": "Goal against Aston Villa in the UCL quarter-finals; UCL and Ligue 1 champion. cont 8.5 estimated (same as Hakimi). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: g 3→5, uG 1→4. Assists from API-Football (season 2024–25); before: a 6, uA 2, ntA 0."
   },
   "Harry Kane": {
    "sources": [
@@ -11913,9 +11943,10 @@
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_Bundesliga",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2024%E2%80%9325_DFB-Pokal",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://www.api-football.com"
    ],
-   "note": "13th in the vote (outside the top 10), kept because he was already in data.js. BL 31 gp/26 g (top scorer, 1st league title); UCL 14 gp/11 g (4 against Dinamo Zagreb), quarter-finals (Inter). data.js had 41 gp/34 g (uG 8). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals). Changed: gp 45→44."
+   "note": "13th in the vote (outside the top 10), kept because he was already in data.js. BL 31 gp/26 g (top scorer, 1st league title); UCL 14 gp/11 g (4 against Dinamo Zagreb), quarter-finals (Inter). data.js had 41 gp/34 g (uG 8). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals). Changed: gp 45→44. Assists from API-Football (season 2024–25); before: a 10, uA 2, ntA 0."
   },
   "_notes": "No major national-team tournament in the window (the Nations League finals and the 2025 Club World Cup do not count). Points verified: Hakimi 484, Mbappé 378, Palmer 211. 11th Pedri, 12th Kvaratskhelia, 13th Kane. Top 10 verified on the web; statistics from memory (conf C)."
  },
@@ -11928,9 +11959,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_DFB-Pokal",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals)."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 7, uA 2, ntA 1."
   },
   "Kylian Mbappé": {
    "sources": [
@@ -11940,9 +11972,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals)."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals). Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 6, uA 1, ntA 4."
   },
   "Lamine Yamal": {
    "sources": [
@@ -11952,9 +11985,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Copa_del_Rey",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals)."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals). Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 15, uA 4, ntA 0."
   },
   "Rodri": {
    "sources": [
@@ -11964,9 +11998,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: gp 38→26, g 2→1, uS 2→1."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: gp 38→26, g 2→1, uS 2→1. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 4, uA 0, ntA 1."
   },
   "Lionel Messi": {
    "sources": [
@@ -11985,9 +12020,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 47→44, g 21→18."
+   "note": "Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 47→44, g 21→18. Assists from the Football API (season 2025–26); before: a 9, uA 6, ntA 0."
   },
   "Ousmane Dembélé": {
    "sources": [
@@ -11997,9 +12033,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: g 19→18, uG 7→8, ntGP 7→8."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: g 19→18, uG 7→8, ntGP 7→8. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 11, uA 4, ntA 2."
   },
   "Erling Haaland": {
    "sources": [
@@ -12009,9 +12046,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_FA_Cup",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: g 33→35, uG 7→8, ntGP 6→5."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: g 33→35, uG 7→8, ntGP 6→5. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 6, uA 1, ntA 0."
   },
   "Luis Díaz": {
    "sources": [
@@ -12021,9 +12059,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_DFB-Pokal",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 42→44, g 23→22, uG 8→7, ntGP 4→5."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 42→44, g 23→22, uG 8→7, ntGP 4→5. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 17, uA 4, ntA 1."
   },
   "Michael Olise": {
    "sources": [
@@ -12033,9 +12072,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_DFB-Pokal",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 44→45, g 15→20, ntGP 7→8, ntG 2→0."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 44→45, g 15→20, ntGP 7→8, ntG 2→0. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 26, uA 8, ntA 7."
   },
   "Fabián Ruiz": {
    "sources": [
@@ -12045,9 +12085,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→29, g 8→2, uG 3→1, ntGP 7→8."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→29, g 8→2, uG 3→1, ntGP 7→8. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 7, uA 3, ntA 1."
   },
   "Vitinha": {
    "sources": [
@@ -12057,9 +12098,10 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
     "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-    "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+    "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+    "https://football-api.yuvron.online"
    ],
-   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→46, uG 2→6, ntGP 4→5."
+   "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→46, uG 2→6, ntGP 4→5. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 10, uA 4, ntA 1."
   },
   "_notes": "2026 data kept from the previous version (outside the top 3 they are C estimates)."
  }

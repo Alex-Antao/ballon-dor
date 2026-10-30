@@ -47,7 +47,7 @@ test('temporal prediction 2010–2026 matches the stored model-selection result'
     if (top(rows, r => M.predict(r, SEL.temporal[y].weights, ctx)) === Y.winner) hit++;
   }
   assert.equal(hit, SEL.nestedWindow.hits);
-  assert.equal(hit, 9);
+  assert.equal(hit, 8);
 });
 
 test('the models count the Nations League Finals only if the study adopted them', () => {
