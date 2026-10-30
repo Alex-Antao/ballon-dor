@@ -18,14 +18,35 @@ async function noHorizontalScroll(page) {
 }
 const visibleCols = page => page.locator('#cols .col:visible');
 
-test('opens on the latest year with the real winner and each model\'s pick', async ({ page }) => {
+test('opens on the 2027 forecast (built from the test fixtures)', async ({ page }) => {
   await page.goto('/');
-  await expect(page).toHaveTitle(/2026/);
+  await expect(page).toHaveTitle(/2027 forecast/);
+  await expect(page.locator('.year-title h1')).toHaveText('2027');
+  await expect(page.locator('#winner')).toContainText('Not awarded yet');
+  await expect(page.locator('#winner')).toContainText('as of 2026-10-30');
+  await expect(page.locator('#picks .pick')).toHaveCount(3);
+  await expect(page.locator('#col-real header h2')).toHaveText('Season so far');
+  await expect(page.locator('#col-real .row').first()).toContainText('Harry Kane');
+  await expect(page.locator('#col-real .row .sc').first()).toHaveText('20+5');
+  await expect(page.getByRole('button', { name: 'Everyone' })).toHaveCount(0);
+  await expect(page.getByRole('button', { name: 'Next year' })).toBeDisabled();
+  await noHorizontalScroll(page);
+});
+
+test('forecast detail shows projected and current numbers with inline sources', async ({ page }) => {
+  await page.goto('/#/forecast');
+  await page.locator('#col-real .row', { hasText: 'Harry Kane' }).click();
+  const detail = page.locator('#detail');
+  await expect(detail.locator('h2')).toHaveText('Harry Kane');
+  await expect(detail).toContainText('projected to the full season; so far 12 gp · 20 g · 5 a');
+  await expect(detail.locator('.src a').first()).toHaveText('football-data.org');
+});
+
+test('the latest awarded year still shows the real winner', async ({ page }) => {
+  await page.goto('/#/years');
   await expect(page.locator('.year-title h1')).toHaveText('2026');
   await expect(page.locator('#winner strong')).toHaveText('Harry Kane');
-  await expect(page.locator('#picks .pick')).toHaveCount(3);
-  await expect(page.locator('#picks')).toContainText('Prediction picks');
-  await noHorizontalScroll(page);
+  await expect(page.getByRole('button', { name: 'Next year' })).toBeEnabled();
 });
 
 test('year navigation: arrows, year picker and old links', async ({ page }) => {
@@ -185,4 +206,7 @@ test('navigation bar reaches every section', async ({ page }) => {
   await expect(page.locator('h1')).toHaveText('How it works');
   await nav.getByRole('link', { name: 'Years' }).click();
   await expect(page.locator('.year-title h1')).toHaveText('2026');
+  await nav.getByRole('link', { name: 'Forecast' }).click();
+  await expect(page.locator('.year-title h1')).toHaveText('2027');
+  await expect(nav.getByRole('link', { name: 'Forecast' })).toHaveAttribute('aria-current', 'page');
 });
