@@ -4310,5 +4310,69 @@
    }
   ],
   "adopted": "V3"
+ },
+ "nlStudy": {
+  "rule": "one variant fixed beforehand (Finals at weight 0.4, not fitted); adopt only if 2010–2026 hits >= without the Finals and the mean rank of the real winner in 2019–2026 is not worse",
+  "variants": [
+   {
+    "key": "N0",
+    "desc": "Finals ignored (current)",
+    "old": [
+     16,
+     49
+    ],
+    "hits": 9,
+    "meanRank": 1.8125,
+    "lateRank": 1.8571428571428572,
+    "ranks": {
+     "2010": 6,
+     "2011": 1,
+     "2012": 1,
+     "2013": 1,
+     "2014": 2,
+     "2015": 1,
+     "2016": 1,
+     "2017": 1,
+     "2018": 2,
+     "2019": 2,
+     "2021": 4,
+     "2022": 1,
+     "2023": 2,
+     "2024": 1,
+     "2025": 2,
+     "2026": 1
+    }
+   },
+   {
+    "key": "N1",
+    "desc": "Finals as a tournament at weight 0.4",
+    "old": [
+     16,
+     49
+    ],
+    "hits": 8,
+    "meanRank": 2.0,
+    "lateRank": 2.2857142857142856,
+    "ranks": {
+     "2010": 6,
+     "2011": 1,
+     "2012": 1,
+     "2013": 1,
+     "2014": 2,
+     "2015": 1,
+     "2016": 1,
+     "2017": 1,
+     "2018": 2,
+     "2019": 2,
+     "2021": 5,
+     "2022": 1,
+     "2023": 2,
+     "2024": 3,
+     "2025": 2,
+     "2026": 1
+    }
+   }
+  ],
+  "adopted": "N0"
  }
 }

@@ -1914,6 +1914,9 @@
     "ntA": 0,
     "ntT": "",
     "ntS": 0,
+    "nlGP": 2,
+    "nlG": 0,
+    "nlS": 4,
     "title": 0,
     "cup": 0,
     "lgTop": 0,
@@ -1937,7 +1940,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 50→49, g 6→8, uG 1→2."
    },
@@ -1958,6 +1962,9 @@
     "ntA": 0,
     "ntT": "",
     "ntS": 0,
+    "nlGP": 2,
+    "nlG": 3,
+    "nlS": 5,
     "title": 1,
     "cup": 0,
     "lgTop": 0,
@@ -1981,7 +1988,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Serie_A",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals"
     ],
     "note": "Hat-trick vs Atlético (round of 16 2018/19). Nations League (Jun 2019) excluded. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: gp 37→40, g 23→26, uG 7→8."
    },
@@ -2225,6 +2233,9 @@
     "ntA": 0,
     "ntT": "",
     "ntS": 0,
+    "nlGP": 2,
+    "nlG": 0,
+    "nlS": 5,
     "title": 1,
     "cup": 0,
     "lgTop": 0,
@@ -2248,7 +2259,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals"
     ],
     "note": "Plays winger/midfielder; classified AM (cont null). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: gp 42→43, g 8→9."
    },

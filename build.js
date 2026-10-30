@@ -32,7 +32,7 @@ if (forecast) {
 }
 const pick = (o, ks) => Object.fromEntries(ks.filter(k => k in o).map(k => [k, o[k]]));
 const config = { weights: fit.weights, fits: fit.fits,
-  selection: pick(sel, ['targets', 'baseline', 'nestedWindow', 'nested', 'selection', 'temporal', 'temporalOld', 'final', 'memorisedFit', 'awardStudy', 'contStudy']), forecast };
+  selection: pick(sel, ['targets', 'baseline', 'nestedWindow', 'nested', 'selection', 'temporal', 'temporalOld', 'final', 'memorisedFit', 'awardStudy', 'contStudy', 'nlStudy']), forecast };
 
 const data = read('data.js').replace(/if \(typeof module[^\n]*\n?/, '');
 const files = {

@@ -6,6 +6,7 @@ function tourTitle(ntT, y, win) {
   const T = {
     WC: v => `${v} FIFA World Cup`, EURO: v => `UEFA Euro ${v}`, COPA: v => `${v} Copa América`,
     AFCON: v => `${v} Africa Cup of Nations`, ASIAN: v => `${v} AFC Asian Cup`, GOLD: v => `${v} CONCACAF Gold Cup`,
+    NL: v => `${v} UEFA Nations League Finals`,
   }[ntT];
   if (!T) return null;
   const cands = [];

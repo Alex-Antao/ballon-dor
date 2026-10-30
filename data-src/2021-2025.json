@@ -115,6 +115,9 @@
         "ntA": 1,
         "ntT": "EURO",
         "ntS": 5,
+        "nlGP": 2,
+        "nlG": 0,
+        "nlS": 3,
         "title": 0,
         "cup": 0,
         "lgTop": 0,
@@ -139,7 +142,8 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020",
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2021_UEFA_Nations_League_Finals"
         ],
         "note": "Goals almost all from penalties (2 against Malmö in the UCL, 2 against Leeds and 2 against Aston Villa in the PL in Dec). UCL 2020/21 and Euro 2020 champion. ntA kept from data.js (uncertain). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Final). Changed: gp 46→43, g 8→11."
       },
@@ -160,6 +164,9 @@
         "ntA": 1,
         "ntT": "EURO",
         "ntS": 1,
+        "nlGP": 2,
+        "nlG": 2,
+        "nlS": 5,
         "title": 0,
         "cup": 0,
         "lgTop": 0,
@@ -184,7 +191,8 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020",
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_Copa_del_Rey",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2021_UEFA_Nations_League_Finals"
         ],
         "note": "UCL 2020/21 up to the semi-finals (goals against Atalanta and Chelsea) + groups 2021/22. Euro: 4 g (2 against Portugal, 2 against Switzerland); ntA kept from data.js (uncertain). Nations League (Oct 2021) does not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Semi-finals). Changed: g 36→37."
       },
@@ -340,6 +348,9 @@
         "ntA": 1,
         "ntT": "EURO",
         "ntS": 2,
+        "nlGP": 2,
+        "nlG": 0,
+        "nlS": 3,
         "title": 1,
         "cup": 0,
         "lgTop": 0,
@@ -364,7 +375,8 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020",
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2021_UEFA_Nations_League_Finals"
         ],
         "note": "Injured Jan–Feb 2021. UCL 2020/21: goals against Gladbach, Dortmund and PSG; final lost. Euro: missed the 1st game; 1 g + 1 a against Denmark; quarter-finals. PL champion 2020/21. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Final). Changed: gp 34→41, g 9→11."
       },
@@ -385,6 +397,9 @@
         "ntA": 1,
         "ntT": "EURO",
         "ntS": 1,
+        "nlGP": 2,
+        "nlG": 2,
+        "nlS": 5,
         "title": 0,
         "cup": 1,
         "lgTop": 1,
@@ -409,7 +424,8 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020",
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_Coupe_de_France",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2021_UEFA_Nations_League_Finals"
         ],
         "note": "UCL 2020/21: 4 g against Barcelona, 2 against Bayern, semi-finals against City; groups 2021/22 ≈4 g. Euro: 0 g; assist(s) for Benzema/Griezmann (1–2). Lille champions 2020/21. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Champions League: Semi-finals). Changed: g 35→34."
       },
@@ -430,6 +446,9 @@
         "ntA": 0,
         "ntT": "EURO",
         "ntS": 5,
+        "nlGP": 2,
+        "nlG": 0,
+        "nlS": 3,
         "title": 0,
         "cup": 0,
         "lgTop": 0,
@@ -454,7 +473,8 @@
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Europa_League",
           "https://en.wikipedia.org/wiki/UEFA_Euro_2020",
           "https://en.wikipedia.org/wiki/2020%E2%80%9321_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2021_UEFA_Nations_League_Finals"
         ],
         "note": "Player of Euro 2020 (decisive in the penalty shoot-outs). Continental competition in the window: UEL 2020/21 with Milan (round of 16, Man United). At PSG alternated with Navas (Aug–Dec). cont 8.5 estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2020–21 UEFA Europa League: Round of 16). Changed: gp 33→39."
       }
@@ -1135,6 +1155,9 @@
         "ntA": 0,
         "ntT": "WC",
         "ntS": 1,
+        "nlGP": 2,
+        "nlG": 0,
+        "nlS": 5,
         "title": 1,
         "cup": 0,
         "lgTop": 0,
@@ -1159,7 +1182,8 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2023_UEFA_Nations_League_Finals"
         ],
         "note": "UCL goals against Bayern (quarter-finals) and Inter (final, player of the final) — data.js had uG 0. World Cup: Spain in the round of 16. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Final). Changed: gp 47→48."
       },
@@ -1359,6 +1383,9 @@
         "ntA": 0,
         "ntT": "WC",
         "ntS": 3,
+        "nlGP": 2,
+        "nlG": 1,
+        "nlS": 4,
         "title": 0,
         "cup": 1,
         "lgTop": 0,
@@ -1383,7 +1410,8 @@
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/2022%E2%80%9323_Copa_del_Rey",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2023_UEFA_Nations_League_Finals"
         ],
         "note": "World Cup: Croatia 3rd (lost the semi-final to Argentina; the third-place game does not change the stage). UCL up to the semi-finals. cont 8 estimated. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2022–23 UEFA Champions League: Semi-finals). Changed: gp 44→43, g 5→6, uG 1→2."
       }
@@ -1865,6 +1893,9 @@
         "ntA": 0,
         "ntT": "",
         "ntS": 0,
+        "nlGP": 1,
+        "nlG": 0,
+        "nlS": 3,
         "title": 1,
         "cup": 1,
         "lgTop": 1,
@@ -1888,7 +1919,8 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
         ],
         "note": "Ligue 1 29 gp/21 g/6 a (joint top scorer with Greenwood); UCL 15 gp/8 g/6 a, champion. Played mostly as a false 9 (pos W kept from data.js). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final)."
       },
@@ -1909,6 +1941,9 @@
         "ntA": 0,
         "ntT": "",
         "ntS": 0,
+        "nlGP": 2,
+        "nlG": 2,
+        "nlS": 4,
         "title": 1,
         "cup": 1,
         "lgTop": 0,
@@ -1932,7 +1967,8 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Copa_del_Rey",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
         ],
         "note": "Numbers kept from data.js (LaLiga ≈35 gp/9 g/13 a; UCL ≈13 gp/5 g/3 a); semi-finals (Inter). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Semi-finals)."
       },
@@ -1953,6 +1989,9 @@
         "ntA": 0,
         "ntT": "",
         "ntS": 0,
+        "nlGP": 2,
+        "nlG": 0,
+        "nlS": 5,
         "title": 1,
         "cup": 1,
         "lgTop": 0,
@@ -1976,7 +2015,8 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
         ],
         "note": "Numbers kept from data.js. (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: gp 44→46, g 5→7."
       },
@@ -2129,6 +2169,9 @@
         "ntA": 0,
         "ntT": "",
         "ntS": 0,
+        "nlGP": 2,
+        "nlG": 2,
+        "nlS": 3,
         "title": 0,
         "cup": 0,
         "lgTop": 1,
@@ -2152,7 +2195,8 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Copa_del_Rey",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
         ],
         "note": "LaLiga 34 gp/31 g (Pichichi, European Golden Shoe); UCL 14 gp/7 g, incl. 4 against Man City in the play-off; quarter-finals (Arsenal). data.js had 43 gp/35 g (uG 4). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Quarter-finals)."
       },
@@ -2262,6 +2306,9 @@
         "ntA": 0,
         "ntT": "",
         "ntS": 0,
+        "nlGP": 2,
+        "nlG": 1,
+        "nlS": 5,
         "title": 1,
         "cup": 1,
         "lgTop": 0,
@@ -2285,7 +2332,8 @@
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Ligue_1",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League",
           "https://en.wikipedia.org/wiki/2024%E2%80%9325_Coupe_de_France",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/2025_UEFA_Nations_League_Finals"
         ],
         "note": "Goal against Aston Villa in the UCL quarter-finals; UCL and Ligue 1 champion. cont 8.5 estimated (same as Hakimi). (Wikipedia/Transfermarkt/fbref unreachable in this session and search limit exhausted); only the position in the vote was verified. Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2024–25 UEFA Champions League: Final). Changed: g 3→5, uG 1→4."
       },

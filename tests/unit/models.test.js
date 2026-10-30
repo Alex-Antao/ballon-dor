@@ -50,6 +50,14 @@ test('temporal prediction 2010–2026 matches the stored model-selection result'
   assert.equal(hit, 9);
 });
 
+test('the models count the Nations League Finals only if the study adopted them', () => {
+  assert.equal(SEL.nlStudy.adopted, 'N0');
+  assert.equal(M.NL_W, 0);
+  const r = YEARS[2025].rows.find(x => x.name === 'Lamine Yamal'), rows = M.listRows(YEARS[2025], 'elig');
+  assert.equal(r.nlS, 4, 'the data keeps them');
+  assert.ok(M.predFeatures(r, M.predCtx(rows, 0.4), 0.4)[7] > M.predFeatures(r, M.predCtx(rows))[7], 'the study variant counts his Finals goals');
+});
+
 test('temporal weights never train on the year they predict', () => {
   for (const [y, t] of Object.entries(SEL.temporal)) assert.ok(t.train[1] < +y, `${y} trains up to ${t.train[1]}`);
 });
