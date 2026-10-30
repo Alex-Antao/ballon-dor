@@ -1,0 +1,80 @@
+{
+ "matches": [
+  {
+   "stage": "LEAGUE_STAGE",
+   "status": "FINISHED",
+   "homeTeam": {
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI"
+   },
+   "awayTeam": {
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA"
+   },
+   "score": {
+    "winner": "HOME_TEAM"
+   }
+  },
+  {
+   "stage": "LEAGUE_STAGE",
+   "status": "FINISHED",
+   "homeTeam": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   },
+   "awayTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "score": {
+    "winner": "DRAW"
+   }
+  },
+  {
+   "stage": "LEAGUE_STAGE",
+   "status": "FINISHED",
+   "homeTeam": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB"
+   },
+   "awayTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV"
+   },
+   "score": {
+    "winner": "AWAY_TEAM"
+   }
+  },
+  {
+   "stage": "LAST_16",
+   "status": "SCHEDULED",
+   "homeTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "awayTeam": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT"
+   },
+   "score": {
+    "winner": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 8,
+    "name": "Ousmane Dembélé",
+    "position": "Right Winger",
+    "section": "Offence",
+    "nationality": "France"
+   },
+   "team": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "playedMatches": 10,
+   "goals": 8,
+   "assists": 4,
+   "penalties": 0
+  },
+  {
+   "player": {
+    "id": 9,
+    "name": "Vítor Ferreira",
+    "position": "Central Midfield",
+    "section": "Midfield",
+    "nationality": "Portugal"
+   },
+   "team": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG"
+   },
+   "playedMatches": 10,
+   "goals": 2,
+   "assists": 3,
+   "penalties": 0
+  }
+ ]
+}

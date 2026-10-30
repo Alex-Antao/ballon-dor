@@ -11,7 +11,7 @@ module.exports = defineConfig({
   reporter: CI ? [['github'], ['html', { open: 'never' }]] : [['list']],
   use: { baseURL: 'http://localhost:4173', trace: 'retain-on-failure', screenshot: 'only-on-failure' },
   webServer: {
-    command: 'node build.js && node tools/serve.js dist 4173',
+    command: 'node tools/e2e-build.js && node tools/serve.js dist 4173',
     url: 'http://localhost:4173',
     reuseExistingServer: !CI,
     timeout: 60_000,

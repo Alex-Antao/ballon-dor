@@ -26,12 +26,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -40,7 +47,8 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Serie_A",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Coppa_Italia"
         ],
         "note": "46 pts. Juve champions 1960/61; knocked out of the 1960/61 European Cup in autumn 1960 (outside the window); uG = Oct./Nov. games. 1961 of the 1961/62 edition. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Preliminary round). Changed: gp 33→32, g 24→30, uG 2→1, uS 1→0."
       },
@@ -62,17 +70,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
-          "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
+          "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
         "note": "40 pts. Barcelona until Jun. 1961 (European Cup final lost with Benfica on 31/5/1961), Inter from 1961/62. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -94,18 +112,26 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
           "https://en.wikipedia.org/wiki/Johnny_Haynes",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Football_League_First_Division"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_FA_Cup"
         ],
         "note": "22 pts. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 40→39, g 7→9."
       },
@@ -127,19 +153,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
-          "https://en.wikipedia.org/wiki/Lev_Yashin"
+          "https://en.wikipedia.org/wiki/Lev_Yashin",
+          "https://en.wikipedia.org/wiki/1961_Soviet_Top_League",
+          "https://en.wikipedia.org/wiki/1961_Soviet_Cup"
         ],
-        "note": "21 pts. Soviet calendar-year league; Soviet clubs did not play European competitions. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 27→19."
+        "note": "21 pts. Soviet calendar-year league; Soviet clubs did not play European competitions. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 27→19. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Ferenc Puskás",
@@ -159,12 +194,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -173,7 +215,8 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo"
         ],
         "note": "16 pts. Real Madrid knocked out by Barcelona in Nov. 1960 (1960/61 edition, outside the window); uG = preliminary/1st round of 1961/62 (Oct.–Nov. 1961). Pichichi 1960/61. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 30→31, g 29→28."
       },
@@ -195,12 +238,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -209,7 +259,8 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo"
         ],
         "note": "13 pts (tied with Seeler). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1960–61 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 32→30, g 20→22, uG 3→6."
       },
@@ -231,18 +282,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
           "https://en.wikipedia.org/wiki/Uwe_Seeler",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Oberliga",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_DFB-Pokal"
         ],
         "note": "13 pts; ballondor.com lists him 7th. Oberliga Nord + final round of the German championship; semi-final of the 1960/61 European Cup against Barcelona (play-off). Numbers very uncertain. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1960–61 European Cup: Semi-finals); to verify: title. Changed: gp 39→29, g 38→37, uG 4→8."
       },
@@ -264,12 +324,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -278,7 +345,8 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Serie_A",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Coppa_Italia"
         ],
         "note": "10 pts. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Preliminary round). Changed: gp 33→34, g 14→13, uG 2→0, uS 1→0."
       },
@@ -300,12 +368,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -314,7 +389,8 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo"
         ],
         "note": "8 pts. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 32→30, g 11→10, uG 2→1."
       },
@@ -336,12 +412,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -352,7 +435,7 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
         ],
-        "note": "5 pts. Captain of Benfica, European champions 1960/61 (scored in the final), and the competition's top scorer (11 goals in the edition; some in autumn 1960). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Final). Changed: gp 32→33, g 27→35, uG 6→9."
+        "note": "5 pts. Captain of Benfica, European champions 1960/61 (scored in the final), and the competition's top scorer (11 goals in the edition; some in autumn 1960). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Final). Changed: gp 32→33, g 27→35, uG 6→9. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Bobby Charlton",
@@ -372,12 +455,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -385,7 +475,8 @@
           "https://en.wikipedia.org/wiki/Bobby_Charlton",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Manchester_United_F.C._season",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Football_League_First_Division"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_FA_Cup"
         ],
         "note": "5 pts. Played mostly as a left winger at this stage. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 40→36, g 15→13."
       },
@@ -407,19 +498,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 7.5,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
-          "https://en.wikipedia.org/wiki/Gyula_Grosics"
+          "https://en.wikipedia.org/wiki/Gyula_Grosics",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Nemzeti_Bajnoks%C3%A1g_I"
         ],
-        "note": "5 pts. Hungarian league 1960/61 (spring) + 1961/62 (autumn). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "5 pts. Hungarian league 1960/61 (spring) + 1961/62 (autumn). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Pelé",
@@ -439,21 +538,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy61.html",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-new-list.htm",
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
-          "https://en.wikipedia.org/wiki/Pel%C3%A9"
+          "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "https://en.wikipedia.org/wiki/1961_Campeonato_Brasileiro_S%C3%A9rie_A"
         ],
-        "note": "Ineligible (non-European). FF retroactive winner 2016. Campeonato Paulista 1961 (champion; top scorer). Santos did not play the 1961 Libertadores. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Campeonato Paulista 1961 (champion; top scorer). Santos did not play the 1961 Libertadores. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Garrincha",
@@ -473,12 +580,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1961_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1961.htm",
@@ -486,9 +600,10 @@
           "https://www.topendsports.com/sport/soccer/awards/ballondor-new-list.htm",
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Garrincha",
-          "https://en.wikipedia.org/wiki/1961_Campeonato_Carioca"
+          "https://en.wikipedia.org/wiki/1961_Campeonato_Carioca",
+          "https://en.wikipedia.org/wiki/1961_Campeonato_Brasileiro_S%C3%A9rie_A"
         ],
-        "note": "Ineligible (non-European). Campeonato Carioca 1961 (Botafogo champions). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 20→21, g 8→6."
+        "note": "Ineligible (non-European). Campeonato Carioca 1961 (Botafogo champions). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 20→21, g 8→6. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -519,12 +634,19 @@
         "ntT": "WC",
         "ntS": 4,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 1,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -534,7 +656,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
         ],
-        "note": "65 pts. Dukla champions 1961/62; European Cup quarter-finals 1961/62 (Tottenham). Scored in the World Cup final. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Quarter-finals). Changed: gp 29→32, g 4→3."
+        "note": "65 pts. Dukla champions 1961/62; European Cup quarter-finals 1961/62 (Tottenham). Scored in the World Cup final. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Quarter-finals). Changed: gp 29→32, g 4→3. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Eusébio",
@@ -554,12 +676,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -570,7 +699,7 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
-        "note": "53 pts. Two-time European champion (2 goals in the final of 2/5/1962 against Real Madrid). Sporting national champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Final). Changed: gp 29→22, g 27→18, uG 6→7."
+        "note": "53 pts. Two-time European champion (2 goals in the final of 2/5/1962 against Real Madrid). Sporting national champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Final). Changed: gp 29→22, g 27→18, uG 6→7. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Karl-Heinz Schnellinger",
@@ -590,18 +719,28 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy62.html",
           "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Oberliga",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "33 pts. Köln German champions 1962 (Oberliga West + final round); 1962/63 European Cup preliminary round against Dundee in Sep. 1962 (knocked out). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -623,18 +762,28 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy62.html",
           "https://en.wikipedia.org/wiki/Dragoslav_%C5%A0ekularac",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_First_League",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Inter-Cities_Fairs_Cup"
         ],
         "note": "26 pts. Inter-Cities Fairs Cup 1961/62 (semi-final, from memory). Partizan champions 1961/62. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -656,19 +805,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 7.5,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy62.html",
-          "https://en.wikipedia.org/wiki/Armand_Jurion"
+          "https://en.wikipedia.org/wiki/Armand_Jurion",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
-        "note": "15 pts. Anderlecht champions 1961/62; did not play the 1961/62 European Cup (uS = 0); the European games counted are from autumn 1962 (1962/63 edition: knocked out Real Madrid). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "15 pts. Anderlecht champions 1961/62; did not play the 1961/62 European Cup (uS = 0); the European games counted are from autumn 1962 (1962/63 edition: knocked out Real Madrid). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Gianni Rivera",
@@ -688,12 +846,19 @@
         "ntT": "WC",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -703,7 +868,8 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Serie_A",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Inter-Cities_Fairs_Cup",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Coppa_Italia"
         ],
         "note": "14 pts. Milan champions 1961/62; European games in autumn 1962 belong to the 1962/63 edition (which Milan won in 1963). Italy knocked out in the World Cup group stage. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1962–63 AC Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 Inter-Cities Fairs Cup: First round). Changed: gp 34→29, g 13→11, uG 2→1, uT UCL→UEL."
       },
@@ -725,12 +891,19 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -742,7 +915,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Serie_A",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_FA_Cup"
         ],
         "note": "11 pts. Semi-final of the 1961/62 European Cup (Benfica); uG includes the 1st round of the 1962/63 Cup Winners' Cup (Rangers, Oct.–Dec. 1962). 37 league goals in 1962/63. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Semi-finals); to verify: club."
       },
@@ -764,12 +938,19 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -779,7 +960,8 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_FK_Partizan_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_First_League",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_Cup"
         ],
         "note": "10 pts (tied with Charles). Partizan champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: First round). Changed: gp 25→23, g 16→19, uS 0→1."
       },
@@ -801,12 +983,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -814,7 +1003,8 @@
           "https://en.wikipedia.org/wiki/John_Charles",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Serie_A",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Coppa_Italia"
         ],
         "note": "10 pts. Juventus until Jun. 1962 (European Cup quarter-finals with Real Madrid, play-off), Leeds (English second tier, Aug.–Oct. 1962, counted as the national league), Roma (from Nov. 1962). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Quarter-finals). Changed: gp 35→27, g 11→8."
       },
@@ -836,20 +1026,29 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy62.html",
           "https://en.wikipedia.org/wiki/J%C3%A1nos_G%C3%B6r%C3%B6cs",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Nemzeti_Bajnoks%C3%A1g_I",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup_Winners'_Cup"
         ],
-        "note": "6 pts. Semi-final of the 1961/62 Cup Winners' Cup (Atlético Madrid). Presence at the 1962 World Cup uncertain (1 game estimated). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 1→2."
+        "note": "6 pts. Semi-final of the 1961/62 Cup Winners' Cup (Atlético Madrid). Presence at the 1962 World Cup uncertain (1 game estimated). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 1→2. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Garrincha",
@@ -869,12 +1068,19 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 1,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -883,9 +1089,11 @@
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Garrincha",
           "https://en.wikipedia.org/wiki/1963_Copa_Libertadores",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1962_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/1962_Copa_Libertadores"
         ],
-        "note": "Ineligible (non-European). FF retroactive winner 2016. Best player of the 1962 World Cup (4 goals). Carioca 1962 (Botafogo champions). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1963 Copa Libertadores); to verify: club, title. Changed: uT →LIB."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Best player of the 1962 World Cup (4 goals). Carioca 1962 (Botafogo champions). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1963 Copa Libertadores); to verify: club, title. Changed: uT →LIB. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Pelé",
@@ -905,12 +1113,19 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1962_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1962.htm",
@@ -918,9 +1133,11 @@
           "https://www.topendsports.com/sport/soccer/awards/ballondor-new-list.htm",
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
           "https://en.wikipedia.org/wiki/Pel%C3%A9",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1962_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/1962_Copa_Libertadores"
         ],
-        "note": "Ineligible (non-European). Paulista 1962 (champion) + Libertadores 1962 (winner). Got injured in the 2nd World Cup game. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "Ineligible (non-European). Paulista 1962 (champion) + Libertadores 1962 (winner). Got injured in the 2nd World Cup game. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -951,18 +1168,26 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 10,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
           "https://en.wikipedia.org/wiki/Lev_Yashin",
-          "https://en.wikipedia.org/wiki/1963_Soviet_Top_League"
+          "https://en.wikipedia.org/wiki/1963_Soviet_Top_League",
+          "https://en.wikipedia.org/wiki/1963_Soviet_Cup"
         ],
         "note": "73 pts (ballondor.com). Dynamo Moscow Soviet champions 1963. The only goalkeeper to win. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked."
       },
@@ -984,12 +1209,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
@@ -998,7 +1230,8 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Serie_A",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Coppa_Italia"
         ],
         "note": "56 pts (ballondor.com) / 55 (Wikipedia). Milan European champions 1962/63 (2 assists for Altafini in the final, from memory). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 37→34, g 12→11."
       },
@@ -1020,12 +1253,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
@@ -1034,7 +1274,9 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Tottenham_Hotspur_F.C._season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Tottenham_Hotspur_F.C._season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_FA_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
         ],
         "note": "51 / 50 pts. Tottenham won the 1962/63 Cup Winners' Cup (2 goals in the final against Atlético Madrid); 1st round 1963/64 with Man United (Dec. 1963). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage from the edition page (1962–63 UEFA Cup Winners' Cup: Final); to verify: club."
       },
@@ -1056,12 +1298,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
@@ -1070,7 +1319,9 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_FA_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
         ],
         "note": "45 pts. No European competition in 1962/63 (uS = 0 for the edition ending in 1963); uG = Cup Winners' Cup 1963/64 in autumn 1963. The 1963 FA Cup does not count. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup). Changed: gp 41→38, g 34→31, uG 4→3."
       },
@@ -1092,12 +1343,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
@@ -1106,9 +1364,10 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Primeira_Divis%C3%A3o",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Ta%C3%A7a_de_Portugal"
         ],
-        "note": "19 pts. 1962/63 European Cup final lost to Milan (scored). Benfica champions 1962/63. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 34→32, g 33→29, uG 7→6."
+        "note": "19 pts. 1962/63 European Cup final lost to Milan (scored). Benfica champions 1962/63. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 34→32, g 33→29, uG 7→6. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Karl-Heinz Schnellinger",
@@ -1128,17 +1387,26 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
-          "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger"
+          "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Oberliga",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_DFB-Pokal"
         ],
         "note": "16 pts. Köln (Oberliga West + final round, finalists 1963) until Jun. 1963; Mantova (Serie A) from 1963/64. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1160,19 +1428,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
           "https://en.wikipedia.org/wiki/Uwe_Seeler",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Hamburger_SV_season",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Oberliga",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
         ],
         "note": "9 pts. Oberliga Nord (spring) + Bundesliga 1963/64 (autumn; top scorer that season). HSV won the 1963 West German Cup; Cup Winners' Cup 1963/64 in the autumn (Barcelona). lg = GER/BL almost tied. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup); to verify: title. Changed: g 38→34."
       },
@@ -1194,12 +1472,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
@@ -1208,7 +1493,9 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_FA_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
         ],
         "note": "5 pts (tied 8th). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup). Changed: gp 44→40, uG 2→3."
       },
@@ -1230,17 +1517,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
-          "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
+          "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Serie_A",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "5 pts (tied 8th). Inter champions 1962/63; did not play the 1962/63 edition; European games in autumn 1963 (1963/64 edition, which Inter won). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1262,17 +1559,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
-          "https://en.wikipedia.org/wiki/Giovanni_Trapattoni"
+          "https://en.wikipedia.org/wiki/Giovanni_Trapattoni",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Serie_A",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "5 pts (tied 8th). Marked Eusébio in the 1963 European Cup final. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1294,21 +1601,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1963_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1963.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy63.html",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-new-list.htm",
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
-          "https://en.wikipedia.org/wiki/Pel%C3%A9"
+          "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "https://en.wikipedia.org/wiki/1963_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/1963_Copa_Libertadores"
         ],
-        "note": "Ineligible (non-European). FF retroactive winner 2016. Libertadores 1963 (winner; Santos entered at the semi-finals as holders). Paulista 1963 won by Palmeiras. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Libertadores 1963 (winner; Santos entered at the semi-finals as holders). Paulista 1963 won by Palmeiras. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -1339,12 +1655,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
@@ -1353,7 +1676,9 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_FA_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
         ],
         "note": "61 pts. Cup Winners' Cup quarter-finals 1963/64 (Sporting); uG includes the 1964/65 Inter-Cities Fairs Cup in the autumn (Djurgården, Borussia Dortmund). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 UEFA Cup Winners' Cup: Quarter-finals). Changed: g 36→39."
       },
@@ -1375,18 +1700,28 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 1,
         "cont": 8.5,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
-          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
+          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
         "note": "43 pts. Inter European champions 1963/64; Spain European champions. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -1408,12 +1743,19 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
@@ -1423,7 +1765,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_La_Liga",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
-          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
+          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Copa_del_General%C3%ADsimo"
         ],
         "note": "38 pts. Real Madrid champions 1963/64 and European finalists. Decisive extra-time goal in the Euro semi-final against Hungary. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1963–64 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: Final). Changed: gp 37→30, g 16→19, uG 4→7."
       },
@@ -1445,12 +1788,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
@@ -1459,7 +1809,8 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Primeira_Divis%C3%A3o",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Ta%C3%A7a_de_Portugal"
         ],
         "note": "31 pts. Benfica knocked out by Dortmund in Dec. 1963 (1st round/round of 16 of the 1963/64 edition); uG = autumn 1964 (1964/65 edition). Benfica champions 1963/64. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1964–65 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: First round). Changed: gp 28→25, g 34→42, uG 6→5."
       },
@@ -1481,20 +1832,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
           "https://en.wikipedia.org/wiki/Paul_Van_Himst",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
-        "note": "28 pts. Anderlecht champions 1963/64; knocked out in the 1963/64 preliminary round (Sep. 1963, outside the window); games in autumn 1964 (Bologna, Liverpool) belong to 1964/65. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage verified: autumn only (1964–65 European Cup); to verify: title. Changed: gp 33→29, g 20→25, uG 1→0."
+        "note": "28 pts. Anderlecht champions 1963/64; knocked out in the 1963/64 preliminary round (Sep. 1963, outside the window); games in autumn 1964 (Bologna, Liverpool) belong to 1964/65. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage verified: autumn only (1964–65 European Cup); to verify: title. Changed: gp 33→29, g 20→25, uG 1→0. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Jimmy Greaves",
@@ -1514,12 +1874,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
@@ -1528,7 +1895,9 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Tottenham_Hotspur_F.C._season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Tottenham_Hotspur_F.C._season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_FA_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
         ],
         "note": "19 pts. Knocked out of the 1963/64 Cup Winners' Cup by Man United in Dec. 1963. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage from the edition page (1963–64 UEFA Cup Winners' Cup: Second round); to verify: club."
       },
@@ -1550,17 +1919,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
-          "https://en.wikipedia.org/wiki/Mario_Corso"
+          "https://en.wikipedia.org/wiki/Mario_Corso",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
         "note": "17 pts. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1582,19 +1961,27 @@
         "ntT": "EURO",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
           "https://en.wikipedia.org/wiki/Lev_Yashin",
           "https://en.wikipedia.org/wiki/1964_Soviet_Top_League",
-          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
+          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup",
+          "https://en.wikipedia.org/wiki/1964_Soviet_Cup"
         ],
         "note": "15 pts. USSR Euro 1964 finalists. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 25→28."
       },
@@ -1616,12 +2003,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
@@ -1630,7 +2024,8 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia"
         ],
         "note": "14 pts. European Cup quarter-finals 1963/64 (Real Madrid). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1963–64 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: Quarter-finals). Changed: gp 31→26, g 10→5, uG 0→1."
       },
@@ -1652,18 +2047,27 @@
         "ntT": "EURO",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
           "https://en.wikipedia.org/wiki/Valery_Voronin",
-          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup"
+          "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup",
+          "https://en.wikipedia.org/wiki/1964_Soviet_Top_League",
+          "https://en.wikipedia.org/wiki/1964_Soviet_Cup"
         ],
         "note": "11 pts. Torpedo lost the 1964 title in the play-off against Dinamo Tbilisi. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntG 0→1."
       },
@@ -1685,21 +2089,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1964_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1964.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy64.html",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-new-list.htm",
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
-          "https://en.wikipedia.org/wiki/Pel%C3%A9"
+          "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "https://en.wikipedia.org/wiki/1964_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/1964_Copa_Libertadores"
         ],
-        "note": "Ineligible (non-European). FF retroactive winner 2016. Paulista 1964 (champion); Libertadores 1964 semi-final (Independiente). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Ineligible (non-European). FF retroactive winner 2016. Paulista 1964 (champion); Libertadores 1964 semi-final (Independiente). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -1730,12 +2143,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
@@ -1744,7 +2164,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Primeira_Divis%C3%A3o",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Ta%C3%A7a_de_Portugal"
         ],
         "note": "67 pts. 1964/65 European Cup final lost to Inter; autumn 1965: Stade Dudelange and Levski (1965/66 edition). Benfica champions 1964/65. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1964–65 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 34→28, g 37→38."
       },
@@ -1766,12 +2187,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 2,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
@@ -1780,7 +2208,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia"
         ],
         "note": "59 pts. Inter European and Italian champions 1964/65; goal in the semi-final against Liverpool. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 40→38, g 9→3."
       },
@@ -1802,17 +2231,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
-          "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)"
+          "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
         "note": "45 pts. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1834,20 +2273,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://en.wikipedia.org/wiki/Paul_Van_Himst",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Belgian_First_Division"
         ],
-        "note": "25 pts. Anderlecht champions 1964/65; knocked out by Liverpool in Dec. 1964 (1964/65 edition). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1964–65 European Cup: First round); to verify: title. Changed: gp 30→34, g 22→28, uG 3→4."
+        "note": "25 pts. Anderlecht champions 1964/65; knocked out by Liverpool in Dec. 1964 (1964/65 edition). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1964–65 European Cup: First round); to verify: title. Changed: gp 30→34, g 22→28, uG 3→4. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Bobby Charlton",
@@ -1867,12 +2314,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
@@ -1881,7 +2335,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_FA_Cup"
         ],
         "note": "19 pts. Man United champions 1964/65; semi-final of the 1964/65 Inter-Cities Fairs Cup (Ferencváros, play-off in Jun. 1965); autumn 1965 in the 1965/66 European Cup. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: Semi-finals). Changed: gp 49→48, g 16→18, uG 5→2."
       },
@@ -1903,19 +2358,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert",
           "https://en.wikipedia.org/wiki/1965_Nemzeti_Bajnoks%C3%A1g_I",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1965_Magyar_Kupa"
         ],
         "note": "14 pts. Ferencváros won the 1964/65 Inter-Cities Fairs Cup (final against Juventus, 23/6/1965). Hungarian calendar-year league in 1965 (champions Vasas). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: Final). Changed: gp 35→33, g 33→28, uG 7→1."
       },
@@ -1937,12 +2400,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
@@ -1951,7 +2421,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia"
         ],
         "note": "10 pts. Milan's European participation in the window uncertain. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1965–66 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: First round). Changed: gp 31→35, g 8→5, uG 0→1."
       },
@@ -1973,19 +2444,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://en.wikipedia.org/wiki/Georgi_Asparuhov",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_A_Group",
-          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Bulgarian_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
         "note": "9 pts (tied 8th). Levski champions 1964/65; autumn 1965 in the 1965/66 European Cup (Djurgården, Benfica). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1965–66 European Cup). Changed: gp 31→29, g 30→27, uG 5→0."
       },
@@ -2007,12 +2487,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
@@ -2021,7 +2508,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia"
         ],
         "note": "9 pts (tied 8th). Top scorer of the 1964/65 Serie A (from memory). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 38→39, g 22→20, uG 4→3."
       },
@@ -2043,19 +2531,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
-          "https://en.wikipedia.org/wiki/Valery_Voronin"
+          "https://en.wikipedia.org/wiki/Valery_Voronin",
+          "https://en.wikipedia.org/wiki/1965_Soviet_Top_League",
+          "https://en.wikipedia.org/wiki/1965_Soviet_Cup"
         ],
-        "note": "9 pts (tied 8th). Torpedo Soviet champions 1965. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "9 pts (tied 8th). Torpedo Soviet champions 1965. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Pelé",
@@ -2075,21 +2572,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1965_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1965.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-new-list.htm",
           "https://www.si.com/soccer/how-many-times-did-pele-win-ballon-dor",
-          "https://en.wikipedia.org/wiki/Pel%C3%A9"
+          "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "https://en.wikipedia.org/wiki/1965_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/1965_Copa_Libertadores"
         ],
-        "note": "Ineligible (non-European); no retroactive award in 1965. Paulista 1965 (champion; top scorer) + Libertadores 1965 (semi-final against Peñarol, play-off). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Ineligible (non-European); no retroactive award in 1965. Paulista 1965 (champion; top scorer) + Libertadores 1965 (semi-final against Peñarol, play-off). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   }

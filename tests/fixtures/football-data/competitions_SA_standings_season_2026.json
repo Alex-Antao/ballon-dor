@@ -1,0 +1,32 @@
+{
+ "standings": [
+  {
+   "stage": "REGULAR_SEASON",
+   "type": "TOTAL",
+   "table": [
+    {
+     "position": 1,
+     "team": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "shortName": "Inter",
+      "tla": "INT"
+     },
+     "playedGames": 10,
+     "points": 25
+    },
+    {
+     "position": 2,
+     "team": {
+      "id": 109,
+      "name": "Juventus FC",
+      "shortName": "Juventus",
+      "tla": "JUV"
+     },
+     "playedGames": 10,
+     "points": 22
+    }
+   ]
+  }
+ ]
+}

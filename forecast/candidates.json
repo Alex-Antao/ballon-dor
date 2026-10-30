@@ -1,0 +1,32 @@
+{
+ "_doc": "Hand-kept part of the 2027 candidate pool. Attackers come in automatically from the scorer lists of football-data.org; list here the players who score little (midfielders, defenders, goalkeepers) or who play outside the covered leagues, with their current club as football-data.org names it (name, short name or three-letter code). cont = estimated non-attacking contribution 0–10 (same scale as data-src/SPEC.md). share = estimated share of the club's league games they play (used only when they are not on a scorer list). aliases maps football-data.org names to the names used in data-src. exclude drops players from the automatic pool. Clubs are as of mid-2026: check transfers before relying on a row.",
+ "season": 2026,
+ "year": 2027,
+ "players": [
+  { "name": "Rodri", "team": "Manchester City", "lg": "EPL", "pos": "DM", "cont": 9.5, "share": 0.85 },
+  { "name": "Vitinha", "team": "Paris Saint-Germain", "lg": "L1", "pos": "CM", "cont": 8.5, "share": 0.85 },
+  { "name": "Fabián Ruiz", "team": "Paris Saint-Germain", "lg": "L1", "pos": "CM", "cont": 8.5, "share": 0.8 },
+  { "name": "João Neves", "team": "Paris Saint-Germain", "lg": "L1", "pos": "CM", "cont": 8, "share": 0.85 },
+  { "name": "Achraf Hakimi", "team": "Paris Saint-Germain", "lg": "L1", "pos": "DF", "cont": 8.5, "share": 0.85 },
+  { "name": "Nuno Mendes", "team": "Paris Saint-Germain", "lg": "L1", "pos": "DF", "cont": 8.5, "share": 0.85 },
+  { "name": "Pedri", "team": "FC Barcelona", "lg": "LL", "pos": "CM", "cont": 8.5, "share": 0.85 },
+  { "name": "Declan Rice", "team": "Arsenal", "lg": "EPL", "pos": "CM", "cont": 8.5, "share": 0.9 },
+  { "name": "Virgil van Dijk", "team": "Liverpool", "lg": "EPL", "pos": "DF", "cont": 9, "share": 0.95 },
+  { "name": "Gianluigi Donnarumma", "team": "Manchester City", "lg": "EPL", "pos": "GK", "cont": 9, "share": 0.95 },
+  { "name": "Joshua Kimmich", "team": "FC Bayern München", "lg": "BL", "pos": "DM", "cont": 8.5, "share": 0.9 },
+  { "name": "Federico Valverde", "team": "Real Madrid", "lg": "LL", "pos": "CM", "cont": 8.5, "share": 0.9 },
+  { "name": "Jude Bellingham", "team": "Real Madrid", "lg": "LL", "pos": "AM", "share": 0.85 }
+ ],
+ "aliases": {
+  "Rodrigo Hernández": "Rodri",
+  "Rodrigo Hernández Cascante": "Rodri",
+  "Vítor Ferreira": "Vitinha",
+  "Vitor Machado Ferreira": "Vitinha",
+  "Pedro González López": "Pedri",
+  "Lamine Yamal Nasraoui Ebana": "Lamine Yamal",
+  "Vinícius Júnior": "Vinícius Júnior",
+  "Vinicius Junior": "Vinícius Júnior",
+  "Raphael Dias Belloli": "Raphinha"
+ },
+ "exclude": []
+}

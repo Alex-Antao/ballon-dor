@@ -1,0 +1,23 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 10,
+    "name": "Some Striker",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "Netherlands"
+   },
+   "team": {
+    "id": 674,
+    "name": "PSV",
+    "shortName": "PSV",
+    "tla": "PSV"
+   },
+   "playedMatches": 10,
+   "goals": 9,
+   "assists": null,
+   "penalties": 0
+  }
+ ]
+}

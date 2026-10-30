@@ -1,0 +1,23 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 11,
+    "name": "Viktor Gyökeres Jr",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "Sweden"
+   },
+   "team": {
+    "id": 1903,
+    "name": "Sport Lisboa e Benfica",
+    "shortName": "Benfica",
+    "tla": "SLB"
+   },
+   "playedMatches": 9,
+   "goals": 8,
+   "assists": 2,
+   "penalties": 0
+  }
+ ]
+}

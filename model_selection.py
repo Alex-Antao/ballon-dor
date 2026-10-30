@@ -1,6 +1,7 @@
 # Model selection for the Prediction model: which training window, how much weight on recent years and which criteria.
 # TEMPORAL evaluation (as in a real forecast): to predict year Y, train only on years < Y.
-# Reads feats.json (node dump.js > feats.json). Usage: python model_selection.py [--nested] [--extra] [--out FILE]
+# Reads feats.json (node dump.js > feats.json). Usage: python model_selection.py [--nested] [--extra] [--awards] [--out FILE]
+# --awards adds the trophies/awards study (slow; stored under awardStudy and not re-checked by the Weights workflow).
 # Writes model-selection.json (model-selection-extra.json with --extra). Does not touch fit-result.json.
 import json, sys, time
 sys.stdout.reconfigure(encoding="utf-8")  # names and arrows print fine on Windows consoles too
@@ -16,12 +17,12 @@ YS = [int(y) for y in sorted(D, key=int) if D[y][L]['winner']]
 TARGETS = [y for y in YS if 2010 <= y <= 2026]
 F = {y: np.array([r['f'] for r in D[str(y)][L]['rows']], dtype=float) for y in YS}
 # extra criteria from extra_criteria.py (reputation, top scorers, titles of midfielders…) go in columns 19+;
-# they only enter the selection with --extra (otherwise they are only used for the "video style" comparison)
+# they only enter the selection with --extra (otherwise they are only used for the memorised-fit comparison)
 import extra_criteria
 H = extra_criteria.history(D, L)
-F = {y: np.hstack([F[y], extra_criteria.extra_matrix(D, L, y, H)]) for y in YS}
+F = {y: np.hstack([F[y], extra_criteria.extra_matrix(D, L, y, H), extra_criteria.award_matrix(D, L, y)]) for y in YS}
 BASE = list(range(len(NAMES)))
-NAMES = NAMES + [k for k, _ in extra_criteria.EXTRA]
+NAMES = NAMES + [k for k, _ in extra_criteria.EXTRA] + [k for k, _ in extra_criteria.AWARDS]
 EXTRA_ON = '--extra' in sys.argv
 OUTF = sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else 'model-selection-extra.json' if EXTRA_ON else 'model-selection.json'
 WIN = {y: [r['n'] for r in D[str(y)][L]['rows']].index(D[str(y)][L]['winner']) for y in YS}
@@ -74,7 +75,7 @@ def score(r):  # ordering: more hits, then lower mean rank
 STARTS = [1956, 1970, 1980, 1990, 2000, 2005, -10, -15, -20, -25]   # negative = last N years
 HALVES = [None, 20, 10, 5]
 REGS = [0.005, 0.02, 0.1]
-ALL = list(range(len(NAMES))) if EXTRA_ON else BASE
+ALL = list(range(len(NAMES) - len(extra_criteria.AWARDS))) if EXTRA_ON else BASE
 
 def grid(idx, targets):
     return {(s, h, r): rolling((s, h, r), idx, targets) for s in STARTS for h in HALVES for r in REGS}
@@ -193,7 +194,7 @@ out['final'] = {'features': FN, 'cfg': f27['cfg'], 'label': f27['label'], 'train
 print(f"  model for 2027: {f27['label']} (train {f27['train'][0]}–{f27['train'][1]})")
 print('  weights:', out['final']['weights'])
 
-# 5) "video style": fit 2010–2026 until every year is right in-sample, and see what it is worth predicting unseen years.
+# 5) memorised fit: fit 2010–2026 until every year is right in-sample, and see what it is worth predicting unseen years.
 #    Each extra criterion is tested on its own on top of the 19 (official procedure = window chosen only with the past).
 def procedure(idx):
     rk = []
@@ -205,7 +206,7 @@ def choose_idx(Y, idx):
     val = [y for y in YS if Y - 12 <= y < Y and y >= 1990]
     g = {k: rolling(k, idx, val) for k in GRID if k[0] < val[0]}
     return max(g.items(), key=lambda kv: score(kv[1]))[0]
-print('\nVideo style (fit to 2010–2026, in-sample) vs prediction without seeing the year:')
+print('\nMemorised fit (fit to 2010–2026, in-sample) vs prediction without seeing the year:')
 vs = []
 for extra in [None] + [k for k, _ in extra_criteria.EXTRA]:
     idx = BASE + ([NAMES.index(extra)] if extra else [])
@@ -215,7 +216,42 @@ for extra in [None] + [k for k, _ in extra_criteria.EXTRA]:
     desc = dict(extra_criteria.EXTRA).get(extra, 'the 19 criteria only')
     vs.append({'extra': extra, 'desc': desc, 'inSample': ins, 'temporal': h, 'temporalRank': m})
     print(f"  {('+ ' + extra) if extra else '19 criteria':16s} in-sample {ins}/{len(TARGETS)} | unseen {h}/{len(TARGETS)} (rank {m:.2f})")
-out['videoStyle'] = vs
+out["memorisedFit"] = vs
+
+# 6) trophies and individual awards: each criterion (and groups) on top of the 19, judged with the official procedure
+#    on every year from 1961 (window chosen only with each year's past). 1961–2009 decides; 2010–2026 confirms.
+def full_procedure(idx):
+    old, new = [], {}
+    for Y in [y for y in YS if y > YS[0] + 4]:
+        val = [y for y in YS if Y - 12 <= y < Y and y >= 1990]
+        if len(val) >= 6:
+            g = {k: rolling(k, idx, val) for k in GRID if k[0] < val[0]}
+            c1 = max(g.items(), key=lambda kv: score(kv[1]))[0]
+        else:
+            c1 = (1956, None, 0.02)
+        tr = train_years(c1[0], Y)
+        if len(tr) < 5: continue
+        rk = rank_of_winner(fit(tr, idx, c1[2], c1[1], Y), Y, idx)
+        if Y in TARGETS: new[str(Y)] = rk
+        else: old.append(rk)
+    nr = list(new.values())
+    return {'old': [int(sum(r == 1 for r in old)), len(old)], 'oldRank': float(np.mean(old)),
+            'hits': int(sum(r == 1 for r in nr)), 'meanRank': float(np.mean(nr)), 'ranks': new}
+if '--awards' in sys.argv:
+    print('\nTrophies and awards on top of the 19 criteria (official procedure; in-sample = fit to 2010–2026):')
+    AW = [k for k, _ in extra_criteria.AWARDS]
+    sets = [(None, [])] + [(k, [k]) for k in AW] + [('all individual awards', ['lgTop', 'gs', 'uTop', 'ntTop', 'ntBest']),
+                                                   ('all trophies and awards', AW)]
+    st = []
+    for lab, ks in sets:
+        idx = BASE + [NAMES.index(k) for k in ks]
+        w = fit(TARGETS, idx, 0.005, None, 2027)
+        ins = int(sum(rank_of_winner(w, y, idx) == 1 for y in TARGETS))
+        p = full_procedure(idx)
+        desc = dict(extra_criteria.AWARDS).get(lab, lab or 'the 19 criteria only')
+        st.append({'extra': ks, 'desc': desc, 'inSample': ins, **p})
+        print(f"  {desc[:58]:58s} in-sample {ins}/{len(TARGETS)} | 2010–2026 {p['hits']}/{len(TARGETS)} (rank {p['meanRank']:.2f}) | 1961–2009 {p['old'][0]}/{p['old'][1]} ({time.time() - t0:.0f}s)")
+    out['awardStudy'] = st
 
 json.dump(out, open(OUTF, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 print(f'\n({time.time() - t0:.0f}s)')

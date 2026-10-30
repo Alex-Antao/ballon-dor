@@ -1,0 +1,43 @@
+{
+ "standings": [
+  {
+   "stage": "REGULAR_SEASON",
+   "type": "TOTAL",
+   "table": [
+    {
+     "position": 1,
+     "team": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "shortName": "Man City",
+      "tla": "MCI"
+     },
+     "playedGames": 10,
+     "points": 25
+    },
+    {
+     "position": 2,
+     "team": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "shortName": "Liverpool",
+      "tla": "LIV"
+     },
+     "playedGames": 10,
+     "points": 22
+    },
+    {
+     "position": 3,
+     "team": {
+      "id": 57,
+      "name": "Arsenal FC",
+      "shortName": "Arsenal",
+      "tla": "ARS"
+     },
+     "playedGames": 10,
+     "points": 19
+    }
+   ]
+  }
+ ]
+}

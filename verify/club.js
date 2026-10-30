@@ -222,4 +222,4 @@ function leagueChampion(season, div, lg, club) {
   return null;
 }
 
-module.exports = { clubWindow, titleFor, seasonBoxes };
+module.exports = { clubWindow, titleFor, seasonBoxes, sameClub, LG_PAGES };

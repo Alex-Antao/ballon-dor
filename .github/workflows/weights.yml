@@ -59,7 +59,7 @@ jobs:
         run: |
           python fit_weights.py --out "$RUNNER_TEMP/fit.json"
           python tools/check_results.py fit-result.json "$RUNNER_TEMP/fit.json"
-      - name: Model selection (model_selection.py; the slow --nested block is not rerun)
+      - name: Model selection (model_selection.py; the slow --nested and --awards blocks are not rerun)
         run: |
           python model_selection.py --out "$RUNNER_TEMP/selection.json"
-          python tools/check_results.py model-selection.json "$RUNNER_TEMP/selection.json" --ignore nested
+          python tools/check_results.py model-selection.json "$RUNNER_TEMP/selection.json" --ignore nested awardStudy

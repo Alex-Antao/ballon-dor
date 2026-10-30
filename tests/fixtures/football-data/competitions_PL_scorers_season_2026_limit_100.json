@@ -1,0 +1,42 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 1,
+    "name": "Erling Haaland",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "Norway"
+   },
+   "team": {
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI"
+   },
+   "playedMatches": 10,
+   "goals": 14,
+   "assists": 2,
+   "penalties": 0
+  },
+  {
+   "player": {
+    "id": 2,
+    "name": "Mohamed Salah",
+    "position": "Right Winger",
+    "section": "Offence",
+    "nationality": "Egypt"
+   },
+   "team": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV"
+   },
+   "playedMatches": 10,
+   "goals": 8,
+   "assists": 6,
+   "penalties": 0
+  }
+ ]
+}

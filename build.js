@@ -6,6 +6,8 @@
 //   dist/assets/models.js      models.js (window.BDO_MODELS)
 //   dist/assets/config.js      weights and model selection (window.BDO_CONFIG)
 //   dist/sources.json          per-row sources, fetched only when a player's detail is opened
+// The live forecast (forecast/2027.json + history.json) goes into config.js when present; FORECAST_DIR=<dir> reads it
+// from elsewhere (the e2e tests build with a forecast made from fixtures).
 // Usage: node build.js
 const fs = require('fs');
 const path = require('path');
@@ -18,9 +20,19 @@ fs.mkdirSync(A, { recursive: true });
 
 const fit = JSON.parse(read('fit-result.json'));
 const sel = JSON.parse(read('model-selection.json'));
+const FCD = process.env.FORECAST_DIR || path.join(ROOT, 'forecast');
+const fcFile = fs.existsSync(FCD) && fs.readdirSync(FCD).filter(f => /^\d{4}\.json$/.test(f)).sort().pop();
+const forecast = fcFile ? JSON.parse(fs.readFileSync(path.join(FCD, fcFile), 'utf8')) : null;
+if (forecast) {
+  const hf = path.join(FCD, 'history.json');
+  // the page only needs recent leaders: the last 120 updates, top 3 per model
+  const hist = fs.existsSync(hf) ? JSON.parse(fs.readFileSync(hf, 'utf8')) : [];
+  forecast.history = hist.slice(-120).map(h => ({ date: h.date, pred: h.pred.slice(0, 3), fair: h.fair.slice(0, 3), mine: h.mine.slice(0, 3) }));
+  delete forecast.warnings;
+}
 const pick = (o, ks) => Object.fromEntries(ks.filter(k => k in o).map(k => [k, o[k]]));
 const config = { weights: fit.weights, fits: fit.fits,
-  selection: pick(sel, ['targets', 'baseline', 'nestedWindow', 'nested', 'selection', 'temporal', 'temporalOld', 'final', 'videoStyle']) };
+  selection: pick(sel, ['targets', 'baseline', 'nestedWindow', 'nested', 'selection', 'temporal', 'temporalOld', 'final', 'memorisedFit', 'awardStudy']), forecast };
 
 const data = read('data.js').replace(/if \(typeof module[^\n]*\n?/, '');
 const files = {

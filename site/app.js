@@ -7,18 +7,21 @@
   const M = window.BDO_MODELS;
   const CFG = window.BDO_CONFIG;
   const FITS = CFG.fits, SEL = CFG.selection || {};
+  // The next award: the live forecast is one more year, with no winner yet (forecast/2027.json, updated daily).
+  const FC = CFG.forecast || null;
+  if (FC) YEARS[FC.year] = { label: FC.label, award: `Forecast as of ${FC.asOf}`, winner: null, winnerAll: null, winnerAllNote: '',
+                             window: 'P', notes: '', rows: FC.rows.map(r => Object.assign({}, r, { y: FC.year })), forecast: true };
 
   // ---------- constants ----------
   const years = Object.keys(YEARS).map(Number).sort((a, b) => a - b);
   const LAST = years[years.length - 1];
+  const done = years.filter(y => !YEARS[y].forecast), DONE = done[done.length - 1];   // years already awarded
   const ALGS = [
     { k: 'real', n: 'Actual result', short: 'Actual', c: 'var(--c-real)', d: 'Official vote' },
     { k: 'pred', n: 'Prediction', short: 'Prediction', c: 'var(--c-pred)', d: 'Weights trained only on earlier years' },
     { k: 'fair', n: 'Fair', short: 'Fair', c: 'var(--c-fair)', d: 'Individual performance only' },
     { k: 'mine', n: 'My model', short: 'Mine', c: 'var(--c-mine)', d: 'Individual + proportional team credit' },
   ];
-  const VIDEO = { k: 'video', n: "Video's list", short: 'Video', c: 'var(--c-video)', d: 'Ranking the video shows for 2026' };
-  const VIDEO26 = ['Harry Kane', 'Michael Olise', 'Ousmane Dembélé', 'Kylian Mbappé', 'Lamine Yamal', 'Rodri', 'Erling Haaland', 'Khvicha Kvaratskhelia', 'Luis Díaz', 'Vitinha'];
   const MODELS = ['pred', 'fair', 'mine'];
   const LISTS = [['elig', 'Eligible only'], ['all', 'Everyone']];
   const CUPN = { UCL: 'European Cup/UCL', CWC: "Cup Winners' Cup", UEL: 'UEFA Cup/Europa League', ECL: 'Conference League', LIB: 'Libertadores', SUD: 'Sudamericana' };
@@ -49,7 +52,7 @@
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const ord = n => n + (n % 100 >= 11 && n % 100 <= 13 ? 'th' : ['th', 'st', 'nd', 'rd'][n % 10] || 'th');
   const fmt = (x, d = 2) => (+x).toFixed(d);
-  const alg = k => ALGS.find(a => a.k === k) || VIDEO;
+  const alg = k => ALGS.find(a => a.k === k);
   const ICON = {
     prev: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>',
     next: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>',
@@ -59,7 +62,7 @@
 
   // Prediction weights for year y: on the eligible list, trained only on earlier years (an honest forecast);
   // otherwise the single in-sample fit.
-  const temporalOf = y => st.list === 'elig' && SEL.temporal && SEL.temporal[y] ? SEL.temporal[y] : null;
+  const temporalOf = y => (st.list === 'elig' || YEARS[y].forecast) && SEL.temporal && SEL.temporal[y] ? SEL.temporal[y] : null;
   const weightsOf = y => { const t = temporalOf(y); return t ? t.weights : (FITS[st.list] || FITS.elig).weights; };
   const predDesc = y => {
     const t = temporalOf(y);
@@ -83,9 +86,11 @@
     const h = location.hash.replace(/^#\/?/, '');
     if (h === 'summary' || h === 'resumo') return { view: 'summary' };
     if (h === 'method' || h === 'metodo') return { view: 'method' };
+    if (h === 'forecast' && FC) return { view: 'year', year: FC.year };
+    if (h === 'years') return { view: 'year', year: DONE };
     const m = /^a?(\d{4})$/.exec(h);
     if (m && YEARS[m[1]]) return { view: 'year', year: +m[1] };
-    return { view: 'year' };
+    return { view: 'year', year: FC && !h ? FC.year : DONE };
   }
   const go = hash => { if (location.hash !== hash) location.hash = hash; else route(); };
   function route() {
@@ -93,8 +98,9 @@
     st.view = r.view;
     if (r.year) st.year = r.year;
     if (r.view !== 'year' || r.year !== prevYear) { st.sel = null; closeDetail(false); }
-    $$('[data-view]').forEach(a => { if (a.dataset.view === st.view) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
-    document.title = st.view === 'year' ? `${st.year} · Ballon d'Or Lab` : st.view === 'summary' ? "Summary · Ballon d'Or Lab" : "Method · Ballon d'Or Lab";
+    const nav = st.view === 'year' && YEARS[st.year].forecast ? 'forecast' : st.view;
+    $$('[data-view]').forEach(a => { if (a.dataset.view === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+    document.title = nav === 'forecast' ? `${st.year} forecast · Ballon d'Or Lab` : st.view === 'year' ? `${st.year} · Ballon d'Or Lab` : st.view === 'summary' ? "Summary · Ballon d'Or Lab" : "Method · Ballon d'Or Lab";
     render();
     if (prevView !== st.view) window.scrollTo(0, 0);
   }
@@ -105,13 +111,14 @@
     const dec = {};
     years.forEach(y => { (dec[Math.floor(y / 10) * 10] = dec[Math.floor(y / 10) * 10] || []).push(y); });
     return `<label class="year-pick"><span class="sr-only">Jump to year</span><select id="year-select">${Object.entries(dec).map(([d, ys]) =>
-      `<optgroup label="${d}s">${ys.map(y => `<option value="${y}"${y === st.year ? ' selected' : ''}>${y}${YEARS[y].winner ? ' — ' + esc(YEARS[y].winner) : ' — not awarded'}</option>`).join('')}</optgroup>`).join('')}</select></label>`;
+      `<optgroup label="${d}s">${ys.map(y => `<option value="${y}"${y === st.year ? ' selected' : ''}>${y}${YEARS[y].forecast ? ' — forecast' : YEARS[y].winner ? ' — ' + esc(YEARS[y].winner) : ' — not awarded'}</option>`).join('')}</optgroup>`).join('')}</select></label>`;
   }
   function listToggle() {
     return `<div class="seg" role="group" aria-label="Candidate list">${LISTS.map(([k, l]) => `<button type="button" data-list="${k}" aria-pressed="${st.list === k}">${l}</button>`).join('')}</div>`;
   }
   function winnerLine(y) {
     const Y = YEARS[y], t = targetOf(y);
+    if (Y.forecast) return `<span class="kicker">Forecast · as of ${esc(FC.asOf)}</span><strong>Not awarded yet</strong><span class="aw">Numbers of the ${esc(FC.season)} season so far; updated every day</span>`;
     if (!Y.winner) return `<span class="kicker">Ballon d'Or</span><strong>Not awarded</strong><span class="aw">France Football cancelled the 2020 edition (COVID-19)</span>`;
     if (t !== Y.winner) return `<span class="kicker">Retroactive winner (France Football, 2016)</span><strong>${esc(t)}</strong><span class="aw">Official winner: ${esc(Y.winner)}</span>`;
     return `<span class="kicker">Winner</span><strong>${esc(Y.winner)}</strong><span class="aw">${esc(Y.award)}</span>`;
@@ -132,7 +139,7 @@
       const d = Math.floor(y / 10);
       if (prevDec !== null && d !== prevDec) out += '<span class="decade" aria-hidden="true"></span>';
       prevDec = d;
-      const label = `${y}: ${YEARS[y].winner ? MODELS.map((k, i) => `${alg(k).n} ${hits[y][i] ? 'right' : 'wrong'}`).join(', ') : 'not awarded'}`;
+      const label = `${y}: ${YEARS[y].forecast ? 'forecast' : YEARS[y].winner ? MODELS.map((k, i) => `${alg(k).n} ${hits[y][i] ? 'right' : 'wrong'}`).join(', ') : 'not awarded'}`;
       out += `<button type="button" data-y="${y}" aria-current="${y === st.year}" aria-label="${esc(label)}"><span class="y">${y}</span><span class="dots" aria-hidden="true">${MODELS.map((k, i) => `<i style="--c:${alg(k).c}" class="${hits[y][i] ? 'on' : ''}"></i>`).join('')}</span></button>`;
     }
     return out;
@@ -140,8 +147,10 @@
   function colHtml(a, res, y) {
     const Y = YEARS[y], rows = rowsOf(y), t = targetOf(y);
     let items;
-    if (a.k === 'video') items = VIDEO26.map((n, i) => ({ r: Y.rows.find(r => r.name === n), pos: i + 1, score: null })).filter(x => x.r);
-    else if (a.k === 'real') {
+    if (a.k === 'real' && Y.forecast) {
+      const g = r => r.gNow ?? r.g, a = r => r.aNow ?? r.a;
+      items = rows.slice().sort((p, q) => g(q) + a(q) - g(p) - a(p) || g(q) - g(p)).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${g(r)}+${a(r)}` }));
+    } else if (a.k === 'real') {
       const ranked = rows.filter(r => r.rank).sort((p, q) => p.rank - q.rank).map(r => ({ r, pos: r.rank, score: null }));
       const rest = rows.filter(r => !r.rank).sort((p, q) => (q.name === t) - (p.name === t)).map(r => ({ r, pos: '–', score: null, faded: r.name !== t, retro: r.name === t }));
       items = ranked.concat(rest);
@@ -152,11 +161,10 @@
     const li = items.map(it => {
       const r = it.r, isW = t && r.name === t;
       let tag = '';
-      if (a.k === 'video') tag = r.rank ? `<span class="tag">actual #${r.rank}</span>` : '';
-      else if (a.k === 'real') tag = it.retro ? '<span class="tag win">retroactive winner</span>' : (it.pos === 1 && r.name === Y.winner ? '<span class="tag win">winner</span>' : '');
+      if (a.k === 'real') tag = it.retro ? '<span class="tag win">retroactive winner</span>' : (it.pos === 1 && r.name === Y.winner ? '<span class="tag win">winner</span>' : '');
       else tag = r.rank ? `<span class="tag ${isW && it.pos === 1 ? 'hit' : ''}">actual #${r.rank}</span>` : (isW && it.pos === 1 ? '<span class="tag hit">retroactive</span>' : '');
       if (r.elig === 0) tag += '<span class="tag">ineligible</span>';
-      const score = it.score == null ? '' : (a.k === 'pred' ? fmt(it.score) : fmt(it.score, 0));
+      const score = it.ga || (it.score == null ? '' : (a.k === 'pred' ? fmt(it.score) : fmt(it.score, 0)));
       return `<li><button type="button" class="row${it.faded ? ' faded' : ''}${isW ? ' is-winner' : ''}" style="--c:${a.c}" data-n="${esc(r.name)}" aria-pressed="${st.sel === r.name}">
         <span class="pos">${it.pos}</span><span class="nm" title="${esc(r.name)}">${esc(r.name)}</span><span class="sc">${score}</span>
         <span class="sub"><span class="club">${esc(r.club)} · ${POS[r.pos]}</span>${tag}</span>
@@ -167,7 +175,8 @@
     return `<section class="col${st.tab === a.k ? ' active' : ''}" style="--c:${a.c}" data-k="${a.k}" id="col-${a.k}" role="tabpanel" aria-labelledby="tab-${a.k}">
       <header><h2><span class="swatch" aria-hidden="true"></span>${a.n}</h2><span>${esc(desc)}</span></header><ol class="list">${li}</ol></section>`;
   }
-  const algsOf = y => ALGS.concat(y === 2026 ? [VIDEO] : []);
+  const SEASON_COL = { k: 'real', n: 'Season so far', short: 'Numbers', c: 'var(--c-real)', d: 'Goals + assists, league and Champions League' };
+  const algsOf = y => YEARS[y].forecast ? [SEASON_COL, ...ALGS.slice(1)] : ALGS;
   function boardHtml(y, res) {
     const as = algsOf(y);
     if (!as.some(a => a.k === st.tab)) st.tab = 'real';
@@ -188,8 +197,9 @@
   function viewYear() {
     const y = st.year, Y = YEARS[y], res = compute(y);
     const i = years.indexOf(y), nIn = Y.rows.filter(r => r.elig === 0).length;
-    const notes = [Y.notes, nIn ? `${nIn} ineligible candidate${nIn > 1 ? 's' : ''} this year: shown only in the “Everyone” list.` : '', Y.winnerAllNote].filter(Boolean).join(' ');
-    const v26 = y === 2026 ? `<p class="note">In 2026 the Prediction only uses ${SEL.temporal && SEL.temporal['2026'] ? SEL.temporal['2026'].train.join('–') : 'earlier years'} and never saw this data. “Video's list” is the order the video shows for its historical model. My Prediction does not reproduce it: I ranked the candidates without domestic cups and without the detailed trophy count the video seems to use, so Olise and Dembélé sit lower.</p>` : '';
+    const hist = Y.forecast && FC.history && FC.history.length > 1 ? ' Prediction leader on recent updates: ' + FC.history.slice(-8).map(h => `${h.date} ${h.pred[0] ? h.pred[0][0] : '—'}`).join(' · ') + '.' : '';
+    const fcNote = Y.forecast ? `The forecast uses the same three models on the ${FC.season} season so far: league and Champions League numbers from football-data.org (${FC.leagues.join(', ')}), other European cups, domestic cups and the 2027 national-team tournaments from Wikipedia. League leaders count as champions until the season ends. Candidates: the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers.${hist}` : '';
+    const notes = [fcNote, Y.notes, nIn ? `${nIn} ineligible candidate${nIn > 1 ? 's' : ''} this year: shown only in the “Everyone” list.` : '', Y.winnerAllNote].filter(Boolean).join(' ');
     $('#main').innerHTML = `<div class="year-view">
       <section class="hero" aria-label="${y}">
         <div class="year-nav">
@@ -203,7 +213,7 @@
       </section>
       <div class="timeline" id="timeline" aria-label="Years">${timelineHtml()}</div>
       <div class="timeline-legend" aria-hidden="true">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n} right</span>`).join('')}</div>
-      <div class="toolbar">${listToggle()}${notes || v26 ? `<details class="about"${y === 2026 ? ' open' : ''}><summary>About ${y}</summary>${notes ? `<p class="note">${esc(notes)}</p>` : ''}${v26}</details>` : ''}</div>
+      <div class="toolbar">${Y.forecast ? '' : listToggle()}${notes ? `<details class="about"><summary>About ${y}</summary><p class="note">${esc(notes)}</p></details>` : ''}</div>
       <div class="year-layout">
         <div class="board" id="board">${boardHtml(y, res)}</div>
         <aside class="side" aria-label="Player detail and tuning">
@@ -282,7 +292,7 @@
       d.classList.add('open'); $('#backdrop').hidden = false; document.body.style.overflow = 'hidden';
       const cb = $('#detail .close'); (cb || d).focus({ preventScroll: true });
     }
-    if (!sources) loadSources().then(() => {
+    if (!sources && !YEARS[st.year].forecast) loadSources().then(() => {
       if (st.sel !== name || st.view !== 'year') return;
       const d2 = $('#detail'), hadFocus = d2.contains(document.activeElement);
       d2.innerHTML = detailHtml(st.year, compute(st.year)); bindDetail();
@@ -317,8 +327,8 @@
     const nt = r.ntT ? `${r.ntGP} gp · ${r.ntG} g · ${r.ntA} a` : '—';
     const ntSub = r.ntT ? `${r.ntT}: ${STAGE[r.ntS]}` : 'no national-team tournament';
     const eu = r.uT ? `${CUPN[r.uT]} (weight ${fmt(cupWeight(r.uT, y))})` : 'no continental competition';
-    const sr = sources ? (sources[y] || {})[r.name] : null;
-    const srcH = !sources ? '<p class="src">Loading sources…</p>' : sr && (sr.sources.length || sr.note) ? `<div class="src"><b>Sources:</b>${sr.sources.map(u => { let h = u; try { h = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { /* keep url */ } return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join('')}</div>${sr.note ? `<details class="data-note"><summary>Data notes</summary><p>${esc(sr.note)}</p></details>` : ''}` : '';
+    const sr = YEARS[y].forecast ? { sources: r.sources || [], note: r.note || '' } : sources ? (sources[y] || {})[r.name] : null;
+    const srcH = !sr && !sources ? '<p class="src">Loading sources…</p>' : sr && (sr.sources.length || sr.note) ? `<div class="src"><b>Sources:</b>${sr.sources.map(u => { let h = u; try { h = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { /* keep url */ } return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join('')}</div>${sr.note ? `<details class="data-note"><summary>Data notes</summary><p>${esc(sr.note)}</p></details>` : ''}` : '';
     return `<div class="detail-head"><div><h2>${esc(r.name)}</h2><div class="badges">
         <span class="conf conf-${r.conf}" title="Data confidence: A verified in sources, B partly verified/approximate, C estimate">data ${r.conf}</span>
         <span class="conf conf-${r.aConf}" title="Confidence of the assists only">assists ${r.aConf}</span>
@@ -326,7 +336,7 @@
         <button type="button" class="close" aria-label="Close">${ICON.close}</button></div>
       <p class="meta">${esc(r.club)} · ${POS[r.pos]} · league ${r.lg} (strength ${fmt(leagueStrength(r.lg, y))} this decade) · ${r.title ? 'league champion' : 'not league champion'}${r.elig === 0 ? ` · ineligible under the ${y} rules` : ''} · window: ${WIN[r.win]}</p>
       <div class="facts">
-        <div class="fact"><span class="kicker">League + Europe</span><b>${r.gp} gp · ${r.g} g · ${r.a} a</b></div>
+        <div class="fact"><span class="kicker">League + Europe</span><b>${r.gp} gp · ${r.g} g · ${r.a} a</b>${r.gNow != null ? `<small>projected to the full season; so far ${r.gpNow} gp · ${r.gNow} g · ${r.aNow} a</small>` : ''}</div>
         <div class="fact"><span class="kicker">Europe</span><b>${r.uG} g · ${r.uA} a</b><small>${esc(STAGE[r.uS])} · ${esc(eu)}</small></div>
         <div class="fact"><span class="kicker">National team</span><b>${nt}</b><small>${esc(ntSub)}</small></div>
         ${r.cont != null ? `<div class="fact"><span class="kicker">Non-attacking*</span><b>${r.cont}/10</b><small>subjective estimate</small></div>` : ''}
@@ -340,7 +350,7 @@
   function stats() {
     const z = () => ({ w: 0, t3: 0, n: 0, w10: 0, n10: 0, cum: [] });
     const s = { pred: z(), fair: z(), mine: z() }, rows = [];
-    years.forEach(y => {
+    done.forEach(y => {
       const res = compute(y), t = targetOf(y), row = { y, t, p: {} };
       MODELS.forEach(k => {
         const top = res[k].map(x => x.r.name), S = s[k];
@@ -361,12 +371,12 @@
     const cards = MODELS.map(k => {
       const a = alg(k), S = s[k], ok26 = r26 && r26.t && r26.p[k] === r26.t;
       return `<div class="panel stat" style="--c:${a.c}"><h3><span class="swatch" aria-hidden="true"></span>${a.n}</h3>
-        <p class="big num">${S.w}<small>/${S.n}</small></p><p class="meta">winners called right in ${years[0]}–2025</p>
+        <p class="big num">${S.w}<small>/${S.n}</small></p><p class="meta">winners called right in ${done[0]}–2025</p>
         <ul><li><b class="num">${S.t3}/${S.n}</b> with the winner in the top 3</li><li><b class="num">${S.w10}/${S.n10}</b> in 2010–2025</li><li>2026: <b class="${ok26 ? 'mark-ok' : 'mark-no'}">${ok26 ? '✓ right' : '✗ wrong'}</b></li></ul></div>`;
     }).join('');
     const F = FITS[st.list] || FITS.elig;
     const note = st.list === 'elig' && SEL.temporal
-      ? `On the eligible list, each year's Prediction is the forecast that would have been made at the time: weights trained only on earlier years, never seeing that year or later ones. In 2010–2026 it calls ${SEL.nestedWindow.hits} of ${SEL.targets.length}; in 1961–2009, ${SEL.temporalOld[0]} of ${SEL.temporalOld[1]}. In ${years[0]}–${years[0] + 4} there are too few earlier years, so the fit to every year is used (in-sample).`
+      ? `On the eligible list, each year's Prediction is the forecast that would have been made at the time: weights trained only on earlier years, never seeing that year or later ones. In 2010–2026 it calls ${SEL.nestedWindow.hits} of ${SEL.targets.length}; in 1961–2009, ${SEL.temporalOld[0]} of ${SEL.temporalOld[1]}. In ${done[0]}–${done[0] + 4} there are too few earlier years, so the fit to every year is used (in-sample).`
       : `On the “Everyone” list the Prediction uses a single fit to the retroactive winners of ${F.train[0]}–${F.train[1]}, so the result is in-sample (${F.inSample}/${F.n}); leaving one year out, ${F.loo} of ${F.n}.`;
     const tbl = rows.map(o => {
       const cell = k => { const ok = o.t && o.p[k] === o.t; return `<td data-k="${alg(k).short}" class="${ok ? '' : 'miss'}">${esc(o.p[k])}${ok ? ' <span class="ok" aria-label="right">✓</span>' : ''}</td>`; };
@@ -377,7 +387,7 @@
       <div class="stats">${cards}</div>
       <section class="panel chart-panel"><header><h2>Winners called right, cumulative</h2>
         <div class="legend">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n}</span>`).join('')}</div></header>
-        <div class="chart" id="cum-chart" role="img" aria-label="Cumulative number of winners called right by each model from ${years[0]} to ${LAST}: ${MODELS.map(k => `${alg(k).n} ${s[k].cum[s[k].cum.length - 1][1]}`).join(', ')}. The table below has every year."></div></section>
+        <div class="chart" id="cum-chart" role="img" aria-label="Cumulative number of winners called right by each model from ${done[0]} to ${DONE}: ${MODELS.map(k => `${alg(k).n} ${s[k].cum[s[k].cum.length - 1][1]}`).join(', ')}. The table below has every year."></div></section>
       <p class="note" style="margin-bottom:16px">${note} The Fair and My models were not fitted to the winners.</p>
       <section class="panel"><h2 style="margin-bottom:8px">Every year</h2><div class="scroll"><table class="years-table"><thead><tr><th>Year</th><th>Winner</th>${MODELS.map(k => `<th>${alg(k).n}</th>`).join('')}</tr></thead><tbody>${tbl}</tbody></table></div></section>`;
     $$('[data-list]').forEach(b => b.onclick = () => { st.list = b.dataset.list; save(); viewSummary(); });
@@ -391,11 +401,11 @@
     cumState = s;
     const W = Math.max(300, el.clientWidth), H = W < 520 ? 230 : 280, m = { l: 34, r: W < 520 ? 74 : 96, t: 12, b: 26 };
     const maxY = Math.max(...MODELS.map(k => s[k].cum[s[k].cum.length - 1][1]), 1);
-    const X = y => m.l + (y - years[0]) / (LAST - years[0]) * (W - m.l - m.r);
+    const X = y => m.l + (y - done[0]) / (DONE - done[0]) * (W - m.l - m.r);
     const Y = v => H - m.b - v / maxY * (H - m.t - m.b);
     const step = maxY > 30 ? 10 : 5, ticks = [];
     for (let v = 0; v <= maxY; v += step) ticks.push(v);
-    const xt = years.filter(y => y % (W < 520 ? 20 : 10) === 0);
+    const xt = done.filter(y => y % (W < 520 ? 20 : 10) === 0);
     const path = k => s[k].cum.map(([y, v], i) => `${i ? 'L' : 'M'}${X(y).toFixed(1)},${Y(v).toFixed(1)}`).join('');
     // end labels, nudged apart so they never overlap
     const ends = MODELS.map(k => ({ k, v: s[k].cum[s[k].cum.length - 1][1], y: Y(s[k].cum[s[k].cum.length - 1][1]) })).sort((a, b) => a.y - b.y);
@@ -412,8 +422,8 @@
     const hit = $('#cum-hit'), tip = $('#cum-tip'), hl = $('#cum-hover'), dots = $('#cum-dots');
     const show = ev => {
       const box = el.getBoundingClientRect(), px = (ev.clientX - box.left) * (W / box.width);
-      const y = Math.max(years[0], Math.min(LAST, Math.round(years[0] + (px - m.l) / (W - m.l - m.r) * (LAST - years[0]))));
-      const i = years.indexOf(y);
+      const y = Math.max(done[0], Math.min(DONE, Math.round(done[0] + (px - m.l) / (W - m.l - m.r) * (DONE - done[0]))));
+      const i = done.indexOf(y);
       if (i < 0) return;
       hl.setAttribute('x1', X(y)); hl.setAttribute('x2', X(y)); hl.setAttribute('visibility', 'visible');
       dots.innerHTML = MODELS.map(k => `<circle cx="${X(y)}" cy="${Y(s[k].cum[i][1])}" r="4.5" fill="${getComputedStyle(document.documentElement).getPropertyValue('--c-' + k).trim()}" stroke="var(--panel)" stroke-width="2"/>`).join('');
@@ -436,24 +446,35 @@
     const W27 = SEL.temporal && SEL.temporal['2027'] ? SEL.temporal['2027'].weights : CFG.weights;
     const hw = M.PRED_FEATURES.map((f, i) => [f[1], W27[i]]).filter(x => Math.abs(x[1]) > 0.001).sort((a, b) => b[1] - a[1]);
     const mxw = Math.max(...hw.map(x => x[1]));
-    const V = SEL.videoStyle || [], base = V.find(v => !v.extra), full = V.filter(v => v.extra && v.inSample === n);
+    const AS = SEL.awardStudy || [], AB = AS[0];
+    // criteria that predict more winners in both periods than the 19 alone
+    const gain = AS.filter(v => v.extra.length && v.old[0] > AB.old[0] && v.hits >= AB.hits);
+    const AWARD_NOTE = !AS.length ? '' : gain.length
+      ? `Only ${gain.map(v => v.desc.toLowerCase()).join(' and ')} gained anything: ${gain.map(v => `${v.old[0]} of ${v.old[1]} in 1961–2009 instead of ${AB.old[0]}, ${v.hits} of ${n} in 2010–2026 instead of ${AB.hits}, but with the real winner ranked ${fmt(v.meanRank)} on average instead of ${fmt(AB.meanRank)}`).join('; ')}. With ${AS.length - 1} criteria tried, a year or two more is within what luck gives, so the Prediction keeps its ${M.PRED_FEATURES.length} criteria.`
+      : `None of them predicts more winners in both periods, so the Prediction keeps its ${M.PRED_FEATURES.length} criteria.`;
+    const V = SEL.memorisedFit || [], base = V.find(v => !v.extra), full = V.filter(v => v.extra && v.inSample === n);
     $('#main').innerHTML = `<div class="page-head"><span class="kicker">Method</span><h1>How it works</h1>
-      <p>The video describes two models: a “historical” one, with rules fitted to the 2010–2025 winners, and a “fair” one, without team trophies and corrected for position, league strength and minutes. Its weights are not published, so I rebuilt them by approximation. What is here is my reconstruction, not the video's model.</p></div>
+      <p>Three ways to pick the winner from the same numbers: one learnt from past votes, one that looks only at individual performance, and one of my own that mixes the two. Every year since 1956 has the official top 10 plus a few strong players who were not eligible at the time.</p></div>
       <div class="method"><div class="panel prose">
       <h3><span class="swatch" style="--c:var(--c-pred)"></span>Prediction</h3>
       <p>A linear score over ${M.PRED_FEATURES.length} criteria (attacking output, European stage, national team, league title, position, non-attacking contribution, and versions relative to the year's rivals). The weights come from a linear program that tries to put each winner ahead of every other candidate of their year. For years already awarded the answer is the real vote; what matters is predicting the next year. So the Prediction is judged the way it would be used: to predict year Y it is trained only on years before Y.</p>
       ${SEL.temporal ? `<p>How the training is chosen: for each year, among several windows (from 1956, 1970, 1980, 1990, 2000 or 2005, or only the last 10–25 years), recency weights and regularisation, the combination that would best have predicted the previous 12 years is kept. With this rule it calls ${SEL.nestedWindow.hits} of ${n} in 2010–2026 (real winner ranked ${fmt(SEL.nestedWindow.meanRank)} on average), against ${SEL.baseline.hits} of ${n} when always training on every year since 1956. Old votes hurt the forecast of recent ones: from 2013 on, the rule always picks “train from 2000”. For the next Ballon d'Or the model is: ${esc(SEL.final.label)}, training ${SEL.final.train[0]}–${SEL.final.train[1]} (weights alongside).</p>` : ''}
       ${SEL.nested ? `<p>I also tried keeping only some criteria. Looking at the same years it seemed much better (${SEL.selection.res[0]} of ${n} with ${SEL.selection.chosen.length} criteria), but making that choice only with each year's past drops it to ${SEL.nested.hits} of ${n}, with the real winner ranked ${fmt(SEL.nested.meanRank)} on average: it was overfitting. All ${M.PRED_FEATURES.length} criteria stay.</p>` : ''}
-      ${base ? `<p>The video claims to call every winner from 2010 to 2026, fitting the weights to those same years. I did the same: with the ${M.PRED_FEATURES.length} criteria, the fit to 2010–2026 calls ${base.inSample} of ${n}; adding a single reputation or “star of the tournament” criterion gets ${n} of ${n} (any of: ${full.map(v => esc(v.desc)).join('; ')}). But calling years the model has already seen is memorising them. Predicting each year without seeing it, none of these criteria improves the Prediction: with them it gets between ${Math.min(...full.map(v => v.temporal))} and ${Math.max(...full.map(v => v.temporal))} of ${n}, against ${base.temporal} of ${n} without. So the Prediction does without them.</p>
-      <div class="scroll"><table><thead><tr><th>Criteria</th><th>Fitted to 2010–2026 (in-sample)</th><th>Predicting unseen years</th></tr></thead><tbody>${V.map(v => `<tr><td>${v.extra ? '19 + ' + esc(v.desc) : 'The 19 criteria only'}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.temporal}/${n}</td></tr>`).join('')}</tbody></table></div>` : ''}
-      <p>The “Everyone” list has a separate single fit to the retroactive winners: ${FA.inSample}/${FA.n} in-sample and ${FA.loo}/${FA.n} leaving one year out. I also tried fitting the weights to the top-10 order the video shows for 2026, but with my criteria that made the model lose real winners, so I did not use it. That list is shown for reference.</p>
+      ${base ? `<p>Fitting the weights to the very years they are judged on makes any model look good. With the ${M.PRED_FEATURES.length} criteria, a fit to 2010–2026 calls ${base.inSample} of ${n} of those same years; adding a single reputation or “star of the tournament” criterion gets ${n} of ${n} (any of: ${full.map(v => esc(v.desc)).join('; ')}). But calling years the model has already seen is memorising them. Predicting each year without seeing it, none of these criteria improves the Prediction: with them it gets between ${Math.min(...full.map(v => v.temporal))} and ${Math.max(...full.map(v => v.temporal))} of ${n}, against ${base.temporal} of ${n} without. So the Prediction does without them.</p>
+      <div class="scroll"><table><thead><tr><th>Criteria</th><th>Fitted to 2010–2026 (in-sample)</th><th>Predicting unseen years</th></tr></thead><tbody>${V.map(v => `<tr><td>${v.extra ? `${M.PRED_FEATURES.length} + ` + esc(v.desc) : `The ${M.PRED_FEATURES.length} criteria only`}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.temporal}/${n}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      <p>The “Everyone” list has a separate single fit to the retroactive winners: ${FA.inSample}/${FA.n} in-sample and ${FA.loo}/${FA.n} leaving one year out.</p>
+      ${AS.length ? `<h3><span class="swatch" style="--c:var(--c-real)"></span>Trophies and individual awards</h3>
+      <p>Every row also records the domestic cup, the league top-scorer title, the European Golden Shoe, the continental and national-team tournament top-scorer titles and the tournament's best-player award, read from Wikipedia. Each was tested on top of the ${M.PRED_FEATURES.length} criteria with the same rule as above (window chosen only with each year's past), on every year from 1961: 1961–2009 decides, 2010–2026 confirms.${AWARD_NOTE ? ' ' + AWARD_NOTE : ''}</p>
+      <div class="scroll"><table><thead><tr><th>Added criterion</th><th>Fitted to 2010–2026</th><th>2010–2026 unseen</th><th>1961–2009 unseen</th></tr></thead><tbody>${AS.map(v => `<tr><td>${esc(v.extra.length ? v.desc : `The ${M.PRED_FEATURES.length} criteria only`)}</td><td class="num">${v.inSample}/${n}</td><td class="num">${v.hits}/${n}</td><td class="num">${v.old[0]}/${v.old[1]}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      ${FC ? `<h3><span class="swatch" style="--c:var(--gold)"></span>The ${FC.year} forecast</h3>
+      <p>Every morning a scheduled job reads the ${FC.season} season so far: standings, goals, assists and games in ${FC.leagues.length} leagues and the Champions League from football-data.org, and the Europa/Conference League stage, domestic cups, Golden Shoe and ${FC.year} national-team tournaments from Wikipedia. League numbers are projected to a full season, because the models were fitted on whole seasons; league leaders count as champions until the season ends. Candidates are the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers, whose non-attacking contribution is my estimate. The Prediction uses the weights chosen for ${FC.year} (${esc(SEL.final ? SEL.final.label : '')}).</p>` : ''}
       <h3><span class="swatch" style="--c:var(--c-fair)"></span>Fair</h3>
-      <p>Individual performance only. Goals and assists adjusted for league strength in each decade, with a small bonus for Europe, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
+      <p>Individual performance only, with no team trophies. Goals and assists adjusted for league strength in each decade, with a small bonus for Europe, compared with what an elite candidate in that position is expected to produce, and shrunk towards the average when there are few games. For midfielders, defenders and goalkeepers a subjective estimate of the non-attacking contribution is added.</p>
       <h3><span class="swatch" style="--c:var(--c-mine)"></span>My model</h3>
       <p>About 80% individual performance and 20% team credit. Team credit only counts in proportion to what the player produced in Europe, for the national team and in the league, so winning without contributing earns nothing. Output against top opposition (Europe and national-team tournaments) weighs more. Every weight can be changed in the Years view.</p>
       <h2>Data limits</h2>
       <ul>
-        <li>The same scope for everyone: league, European competition and national-team final tournaments. Domestic cups and qualifiers are left out.</li>
+        <li>The same scope for everyone: league, European competition and national-team final tournaments. Domestic cups and qualifiers are left out of the match numbers.</li>
         <li>Each year has the official top 10 and, where it makes sense, a few strong ineligible players (only in the “Everyone” list). Eligibility: until 1994 Europeans only; 1995–2006 only players at European clubs; since 2007 everyone.</li>
         <li>Window: until 2021 voters judged the calendar year, so the numbers run January to December. When the season could not be split, the season ending that year is used, marked with confidence C. Since 2022 the season counts.</li>
         <li>Confidence: A verified in sources, B partly verified, C estimate. Assists have their own confidence: before about 2005 they are almost always estimated.</li>
@@ -462,12 +483,13 @@
         <li>The models measure performance, not the narrative that sways voters, and with such a small sample any fit to the winners can overfit.</li>
       </ul>
       <h2>Sources</h2>
-      <p>Vote results: Wikipedia, RSSSF and FIFA/France Football. Statistics: the sources consulted for each player appear in their detail in the Years view (sources.json in the repository). Video: “I know who wins the Ballon d'Or 2026” (Pogorabona).</p>
+      <p>Vote results: Wikipedia, RSSSF and FIFA/France Football. Statistics: the sources consulted for each player appear in their detail in the Years view (sources.json in the repository).</p>
       </div>
       <aside class="side panel"><h2 style="margin-bottom:4px">Prediction weights for ${SEL.final ? SEL.final.train[1] + 1 : 'the next award'}</h2><p class="meta" style="margin-bottom:12px">${SEL.final ? esc(SEL.final.label) : ''}. Criteria with zero weight are hidden.</p>
         <div class="wbars">${hw.map(([l, v]) => `<div class="wbar"><em>${esc(l)}</em><span class="num">${fmt(v)}</span><span class="bb" aria-hidden="true"><i style="width:${(Math.max(0, v) / mxw * 100).toFixed(1)}%"></i></span></div>`).join('')}</div></aside></div>`;
   }
 
+  if (!FC) $$('[data-view=forecast]').forEach(a => { a.hidden = true; });
   window.addEventListener('hashchange', route);
   route();
 })();

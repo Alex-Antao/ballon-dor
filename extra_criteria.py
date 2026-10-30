@@ -15,6 +15,17 @@ EXTRA = [
     ('double',      'European (UCL) and national-team champion in the same year'),
     ('leagueUcl',   'League and European (UCL) champion in the same year'),
 ]
+# Trophies and individual awards (fields filled by verify/awards.js from Wikipedia).
+AWARDS = [
+    ('cup',      'Domestic cup winner'),
+    ('trophies', 'Major trophies in the year (league, cup, continental, national team)'),
+    ('lgTop',    'League top scorer'),
+    ('gs',       'European Golden Shoe'),
+    ('uTop',     'Top scorer of the continental competition'),
+    ('ntTop',    'Top scorer of the national-team tournament'),
+    ('ntBest',   'Best player of the national-team tournament'),
+    ('awards',   'Individual awards in the year (top scorer titles, Golden Shoe, best player)'),
+]
 ATT = {'FW', 'W', 'AM'}
 NTW = {'WC': 1, 'EURO': 1, 'COPA': 0.8, 'AFCON': 0.5, 'ASIAN': 0.4, 'GOLD': 0.4}
 
@@ -47,4 +58,13 @@ def extra_matrix(D, L, y, H):
                     1.0 if x['ntG'] == mn and mn > 0 else 0.0,
                     ntw if mid else 0.0, 1.0 if (mid and x['ntT'] == 'WC' and x['ntS'] >= 4) else 0.0,
                     1.0 if (mid and ucl) else 0.0, 1.0 if (ucl and ntw) else 0.0, 1.0 if (ucl and x['title']) else 0.0])
+    return np.array(out, dtype=float)
+
+def award_matrix(D, L, y):
+    out = []
+    for r in D[str(y)][L]['rows']:
+        x = r['x']
+        trophies = x['title'] + x['cup'] + (1 if x['uS'] == 5 else 0) + (1 if x['ntS'] == 5 else 0)
+        indiv = x['lgTop'] + x['gs'] + x['uTop'] + x['ntTop'] + x['ntBest']
+        out.append([x['cup'], trophies / 4, x['lgTop'], x['gs'], x['uTop'], x['ntTop'], x['ntBest'], min(indiv / 3, 1)])
     return np.array(out, dtype=float)

@@ -26,12 +26,19 @@
         "ntT": "EURO",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9.5,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -42,7 +49,9 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Bundesliga",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 BL 34gp/5g, Europe 9gp/0g; 1976/77 BL 33gp/3g, Europe 6gp/1g. CY ≈ 17+16 league games + 5 (QF/SF/F 75/76) + 4 (R1/R2 76/77) European. 91 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 42→43, g 5→6."
       },
@@ -64,12 +73,19 @@
         "ntT": "EURO",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -78,9 +94,12 @@
           "https://en.wikipedia.org/wiki/1976_European_Cup_Winners%27_Cup_final",
           "https://en.wikipedia.org/wiki/Rob_Rensenbrink",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup_Winners'_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 league 35gp/23g, Europe 9gp/8g; 1976/77 league 34gp/16g (15 according to NFT), Europe 9gp/7g. 2 goals in the 1976 Cup Winners' Cup final. Games at Euro 76 (SF + third place) not confirmed. 75 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1975–76 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→44, g 25→31, uG 7→8."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 league 35gp/23g, Europe 9gp/8g; 1976/77 league 34gp/16g (15 according to NFT), Europe 9gp/7g. 2 goals in the 1976 Cup Winners' Cup final. Games at Euro 76 (SF + third place) not confirmed. 75 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1975–76 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→44, g 25→31, uG 7→8. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Ivo Viktor",
@@ -100,21 +119,30 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 3,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy76.html",
           "https://en.wikipedia.org/wiki/Ivo_Viktor",
           "https://national-football-teams.com/club/583/1976_1/Dukla_Praha.html",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Czechoslovak_First_League",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 28gp, 1976/77 only 4gp (worldfootball via search). CY ≈ 14 (spring) + 4. No European games identified in 1976. European national-team champion (SF + final). 52 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 28gp, 1976/77 only 4gp (worldfootball via search). CY ≈ 14 (spring) + 4. No European games identified in 1976. European national-team champion (SF + final). 52 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Kevin Keegan",
@@ -134,12 +162,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -151,7 +186,9 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Liverpool_F.C._season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Liverpool_F.C._season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 league 41gp/12g, Europe 11gp/3g; 1976/77 league 38gp/12g, Europe 8gp/4g. Goals in the 1976 UEFA Cup final (2 legs). English champion 1975/76. 32 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1975–76 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1975–76 UEFA Cup: Final). Changed: uG 5→4."
       },
@@ -173,12 +210,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -186,9 +230,11 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_French_Division_1",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_French_Division_1",
           "https://simple.wikipedia.org/wiki/Michel_Platini",
-          "https://en.wikipedia.org/wiki/Michel_Platini"
+          "https://en.wikipedia.org/wiki/Michel_Platini",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Coupe_de_France",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League goals confirmed per season: 1975/76 22, 1976/77 25 (2nd top scorer). 1975/76 games disagree (31 vs 38). No European competition. 19 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 36→31, g 23→22."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League goals confirmed per season: 1975/76 22, 1976/77 25 (2nd top scorer). 1975/76 games disagree (31 vs 38). No European competition. 19 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 36→31, g 23→22. Awards: not found on Wikipedia: cup winner."
       },
       {
         "name": "Anton Ondruš",
@@ -208,21 +254,30 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy76.html",
           "https://en.wikipedia.org/wiki/Anton_Ondru%C5%A1",
           "https://national-football-teams.com/club/2219/1976_1/Slovan_Bratislava.html",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Czechoslovak_First_League",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 29gp/6g, 1976/77 21gp/3g (single source). European champion captain; goal in the SF vs the Netherlands (and an own goal). 16 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 29gp/6g, 1976/77 21gp/3g (single source). European champion captain; goal in the SF vs the Netherlands (and an own goal). 16 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Johan Cruyff",
@@ -242,12 +297,19 @@
         "ntT": "EURO",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -258,7 +320,9 @@
           "https://en.wikipedia.org/wiki/Johan_Cruyff",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_La_Liga",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (Simple Wikipedia, search): 1975/76 league 29gp/6g, Europe 9gp/2g; 1976/77 league 30gp/14g, Europe 7gp/5g. UEFA Cup 1975/76: semi-finals. At Euro 76 he (it is thought) played only the SF. 12 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1975–76 UEFA Cup: Semi-finals). Changed: g 15→8, uG 5→2."
       },
@@ -280,12 +344,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -293,9 +364,11 @@
           "https://en.wikipedia.org/wiki/Ivan_%C4%86urkovi%C4%87",
           "https://en.wikipedia.org/wiki/1976_European_Cup_final",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_French_Division_1",
-          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Coupe_de_France",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Yugoslav (European, eligible). League 1975/76 38gp, 1976/77 37gp (worldfootball/NFT). Europe CY ≈ 5 (QF/SF/F 75/76) + 4 (76/77) – not confirmed. Losing finalist in the 1976 European Cup, French champion 1975/76. 12 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 46→47."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Yugoslav (European, eligible). League 1975/76 38gp, 1976/77 37gp (worldfootball/NFT). Europe CY ≈ 5 (QF/SF/F 75/76) + 4 (76/77) – not confirmed. Losing finalist in the 1976 European Cup, French champion 1975/76. 12 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 46→47. Awards: not found on Wikipedia: cup winner."
       },
       {
         "name": "Rainer Bonhof",
@@ -315,12 +388,19 @@
         "ntT": "EURO",
         "ntS": 4,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 9,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -328,7 +408,11 @@
           "https://rsssf.org/players/bonhofdata.html",
           "https://rsssf.org/players/bonhof-in-ec.html",
           "https://en.wikipedia.org/wiki/Rainer_Bonhof",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Bundesliga",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL 1975/76 30gp/5g, 1976/77 33gp/6g; European Cup 75/76 5gp/0g (RSSSF via search). Gladbach knocked out in the 75/76 quarter-finals (Real Madrid). German champion 1975/76. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -350,12 +434,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
@@ -366,7 +457,9 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Bundesliga",
-          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL 1975/76 22gp/23g, 1976/77 25gp/28g (RSSSF/DFB). European Cup 75/76: 6gp/5g (Wikipedia) vs 5gp/6g (RSSSF); 76/77 4gp/5g vs 5gp/4g – discrepancy. No longer in the national team (retired in 1974). 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 34→30, g 35→46, uG 9→10."
       },
@@ -388,21 +481,30 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1976_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1976.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy76.html",
           "https://en.wikipedia.org/wiki/Mari%C3%A1n_Masn%C3%BD",
           "https://national-football-teams.com/player/20126.html",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1976"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_Czechoslovak_First_League",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 29gp/7g, 1976/77 29gp/5g (single source). European national-team champion. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League 1975/76 29gp/7g, 1976/77 29gp/5g (single source). European national-team champion. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Elías Figueroa",
@@ -422,16 +524,26 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
-          "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa"
+          "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa",
+          "https://en.wikipedia.org/wiki/1976_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976_Copa_Libertadores"
         ],
-        "note": "INELIGIBLE (Chilean). South American Footballer of the Year 1974–76 (from memory, not verified in this session). Brazilian champion 1976 (Internacional); Libertadores 1976 knocked out in the first round (Cruzeiro's group). Numbers estimated from memory. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "INELIGIBLE (Chilean). South American Footballer of the Year 1974–76 (from memory, not verified in this session). Brazilian champion 1976 (Internacional); Libertadores 1976 knocked out in the first round (Cruzeiro's group). Numbers estimated from memory. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -462,19 +574,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
           "https://en.wikipedia.org/wiki/Allan_Simonsen",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Borussia_M%C3%B6nchengladbach_season",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Bundesliga",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Goal in the 1977 European Cup final (from memory). German champion 1976/77. Season totals not verified (search budget exhausted). 74 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1976–77 European Cup: Final); to verify: club, title."
       },
@@ -496,12 +618,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -510,7 +639,9 @@
           "https://liverpoolfc.fandom.com/wiki/Kevin_Keegan",
           "https://en.wikipedia.org/wiki/Kevin_Keegan",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Football_League_First_Division",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 Liverpool league 38gp/12g, Europe 8gp/4g (search). Jan–May Liverpool (English and European champions), Aug–Dec Hamburg (BL + Cup Winners' Cup 77/78) – HSV part from memory. lg = Liverpool (more games). 71 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 European Cup: Final). Changed: gp 42→37, g 14→11, uG 4→3."
       },
@@ -532,12 +663,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -545,9 +683,11 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_French_Division_1",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_French_Division_1",
           "https://www.national-football-teams.com/player/16083/Michel_Platini.html",
-          "https://en.wikipedia.org/wiki/Michel_Platini"
+          "https://en.wikipedia.org/wiki/Michel_Platini",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Coupe_de_France",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League goals per season confirmed: 1976/77 25, 1977/78 18 (36gp). No European competition identified. 70 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 37→38, g 21→25."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). League goals per season confirmed: 1976/77 25, 1977/78 18 (36gp). No European competition identified. 70 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 37→38, g 21→25. Awards: not found on Wikipedia: cup winner."
       },
       {
         "name": "Roberto Bettega",
@@ -567,12 +707,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -581,7 +728,9 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Serie_A",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Italian champion 1976/77 and 1977 UEFA Cup winner (goal in the second leg of the final in Bilbao, from memory). 39 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Final). Changed: gp 36→42, g 20→22, uG 6→5."
       },
@@ -603,12 +752,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -617,7 +773,9 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/Johan_Cruyff",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_La_Liga",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Copa_del_Rey",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 30gp/14g, Europe 7gp/5g (search); 1977/78 from memory. UEFA Cup 76/77: quarter-finals (Athletic). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Quarter-finals). Changed: gp 36→37, g 13→19, uG 3→5."
       },
@@ -639,12 +797,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -652,7 +817,9 @@
           "https://en.wikipedia.org/wiki/Klaus_Fischer",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_FC_Schalke_04_season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Bundesliga",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Schalke 2nd in the 1976/77 BL. European participation in the window not confirmed. 21 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Schalke 04: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Third round). Changed: g 22→23, uT →UEL, uS 0→1."
       },
@@ -674,19 +841,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
-          "https://en.wikipedia.org/wiki/Tibor_Nyilasi"
+          "https://en.wikipedia.org/wiki/Tibor_Nyilasi",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Nemzeti_Bajnoks%C3%A1g_I",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Magyar_Kupa",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Numbers from memory/estimated. 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Numbers from memory/estimated. 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Rob Rensenbrink",
@@ -706,21 +883,31 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
           "https://simple.wikipedia.org/wiki/Rob_Rensenbrink",
           "https://en.wikipedia.org/wiki/Rob_Rensenbrink",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup_Winners'_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 34gp/16g, Europe 9gp/7g (search); 1977/78 from memory. Losing finalist in the 1977 Cup Winners' Cup (Hamburg). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1976–77 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→43, g 20→23, uG 5→7."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 34gp/16g, Europe 9gp/7g (search); 1977/78 from memory. Losing finalist in the 1977 Cup Winners' Cup (Hamburg). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1976–77 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→43, g 20→23, uG 5→7. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Dudu Georgescu",
@@ -740,12 +927,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -754,7 +948,9 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_FC_Dinamo_Bucure%C8%99ti_season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_FC_Dinamo_Bucure%C8%99ti_season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Divizia_A",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Cupa_Rom%C3%A2niei",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Golden Boot 1976/77 with 47 goals (from memory); calendar-year split very uncertain. Romanian champion 1976/77. 6 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: First round). Changed: gp 32→33, g 37→47, uT →UEL."
       },
@@ -776,17 +972,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
-          "https://en.wikipedia.org/wiki/Emlyn_Hughes"
+          "https://en.wikipedia.org/wiki/Emlyn_Hughes",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Captain of Liverpool, English and European champions 1977. 5 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -808,17 +1015,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy77.html",
-          "https://en.wikipedia.org/wiki/Steve_Heighway"
+          "https://en.wikipedia.org/wiki/Steve_Heighway",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_Football_League_First_Division",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Irish (eligible). Assists in the Rome final (McDermott, corner for Smith) – from memory. 5 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -840,12 +1058,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1977_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1977.htm",
@@ -853,7 +1078,9 @@
           "https://en.wikipedia.org/wiki/Berti_Vogts",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Borussia_M%C3%B6nchengladbach_season",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Bundesliga",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Tie on 5 pts for 10th only confirmed on topendsports (RSSSF not shown in the excerpt). Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Borussia Mönchengladbach: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 European Cup: Final). Changed: gp 43→40."
       },
@@ -875,17 +1102,25 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/Zico_(footballer)",
-          "https://en.wikipedia.org/wiki/1977_Campeonato_Brasileiro_S%C3%A9rie_A"
+          "https://en.wikipedia.org/wiki/1977_Campeonato_Brasileiro_S%C3%A9rie_A",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "INELIGIBLE (Brazilian). South American Footballer of the Year 1977 (from memory). Only the Campeonato Brasileiro counts (Carioca excluded). Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 20→18, g 12→10."
+        "note": "INELIGIBLE (Brazilian). South American Footballer of the Year 1977 (from memory). Only the Campeonato Brasileiro counts (Carioca excluded). Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Changed: gp 20→18, g 12→10. Awards: not found on Wikipedia: cup page."
       }
     ]
   },
@@ -916,12 +1151,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -929,7 +1171,10 @@
           "https://en.wikipedia.org/wiki/Kevin_Keegan",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Hamburger_SV_season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Bundesliga",
-          "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup_Winners'_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). England did not qualify for the World Cup. HSV knocked out of the 77/78 Cup Winners' Cup in Nov 1977 (no European games in 1978). BL 1978/79 from memory (≈34gp/17g). 87 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1977–78 UEFA Cup Winners' Cup: Second round). Changed: gp 31→32, g 12→10, uG 0→1."
       },
@@ -951,12 +1196,19 @@
         "ntT": "WC",
         "ntS": 2,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 1,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -966,7 +1218,9 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Austrian_Football_Bundesliga",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Austrian_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Golden Boot 1977/78 (41 goals, Rapid) and Pichichi 1978/79 (Barcelona), from memory. No participation in the European edition ending in 1978; uG = Oct–Nov 1978 games in the 78/79 Cup Winners' Cup. World Cup: 4 goals (2 against West Germany in Córdoba). 81 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 UEFA Cup: First round). Changed: gp 36→38, g 31→41, uG 1→0, uT CWC→UEL."
       },
@@ -988,21 +1242,31 @@
         "ntT": "WC",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy78.html",
           "https://en.wikipedia.org/wiki/Rob_Rensenbrink",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup_Winners'_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup_Winners'_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winner of the 1978 Cup Winners' Cup (2 goals in the final vs Austria Wien) and World Cup finalist (5 goals, hit the post in the last minute of the final) – from memory. 50 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1977–78 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→31, g 19→23, uG 4→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winner of the 1978 Cup Winners' Cup (2 goals in the final vs Austria Wien) and World Cup finalist (5 goals, hit the post in the last minute of the final) – from memory. 50 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage from the edition page (1977–78 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 37→31, g 19→23, uG 4→5. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Roberto Bettega",
@@ -1022,12 +1286,19 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -1037,7 +1308,9 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Serie_A",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Italian champion 1977/78; European Cup semi-finals (Club Brugge); Italy 4th at the World Cup. 28 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Semi-finals). Changed: gp 32→33, g 12→11, uG 2→1."
       },
@@ -1059,12 +1332,19 @@
         "ntT": "WC",
         "ntS": 3,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -1072,7 +1352,10 @@
           "https://en.wikipedia.org/wiki/Paolo_Rossi",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Serie_A",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Capocannoniere 1977/78 (24 goals) – from memory. UEFA Cup 78/79 (Oct 1978, knocked out by Dukla) counts only in the games; no edition ending in 1978. World Cup: 3 goals. 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1978–79 UEFA Cup). Changed: gp 28→30, g 18→24."
       },
@@ -1094,18 +1377,28 @@
         "ntT": "WC",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 6,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy78.html",
           "https://en.wikipedia.org/wiki/Ronnie_Hellstr%C3%B6m",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Bundesliga",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Sweden knocked out in the first round of the World Cup. 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -1127,12 +1420,19 @@
         "ntT": "WC",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -1140,7 +1440,9 @@
           "https://en.wikipedia.org/wiki/Ruud_Krol",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Eredivisie",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Captain of the Netherlands, finalists. Ajax knocked out in the 77/78 European Cup quarter-finals (Juventus). 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Quarter-finals). Changed: gp 38→40."
       },
@@ -1162,12 +1464,19 @@
         "ntT": "WC",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -1177,9 +1486,11 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Liverpool_F.C._season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Football_League",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winning goal in the 1978 European Cup final (Club Brugge). Scotland knocked out in the first round (goal vs the Netherlands). 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Final). Changed: gp 48→51, g 25→24, uG 3→4."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winning goal in the 1978 European Cup final (Club Brugge). Scotland knocked out in the first round (goal vs the Netherlands). 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Final). Changed: gp 48→51, g 25→24, uG 3→4. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Allan Simonsen",
@@ -1199,18 +1510,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 1,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy78.html",
           "https://en.wikipedia.org/wiki/Allan_Simonsen",
-          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup"
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Bundesliga",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). European Cup semi-finals 77/78 (Liverpool). Denmark not at the World Cup. 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1977–78 European Cup: Semi-finals); to verify: club, title."
       },
@@ -1232,12 +1553,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 9,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1978_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
@@ -1247,9 +1575,12 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Nottingham_Forest_F.C._season",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Nottingham_Forest_F.C._season",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Football_League",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). English champion 1977/78. Forest without Europe in the edition ending in 1978; European Cup 78/79 games (Liverpool, AEK) count in gp. England not at the World Cup. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage verified: autumn only (1978–79 European Cup); to verify: club."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). English champion 1977/78. Forest without Europe in the edition ending in 1978; European Cup 78/79 games (Liverpool, AEK) count in gp. England not at the World Cup. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage verified: autumn only (1978–79 European Cup); to verify: club. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Mario Kempes",
@@ -1269,19 +1600,29 @@
         "ntT": "WC",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 1,
+        "ntBest": 1,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1978.htm",
           "https://wiki.kidzsearch.com/wiki/Mario_Kempes",
           "https://en.wikipedia.org/wiki/Mario_Kempes",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_La_Liga",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_Copa_del_Rey",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup"
         ],
         "note": "INELIGIBLE (Argentine). FF retroactive winner 2016. Pichichi 1977/78 (28 goals) and world champion, top scorer (6) and best player of the World Cup – from memory. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1978–79 UEFA Cup). Changed: gp 29→34, g 23→28, uT →UEL."
       }
@@ -1314,12 +1655,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
@@ -1327,7 +1675,10 @@
           "https://en.wikipedia.org/wiki/Kevin_Keegan",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Hamburger_SV_season",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Bundesliga",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). German champion 1978/79. HSV without Europe in 78/79; European Cup 79/80 games (Oct–Nov) only in gp/uG. 118 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1979–80 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1979–80 European Cup). Changed: g 16→17, uG 2→1."
       },
@@ -1349,12 +1700,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 2,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
@@ -1363,7 +1721,10 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Bundesliga",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Bayern without Europe in 78/79; UEFA Cup 79/80 (Oct–Dec) only in gp/uG. 52 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1979–80 UEFA Cup). Changed: g 23→26, uG 3→5."
       },
@@ -1385,19 +1746,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8.5,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/Ruud_Krol",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Eredivisie",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_KNVB_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Dutch champion 1978/79. Ajax's 78/79 European edition not confirmed (uS 0 to be safe); European Cup 79/80 (Oct–Nov) in gp. 41 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup: Third round). Changed: gp 37→30, uT UCL→UEL, uS 0→1."
       },
@@ -1419,17 +1789,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 4,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
-          "https://en.wikipedia.org/wiki/Manfred_Kaltz"
+          "https://en.wikipedia.org/wiki/Manfred_Kaltz",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_Bundesliga",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Right-back (“bananenflanke” crosses) of champions HSV. 27 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1451,21 +1832,31 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_French_Division_1",
           "https://en.wikipedia.org/wiki/Michel_Platini",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_Coupe_de_France",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup_Winners'_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Nancy 1978/79 only 18–19gp/12g in the league (injury; search). Saint-Étienne since Jul 1979 (UEFA Cup 79/80 Oct–Dec in gp/uG). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup Winners' Cup: Second round). Changed: gp 33→19, g 18→12, uG 3→0, uS 0→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Nancy 1978/79 only 18–19gp/12g in the league (injury; search). Saint-Étienne since Jul 1979 (UEFA Cup 79/80 Oct–Dec in gp/uG). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup Winners' Cup: Second round). Changed: gp 33→19, g 18→12, uG 3→0, uS 0→1. Awards: not found on Wikipedia: cup winner."
       },
       {
         "name": "Paolo Rossi",
@@ -1485,19 +1876,28 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/Paolo_Rossi",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Serie_A",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Vicenza relegated in 1978/79; loaned to Perugia in 1979/80 (UEFA Cup). 16 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup: First round). Changed: gp 30→29, uG 1→0."
       },
@@ -1519,12 +1919,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
@@ -1534,9 +1941,11 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Nottingham_Forest_F.C._season",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Nottingham_Forest_F.C._season",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Football_League",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Transferred from Birmingham in Feb 1979 (the first £1M); only eligible in Europe for the final, where he scored the winner (Malmö). Summer in the NASL (excluded). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 European Cup: Final). Changed: gp 32→44, g 15→24, uG 3→1."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Transferred from Birmingham in Feb 1979 (the first £1M); only eligible in Europe for the final, where he scored the winner (Malmö). Summer in the NASL (excluded). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 European Cup: Final). Changed: gp 32→44, g 15→24, uG 3→1. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Liam Brady",
@@ -1556,19 +1965,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
-          "https://en.wikipedia.org/wiki/Liam_Brady"
+          "https://en.wikipedia.org/wiki/Liam_Brady",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_Football_League",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Irish (eligible). UEFA Cup 78/79: knocked out in the 3rd round (16 teams) in Dec 1978; Cup Winners' Cup 79/80 games in gp. 1979 FA Cup excluded. 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Irish (eligible). UEFA Cup 78/79: knocked out in the 3rd round (16 teams) in Dec 1978; Cup Winners' Cup 79/80 games in gp. 1979 FA Cup excluded. 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Zbigniew Boniek",
@@ -1588,21 +2008,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
           "https://en.wikipedia.org/wiki/Zbigniew_Boniek",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Ekstraklasa",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Numbers from memory/estimated. 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1979–80 UEFA Cup). Changed: gp 30→28, g 11→4, uG 1→0."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Numbers from memory/estimated. 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage verified: autumn only (1979–80 UEFA Cup). Changed: gp 30→28, g 11→4, uG 1→0. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Zdeněk Nehoda",
@@ -1622,19 +2051,29 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 9,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1979_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1979.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy79.html",
-          "https://en.wikipedia.org/wiki/Zden%C4%9Bk_Nehoda"
+          "https://en.wikipedia.org/wiki/Zden%C4%9Bk_Nehoda",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_Czechoslovak_First_League",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Czechoslovak champion 1978/79. UEFA Cup 78/79: knocked out in the 3rd round (Stuttgart) in Dec 1978 (from memory). 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Czechoslovak champion 1978/79. UEFA Cup 78/79: knocked out in the 3rd round (Stuttgart) in Dec 1978 (from memory). 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Diego Maradona",
@@ -1654,18 +2093,26 @@
         "ntT": "COPA",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/Diego_Maradona",
           "https://en.wikipedia.org/wiki/1979_Argentine_Primera_Divisi%C3%B3n",
-          "https://en.wikipedia.org/wiki/1979_Copa_Am%C3%A9rica"
+          "https://en.wikipedia.org/wiki/1979_Copa_Am%C3%A9rica",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "INELIGIBLE (Argentine). Top scorer of the 1979 Metropolitano and Nacional (from memory). Copa América 1979: Argentina out in the first round; Maradona's games/goals uncertain. Under-20 World Cup excluded. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked."
+        "note": "INELIGIBLE (Argentine). Top scorer of the 1979 Metropolitano and Nacional (from memory). Copa América 1979: Argentina out in the first round; Maradona's games/goals uncertain. Under-20 World Cup excluded. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Awards: not found on Wikipedia: league top scorer, cup page."
       }
     ]
   },
@@ -1696,12 +2143,19 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 1,
         "cont": null,
         "rank": 1,
         "elig": 1,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
@@ -1711,7 +2165,9 @@
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_FC_Bayern_Munich_season",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL top scorer 1979/80 and 1980/81 (from memory). German champion 1979/80; 79/80 UEFA Cup semi-finals. Corner for Hrubesch's decisive goal in the Euro final. 122 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Semi-finals). Changed: g 33→34, ntG 0→1."
       },
@@ -1733,12 +2189,19 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 7.5,
         "rank": 2,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
@@ -1747,7 +2210,10 @@
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_FC_Barcelona_season",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Köln until Jun 1980, Barcelona from Aug 1980. European participation in the window not confirmed. Euro 1980: games and assists estimated (stood out vs the Netherlands). 34 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage verified: autumn only (1980–81 UEFA Cup). Changed: gp 30→32, g 8→9, ntGP 3→2, uT →UEL."
       },
@@ -1769,12 +2235,19 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 3,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
@@ -1782,9 +2255,11 @@
           "https://en.wikipedia.org/wiki/Michel_Platini",
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_AS_Saint-%C3%89tienne_season",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_French_Division_1",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Coupe_de_France",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup 79/80: quarter-finals (Gladbach); 80/81 Oct–Dec (incl. 5–0 in Hamburg) in gp/uG. France not at the Euro. 33 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Quarter-finals). Changed: gp 44→40, g 22→21, uG 4→5."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup 79/80: quarter-finals (Gladbach); 80/81 Oct–Dec (incl. 5–0 in Hamburg) in gp/uG. France not at the Euro. 33 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Quarter-finals). Changed: gp 44→40, g 22→21, uG 4→5. Awards: not found on Wikipedia: cup winner."
       },
       {
         "name": "Wilfried Van Moer",
@@ -1804,20 +2279,29 @@
         "ntT": "EURO",
         "ntS": 4,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 4,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
           "https://en.wikipedia.org/wiki/Wilfried_Van_Moer",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Aged 35; returned to the national team for the Euro. Beveren's European games in the window not confirmed. 27 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 30→29, g 4→2."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Aged 35; returned to the national team for the Euro. Beveren's European games in the window not confirmed. 27 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: no European competition in the editions checked; to verify: title. Changed: gp 30→29, g 4→2. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Jan Ceulemans",
@@ -1837,21 +2321,31 @@
         "ntT": "EURO",
         "ntS": 4,
         "title": 1,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 5,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
           "https://en.wikipedia.org/wiki/Jan_Ceulemans",
           "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Belgian champion 1979/80. Goal vs England at the Euro. European Cup 80/81 (knocked out in the 1st round) only in gp. 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1980–81 European Cup); to verify: title. Changed: g 18→29."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Belgian champion 1979/80. Goal vs England at the Euro. European Cup 80/81 (knocked out in the 1st round) only in gp. 20 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; continental competition/stage verified: autumn only (1980–81 European Cup); to verify: title. Changed: g 18→29. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Horst Hrubesch",
@@ -1871,12 +2365,19 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 6,
         "elig": 1,
         "win": "S",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
@@ -1884,7 +2385,9 @@
           "https://en.wikipedia.org/wiki/Horst_Hrubesch",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 European Cup (Forest), 2 goals in the Euro 1980 final (from memory). 18 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1979–80 European Cup: Final). Changed: gp 42→43, g 26→28, uG 6→7, ntGP 2→3."
       },
@@ -1906,19 +2409,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 1,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 7,
         "rank": 7,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
-          "https://en.wikipedia.org/wiki/Herbert_Prohaska"
+          "https://en.wikipedia.org/wiki/Herbert_Prohaska",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Austrian_Football_Bundesliga",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Austrian_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Austria Wien (Austrian champions 1979/80) until Jun 1980, Inter from Aug (European Cup 80/81 Oct–Nov in gp). 14 pts (topendsports) / 16 (FF according to a Wikipedia note). Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Austria Wien (Austrian champions 1979/80) until Jun 1980, Inter from Aug (European Cup 80/81 Oct–Nov in gp). 14 pts (topendsports) / 16 (FF according to a Wikipedia note). Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Hansi Müller",
@@ -1938,18 +2452,29 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
           "https://en.wikipedia.org/wiki/Hansi_M%C3%BCller",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup semi-finals 79/80 (Gladbach). European national-team champion. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -1971,19 +2496,30 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": 8,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
-          "https://en.wikipedia.org/wiki/Liam_Brady"
+          "https://en.wikipedia.org/wiki/Liam_Brady",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Football_League",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_FA_Cup",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup_Winners'_Cup"
         ],
-        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 Cup Winners' Cup (missed a penalty vs Valencia); Juventus since Aug 1980. Ireland not at the Euro. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
+        "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 Cup Winners' Cup (missed a penalty vs Valencia); Juventus since Aug 1980. Ireland not at the Euro. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
       },
       {
         "name": "Manfred Kaltz",
@@ -2003,18 +2539,29 @@
         "ntT": "EURO",
         "ntS": 5,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": 8,
         "rank": 10,
         "elig": 1,
         "win": "CY",
         "conf": "C",
         "aConf": "C",
+        "awConf": "A",
         "sources": [
           "https://en.wikipedia.org/wiki/1980_Ballon_d%27Or",
           "https://www.topendsports.com/sport/soccer/awards/ballondor-1980.htm",
           "https://www.rsssf.org/miscellaneous/europa-poy80.html",
           "https://en.wikipedia.org/wiki/Manfred_Kaltz",
-          "https://en.wikipedia.org/wiki/UEFA_Euro_1980"
+          "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 European Cup; European national-team champion. 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -2036,17 +2583,25 @@
         "ntT": "",
         "ntS": 0,
         "title": 0,
+        "cup": 0,
+        "lgTop": 0,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/Diego_Maradona",
-          "https://en.wikipedia.org/wiki/1980_Argentine_Primera_Divisi%C3%B3n"
+          "https://en.wikipedia.org/wiki/1980_Argentine_Primera_Divisi%C3%B3n",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
         ],
-        "note": "INELIGIBLE (Argentine). Top scorer of the 1980 Metropolitano and Nacional (from memory); South American of the Year 1979 and 1980. Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked."
+        "note": "INELIGIBLE (Argentine). Top scorer of the 1980 Metropolitano and Nacional (from memory); South American of the Year 1979 and 1980. Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: no European competition in the editions checked. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Zico",
@@ -2066,18 +2621,27 @@
         "ntT": "",
         "ntS": 0,
         "title": 1,
+        "cup": 0,
+        "lgTop": 1,
+        "gs": 0,
+        "uTop": 0,
+        "ntTop": 0,
+        "ntBest": 0,
         "cont": null,
         "rank": null,
         "elig": 0,
         "win": "CY",
         "conf": "B",
         "aConf": "C",
+        "awConf": "B",
         "sources": [
           "https://en.wikipedia.org/wiki/Zico_(footballer)",
           "https://en.wikipedia.org/wiki/1980_Campeonato_Brasileiro_S%C3%A9rie_A",
-          "https://en.wikipedia.org/wiki/1981_Copa_Libertadores"
+          "https://en.wikipedia.org/wiki/1981_Copa_Libertadores",
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1980_Copa_Libertadores"
         ],
-        "note": "INELIGIBLE (Brazilian). Brazilian champion and top scorer of the 1980 Brasileirão (from memory). Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1981 Copa Libertadores). Changed: gp 22→19, uT →LIB."
+        "note": "INELIGIBLE (Brazilian). Brazilian champion and top scorer of the 1980 Brasileirão (from memory). Numbers estimated. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1981 Copa Libertadores). Changed: gp 22→19, uT →LIB. Awards: not found on Wikipedia: cup page."
       }
     ]
   }

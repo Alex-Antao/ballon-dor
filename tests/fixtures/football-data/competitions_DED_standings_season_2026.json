@@ -1,0 +1,32 @@
+{
+ "standings": [
+  {
+   "stage": "REGULAR_SEASON",
+   "type": "TOTAL",
+   "table": [
+    {
+     "position": 1,
+     "team": {
+      "id": 678,
+      "name": "AFC Ajax",
+      "shortName": "Ajax",
+      "tla": "AJA"
+     },
+     "playedGames": 10,
+     "points": 25
+    },
+    {
+     "position": 2,
+     "team": {
+      "id": 674,
+      "name": "PSV",
+      "shortName": "PSV",
+      "tla": "PSV"
+     },
+     "playedGames": 10,
+     "points": 22
+    }
+   ]
+  }
+ ]
+}

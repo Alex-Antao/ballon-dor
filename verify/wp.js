@@ -17,7 +17,7 @@ function get(url) {
     } catch (e) {}
     sleep(3000 * (i + 1));
   }
-  throw new Error('falha a obter ' + url);
+  throw new Error('could not fetch ' + url);
 }
 // Wikitext of a page (follows redirects). rawT also returns the final title.
 function rawT(title, lang = 'en', depth = 0) {
