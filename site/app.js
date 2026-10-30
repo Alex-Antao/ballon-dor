@@ -7,10 +7,15 @@
   const M = window.BDO_MODELS;
   const CFG = window.BDO_CONFIG;
   const FITS = CFG.fits, SEL = CFG.selection || {};
+  // The next award: the live forecast is one more year, with no winner yet (forecast/2027.json, updated daily).
+  const FC = CFG.forecast || null;
+  if (FC) YEARS[FC.year] = { label: FC.label, award: `Forecast as of ${FC.asOf}`, winner: null, winnerAll: null, winnerAllNote: '',
+                             window: 'P', notes: '', rows: FC.rows.map(r => Object.assign({}, r, { y: FC.year })), forecast: true };
 
   // ---------- constants ----------
   const years = Object.keys(YEARS).map(Number).sort((a, b) => a - b);
   const LAST = years[years.length - 1];
+  const done = years.filter(y => !YEARS[y].forecast), DONE = done[done.length - 1];   // years already awarded
   const ALGS = [
     { k: 'real', n: 'Actual result', short: 'Actual', c: 'var(--c-real)', d: 'Official vote' },
     { k: 'pred', n: 'Prediction', short: 'Prediction', c: 'var(--c-pred)', d: 'Weights trained only on earlier years' },
@@ -57,7 +62,7 @@
 
   // Prediction weights for year y: on the eligible list, trained only on earlier years (an honest forecast);
   // otherwise the single in-sample fit.
-  const temporalOf = y => st.list === 'elig' && SEL.temporal && SEL.temporal[y] ? SEL.temporal[y] : null;
+  const temporalOf = y => (st.list === 'elig' || YEARS[y].forecast) && SEL.temporal && SEL.temporal[y] ? SEL.temporal[y] : null;
   const weightsOf = y => { const t = temporalOf(y); return t ? t.weights : (FITS[st.list] || FITS.elig).weights; };
   const predDesc = y => {
     const t = temporalOf(y);
@@ -81,9 +86,11 @@
     const h = location.hash.replace(/^#\/?/, '');
     if (h === 'summary' || h === 'resumo') return { view: 'summary' };
     if (h === 'method' || h === 'metodo') return { view: 'method' };
+    if (h === 'forecast' && FC) return { view: 'year', year: FC.year };
+    if (h === 'years') return { view: 'year', year: DONE };
     const m = /^a?(\d{4})$/.exec(h);
     if (m && YEARS[m[1]]) return { view: 'year', year: +m[1] };
-    return { view: 'year' };
+    return { view: 'year', year: FC && !h ? FC.year : DONE };
   }
   const go = hash => { if (location.hash !== hash) location.hash = hash; else route(); };
   function route() {
@@ -91,8 +98,9 @@
     st.view = r.view;
     if (r.year) st.year = r.year;
     if (r.view !== 'year' || r.year !== prevYear) { st.sel = null; closeDetail(false); }
-    $$('[data-view]').forEach(a => { if (a.dataset.view === st.view) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
-    document.title = st.view === 'year' ? `${st.year} · Ballon d'Or Lab` : st.view === 'summary' ? "Summary · Ballon d'Or Lab" : "Method · Ballon d'Or Lab";
+    const nav = st.view === 'year' && YEARS[st.year].forecast ? 'forecast' : st.view;
+    $$('[data-view]').forEach(a => { if (a.dataset.view === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+    document.title = nav === 'forecast' ? `${st.year} forecast · Ballon d'Or Lab` : st.view === 'year' ? `${st.year} · Ballon d'Or Lab` : st.view === 'summary' ? "Summary · Ballon d'Or Lab" : "Method · Ballon d'Or Lab";
     render();
     if (prevView !== st.view) window.scrollTo(0, 0);
   }
@@ -103,13 +111,14 @@
     const dec = {};
     years.forEach(y => { (dec[Math.floor(y / 10) * 10] = dec[Math.floor(y / 10) * 10] || []).push(y); });
     return `<label class="year-pick"><span class="sr-only">Jump to year</span><select id="year-select">${Object.entries(dec).map(([d, ys]) =>
-      `<optgroup label="${d}s">${ys.map(y => `<option value="${y}"${y === st.year ? ' selected' : ''}>${y}${YEARS[y].winner ? ' — ' + esc(YEARS[y].winner) : ' — not awarded'}</option>`).join('')}</optgroup>`).join('')}</select></label>`;
+      `<optgroup label="${d}s">${ys.map(y => `<option value="${y}"${y === st.year ? ' selected' : ''}>${y}${YEARS[y].forecast ? ' — forecast' : YEARS[y].winner ? ' — ' + esc(YEARS[y].winner) : ' — not awarded'}</option>`).join('')}</optgroup>`).join('')}</select></label>`;
   }
   function listToggle() {
     return `<div class="seg" role="group" aria-label="Candidate list">${LISTS.map(([k, l]) => `<button type="button" data-list="${k}" aria-pressed="${st.list === k}">${l}</button>`).join('')}</div>`;
   }
   function winnerLine(y) {
     const Y = YEARS[y], t = targetOf(y);
+    if (Y.forecast) return `<span class="kicker">Forecast · as of ${esc(FC.asOf)}</span><strong>Not awarded yet</strong><span class="aw">Numbers of the ${esc(FC.season)} season so far; updated every day</span>`;
     if (!Y.winner) return `<span class="kicker">Ballon d'Or</span><strong>Not awarded</strong><span class="aw">France Football cancelled the 2020 edition (COVID-19)</span>`;
     if (t !== Y.winner) return `<span class="kicker">Retroactive winner (France Football, 2016)</span><strong>${esc(t)}</strong><span class="aw">Official winner: ${esc(Y.winner)}</span>`;
     return `<span class="kicker">Winner</span><strong>${esc(Y.winner)}</strong><span class="aw">${esc(Y.award)}</span>`;
@@ -130,7 +139,7 @@
       const d = Math.floor(y / 10);
       if (prevDec !== null && d !== prevDec) out += '<span class="decade" aria-hidden="true"></span>';
       prevDec = d;
-      const label = `${y}: ${YEARS[y].winner ? MODELS.map((k, i) => `${alg(k).n} ${hits[y][i] ? 'right' : 'wrong'}`).join(', ') : 'not awarded'}`;
+      const label = `${y}: ${YEARS[y].forecast ? 'forecast' : YEARS[y].winner ? MODELS.map((k, i) => `${alg(k).n} ${hits[y][i] ? 'right' : 'wrong'}`).join(', ') : 'not awarded'}`;
       out += `<button type="button" data-y="${y}" aria-current="${y === st.year}" aria-label="${esc(label)}"><span class="y">${y}</span><span class="dots" aria-hidden="true">${MODELS.map((k, i) => `<i style="--c:${alg(k).c}" class="${hits[y][i] ? 'on' : ''}"></i>`).join('')}</span></button>`;
     }
     return out;
@@ -138,7 +147,10 @@
   function colHtml(a, res, y) {
     const Y = YEARS[y], rows = rowsOf(y), t = targetOf(y);
     let items;
-    if (a.k === 'real') {
+    if (a.k === 'real' && Y.forecast) {
+      const ga = r => r.g + r.a;
+      items = rows.slice().sort((p, q) => ga(q) - ga(p) || q.g - p.g).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${r.g}+${r.a}` }));
+    } else if (a.k === 'real') {
       const ranked = rows.filter(r => r.rank).sort((p, q) => p.rank - q.rank).map(r => ({ r, pos: r.rank, score: null }));
       const rest = rows.filter(r => !r.rank).sort((p, q) => (q.name === t) - (p.name === t)).map(r => ({ r, pos: '–', score: null, faded: r.name !== t, retro: r.name === t }));
       items = ranked.concat(rest);
@@ -152,7 +164,7 @@
       if (a.k === 'real') tag = it.retro ? '<span class="tag win">retroactive winner</span>' : (it.pos === 1 && r.name === Y.winner ? '<span class="tag win">winner</span>' : '');
       else tag = r.rank ? `<span class="tag ${isW && it.pos === 1 ? 'hit' : ''}">actual #${r.rank}</span>` : (isW && it.pos === 1 ? '<span class="tag hit">retroactive</span>' : '');
       if (r.elig === 0) tag += '<span class="tag">ineligible</span>';
-      const score = it.score == null ? '' : (a.k === 'pred' ? fmt(it.score) : fmt(it.score, 0));
+      const score = it.ga || (it.score == null ? '' : (a.k === 'pred' ? fmt(it.score) : fmt(it.score, 0)));
       return `<li><button type="button" class="row${it.faded ? ' faded' : ''}${isW ? ' is-winner' : ''}" style="--c:${a.c}" data-n="${esc(r.name)}" aria-pressed="${st.sel === r.name}">
         <span class="pos">${it.pos}</span><span class="nm" title="${esc(r.name)}">${esc(r.name)}</span><span class="sc">${score}</span>
         <span class="sub"><span class="club">${esc(r.club)} · ${POS[r.pos]}</span>${tag}</span>
@@ -163,7 +175,8 @@
     return `<section class="col${st.tab === a.k ? ' active' : ''}" style="--c:${a.c}" data-k="${a.k}" id="col-${a.k}" role="tabpanel" aria-labelledby="tab-${a.k}">
       <header><h2><span class="swatch" aria-hidden="true"></span>${a.n}</h2><span>${esc(desc)}</span></header><ol class="list">${li}</ol></section>`;
   }
-  const algsOf = () => ALGS;
+  const SEASON_COL = { k: 'real', n: 'Season so far', short: 'Numbers', c: 'var(--c-real)', d: 'Goals + assists, league and Champions League' };
+  const algsOf = y => YEARS[y].forecast ? [SEASON_COL, ...ALGS.slice(1)] : ALGS;
   function boardHtml(y, res) {
     const as = algsOf(y);
     if (!as.some(a => a.k === st.tab)) st.tab = 'real';
@@ -184,7 +197,9 @@
   function viewYear() {
     const y = st.year, Y = YEARS[y], res = compute(y);
     const i = years.indexOf(y), nIn = Y.rows.filter(r => r.elig === 0).length;
-    const notes = [Y.notes, nIn ? `${nIn} ineligible candidate${nIn > 1 ? 's' : ''} this year: shown only in the “Everyone” list.` : '', Y.winnerAllNote].filter(Boolean).join(' ');
+    const hist = Y.forecast && FC.history && FC.history.length > 1 ? ' Prediction leader on recent updates: ' + FC.history.slice(-8).map(h => `${h.date} ${h.pred[0] ? h.pred[0][0] : '—'}`).join(' · ') + '.' : '';
+    const fcNote = Y.forecast ? `The forecast uses the same three models on the ${FC.season} season so far: league and Champions League numbers from football-data.org (${FC.leagues.join(', ')}), other European cups, domestic cups and the 2027 national-team tournaments from Wikipedia. League leaders count as champions until the season ends. Candidates: the leading scorers and assisters plus a hand-kept list of midfielders, defenders and goalkeepers.${hist}` : '';
+    const notes = [fcNote, Y.notes, nIn ? `${nIn} ineligible candidate${nIn > 1 ? 's' : ''} this year: shown only in the “Everyone” list.` : '', Y.winnerAllNote].filter(Boolean).join(' ');
     $('#main').innerHTML = `<div class="year-view">
       <section class="hero" aria-label="${y}">
         <div class="year-nav">
@@ -198,7 +213,7 @@
       </section>
       <div class="timeline" id="timeline" aria-label="Years">${timelineHtml()}</div>
       <div class="timeline-legend" aria-hidden="true">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n} right</span>`).join('')}</div>
-      <div class="toolbar">${listToggle()}${notes ? `<details class="about"><summary>About ${y}</summary><p class="note">${esc(notes)}</p></details>` : ''}</div>
+      <div class="toolbar">${Y.forecast ? '' : listToggle()}${notes ? `<details class="about"><summary>About ${y}</summary><p class="note">${esc(notes)}</p></details>` : ''}</div>
       <div class="year-layout">
         <div class="board" id="board">${boardHtml(y, res)}</div>
         <aside class="side" aria-label="Player detail and tuning">
@@ -277,7 +292,7 @@
       d.classList.add('open'); $('#backdrop').hidden = false; document.body.style.overflow = 'hidden';
       const cb = $('#detail .close'); (cb || d).focus({ preventScroll: true });
     }
-    if (!sources) loadSources().then(() => {
+    if (!sources && !YEARS[st.year].forecast) loadSources().then(() => {
       if (st.sel !== name || st.view !== 'year') return;
       const d2 = $('#detail'), hadFocus = d2.contains(document.activeElement);
       d2.innerHTML = detailHtml(st.year, compute(st.year)); bindDetail();
@@ -312,8 +327,8 @@
     const nt = r.ntT ? `${r.ntGP} gp · ${r.ntG} g · ${r.ntA} a` : '—';
     const ntSub = r.ntT ? `${r.ntT}: ${STAGE[r.ntS]}` : 'no national-team tournament';
     const eu = r.uT ? `${CUPN[r.uT]} (weight ${fmt(cupWeight(r.uT, y))})` : 'no continental competition';
-    const sr = sources ? (sources[y] || {})[r.name] : null;
-    const srcH = !sources ? '<p class="src">Loading sources…</p>' : sr && (sr.sources.length || sr.note) ? `<div class="src"><b>Sources:</b>${sr.sources.map(u => { let h = u; try { h = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { /* keep url */ } return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join('')}</div>${sr.note ? `<details class="data-note"><summary>Data notes</summary><p>${esc(sr.note)}</p></details>` : ''}` : '';
+    const sr = YEARS[y].forecast ? { sources: r.sources || [], note: r.note || '' } : sources ? (sources[y] || {})[r.name] : null;
+    const srcH = !sr && !sources ? '<p class="src">Loading sources…</p>' : sr && (sr.sources.length || sr.note) ? `<div class="src"><b>Sources:</b>${sr.sources.map(u => { let h = u; try { h = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { /* keep url */ } return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join('')}</div>${sr.note ? `<details class="data-note"><summary>Data notes</summary><p>${esc(sr.note)}</p></details>` : ''}` : '';
     return `<div class="detail-head"><div><h2>${esc(r.name)}</h2><div class="badges">
         <span class="conf conf-${r.conf}" title="Data confidence: A verified in sources, B partly verified/approximate, C estimate">data ${r.conf}</span>
         <span class="conf conf-${r.aConf}" title="Confidence of the assists only">assists ${r.aConf}</span>
@@ -335,7 +350,7 @@
   function stats() {
     const z = () => ({ w: 0, t3: 0, n: 0, w10: 0, n10: 0, cum: [] });
     const s = { pred: z(), fair: z(), mine: z() }, rows = [];
-    years.forEach(y => {
+    done.forEach(y => {
       const res = compute(y), t = targetOf(y), row = { y, t, p: {} };
       MODELS.forEach(k => {
         const top = res[k].map(x => x.r.name), S = s[k];
@@ -356,12 +371,12 @@
     const cards = MODELS.map(k => {
       const a = alg(k), S = s[k], ok26 = r26 && r26.t && r26.p[k] === r26.t;
       return `<div class="panel stat" style="--c:${a.c}"><h3><span class="swatch" aria-hidden="true"></span>${a.n}</h3>
-        <p class="big num">${S.w}<small>/${S.n}</small></p><p class="meta">winners called right in ${years[0]}–2025</p>
+        <p class="big num">${S.w}<small>/${S.n}</small></p><p class="meta">winners called right in ${done[0]}–2025</p>
         <ul><li><b class="num">${S.t3}/${S.n}</b> with the winner in the top 3</li><li><b class="num">${S.w10}/${S.n10}</b> in 2010–2025</li><li>2026: <b class="${ok26 ? 'mark-ok' : 'mark-no'}">${ok26 ? '✓ right' : '✗ wrong'}</b></li></ul></div>`;
     }).join('');
     const F = FITS[st.list] || FITS.elig;
     const note = st.list === 'elig' && SEL.temporal
-      ? `On the eligible list, each year's Prediction is the forecast that would have been made at the time: weights trained only on earlier years, never seeing that year or later ones. In 2010–2026 it calls ${SEL.nestedWindow.hits} of ${SEL.targets.length}; in 1961–2009, ${SEL.temporalOld[0]} of ${SEL.temporalOld[1]}. In ${years[0]}–${years[0] + 4} there are too few earlier years, so the fit to every year is used (in-sample).`
+      ? `On the eligible list, each year's Prediction is the forecast that would have been made at the time: weights trained only on earlier years, never seeing that year or later ones. In 2010–2026 it calls ${SEL.nestedWindow.hits} of ${SEL.targets.length}; in 1961–2009, ${SEL.temporalOld[0]} of ${SEL.temporalOld[1]}. In ${done[0]}–${done[0] + 4} there are too few earlier years, so the fit to every year is used (in-sample).`
       : `On the “Everyone” list the Prediction uses a single fit to the retroactive winners of ${F.train[0]}–${F.train[1]}, so the result is in-sample (${F.inSample}/${F.n}); leaving one year out, ${F.loo} of ${F.n}.`;
     const tbl = rows.map(o => {
       const cell = k => { const ok = o.t && o.p[k] === o.t; return `<td data-k="${alg(k).short}" class="${ok ? '' : 'miss'}">${esc(o.p[k])}${ok ? ' <span class="ok" aria-label="right">✓</span>' : ''}</td>`; };
@@ -372,7 +387,7 @@
       <div class="stats">${cards}</div>
       <section class="panel chart-panel"><header><h2>Winners called right, cumulative</h2>
         <div class="legend">${MODELS.map(k => `<span><span class="swatch" style="--c:${alg(k).c}"></span>${alg(k).n}</span>`).join('')}</div></header>
-        <div class="chart" id="cum-chart" role="img" aria-label="Cumulative number of winners called right by each model from ${years[0]} to ${LAST}: ${MODELS.map(k => `${alg(k).n} ${s[k].cum[s[k].cum.length - 1][1]}`).join(', ')}. The table below has every year."></div></section>
+        <div class="chart" id="cum-chart" role="img" aria-label="Cumulative number of winners called right by each model from ${done[0]} to ${DONE}: ${MODELS.map(k => `${alg(k).n} ${s[k].cum[s[k].cum.length - 1][1]}`).join(', ')}. The table below has every year."></div></section>
       <p class="note" style="margin-bottom:16px">${note} The Fair and My models were not fitted to the winners.</p>
       <section class="panel"><h2 style="margin-bottom:8px">Every year</h2><div class="scroll"><table class="years-table"><thead><tr><th>Year</th><th>Winner</th>${MODELS.map(k => `<th>${alg(k).n}</th>`).join('')}</tr></thead><tbody>${tbl}</tbody></table></div></section>`;
     $$('[data-list]').forEach(b => b.onclick = () => { st.list = b.dataset.list; save(); viewSummary(); });
@@ -386,11 +401,11 @@
     cumState = s;
     const W = Math.max(300, el.clientWidth), H = W < 520 ? 230 : 280, m = { l: 34, r: W < 520 ? 74 : 96, t: 12, b: 26 };
     const maxY = Math.max(...MODELS.map(k => s[k].cum[s[k].cum.length - 1][1]), 1);
-    const X = y => m.l + (y - years[0]) / (LAST - years[0]) * (W - m.l - m.r);
+    const X = y => m.l + (y - done[0]) / (DONE - done[0]) * (W - m.l - m.r);
     const Y = v => H - m.b - v / maxY * (H - m.t - m.b);
     const step = maxY > 30 ? 10 : 5, ticks = [];
     for (let v = 0; v <= maxY; v += step) ticks.push(v);
-    const xt = years.filter(y => y % (W < 520 ? 20 : 10) === 0);
+    const xt = done.filter(y => y % (W < 520 ? 20 : 10) === 0);
     const path = k => s[k].cum.map(([y, v], i) => `${i ? 'L' : 'M'}${X(y).toFixed(1)},${Y(v).toFixed(1)}`).join('');
     // end labels, nudged apart so they never overlap
     const ends = MODELS.map(k => ({ k, v: s[k].cum[s[k].cum.length - 1][1], y: Y(s[k].cum[s[k].cum.length - 1][1]) })).sort((a, b) => a.y - b.y);
@@ -407,8 +422,8 @@
     const hit = $('#cum-hit'), tip = $('#cum-tip'), hl = $('#cum-hover'), dots = $('#cum-dots');
     const show = ev => {
       const box = el.getBoundingClientRect(), px = (ev.clientX - box.left) * (W / box.width);
-      const y = Math.max(years[0], Math.min(LAST, Math.round(years[0] + (px - m.l) / (W - m.l - m.r) * (LAST - years[0]))));
-      const i = years.indexOf(y);
+      const y = Math.max(done[0], Math.min(DONE, Math.round(done[0] + (px - m.l) / (W - m.l - m.r) * (DONE - done[0]))));
+      const i = done.indexOf(y);
       if (i < 0) return;
       hl.setAttribute('x1', X(y)); hl.setAttribute('x2', X(y)); hl.setAttribute('visibility', 'visible');
       dots.innerHTML = MODELS.map(k => `<circle cx="${X(y)}" cy="${Y(s[k].cum[i][1])}" r="4.5" fill="${getComputedStyle(document.documentElement).getPropertyValue('--c-' + k).trim()}" stroke="var(--panel)" stroke-width="2"/>`).join('');
@@ -463,6 +478,7 @@
         <div class="wbars">${hw.map(([l, v]) => `<div class="wbar"><em>${esc(l)}</em><span class="num">${fmt(v)}</span><span class="bb" aria-hidden="true"><i style="width:${(Math.max(0, v) / mxw * 100).toFixed(1)}%"></i></span></div>`).join('')}</div></aside></div>`;
   }
 
+  if (!FC) $$('[data-view=forecast]').forEach(a => { a.hidden = true; });
   window.addEventListener('hashchange', route);
   route();
 })();

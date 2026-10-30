@@ -1,0 +1,42 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 5,
+    "name": "Harry Kane",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "England"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   },
+   "playedMatches": 3,
+   "goals": 5,
+   "assists": 1,
+   "penalties": 0
+  },
+  {
+   "player": {
+    "id": 1,
+    "name": "Erling Haaland",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "Norway"
+   },
+   "team": {
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": 0,
+   "penalties": 0
+  }
+ ]
+}

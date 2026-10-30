@@ -1,0 +1,32 @@
+{
+ "standings": [
+  {
+   "stage": "REGULAR_SEASON",
+   "type": "TOTAL",
+   "table": [
+    {
+     "position": 1,
+     "team": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "shortName": "Real Madrid",
+      "tla": "RMA"
+     },
+     "playedGames": 10,
+     "points": 25
+    },
+    {
+     "position": 2,
+     "team": {
+      "id": 81,
+      "name": "FC Barcelona",
+      "shortName": "Barça",
+      "tla": "FCB"
+     },
+     "playedGames": 10,
+     "points": 22
+    }
+   ]
+  }
+ ]
+}

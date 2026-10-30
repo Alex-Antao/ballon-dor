@@ -1,0 +1,32 @@
+{
+ "standings": [
+  {
+   "stage": "REGULAR_SEASON",
+   "type": "TOTAL",
+   "table": [
+    {
+     "position": 1,
+     "team": {
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "shortName": "PSG",
+      "tla": "PSG"
+     },
+     "playedGames": 10,
+     "points": 25
+    },
+    {
+     "position": 2,
+     "team": {
+      "id": 548,
+      "name": "AS Monaco FC",
+      "shortName": "Monaco",
+      "tla": "ASM"
+     },
+     "playedGames": 10,
+     "points": 22
+    }
+   ]
+  }
+ ]
+}

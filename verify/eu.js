@@ -112,4 +112,4 @@ function euStage(season, y, club) {
   if (!found.length) return pages >= 2 ? { none: true, pages } : null;   // club absent from the editions checked
   return found[0];
 }
-module.exports = { euStage, roundSections };
+module.exports = { euStage, roundSections, editions };

@@ -1,0 +1,42 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 5,
+    "name": "Harry Kane",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "England"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   },
+   "playedMatches": 9,
+   "goals": 15,
+   "assists": 4,
+   "penalties": 0
+  },
+  {
+   "player": {
+    "id": 6,
+    "name": "Michael Olise",
+    "position": "Right Winger",
+    "section": "Offence",
+    "nationality": "France"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB"
+   },
+   "playedMatches": 9,
+   "goals": 5,
+   "assists": 6,
+   "penalties": 0
+  }
+ ]
+}

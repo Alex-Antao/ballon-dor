@@ -1,0 +1,32 @@
+{
+ "standings": [
+  {
+   "stage": "REGULAR_SEASON",
+   "type": "TOTAL",
+   "table": [
+    {
+     "position": 1,
+     "team": {
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "shortName": "Benfica",
+      "tla": "SLB"
+     },
+     "playedGames": 10,
+     "points": 25
+    },
+    {
+     "position": 2,
+     "team": {
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "shortName": "Sporting CP",
+      "tla": "SCP"
+     },
+     "playedGames": 10,
+     "points": 22
+    }
+   ]
+  }
+ ]
+}

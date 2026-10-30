@@ -1,0 +1,42 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 3,
+    "name": "Kylian Mbappé",
+    "position": "Centre-Forward",
+    "section": "Offence",
+    "nationality": "France"
+   },
+   "team": {
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA"
+   },
+   "playedMatches": 11,
+   "goals": 12,
+   "assists": 3,
+   "penalties": 0
+  },
+  {
+   "player": {
+    "id": 4,
+    "name": "Lamine Yamal Nasraoui Ebana",
+    "position": "Right Winger",
+    "section": "Offence",
+    "nationality": "Spain"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB"
+   },
+   "playedMatches": 11,
+   "goals": 6,
+   "assists": 7,
+   "penalties": 0
+  }
+ ]
+}
