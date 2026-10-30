@@ -1,0 +1,131 @@
+[
+ {
+  "date": "2026-10-30",
+  "pred": [
+   [
+    "Raphinha",
+    2.2062
+   ],
+   [
+    "Lamine Yamal",
+    2.1995
+   ],
+   [
+    "Erling Haaland",
+    2.1758
+   ],
+   [
+    "Kylian Mbappé",
+    2.1564
+   ],
+   [
+    "Michael Olise",
+    2.1416
+   ],
+   [
+    "Harry Kane",
+    2.137
+   ],
+   [
+    "Rodri",
+    2.1348
+   ],
+   [
+    "Donyell Malen",
+    2.0997
+   ],
+   [
+    "Florian Thauvin",
+    2.0915
+   ],
+   [
+    "Niclas Füllkrug",
+    2.0893
+   ]
+  ],
+  "fair": [
+   [
+    "Raphinha",
+    82.3211
+   ],
+   [
+    "Lamine Yamal",
+    76.993
+   ],
+   [
+    "Kylian Mbappé",
+    69.7713
+   ],
+   [
+    "Michael Olise",
+    68.7999
+   ],
+   [
+    "Erling Haaland",
+    66.2089
+   ],
+   [
+    "João Pedro",
+    60.0572
+   ],
+   [
+    "Niclas Füllkrug",
+    58.7503
+   ],
+   [
+    "Harry Kane",
+    57.5934
+   ],
+   [
+    "Florian Thauvin",
+    56.4628
+   ],
+   [
+    "Patrik Schick",
+    56.07
+   ]
+  ],
+  "mine": [
+   [
+    "Raphinha",
+    69.1031
+   ],
+   [
+    "Lamine Yamal",
+    64.6928
+   ],
+   [
+    "Michael Olise",
+    57.9452
+   ],
+   [
+    "Erling Haaland",
+    56.8831
+   ],
+   [
+    "Kylian Mbappé",
+    55.3674
+   ],
+   [
+    "Harry Kane",
+    49.1937
+   ],
+   [
+    "João Pedro",
+    46.1994
+   ],
+   [
+    "Niclas Füllkrug",
+    46.1478
+   ],
+   [
+    "Patrik Schick",
+    43.5946
+   ],
+   [
+    "Donyell Malen",
+    43.4923
+   ]
+  ]
+ }
+]

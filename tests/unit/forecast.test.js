@@ -21,7 +21,9 @@ const row = n => fc.rows.find(r => r.name === n);
 
 test('builds rows from scorer lists, standings and Champions League matches', () => {
   const kane = row('Harry Kane');
-  assert.deepEqual([kane.gp, kane.g, kane.a, kane.uG, kane.uA, kane.uT], [12, 20, 5, 5, 1, 'UCL']);
+  assert.deepEqual([kane.gpNow, kane.gNow, kane.aNow, kane.uG, kane.uA, kane.uT], [12, 20, 5, 5, 1, 'UCL']);
+  // Bundesliga numbers projected from 9 to 34 games; Champions League numbers left as they are
+  assert.deepEqual([kane.gp, kane.g, kane.a], [Math.round(9 * 34 / 9) + 3, Math.round(15 * 34 / 9) + 5, Math.round(4 * 34 / 9) + 1]);
   assert.equal(kane.title, 1, 'Bayern lead their league');
   assert.equal(kane.lgTop, 1, 'most Bundesliga goals so far');
   assert.equal(kane.uTop, 1, 'most Champions League goals so far');
@@ -35,7 +37,7 @@ test('aliases, positions and the hand-kept candidates', () => {
   assert.equal(row('Vitinha').conf, 'A', 'on a scorer list');
   const rodri = row('Rodri');
   assert.equal(rodri.conf, 'C', 'not on a scorer list: games estimated');
-  assert.equal(rodri.gp, Math.round(0.85 * 10) + Math.round(0.85 * 1));
+  assert.equal(rodri.gpNow, Math.round(0.85 * 10) + Math.round(0.85 * 1));
   assert.equal(rodri.cont, 9.5);
   assert.equal(row('Achraf Hakimi').club, 'PSG', 'club matched by name, not by a code inside another name');
 });

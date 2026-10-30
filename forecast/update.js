@@ -8,13 +8,17 @@
 const fs = require('fs');
 const path = require('path');
 const FD = require('./football-data.js');
-const { leagueStrength } = require('../data.js');
+const { YEARS, leagueStrength } = require('../data.js');
 const M = require('../models.js');
 
 const DIR = __dirname, OUT = process.env.FORECAST_OUT || DIR;
 const CAND = JSON.parse(fs.readFileSync(path.join(DIR, 'candidates.json'), 'utf8'));
 const SEASON = CAND.season, YEAR = CAND.year;
 const LEAGUES = { PL: 'EPL', PD: 'LL', BL1: 'BL', SA: 'SA', FL1: 'L1', DED: 'ERE', PPL: 'POR' };
+const ROUNDS = { EPL: 38, LL: 38, BL: 34, SA: 38, L1: 34, ERE: 34, POR: 34 };   // league games in a full season
+// last known position and non-attacking contribution of players already in the historical data
+const KNOWN = {};
+for (const y of Object.keys(YEARS).sort()) for (const r of YEARS[y].rows) KNOWN[r.name] = { pos: r.pos, cont: r.cont };
 const POOL = 30;   // attackers taken from the scorer lists, on top of candidates.json
 const TOURNAMENTS = ['ASIAN', 'AFCON', 'GOLD'];   // national-team finals inside the 2026/27 season
 const STAGE = { LAST_16: 1, QUARTER_FINALS: 2, SEMI_FINALS: 3, FINAL: 4 };
@@ -30,7 +34,7 @@ function posOf(p) {
   if (/defensive mid/i.test(s)) return 'DM';
   if (/attacking mid/i.test(s)) return 'AM';
   if (/wing/i.test(s)) return 'W';
-  if (/mid/i.test(s)) return 'CM';
+  if (/mid/i.test(s)) return 'AM';   // a midfielder on a scorer list; true holding players are in candidates.json
   return 'FW';
 }
 // a club named in candidates.json: exact three-letter code, or a name/short name that equals or contains the other (≥ 5 letters)
@@ -97,23 +101,27 @@ async function main() {
     if (!T) { warnings.push(`${name}: club "${m.team || (team && team.name)}" not found in the covered leagues`); continue; }
     const CLT = clTeams[team.id];
     const fromLists = !!P;
-    const league = P ? P.league : { gp: Math.round((m.share ?? 0.85) * T.played), g: 0, a: null };
+    const raw = P ? P.league : { gp: Math.round((m.share ?? 0.85) * T.played), g: 0, a: null };
+    // league numbers projected to a full season (the models were fitted on whole seasons); the CL is left as it is
+    const k = T.played ? ROUNDS[T.lg] / T.played : 1;
+    const league = { gp: Math.round(raw.gp * k), g: Math.round(raw.g * k), a: raw.a == null ? null : Math.round(raw.a * k) };
     const cl = P ? P.cl : { gp: CLT ? Math.round((m.share ?? 0.85) * CLT.played) : 0, g: 0, a: null };
     const r = {
-      name, club: team.shortName || team.name, lg, pos: m.pos || (P ? posOf(P.player) : 'CM'),
+      name, club: team.shortName || team.name, lg, pos: m.pos || (KNOWN[name] || {}).pos || (P ? posOf(P.player) : 'CM'),
       gp: league.gp + cl.gp, g: league.g + cl.g, a: (league.a || 0) + (cl.a || 0),
+      gpNow: raw.gp + cl.gp, gNow: raw.g + cl.g, aNow: (raw.a || 0) + (cl.a || 0),
       uT: CLT ? 'UCL' : '', uG: cl.g, uA: cl.a || 0, uS: CLT ? CLT.stage : 0,
       ntGP: 0, ntG: 0, ntA: 0, ntT: '', ntS: 0,
-      title: T.position === 1 ? 1 : 0, cup: 0, lgTop: P && league.g > 0 && league.g === leaders[lg] ? 1 : 0, gs: 0,
+      title: T.position === 1 ? 1 : 0, cup: 0, lgTop: P && raw.g > 0 && raw.g === leaders[lg] ? 1 : 0, gs: 0,
       uTop: P && cl.g > 0 && cl.g === clTop ? 1 : 0, ntTop: 0, ntBest: 0,
       cont: null, rank: null, elig: 1, win: 'P',
       conf: fromLists ? 'A' : 'C', aConf: fromLists && league.a != null ? 'A' : 'C', awConf: NO_WIKI ? 'B' : 'A',
       sources: [...sources], note: '', fdId: P ? P.player.id : null, y: YEAR,
     };
-    if (!['FW', 'W', 'AM'].includes(r.pos)) r.cont = m.cont ?? 7;
-    const notes = [`As of ${asOf}: ${T.played} league games played by ${r.club}, ${ordinal(T.position)} in the league`];
+    if (!['FW', 'W', 'AM'].includes(r.pos)) r.cont = m.cont ?? (KNOWN[name] || {}).cont ?? 5;
+    const notes = [`As of ${asOf}: ${T.played} of ${ROUNDS[T.lg]} league games played by ${r.club}, ${ordinal(T.position)} in the league; league numbers projected to the full season (${raw.gp} games, ${raw.g} goals so far)`];
     if (!fromLists) notes.push(`not on a scorer list: games estimated as ${Math.round((m.share ?? 0.85) * 100)}% of the club's`);
-    if (!['FW', 'W', 'AM'].includes(r.pos) && m.cont == null) notes.push('cont 7 by default');
+    if (!['FW', 'W', 'AM'].includes(r.pos) && m.cont == null && (KNOWN[name] || {}).cont == null) notes.push('cont 5 by default (not rated)');
     if (W) wiki(W, r, team, notes, warnings);
     r.note = notes.join('; ') + '.';
     rows.push(r);

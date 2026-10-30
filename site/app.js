@@ -148,8 +148,8 @@
     const Y = YEARS[y], rows = rowsOf(y), t = targetOf(y);
     let items;
     if (a.k === 'real' && Y.forecast) {
-      const ga = r => r.g + r.a;
-      items = rows.slice().sort((p, q) => ga(q) - ga(p) || q.g - p.g).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${r.g}+${r.a}` }));
+      const g = r => r.gNow ?? r.g, a = r => r.aNow ?? r.a;
+      items = rows.slice().sort((p, q) => g(q) + a(q) - g(p) - a(p) || g(q) - g(p)).map((r, i) => ({ r, pos: i + 1, score: null, ga: `${g(r)}+${a(r)}` }));
     } else if (a.k === 'real') {
       const ranked = rows.filter(r => r.rank).sort((p, q) => p.rank - q.rank).map(r => ({ r, pos: r.rank, score: null }));
       const rest = rows.filter(r => !r.rank).sort((p, q) => (q.name === t) - (p.name === t)).map(r => ({ r, pos: '–', score: null, faded: r.name !== t, retro: r.name === t }));
@@ -336,7 +336,7 @@
         <button type="button" class="close" aria-label="Close">${ICON.close}</button></div>
       <p class="meta">${esc(r.club)} · ${POS[r.pos]} · league ${r.lg} (strength ${fmt(leagueStrength(r.lg, y))} this decade) · ${r.title ? 'league champion' : 'not league champion'}${r.elig === 0 ? ` · ineligible under the ${y} rules` : ''} · window: ${WIN[r.win]}</p>
       <div class="facts">
-        <div class="fact"><span class="kicker">League + Europe</span><b>${r.gp} gp · ${r.g} g · ${r.a} a</b></div>
+        <div class="fact"><span class="kicker">League + Europe</span><b>${r.gp} gp · ${r.g} g · ${r.a} a</b>${r.gNow != null ? `<small>projected to the full season; so far ${r.gpNow} gp · ${r.gNow} g · ${r.aNow} a</small>` : ''}</div>
         <div class="fact"><span class="kicker">Europe</span><b>${r.uG} g · ${r.uA} a</b><small>${esc(STAGE[r.uS])} · ${esc(eu)}</small></div>
         <div class="fact"><span class="kicker">National team</span><b>${nt}</b><small>${esc(ntSub)}</small></div>
         ${r.cont != null ? `<div class="fact"><span class="kicker">Non-attacking*</span><b>${r.cont}/10</b><small>subjective estimate</small></div>` : ''}
