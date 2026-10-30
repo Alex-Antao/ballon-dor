@@ -3,128 +3,128 @@
   "date": "2026-10-30",
   "pred": [
    [
-    "Raphinha",
-    2.2062
-   ],
-   [
     "Lamine Yamal",
-    2.1995
+    0.9524
    ],
    [
     "Erling Haaland",
-    2.1758
-   ],
-   [
-    "Kylian Mbappé",
-    2.1564
-   ],
-   [
-    "Michael Olise",
-    2.1416
+    0.9391
    ],
    [
     "Harry Kane",
-    2.137
+    0.9363
    ],
    [
-    "Rodri",
-    2.1348
+    "Raphinha",
+    0.9325
+   ],
+   [
+    "Kylian Mbappé",
+    0.9076
+   ],
+   [
+    "Michael Olise",
+    0.9014
    ],
    [
     "Donyell Malen",
-    2.0997
+    0.8785
    ],
    [
-    "Florian Thauvin",
-    2.0915
+    "Fermín López",
+    0.8745
    ],
    [
-    "Niclas Füllkrug",
-    2.0893
+    "Nico Paz",
+    0.8668
+   ],
+   [
+    "Luis Suárez",
+    0.8653
    ]
   ],
   "fair": [
    [
     "Raphinha",
-    82.3211
+    75.7771
    ],
    [
     "Lamine Yamal",
-    76.993
+    72.7491
    ],
    [
     "Kylian Mbappé",
-    69.7713
+    67.4929
    ],
    [
     "Michael Olise",
-    68.7999
+    64.202
    ],
    [
     "Erling Haaland",
-    66.2089
-   ],
-   [
-    "João Pedro",
-    60.0572
-   ],
-   [
-    "Niclas Füllkrug",
-    58.7503
+    64.1614
    ],
    [
     "Harry Kane",
-    57.5934
+    62.0408
    ],
    [
-    "Florian Thauvin",
-    56.4628
+    "Niclas Füllkrug",
+    58.4878
    ],
    [
-    "Patrik Schick",
-    56.07
+    "Pascal Groß",
+    58.4322
+   ],
+   [
+    "Alexander Isak",
+    56.4567
+   ],
+   [
+    "Yassir Zabiri",
+    56.3019
    ]
   ],
   "mine": [
    [
     "Raphinha",
-    69.1031
+    63.7883
    ],
    [
     "Lamine Yamal",
-    64.6928
-   ],
-   [
-    "Michael Olise",
-    57.9452
+    61.3311
    ],
    [
     "Erling Haaland",
-    56.8831
+    55.0872
+   ],
+   [
+    "Michael Olise",
+    54.1577
    ],
    [
     "Kylian Mbappé",
-    55.3674
+    53.5851
    ],
    [
     "Harry Kane",
-    49.1937
+    52.9636
    ],
    [
-    "João Pedro",
-    46.1994
+    "Fermín López",
+    48.1315
    ],
    [
     "Niclas Füllkrug",
-    46.1478
+    45.564
    ],
    [
-    "Patrik Schick",
-    43.5946
+    "Pascal Groß",
+    45.4323
    ],
    [
-    "Donyell Malen",
-    43.4923
+    "Yassir Zabiri",
+    43.9921
    ]
   ]
  }
