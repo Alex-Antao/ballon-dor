@@ -315,5 +315,19 @@ if '--cont' in sys.argv:
     out['contStudy'] = {'rule': CONT_RULE, 'variants': cs, 'adopted': ok[0]['key'] if ok else 'V0'}
     print(f"  → adopted: {out['contStudy']['adopted']}")
 
+# 8) the UEFA Nations League Finals (final four in June 2019, Oct 2021, June 2023, June 2025, June 2027). Rule written
+#    down BEFORE collecting the data and before the first run (30/10/2026):
+#    - the Finals enter the data in any case (nlGP/nlG/nlA/nlS; stage 3 semi-final, 4 lost final, 5 winner);
+#    - one variant only, N1: the Finals count as a national-team tournament with a FIXED weight of 0.4 (set beforehand,
+#      not fitted: two games among four teams, like the Conference League's 0.4): national-team stage = max(major
+#      tournament stage, 0.4 × Finals stage), national-team champion = max(…, 0.4 for the Finals winner), and the
+#      Finals goals/assists × 0.4 in the output. The World Cup and national-team final criteria stay major-only;
+#    - N1 is compared with N0 (the Finals ignored) using the official procedure. Years before 2019 cannot change (no
+#      Finals in the data or in their training years), so the decision is on 2010–2026: adopt N1 only if its hits are
+#      >= N0's AND the real winner's mean rank in 2019–2026 is not worse than N0's;
+#    - if adopted, Fair and Custom also count the Finals output and stage with the same 0.4; if not, the models ignore
+#      the Finals and the data keeps them.
+#    With four Finals and no fitted weight, the study can only show whether counting them hurts or helps a little.
+
 json.dump(out, open(OUTF, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 print(f'\n({time.time() - t0:.0f}s)')
