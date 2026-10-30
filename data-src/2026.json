@@ -20,6 +20,8 @@
     "uG": 14,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.06,
+    "uOppN": 14,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 1,
@@ -46,9 +48,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals)."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 7, uA 2, ntA 1."
    },
    {
     "name": "Kylian Mbappé",
@@ -62,6 +65,8 @@
     "uG": 15,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.88,
+    "uOppN": 15,
     "ntGP": 8,
     "ntG": 10,
     "ntA": 4,
@@ -88,9 +93,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals)."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals). Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 6, uA 1, ntA 4."
    },
    {
     "name": "Lamine Yamal",
@@ -104,6 +110,8 @@
     "uG": 6,
     "uA": 4,
     "uS": 2,
+    "uOpp": 0.87,
+    "uOppN": 6,
     "ntGP": 8,
     "ntG": 1,
     "ntA": 0,
@@ -130,9 +138,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals)."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Quarter-finals). Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 15, uA 4, ntA 0."
    },
    {
     "name": "Rodri",
@@ -141,7 +150,7 @@
     "pos": "DM",
     "gp": 26,
     "g": 1,
-    "a": 4,
+    "a": 0,
     "uT": "UCL",
     "uG": 0,
     "uA": 0,
@@ -163,7 +172,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Rodri",
@@ -172,9 +181,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: gp 38→26, g 2→1, uS 2→1."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: gp 38→26, g 2→1, uS 2→1. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 4, uA 0, ntA 1."
    },
    {
     "name": "Lionel Messi",
@@ -218,16 +228,18 @@
    },
    {
     "name": "Khvicha Kvaratskhelia",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "W",
     "gp": 44,
     "g": 18,
-    "a": 9,
+    "a": 10,
     "uT": "UCL",
     "uG": 10,
     "uA": 6,
     "uS": 5,
+    "uOpp": 1.22,
+    "uOppN": 10,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -245,7 +257,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "A",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia",
@@ -253,22 +265,25 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 47→44, g 21→18."
+    "note": "Second pass: league + Europe from the career table (season); title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 47→44, g 21→18. Assists from the Football API (season 2025–26); before: a 9, uA 6, ntA 0."
    },
    {
     "name": "Ousmane Dembélé",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "W",
     "gp": 35,
     "g": 18,
-    "a": 11,
+    "a": 9,
     "uT": "UCL",
     "uG": 8,
-    "uA": 4,
+    "uA": 2,
     "uS": 5,
+    "uOpp": 1.37,
+    "uOppN": 7,
     "ntGP": 8,
     "ntG": 6,
     "ntA": 2,
@@ -286,7 +301,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
@@ -295,9 +310,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: g 19→18, uG 7→8, ntGP 7→8."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: g 19→18, uG 7→8, ntGP 7→8. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 11, uA 4, ntA 2."
    },
    {
     "name": "Erling Haaland",
@@ -306,11 +322,13 @@
     "pos": "FW",
     "gp": 45,
     "g": 35,
-    "a": 6,
+    "a": 8,
     "uT": "UCL",
     "uG": 8,
-    "uA": 1,
+    "uA": 0,
     "uS": 1,
+    "uOpp": 1.09,
+    "uOppN": 8,
     "ntGP": 5,
     "ntG": 7,
     "ntA": 0,
@@ -328,7 +346,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Erling_Haaland",
@@ -337,9 +355,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: g 33→35, uG 7→8, ntGP 6→5."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Round of 16). Changed: g 33→35, uG 7→8, ntGP 6→5. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 6, uA 1, ntA 0."
    },
    {
     "name": "Luis Díaz",
@@ -351,8 +370,10 @@
     "a": 17,
     "uT": "UCL",
     "uG": 7,
-    "uA": 4,
+    "uA": 3,
     "uS": 3,
+    "uOpp": 1.31,
+    "uOppN": 7,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 1,
@@ -370,7 +391,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Luis_D%C3%ADaz_(footballer,_born_1997)",
@@ -379,9 +400,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 42→44, g 23→22, uG 8→7, ntGP 4→5."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 42→44, g 23→22, uG 8→7, ntGP 4→5. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 17, uA 4, ntA 1."
    },
    {
     "name": "Michael Olise",
@@ -390,11 +412,13 @@
     "pos": "W",
     "gp": 45,
     "g": 20,
-    "a": 26,
+    "a": 25,
     "uT": "UCL",
     "uG": 5,
-    "uA": 8,
+    "uA": 6,
     "uS": 3,
+    "uOpp": 1.1,
+    "uOppN": 5,
     "ntGP": 8,
     "ntG": 0,
     "ntA": 7,
@@ -412,7 +436,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Michael_Olise",
@@ -421,22 +445,25 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 44→45, g 15→20, ntGP 7→8, ntG 2→0."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Semi-finals). Changed: gp 44→45, g 15→20, ntGP 7→8, ntG 2→0. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 26, uA 8, ntA 7."
    },
    {
     "name": "Fabián Ruiz",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "CM",
     "gp": 29,
     "g": 2,
-    "a": 7,
+    "a": 5,
     "uT": "UCL",
     "uG": 1,
-    "uA": 3,
+    "uA": 1,
     "uS": 5,
+    "uOpp": 1.04,
+    "uOppN": 1,
     "ntGP": 8,
     "ntG": 1,
     "ntA": 1,
@@ -454,7 +481,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Ruiz",
@@ -463,22 +490,25 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→29, g 8→2, uG 3→1, ntGP 7→8."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→29, g 8→2, uG 3→1, ntGP 7→8. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 7, uA 3, ntA 1."
    },
    {
     "name": "Vitinha",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "CM",
     "gp": 46,
     "g": 7,
-    "a": 10,
+    "a": 8,
     "uT": "UCL",
     "uG": 6,
-    "uA": 4,
+    "uA": 1,
     "uS": 5,
+    "uOpp": 1.04,
+    "uOppN": 6,
     "ntGP": 5,
     "ntG": 0,
     "ntA": 1,
@@ -496,7 +526,7 @@
     "elig": 1,
     "win": "P",
     "conf": "A",
-    "aConf": "C",
+    "aConf": "B",
     "awConf": "A",
     "sources": [
      "https://en.wikipedia.org/wiki/Vitinha",
@@ -505,9 +535,10 @@
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://football-api.yuvron.online"
     ],
-    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→46, uG 2→6, ntGP 4→5."
+    "note": "Second pass: league + Europe from the career table (season); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2025–26 UEFA Champions League: Final); UCL 2025/26 won by PSG (edition page). Changed: gp 45→46, uG 2→6, ntGP 4→5. Assists from the Football API (season 2025–26, WC kept: not recorded there); before: a 10, uA 4, ntA 1."
    }
   ]
  }

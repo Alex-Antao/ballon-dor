@@ -20,6 +20,8 @@
     "uG": 6,
     "uA": 4,
     "uS": 5,
+    "uOpp": 1.25,
+    "uOppN": 5,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 3,
@@ -51,7 +53,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "League 2015 verified (Goal.com): 33 gp, 34 g, 15 a. UCL 5 goals verified (Ronaldo 16–5 Messi); games/assists. UCL counted from memory (7 KO 14/15 + 3 groups 15/16). Copa América: 3 assists in the semi-final vs Paraguay (data.js had 1). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final). Changed: gp 43→47, g 39→40, uG 5→6."
    },
@@ -67,6 +70,8 @@
     "uG": 16,
     "uA": 3,
     "uS": 3,
+    "uOpp": 0.94,
+    "uOppN": 16,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -97,7 +102,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "Goals verified (Goal.com): 37 in the Liga and 16 in the UCL in 2015 (11 of them in the 2015/16 group stage, a record). Games and assists estimated (Goal.com: 17 assists in all competitions). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals). Changed: gp 48→49."
    },
@@ -113,6 +119,8 @@
     "uG": 9,
     "uA": 4,
     "uS": 5,
+    "uOpp": 1.24,
+    "uOppN": 8,
     "ntGP": 2,
     "ntG": 1,
     "ntA": 1,
@@ -143,7 +151,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "Goal.com: 41 goals and 16 assists in 53 games in 2015 (all competitions); league/UCL split estimated. Copa 2015: sent off vs Colombia and suspended; Brazil went out in the quarter-finals (penalties). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final). Changed: g 32→34, uG 8→9."
    },
@@ -159,6 +168,8 @@
     "uG": 10,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.02,
+    "uOppN": 11,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -187,7 +198,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "Includes the 5 goals in 9 minutes vs Wolfsburg (Sep 2015) and the hat-trick vs Dinamo Zagreb. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona). Changed: gp 43→44, g 34→35."
    },
@@ -203,6 +215,8 @@
     "uG": 10,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.02,
+    "uOppN": 9,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -231,7 +245,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "Did NOT play the 2015 Copa América (ban for the bite at the 2014 World Cup) — data.js had 4 games. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final); suspended, did not play the 2015 Copa América. Changed: gp 44→41, g 38→40, uG 9→10, ntT COPA→."
    },
@@ -247,6 +262,8 @@
     "uG": 9,
     "uA": 3,
     "uS": 3,
+    "uOpp": 1.24,
+    "uOppN": 9,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -275,7 +292,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Bundesliga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Semi-finals); UCL 2014/15: Bayern knocked out in the semi-finals (Barcelona). Changed: g 28→29."
    },
@@ -335,6 +353,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.17,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -363,7 +383,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "English champion 2014/15 (PFA); No goals in the second half of 2015. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Round of 16). Changed: uG 0→1."
    },
@@ -379,6 +400,8 @@
     "uG": 0,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.13,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -407,7 +430,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_La_Liga",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "Injured Sep–Oct 2015. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Final)."
    },
@@ -423,6 +447,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.79,
+    "uOppN": 3,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 2,
@@ -452,7 +478,8 @@
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/2014%E2%80%9315_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League"
     ],
     "note": "2015 Copa América champion (scored the decisive penalty in the final). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2014–15 UEFA Champions League: Round of 16); UCL 2014/15: Arsenal knocked out in the round of 16 (Monaco). Changed: gp 37→40, g 12→15, uG 1→3."
    }
@@ -479,6 +506,8 @@
     "uG": 7,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.9,
+    "uOppN": 7,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 3,
@@ -508,7 +537,8 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
     "note": "Club World Cup (Dec 2016, 4 goals) does not count. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); won the UCL 2015/16 (edition page). Changed: gp 46→44."
    },
@@ -524,6 +554,8 @@
     "uG": 13,
     "uA": 4,
     "uS": 2,
+    "uOpp": 1.11,
+    "uOppN": 13,
     "ntGP": 5,
     "ntG": 5,
     "ntA": 4,
@@ -553,7 +585,8 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/Copa_Am%C3%A9rica_Centenario",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
     "note": "Copa Centenario: 5 games (missed the 1st), 5 goals, 4 assists; final lost on penalties. data.js had 6 games. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Quarter-finals). Changed: gp 43→42."
    },
@@ -569,6 +602,8 @@
     "uG": 7,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.16,
+    "uOppN": 6,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 2,
@@ -598,7 +633,8 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
     "note": "Euro 2016: top scorer and best player; UCL final lost. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); UCL 2015/16 finalist (champion Real Madrid; semi-final Bayern–Atlético). Changed: g 28→25."
    },
@@ -614,6 +650,8 @@
     "uG": 5,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.2,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -642,7 +680,8 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
     "note": "Injured in the Copa del Rey final; Did NOT play the Copa Centenario (data.js had 3 games). Pichichi and Golden Shoe 2015/16 (40 league goals). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Quarter-finals); injured, did not play the Copa América Centenario. Changed: g 41→42, uG 6→5, ntT COPA→."
    },
@@ -658,6 +697,8 @@
     "uG": 3,
     "uA": 4,
     "uS": 2,
+    "uOpp": 1.18,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -686,7 +727,8 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_La_Liga",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
     "note": "Did not play the Copa Centenario (went to the Olympic Games, which do not count). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Quarter-finals). Changed: gp 43→41, g 18→17."
    },
@@ -702,6 +744,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.7,
+    "uOppN": 2,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 0,
@@ -731,7 +775,8 @@
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2016",
      "https://en.wikipedia.org/wiki/2015%E2%80%9316_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League"
     ],
     "note": "Injuries (calf Jan–Mar; ankle Nov 2016). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2015–16 UEFA Champions League: Final); won the UCL 2015/16 (edition page). Changed: gp 33→28, g 17→18, uG 1→2."
    },
@@ -747,6 +792,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.81,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -939,6 +986,8 @@
     "uG": 19,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.32,
+    "uOppN": 17,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -968,7 +1017,8 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Only 4 Liga goals Aug–Dec 2017 but 9 in the group stage (scored in every game); 10 goals in the 2016/17 knockout phase. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final)."
    },
@@ -984,6 +1034,8 @@
     "uG": 4,
     "uA": 3,
     "uS": 2,
+    "uOpp": 1.39,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1013,13 +1065,14 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Quarter-finals). Changed: gp 47→45, g 43→44."
    },
    {
     "name": "Neymar",
-    "club": "Barcelona / PSG",
+    "club": "Barcelona / Paris Saint-Germain",
     "lg": "LL",
     "pos": "W",
     "gp": 36,
@@ -1029,6 +1082,8 @@
     "uG": 8,
     "uA": 5,
     "uS": 2,
+    "uOpp": 1.12,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1058,7 +1113,8 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Record transfer to PSG in Aug 2017; uS = 2016/17 edition with Barcelona (quarter-finals). LL/L1 games split close; lg = LL. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Quarter-finals). Changed: gp 38→36, g 27→28."
    },
@@ -1119,6 +1175,8 @@
     "uG": 1,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.67,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1148,7 +1206,8 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final). Changed: gp 41→37, uG 0→1."
    },
@@ -1164,6 +1223,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 5,
+    "uOpp": 0.96,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1193,13 +1254,14 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "cont estimated. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Final). Changed: gp 40→39, g 6→5, uG 1→2."
    },
    {
     "name": "Kylian Mbappé",
-    "club": "Monaco / PSG",
+    "club": "Monaco / Paris Saint-Germain",
     "lg": "L1",
     "pos": "FW",
     "gp": 38,
@@ -1209,6 +1271,8 @@
     "uG": 10,
     "uA": 5,
     "uS": 3,
+    "uOpp": 1.25,
+    "uOppN": 10,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1239,7 +1303,8 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Ligue_1",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Almost all of the 2016/17 goals were Jan to May; the 6 UCL 2016/17 goals are all from the knockout phase. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Semi-finals). Changed: gp 40→38, g 28→30."
    },
@@ -1300,6 +1365,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.32,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1329,7 +1396,8 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Bundesliga",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Missed the first leg of the quarter-final vs Real Madrid (injury). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Champions League: Quarter-finals). Changed: g 38→39."
    },
@@ -1345,6 +1413,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1.07,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1374,7 +1444,8 @@
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Europa_League",
      "https://en.wikipedia.org/wiki/2016%E2%80%9317_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League"
     ],
     "note": "Record 39 Premier League goals in a calendar year (2017) and 56 goals in all competitions — well-known numbers, but not verified on the web in this session. gp includes 2 Europa League games (round of 32 vs Gent, Feb 2017); uS = 0. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2016–17 UEFA Europa League: Round of 32). Changed: gp 44→42, g 46→45, uG 7→6, uT UCL→UEL."
    }
@@ -1401,6 +1472,8 @@
     "uG": 0,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.25,
+    "uOppN": 0,
     "ntGP": 7,
     "ntG": 2,
     "ntA": 1,
@@ -1430,7 +1503,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "Golden Ball of the 2018 World Cup. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final)."
    },
@@ -1446,6 +1520,8 @@
     "uG": 6,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.44,
+    "uOppN": 5,
     "ntGP": 4,
     "ntG": 4,
     "ntA": 0,
@@ -1476,7 +1552,8 @@
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_Serie_A",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "Transfer to Juventus in Jul 2018; lg = SA (more league games in the window, narrowly). UCL top scorer 2017/18 (15). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final). Changed: gp 43→44, g 43→41, uG 7→6."
    },
@@ -1492,6 +1569,8 @@
     "uG": 10,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.92,
+    "uOppN": 8,
     "ntGP": 7,
     "ntG": 4,
     "ntA": 2,
@@ -1521,13 +1600,14 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Europa_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "uT = UEL 2017/18 (won; 2 goals in the final). uG/uA also include the UCL 2018/19 group stage. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Europa League: Final). Changed: gp 47→49, g 30→31."
    },
    {
     "name": "Kylian Mbappé",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "FW",
     "gp": 35,
@@ -1537,6 +1617,8 @@
     "uG": 3,
     "uA": 3,
     "uS": 1,
+    "uOpp": 0.67,
+    "uOppN": 3,
     "ntGP": 7,
     "ntG": 4,
     "ntA": 0,
@@ -1567,7 +1649,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "World Cup: 4 goals; recorded assists = 0 from my memory (data.js had 1) — to confirm. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Round of 16). Changed: gp 34→35, g 22→21."
    },
@@ -1583,6 +1666,8 @@
     "uG": 9,
     "uA": 3,
     "uS": 2,
+    "uOpp": 1.07,
+    "uOppN": 9,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 2,
@@ -1612,7 +1697,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "Broken arm in Oct 2018 (3 weeks out). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Quarter-finals). Changed: gp 41→44."
    },
@@ -1628,6 +1714,8 @@
     "uG": 8,
     "uA": 3,
     "uS": 4,
+    "uOpp": 1,
+    "uOppN": 8,
     "ntGP": 2,
     "ntG": 2,
     "ntA": 0,
@@ -1657,7 +1745,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "Record 32 goals in the 2017/18 PL (38 games); shoulder injury in the UCL final. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Final). Changed: gp 48→49."
    },
@@ -1718,6 +1807,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.82,
+    "uOppN": 0,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 2,
@@ -1747,7 +1838,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Europa_League"
     ],
     "note": "Silver Ball at the World Cup. gp includes Europa League 2018/19 group-stage games. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Round of 16). Changed: g 14→17."
    },
@@ -1763,6 +1855,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.99,
+    "uOppN": 0,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 1,
@@ -1792,7 +1886,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "Knee injuries (Aug and Nov 2018) cut much of the second half of the year. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Quarter-finals). Changed: gp 27→32."
    },
@@ -1808,6 +1903,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.13,
+    "uOppN": 5,
     "ntGP": 6,
     "ntG": 6,
     "ntA": 0,
@@ -1837,7 +1934,8 @@
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2017%E2%80%9318_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League"
     ],
     "note": "Golden Boot at the 2018 World Cup. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2017–18 UEFA Champions League: Round of 16). Changed: gp 44→38, g 29→30, uG 4→5."
    }
@@ -1864,6 +1962,8 @@
     "uG": 8,
     "uA": 4,
     "uS": 3,
+    "uOpp": 1.1,
+    "uOppN": 8,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 1,
@@ -1893,7 +1993,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Calf injury Aug–Sep 2019. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Semi-finals). Changed: gp 43→45, g 41→42."
    },
@@ -1909,6 +2010,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 5,
+    "uOpp": 1.45,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1941,7 +2044,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals"
+     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 50→49, g 6→8, uG 1→2."
    },
@@ -1957,6 +2061,8 @@
     "uG": 8,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.32,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1989,7 +2095,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals"
+     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Hat-trick vs Atlético (round of 16 2018/19). Nations League (Jun 2019) excluded. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: gp 37→40, g 23→26, uG 7→8."
    },
@@ -2005,6 +2112,8 @@
     "uG": 5,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.26,
+    "uOppN": 5,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 0,
@@ -2034,7 +2143,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Shared PL Golden Boot 2018/19 (22). AFCON: suspended for the 1st game. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 49→48, g 30→29, uG 6→5."
    },
@@ -2050,6 +2160,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.04,
+    "uOppN": 5,
     "ntGP": 4,
     "ntG": 2,
     "ntA": 1,
@@ -2079,13 +2191,14 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Penalty goal in the UCL 2019 final. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Final). Changed: gp 48→47, g 25→24."
    },
    {
     "name": "Kylian Mbappé",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "FW",
     "gp": 33,
@@ -2095,6 +2208,8 @@
     "uG": 6,
     "uA": 3,
     "uS": 1,
+    "uOpp": 1.07,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2123,7 +2238,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Top scorer of the 2018/19 Ligue 1 (33); injury Aug–Sep 2019. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Round of 16). Changed: gp 31→33, g 34→37."
    },
@@ -2184,6 +2300,8 @@
     "uG": 10,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.84,
+    "uOppN": 10,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2212,7 +2330,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_Bundesliga",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "19 goals in the first half of the 2019/20 Bundesliga; 4 goals in one game vs Red Star. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Round of 16). Changed: gp 41→39, g 39→41."
    },
@@ -2228,6 +2347,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.11,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2260,7 +2381,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals"
+     "https://en.wikipedia.org/wiki/2019_UEFA_Nations_League_Finals",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "Plays winger/midfielder; classified AM (cont null). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: gp 42→43, g 8→9."
    },
@@ -2276,6 +2398,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.29,
+    "uOppN": 1,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 1,
@@ -2305,7 +2429,8 @@
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019_Africa_Cup_of_Nations",
      "https://en.wikipedia.org/wiki/2018%E2%80%9319_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League"
     ],
     "note": "African champion 2019 (decisive free kick in the semi-final vs Nigeria). title = 1 (27 games out of 38). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2018–19 UEFA Champions League: Quarter-finals). Changed: uG 2→1."
    }
@@ -2332,6 +2457,8 @@
     "uG": 8,
     "uA": 4,
     "uS": 5,
+    "uOpp": 1.26,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2358,7 +2485,8 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Bundesliga",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "Treble with Bayern; UCL top scorer 2019/20 (15). FIFA The Best 2020. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final)."
    },
@@ -2374,6 +2502,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.11,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2400,7 +2530,8 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_La_Liga",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "2-8 vs Bayern in the quarter-finals. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Quarter-finals). Changed: gp 40→38, g 22→23, uG 3→4."
    },
@@ -2416,6 +2547,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.19,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2442,7 +2575,8 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Serie_A",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "Missed games in Oct–Nov 2020 (COVID). Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Round of 16). Changed: g 38→39, uG 5→6."
    },
@@ -2458,6 +2592,8 @@
     "uG": 2,
     "uA": 3,
     "uS": 2,
+    "uOpp": 1.44,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2484,13 +2620,14 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "Equalled the record of 20 assists in the 2019/20 PL. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Quarter-finals). Changed: gp 37→32, uG 3→2."
    },
    {
     "name": "Neymar",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "W",
     "gp": 19,
@@ -2500,6 +2637,8 @@
     "uG": 8,
     "uA": 4,
     "uS": 4,
+    "uOpp": 1.09,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2526,7 +2665,8 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Ligue_1",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "Ligue 1 2019/20 ended in Mar (PSG champions on points per game; Neymar 15 of 27 games). UCL final lost. Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final). Changed: gp 23→19, g 18→16."
    },
@@ -2542,6 +2682,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.66,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2568,13 +2710,14 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Round of 16). Changed: gp 39→41, g 24→26, uG 2→3."
    },
    {
     "name": "Kylian Mbappé",
-    "club": "PSG",
+    "club": "Paris Saint-Germain",
     "lg": "L1",
     "pos": "FW",
     "gp": 28,
@@ -2584,6 +2727,8 @@
     "uG": 2,
     "uA": 3,
     "uS": 4,
+    "uOpp": 0.68,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2610,7 +2755,8 @@
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Ligue_1",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2019%E2%80%9320_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League"
     ],
     "note": "Calendar-year split estimated from memory (no web access to match-by-match records in this session). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2019–20 UEFA Champions League: Final). Changed: gp 32→28, g 25→21, uG 4→2."
    },

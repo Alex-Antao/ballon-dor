@@ -21,11 +21,14 @@
   function parts(r, o) {
     const aw = o.assistW, lm = leagueStrength(r.lg, r.y), nm = NTMULT[r.ntT] || 1, cw = cupW(r);
     const club = (r.g + aw * r.a) * lm;
-    const eu = o.euBonus * cw * (r.uG + aw * r.uA) * lm;  // extra credit for continental-cup opposition
+    // Continental output counts by the competition's weight (at the player's league strength) or, with o.oppW, by the
+    // strength of the opponents the player scored against (uOpp, verify/opponents.js); oppW blends the two.
+    const ow = o.oppW && r.uOpp != null ? o.oppW : 0, opp = ow ? r.uOpp : 0;
+    const eu = o.euBonus * ((1 - ow) * cw * lm + ow * opp) * (r.uG + aw * r.uA);  // extra credit for continental-cup opposition
     const nlW = o.nlW ?? NL_W, nl = nlW * (r.nlG || 0);
     const nt = ((r.ntG + aw * r.ntA) * nm + nl) * (o.ntBoost || 1);
     return { club, eu, nt, total: club + eu + nt, games: r.gp + r.ntGP + (nlW ? r.nlGP || 0 : 0),
-             uProd: cw * (r.uG + aw * r.uA), nProd: r.ntG + aw * r.ntA + nl };
+             uProd: ((1 - ow) * cw + ow * opp) * (r.uG + aw * r.uA), nProd: r.ntG + aw * r.ntA + nl };
   }
 
   // Individual score 0–100 adjusted for position, league strength and games played (Bayesian shrinkage)
@@ -49,7 +52,7 @@
   }
 
   // ---------- Algorithm 2: "Fair" (individual performance only) ----------
-  const FAIR_DEFAULT = { assistW: 0.75, euBonus: 0.15, ntBoost: 1, shrinkK: 10, rateShare: 0.55, wCont: 0.22, wContGK: 0.45 };
+  const FAIR_DEFAULT = { assistW: 0.75, euBonus: 0.15, oppW: 1, ntBoost: 1, shrinkK: 10, rateShare: 0.55, wCont: 0.22, wContGK: 0.45 };
   function fair(r, o) {
     o = Object.assign({}, FAIR_DEFAULT, o);
     const s = individual(r, o);
@@ -59,7 +62,7 @@
 
   // ---------- Algorithm 3: "Mine" ----------
   // Individual (≈80%) + team credit PROPORTIONAL to the player's own contribution (≈20%)
-  const MINE_DEFAULT = { assistW: 0.70, euBonus: 0.30, ntBoost: 1.10, shrinkK: 12, rateShare: 0.50, wCont: 0.22, wContGK: 0.40, wTeam: 0.20 };
+  const MINE_DEFAULT = { assistW: 0.70, euBonus: 0.30, oppW: 1, ntBoost: 1.10, shrinkK: 12, rateShare: 0.50, wCont: 0.22, wContGK: 0.40, wTeam: 0.20 };
   function mine(r, o) {
     o = Object.assign({}, MINE_DEFAULT, o);
     const s = individual(r, o);

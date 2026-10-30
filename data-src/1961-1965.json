@@ -20,6 +20,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.58,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -48,7 +50,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Serie_A",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "46 pts. Juve champions 1960/61; knocked out of the 1960/61 European Cup in autumn 1960 (outside the window); uG = Oct./Nov. games. 1961 of the 1961/62 edition. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Preliminary round). Changed: gp 33→32, g 24→30, uG 2→1, uS 1→0."
       },
@@ -64,6 +67,8 @@
         "uG": 2,
         "uA": 2,
         "uS": 4,
+        "uOpp": 0.95,
+        "uOppN": 4,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -90,7 +95,9 @@
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Inter-Cities_Fairs_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Inter-Cities_Fairs_Cup"
         ],
         "note": "40 pts. Barcelona until Jun. 1961 (European Cup final lost with Benfica on 31/5/1961), Inter from 1961/62. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -137,7 +144,7 @@
       },
       {
         "name": "Lev Yashin",
-        "club": "Dynamo Moscovo",
+        "club": "Dynamo Moscow",
         "lg": "URS",
         "pos": "GK",
         "gp": 19,
@@ -188,6 +195,8 @@
         "uG": 4,
         "uA": 1,
         "uS": 1,
+        "uOpp": 1.05,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -216,7 +225,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "16 pts. Real Madrid knocked out by Barcelona in Nov. 1960 (1960/61 edition, outside the window); uG = preliminary/1st round of 1961/62 (Oct.–Nov. 1961). Pichichi 1960/61. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 30→31, g 29→28."
       },
@@ -232,6 +242,8 @@
         "uG": 6,
         "uA": 2,
         "uS": 1,
+        "uOpp": 1.05,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -260,7 +272,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "13 pts (tied with Seeler). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1960–61 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 32→30, g 20→22, uG 3→6."
       },
@@ -276,6 +289,8 @@
         "uG": 8,
         "uA": 1,
         "uS": 3,
+        "uOpp": 0.9,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -318,6 +333,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.58,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -346,7 +363,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Juventus_FC_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Serie_A",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "10 pts. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Preliminary round). Changed: gp 33→34, g 14→13, uG 2→0, uS 1→0."
       },
@@ -362,6 +380,8 @@
         "uG": 1,
         "uA": 2,
         "uS": 1,
+        "uOpp": 1.05,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -390,7 +410,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Real_Madrid_CF_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_La_Liga",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "8 pts. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1960–61 European Cup: First round). Changed: gp 32→30, g 11→10, uG 2→1."
       },
@@ -406,6 +427,8 @@
         "uG": 9,
         "uA": 1,
         "uS": 5,
+        "uOpp": 1.1,
+        "uOppN": 9,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -433,13 +456,14 @@
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1960%E2%80%9361_Primeira_Divis%C3%A3o",
-          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup"
+          "https://en.wikipedia.org/wiki/1960%E2%80%9361_European_Cup",
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
         ],
         "note": "5 pts. Captain of Benfica, European champions 1960/61 (scored in the final), and the competition's top scorer (11 goals in the edition; some in autumn 1960). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1960–61 European Cup: Final). Changed: gp 32→33, g 27→35, uG 6→9. Awards: not found on Wikipedia: cup page."
       },
       {
         "name": "Bobby Charlton",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "W",
         "gp": 36,
@@ -618,7 +642,7 @@
     "rows": [
       {
         "name": "Josef Masopust",
-        "club": "Dukla Praga",
+        "club": "Dukla Prague",
         "lg": "TCH",
         "pos": "CM",
         "gp": 32,
@@ -628,6 +652,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 2,
+        "uOpp": 0.53,
+        "uOppN": 1,
         "ntGP": 6,
         "ntG": 1,
         "ntA": 1,
@@ -654,7 +680,8 @@
           "https://en.wikipedia.org/wiki/Josef_Masopust",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Czechoslovak_First_League",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
-          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup"
+          "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "65 pts. Dukla champions 1961/62; European Cup quarter-finals 1961/62 (Tottenham). Scored in the World Cup final. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Quarter-finals). Changed: gp 29→32, g 4→3. Awards: not found on Wikipedia: cup page."
       },
@@ -670,6 +697,8 @@
         "uG": 7,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.91,
+        "uOppN": 8,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -697,7 +726,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Primeira_Divis%C3%A3o",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "53 pts. Two-time European champion (2 goals in the final of 2/5/1962 against Real Madrid). Sporting national champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1961–62 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Final). Changed: gp 29→22, g 27→18, uG 6→7. Awards: not found on Wikipedia: league top scorer, cup page."
       },
@@ -746,7 +776,7 @@
       },
       {
         "name": "Dragoslav Šekularac",
-        "club": "Crvena Zvezda",
+        "club": "Red Star Belgrade",
         "lg": "YUG",
         "pos": "AM",
         "gp": 26,
@@ -799,6 +829,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 0,
+        "uOpp": 1.02,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -824,7 +856,8 @@
           "https://www.rsssf.org/miscellaneous/europa-poy62.html",
           "https://en.wikipedia.org/wiki/Armand_Jurion",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Belgian_First_Division",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "15 pts. Anderlecht champions 1961/62; did not play the 1961/62 European Cup (uS = 0); the European games counted are from autumn 1962 (1962/63 edition: knocked out Real Madrid). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer, cup page."
       },
@@ -840,6 +873,8 @@
         "uG": 1,
         "uA": 2,
         "uS": 0,
+        "uOpp": 0.53,
+        "uOppN": 1,
         "ntGP": 1,
         "ntG": 0,
         "ntA": 0,
@@ -869,7 +904,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Serie_A",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Inter-Cities_Fairs_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "14 pts. Milan champions 1961/62; European games in autumn 1962 belong to the 1962/63 edition (which Milan won in 1963). Italy knocked out in the World Cup group stage. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1962–63 AC Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 Inter-Cities Fairs Cup: First round). Changed: gp 34→29, g 13→11, uG 2→1, uT UCL→UEL."
       },
@@ -885,6 +921,8 @@
         "uG": 3,
         "uA": 0,
         "uS": 3,
+        "uOpp": 1.62,
+        "uOppN": 4,
         "ntGP": 4,
         "ntG": 1,
         "ntA": 0,
@@ -916,7 +954,8 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_FA_Cup"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_FA_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
         ],
         "note": "11 pts. Semi-final of the 1961/62 European Cup (Benfica); uG includes the 1st round of the 1962/63 Cup Winners' Cup (Rangers, Oct.–Dec. 1962). 37 league goals in 1962/63. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: Semi-finals); to verify: club."
       },
@@ -932,6 +971,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 1,
+        "uOpp": 0.53,
+        "uOppN": 1,
         "ntGP": 6,
         "ntG": 2,
         "ntA": 1,
@@ -961,13 +1002,14 @@
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_First_League",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_Cup"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_Yugoslav_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
         ],
         "note": "10 pts (tied with Charles). Partizan champions 1961/62. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1961–62 European Cup: First round). Changed: gp 25→23, g 16→19, uS 0→1."
       },
       {
         "name": "John Charles",
-        "club": "Juventus / Leeds / Roma",
+        "club": "Juventus / Leeds United / Roma",
         "lg": "SA",
         "pos": "FW",
         "gp": 27,
@@ -1020,6 +1062,8 @@
         "uG": 2,
         "uA": 1,
         "uS": 3,
+        "uOpp": 0.53,
+        "uOppN": 4,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 0,
@@ -1046,7 +1090,8 @@
           "https://en.wikipedia.org/wiki/J%C3%A1nos_G%C3%B6r%C3%B6cs",
           "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1961%E2%80%9362_Nemzeti_Bajnoks%C3%A1g_I",
-          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1961%E2%80%9362_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
         ],
         "note": "6 pts. Semi-final of the 1961/62 Cup Winners' Cup (Atlético Madrid). Presence at the 1962 World Cup uncertain (1 game estimated). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Changed: ntGP 1→2. Awards: not found on Wikipedia: league top scorer, cup page."
       },
@@ -1152,7 +1197,7 @@
     "rows": [
       {
         "name": "Lev Yashin",
-        "club": "Dynamo Moscovo",
+        "club": "Dynamo Moscow",
         "lg": "URS",
         "pos": "GK",
         "gp": 27,
@@ -1203,6 +1248,8 @@
         "uG": 2,
         "uA": 3,
         "uS": 5,
+        "uOpp": 0.71,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1231,7 +1278,8 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Serie_A",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
         "note": "56 pts (ballondor.com) / 55 (Wikipedia). Milan European champions 1962/63 (2 assists for Altafini in the final, from memory). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 37→34, g 12→11."
       },
@@ -1247,6 +1295,8 @@
         "uG": 5,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.88,
+        "uOppN": 10,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1276,13 +1326,14 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_FA_Cup",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
         ],
         "note": "51 / 50 pts. Tottenham won the 1962/63 Cup Winners' Cup (2 goals in the final against Atlético Madrid); 1st round 1963/64 with Man United (Dec. 1963). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club numbers unchanged: the career table does not separate European games; title from the league page; continental competition/stage from the edition page (1962–63 UEFA Cup Winners' Cup: Final); to verify: club."
       },
       {
         "name": "Denis Law",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "FW",
         "gp": 38,
@@ -1292,6 +1343,8 @@
         "uG": 3,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.5,
+        "uOppN": 6,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1321,7 +1374,8 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_FA_Cup",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
         ],
         "note": "45 pts. No European competition in 1962/63 (uS = 0 for the edition ending in 1963); uG = Cup Winners' Cup 1963/64 in autumn 1963. The 1963 FA Cup does not count. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup). Changed: gp 41→38, g 34→31, uG 4→3."
       },
@@ -1337,6 +1391,8 @@
         "uG": 6,
         "uA": 1,
         "uS": 4,
+        "uOpp": 0.61,
+        "uOppN": 6,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1365,7 +1421,8 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Ta%C3%A7a_de_Portugal"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_Ta%C3%A7a_de_Portugal",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
         "note": "19 pts. 1962/63 European Cup final lost to Milan (scored). Benfica champions 1962/63. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1962–63 European Cup: Final). Changed: gp 34→32, g 33→29, uG 7→6. Awards: not found on Wikipedia: league top scorer."
       },
@@ -1422,6 +1479,8 @@
         "uG": 2,
         "uA": 1,
         "uS": 0,
+        "uOpp": 1.47,
+        "uOppN": 10,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1450,13 +1509,14 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Oberliga",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
         ],
         "note": "9 pts. Oberliga Nord (spring) + Bundesliga 1963/64 (autumn; top scorer that season). HSV won the 1963 West German Cup; Cup Winners' Cup 1963/64 in the autumn (Barcelona). lg = GER/BL almost tied. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup); to verify: title. Changed: g 38→34."
       },
       {
         "name": "Bobby Charlton",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "W",
         "gp": 40,
@@ -1466,6 +1526,8 @@
         "uG": 3,
         "uA": 2,
         "uS": 0,
+        "uOpp": 1.07,
+        "uOppN": 6,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1495,7 +1557,8 @@
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_FA_Cup",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
         ],
         "note": "5 pts (tied 8th). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage verified: autumn only (1963–64 UEFA Cup Winners' Cup). Changed: gp 44→40, uG 2→3."
       },
@@ -1511,6 +1574,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.5,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1537,7 +1602,8 @@
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Serie_A",
           "https://en.wikipedia.org/wiki/1962%E2%80%9363_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup"
+          "https://en.wikipedia.org/wiki/1962%E2%80%9363_European_Cup",
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
         ],
         "note": "5 pts (tied 8th). Inter champions 1962/63; did not play the 1962/63 edition; European games in autumn 1963 (1963/64 edition, which Inter won). Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1639,7 +1705,7 @@
     "rows": [
       {
         "name": "Denis Law",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "FW",
         "gp": 39,
@@ -1649,6 +1715,8 @@
         "uG": 8,
         "uA": 1,
         "uS": 2,
+        "uOpp": 0.83,
+        "uOppN": 8,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1678,7 +1746,8 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_FA_Cup",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
         ],
         "note": "61 pts. Cup Winners' Cup quarter-finals 1963/64 (Sporting); uG includes the 1964/65 Inter-Cities Fairs Cup in the autumn (Djurgården, Borussia Dortmund). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 UEFA Cup Winners' Cup: Quarter-finals). Changed: g 36→39."
       },
@@ -1694,6 +1763,8 @@
         "uG": 2,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.77,
+        "uOppN": 1,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 1,
@@ -1721,7 +1792,8 @@
           "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
         "note": "43 pts. Inter European champions 1963/64; Spain European champions. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -1737,6 +1809,8 @@
         "uG": 7,
         "uA": 2,
         "uS": 4,
+        "uOpp": 1.13,
+        "uOppN": 6,
         "ntGP": 2,
         "ntG": 1,
         "ntA": 0,
@@ -1766,7 +1840,8 @@
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_La_Liga",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
           "https://en.wikipedia.org/wiki/1964_European_Nations'_Cup",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Copa_del_General%C3%ADsimo"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Copa_del_General%C3%ADsimo",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
         "note": "38 pts. Real Madrid champions 1963/64 and European finalists. Decisive extra-time goal in the Euro semi-final against Hungary. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1963–64 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: Final). Changed: gp 37→30, g 16→19, uG 4→7."
       },
@@ -1782,6 +1857,8 @@
         "uG": 5,
         "uA": 1,
         "uS": 1,
+        "uOpp": 0.45,
+        "uOppN": 4,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1810,7 +1887,8 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Ta%C3%A7a_de_Portugal"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Ta%C3%A7a_de_Portugal",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
         "note": "31 pts. Benfica knocked out by Dortmund in Dec. 1963 (1st round/round of 16 of the 1963/64 edition); uG = autumn 1964 (1964/65 edition). Benfica champions 1963/64. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1964–65 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: First round). Changed: gp 28→25, g 34→42, uG 6→5."
       },
@@ -1826,6 +1904,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.45,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1913,6 +1993,8 @@
         "uG": 1,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.5,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1939,13 +2021,14 @@
           "https://en.wikipedia.org/wiki/Mario_Corso",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
         ],
         "note": "17 pts. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
       {
         "name": "Lev Yashin",
-        "club": "Dynamo Moscovo",
+        "club": "Dynamo Moscow",
         "lg": "URS",
         "pos": "GK",
         "gp": 28,
@@ -1997,6 +2080,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 2,
+        "uOpp": 1.15,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2025,13 +2110,14 @@
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_Serie_A",
           "https://en.wikipedia.org/wiki/1963%E2%80%9364_European_Cup",
-          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1963%E2%80%9364_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup"
         ],
         "note": "14 pts. European Cup quarter-finals 1963/64 (Real Madrid). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1963–64 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1963–64 European Cup: Quarter-finals). Changed: gp 31→26, g 10→5, uG 0→1."
       },
       {
         "name": "Valery Voronin",
-        "club": "Torpedo Moscovo",
+        "club": "Torpedo Moscow",
         "lg": "URS",
         "pos": "CM",
         "gp": 32,
@@ -2137,6 +2223,8 @@
         "uG": 12,
         "uA": 2,
         "uS": 4,
+        "uOpp": 1.03,
+        "uOppN": 6,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2165,7 +2253,8 @@
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_S.L._Benfica_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Primeira_Divis%C3%A3o",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Ta%C3%A7a_de_Portugal"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Ta%C3%A7a_de_Portugal",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "67 pts. 1964/65 European Cup final lost to Inter; autumn 1965: Stade Dudelange and Levski (1965/66 edition). Benfica champions 1964/65. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1964–65 Benfica: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 34→28, g 37→38."
       },
@@ -2181,6 +2270,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.68,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2209,7 +2300,8 @@
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "59 pts. Inter European and Italian champions 1964/65; goal in the semi-final against Liverpool. Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 40→38, g 9→3."
       },
@@ -2225,6 +2317,8 @@
         "uG": 2,
         "uA": 2,
         "uS": 5,
+        "uOpp": 1.35,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2251,7 +2345,8 @@
           "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Spanish_footballer)",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "45 pts. Ranking/points verified on the web (search excerpts). Match statistics NOT verified on the web (search limit exhausted and statistics domains blocked in the session): estimate from memory, with the calendar-year split estimated from the competition calendars. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -2267,6 +2362,8 @@
         "uG": 4,
         "uA": 1,
         "uS": 1,
+        "uOpp": 0.48,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2292,13 +2389,14 @@
           "https://www.rsssf.org/miscellaneous/europa-poy65.html",
           "https://en.wikipedia.org/wiki/Paul_Van_Himst",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Belgian_First_Division"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Belgian_First_Division",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "25 pts. Anderlecht champions 1964/65; knocked out by Liverpool in Dec. 1964 (1964/65 edition). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1964–65 European Cup: First round); to verify: title. Changed: gp 30→34, g 22→28, uG 3→4. Awards: not found on Wikipedia: league top scorer, cup page."
       },
       {
         "name": "Bobby Charlton",
-        "club": "Man United",
+        "club": "Manchester United",
         "lg": "EPL",
         "pos": "AM",
         "gp": 48,
@@ -2308,6 +2406,8 @@
         "uG": 2,
         "uA": 2,
         "uS": 3,
+        "uOpp": 0.43,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2336,7 +2436,8 @@
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_Manchester_United_F.C._season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_FA_Cup"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_FA_Cup",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "19 pts. Man United champions 1964/65; semi-final of the 1964/65 Inter-Cities Fairs Cup (Ferencváros, play-off in Jun. 1965); autumn 1965 in the 1965/66 European Cup. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: Semi-finals). Changed: gp 49→48, g 16→18, uG 5→2."
       },
@@ -2352,6 +2453,8 @@
         "uG": 1,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.61,
+        "uOppN": 8,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2378,7 +2481,8 @@
           "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert",
           "https://en.wikipedia.org/wiki/1965_Nemzeti_Bajnoks%C3%A1g_I",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup",
-          "https://en.wikipedia.org/wiki/1965_Magyar_Kupa"
+          "https://en.wikipedia.org/wiki/1965_Magyar_Kupa",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "14 pts. Ferencváros won the 1964/65 Inter-Cities Fairs Cup (final against Juventus, 23/6/1965). Hungarian calendar-year league in 1965 (champions Vasas). Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: Final). Changed: gp 35→33, g 33→28, uG 7→1."
       },
@@ -2394,6 +2498,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 0,
+        "uOpp": 0.53,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2422,7 +2528,8 @@
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_AC_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Inter-Cities_Fairs_Cup",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_Inter-Cities_Fairs_Cup"
         ],
         "note": "10 pts. Milan's European participation in the window uncertain. Ranking/points verified on the web (search excerpts). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1965–66 AC Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1964–65 Inter-Cities Fairs Cup: First round). Changed: gp 31→35, g 8→5, uG 0→1."
       },
@@ -2438,6 +2545,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 0,
+        "uOpp": 1.17,
+        "uOppN": 5,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2481,6 +2590,8 @@
         "uG": 3,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.68,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2509,13 +2620,14 @@
           "https://en.wikipedia.org/wiki/1965%E2%80%9366_Inter_Milan_season",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_Serie_A",
           "https://en.wikipedia.org/wiki/1964%E2%80%9365_European_Cup",
-          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia"
+          "https://en.wikipedia.org/wiki/1964%E2%80%9365_Coppa_Italia",
+          "https://en.wikipedia.org/wiki/1965%E2%80%9366_European_Cup"
         ],
         "note": "9 pts (tied 8th). Top scorer of the 1964/65 Serie A (from memory). Ranking/points verified on the web (search excerpts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1964–65 European Cup: Final). Changed: gp 38→39, g 22→20, uG 4→3."
       },
       {
         "name": "Valery Voronin",
-        "club": "Torpedo Moscovo",
+        "club": "Torpedo Moscow",
         "lg": "URS",
         "pos": "CM",
         "gp": 30,

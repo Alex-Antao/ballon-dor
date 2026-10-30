@@ -92,7 +92,7 @@ async function main() {
   const findPlayer = name => listed.find(p => alias(p.player.name) === name) || listed.find(p => samePerson(p.player.name, name));
   const auto = listed.filter(P => P.lg && !excluded.has(alias(P.player.name))).sort((a, b) => quick(b) - quick(a)).slice(0, POOL);
   const pool = new Map(auto.map(P => [alias(P.player.name), { P }]));
-  const W = NO_WIKI ? null : { wp: require('../verify/wp.js'), eu: require('../verify/eu.js'), nt: require('../verify/nt.js'), aw: require('../verify/awards.js') };
+  const W = NO_WIKI ? null : { wp: require('../verify/wp.js'), eu: require('../verify/eu.js'), nt: require('../verify/nt.js'), aw: require('../verify/awards.js'), k: require('../verify/kassies.js') };
   const rows = [], warnings = [];
   if (W) {
     let noms = [];
@@ -242,8 +242,16 @@ function wiki(W, r, team, notes, warnings, handKept) {
         const so = euSoFar(W, ed, r.name, team);
         Object.assign(r, { gp: r.gp + so.gp, g: r.g + so.g, gpNow: r.gpNow + so.gp, gNow: r.gNow + so.g, uG: so.g, uANow: null });
         notes.push(`${ed}: ${e.reached.toLowerCase()}, ${so.g} goal${so.g === 1 ? '' : 's'} in the club's ${so.gp} matches so far (Wikipedia match boxes; assists unknown)`);
+        r.uEd = ed;
       }
     }
+    // Strength of the opponents of the continental goals (Fair and Custom; verify/kassies.js)
+    if (['UCL', 'UEL', 'ECL'].includes(r.uT)) {
+      const so = euSoFar(W, r.uEd || `${SEASON}–${String(SEASON + 1).slice(2)} UEFA Champions League`, r.name, team);
+      const mean = xs => Math.round(100 * xs.reduce((a, b) => a + b, 0) / xs.length) / 100;
+      if (so.opp.length || so.oppGames.length) Object.assign(r, { uOpp: mean(so.opp.length ? so.opp : so.oppGames), uOppN: so.opp.length });
+    }
+    delete r.uEd;
     const aw = W.aw.awards(r, YEAR, 'P');
     r.cup = aw.o.cup; r.gs = aw.o.gs;
     r.sources.push(...aw.src.filter(u => !r.sources.includes(u)));
@@ -299,14 +307,17 @@ function expectLeague(so, played, rounds, share, prior) {
 }
 // Goals in a Europa/Conference League edition from the match boxes of its league-phase, knockout-phase and final
 // pages (qualifiers left out, as in the data); games = the club's matches played so far.
+// Also the strength of the opponents (verify/kassies.js) of each goal (opp) and of each match (oppGames).
 function euSoFar(W, ed, name, team) {
-  const seen = new Set(), o = { gp: 0, g: 0 };
+  const seen = new Set(), o = { gp: 0, g: 0, opp: [], oppGames: [] };
   for (const t of [`${ed} league phase`, `${ed} knockout phase`, `${ed} final`]) {
     for (const m of W.wp.matches(t)) {
-      const side = sameTeam(m.team1, team) ? m.goals1 : sameTeam(m.team2, team) ? m.goals2 : null;
-      if (side == null || !/\d/.test(m.score) || seen.has(m.date + m.team1 + m.team2)) continue;
+      const us = sameTeam(m.team1, team) ? 1 : sameTeam(m.team2, team) ? 2 : 0;
+      if (!us || !/\d/.test(m.score) || seen.has(m.date + m.team1 + m.team2)) continue;
       seen.add(m.date + m.team1 + m.team2); o.gp++;
-      for (const [who, n] of Object.entries(W.wp.scorers(side))) if (samePerson(who, name)) o.g += n;
+      const side = us === 1 ? m.goals1 : m.goals2, st = W.k.strength(us === 1 ? m.team2 : m.team1, YEAR);
+      if (st) o.oppGames.push(st.f);
+      for (const [who, n] of Object.entries(W.wp.scorers(side))) if (samePerson(who, name)) { o.g += n; if (st) for (let i = 0; i < n; i++) o.opp.push(st.f); }
     }
   }
   return o;

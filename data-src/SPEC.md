@@ -44,7 +44,7 @@ Only the national LEAGUE + CONTINENTAL CLUB COMPETITION + FINAL TOURNAMENT of a 
 With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second half of season Y-1/Y + first half of Y/Y+1; calendar-year leagues, such as Brazil/USSR/Scandinavia, count the year). If the split cannot be obtained, use the season ending in Y (`win: "S"`, and `conf` becomes "C"). With `window: P`, `win: "P"`.
 
 - `name`: as in the current data.js when the player already exists (e.g. "Lionel Messi", "Cristiano Ronaldo", "Andrés Iniesta").
-- `club`: main club in the window (if they moved, "Club A / Club B"). `lg` = league of the club where they played most games.
+- `club`: main club in the window (if they moved, "Club A / Club B"), under its usual English name and spelt the same way in every row (a club's former name, such as "CDNA Sofia" or "Újpesti Dózsa", stays for the years it was used). `lg` = league of the club where they played most games.
 - `lg` (codes): EPL (English top flight, incl. First Division), LL, BL (West German Bundesliga; before 1963 Oberliga = GER), SA, L1, ERE, POR, SCO, BEL, AUT, SUI, SWE, DEN, NOR, TUR, GRE, URS, RUS, UKR, YUG, TCH, HUN, POL, ROU, BUL, DDR, BRA, ARG, URU, MEX, MLS, KSA. Other → 3-letter code, explained in `note`.
 - `pos`: FW (centre-forward), W (winger/wide forward), AM (attacking midfielder/10), CM, DM, DF, GK.
 - `gp/g/a`: games/goals/assists in the league + continental competition.
@@ -53,6 +53,12 @@ With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second h
 - `uS`: stage reached in that edition, counted by distance to the final: 0 = out before the round of 16 or did not play, 1 = round of 16 (or equivalent round: 16 teams), 2 = quarter-finals, 3 = semi-finals, 4 = lost final, 5 = winner. Formats with groups (UCL 1992/93, 1993/94; old Libertadores) → equivalent by distance to the final. Do NOT discount by competition: the weight of each competition is handled in models.js.
 - `ntT`: WC, EURO, COPA, AFCON, ASIAN, GOLD or "" (the Confederations Cup and the Olympic Games do NOT count). `ntGP/ntG/ntA` games/goals/assists in the final tournament only. `ntS` final-tournament stage on the same 0–5 scale (group stage = 0; formats with a second group/league stage → equivalent by distance to the final; Copa América as a league: 1st = 5, 2nd = 4, 3rd/4th = 3, rest = 1). Euro 1960–1976 (4 teams): semi-finals = 3.
 - `nlGP/nlG/nlS` (optional): UEFA Nations League Finals (final four: 2019, 2021, 2023, 2025), only on rows of players who played in them; kept apart from `ntT` because 2021 also had the Euro. Games and goals from the Finals line-ups and match boxes (assists not collected); `nlS` 3 = semi-final (incl. the third-place match), 4 = lost final, 5 = winner. Filled by `node verify/nations-league.js --write`.
+- `uOpp/uOppN` (optional, UEFA competitions only): strength of the opponents of the continental goals, filled by `node verify/opponents.js --write`.
+  - Each opponent's strength comes from the UEFA club ranking used for that season's draws (5-year coefficients, Bert Kassies' database, `verify/kassies.js`; the 1960 ranking for earlier seasons). It is √(opponent's coefficient / coefficient of the club ranked 32nd), kept within 0.3–2. With the 32nd club as reference, the candidates' average Champions League goal is worth about 1.
+  - `uOpp` is the mean over the player's goals in the window, read from the match boxes of the edition pages, with qualifiers left out. With no goal found, it is the mean over the club's matches in the window.
+  - `uOppN` is the number of goals it was read from (0 = the club's matches).
+  - A club missing from the ranking because it had no European points in the previous five years gets the lowest value. A name found in no ranking is left out of the mean.
+  - Fair and Custom weight continental goals and assists by `uOpp` instead of the competition weight × league strength. The Prediction does not use it.
 - `title`: 1 if they were league champion in a league whose season ended in the window, with a relevant role (≥1/3 of the games).
 - Trophies and individual awards (0/1), filled by `node verify/awards.js` from Wikipedia infoboxes and the European Golden Shoe table, for the season ending in the window (calendar-year leagues: the year):
   - `cup`: the player's club won the main domestic cup (for "Club A / Club B": A in a calendar year, B in a season).
@@ -80,7 +86,7 @@ With `window: CY`, count what was played between 1 Jan and 31 Dec of Y (second h
   - A: calendar-year numbers (or season numbers, if window P) counted from match-by-match data or from official totals for that exact window.
   - B: season totals verified and calendar-year split estimated with partial data.
   - C: estimate.
-- `aConf`: A/B only when a source records assists; otherwise C.
+- `aConf`: A/B only when a source records assists; otherwise C. 2023–2026 from `node verify/assists.js` (API-Football for 2023–2025, the Football API for 2026): A when league, continental and national-team assists all come from the API, B when the national-team number is kept (not recorded there); the row's note keeps the old values.
 
 ### Tools (verify/)
 `node verify/resolve.js` (names → Wikipedia titles in `verify/titles.json`; namesakes per era with a `Name@2010` key), then per block `node verify/verify.js 2010-2014.json [years]` (proposals in `verify/work/prop/`, report on screen), `node verify/big.js 2010-2014.json` (large differences to review by hand) and `node verify/apply.js 2010-2014.json` (writes to data-src; manual corrections in `verify/overrides.json`). Page cache in `verify/work/` (not versioned). To re-apply a block, always start from the clean file (`git checkout`), otherwise the "Changed: …" note loses the old values.

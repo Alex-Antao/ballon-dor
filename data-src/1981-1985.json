@@ -20,6 +20,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 3,
+    "uOpp": 0.84,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -49,7 +51,8 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Top scorer of the 1980/81 Bundesliga (29, from memory); UCL 80/81 semi-finals (Liverpool). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1981–82 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 European Cup: Semi-finals). Changed: g 35→26, uG 6→4."
    },
@@ -65,6 +68,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -92,7 +97,8 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Bundesliga",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1980–81 European Cup: Semi-finals). Changed: g 19→18, uG 2→1."
    },
@@ -153,6 +159,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.06,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -181,7 +189,8 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_French_Division_1",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). French champion 1980/81; UEFA Cup quarter-finals (Ipswich). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup: Quarter-finals). Changed: gp 41→42. Awards: not found on Wikipedia: cup winner."
    },
@@ -197,6 +206,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.89,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -224,7 +235,8 @@
      "https://en.wikipedia.org/wiki/1981_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1981_Soviet_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Soviet calendar-year league (1981, champion). European participation in 1980/81 uncertain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup: First round). Changed: gp 30→35, g 10→20, uG 0→1, uT →UEL."
    },
@@ -285,6 +297,8 @@
     "uG": 7,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.48,
+    "uOppN": 14,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -313,7 +327,8 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1981_Soviet_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Top scorer of the 1981 Soviet league (23, from memory); Cup Winners' Cup 1981 won (only quarter-finals/semi-finals/final in the calendar year). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1980–81 UEFA Cup Winners' Cup: Final). Changed: gp 35→40, g 26→30, uG 3→7."
    },
@@ -329,6 +344,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 0.57,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -356,7 +373,8 @@
      "https://en.wikipedia.org/wiki/1981_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1981_Soviet_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Captain; Cup Winners' Cup 1981 won. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
    },
@@ -415,6 +433,8 @@
     "uG": 14,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.87,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -442,7 +462,8 @@
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_Football_League",
      "https://en.wikipedia.org/wiki/1980%E2%80%9381_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
+     "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 9th (7 pts). 14 goals in the 1980/81 UEFA Cup, won (from memory). Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
    },
@@ -548,6 +569,8 @@
     "uG": 4,
     "uA": 0,
     "uS": 1,
+    "uOpp": 0.83,
+    "uOppN": 4,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 1,
@@ -578,7 +601,8 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Returned from suspension at the end of April 1982 (3 games, 1 Serie A goal). World Cup: 6 goals, top scorer. Italian champion but <1/3 of the games → title 0. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Second round). Changed: gp 3→16, g 1→7, uG 0→4, uS 0→1."
    },
@@ -638,6 +662,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.79,
+    "uOppN": 0,
     "ntGP": 6,
     "ntG": 4,
     "ntA": 1,
@@ -666,7 +692,8 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_Ekstraklasa",
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Polish league 1981/82 (champion). Moved to Juventus in summer 1982. World Cup: hat-trick against Belgium, suspended for the semi-final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1981–82 Widzew Łódź: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: First round). Changed: g 10→7, uG 0→1. Awards: not found on Wikipedia: cup page."
    },
@@ -682,6 +709,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 4,
+    "uOpp": 0.8,
+    "uOppN": 5,
     "ntGP": 7,
     "ntG": 5,
     "ntA": 1,
@@ -712,7 +741,8 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). 1982 European Cup final lost (Aston Villa). Points 51 (or 47). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Final). Changed: g 32→20."
    },
@@ -762,7 +792,7 @@
    },
    {
     "name": "Rinat Dasayev",
-    "club": "Spartak Moscovo",
+    "club": "Spartak Moscow",
     "lg": "URS",
     "pos": "GK",
     "gp": 32,
@@ -806,7 +836,7 @@
    },
    {
     "name": "Pierre Littbarski",
-    "club": "Köln",
+    "club": "1. FC Köln",
     "lg": "BL",
     "pos": "W",
     "gp": 34,
@@ -907,6 +937,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.46,
+    "uOppN": 0,
     "ntGP": 5,
     "ntG": 2,
     "ntA": 1,
@@ -936,7 +968,8 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup",
      "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Number of World Cup games uncertain (4–5). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1981–82 Saint-Étienne: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1981–82 European Cup: Preliminary round). Changed: gp 39→36, g 22→18, uG 0→2. Awards: not found on Wikipedia: cup winner."
    },
@@ -952,6 +985,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.83,
+    "uOppN": 10,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -982,7 +1017,8 @@
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1981%E2%80%9382_Copa_del_Rey",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1981%E2%80%9382_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Serious injury in Dec. 1981; did not play the 1982 Cup Winners' Cup final (won). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1981–82 UEFA Cup Winners' Cup: Final). Changed: gp 16→17, g 4→10, uG 0→2."
    },
@@ -1092,6 +1128,8 @@
     "uG": 4,
     "uA": 3,
     "uS": 4,
+    "uOpp": 0.8,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1121,7 +1159,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Serie_A",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Capocannoniere 1982/83 (16). European Cup final lost (Hamburg). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1983–84 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 European Cup: Final). Changed: gp 39→40, g 19→25, uG 3→4."
    },
@@ -1137,6 +1176,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 2,
+    "uOpp": 0.33,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1166,7 +1207,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Football_League",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). English champion 1982/83; European Cup: quarter-finals (Widzew). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 European Cup: Quarter-finals). Changed: gp 48→43, g 19→15, uG 1→3. Awards: not found on Wikipedia: league top scorer."
    },
@@ -1224,6 +1266,8 @@
     "uG": 3,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.69,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1254,7 +1298,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Scottish_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Cup Winners' Cup 1983 won (Real Madrid). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup Winners' Cup: Final). Changed: gp 43→38, g 15→17."
    },
@@ -1270,6 +1315,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.1,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1298,7 +1345,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Bundesliga",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Scored the goal in the 1983 European Cup final; German champion. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 European Cup: Final). Changed: g 8→6."
    },
@@ -1348,7 +1396,7 @@
    },
    {
     "name": "Rinat Dasayev",
-    "club": "Spartak Moscovo",
+    "club": "Spartak Moscow",
     "lg": "URS",
     "pos": "GK",
     "gp": 32,
@@ -1401,6 +1449,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.33,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1431,7 +1481,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_DFB-Pokal",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1982%E2%80%9383_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Tied 8th (14 pts). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup Winners' Cup: Quarter-finals). Changed: g 24→21, uG 4→1."
    },
@@ -1490,6 +1541,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.63,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1519,7 +1572,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Football_League",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup: First round). Changed: gp 35→36, uG 0→2. Awards: not found on Wikipedia: league top scorer."
    },
@@ -1535,6 +1589,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.11,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1561,7 +1617,8 @@
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Serie_A",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1982%E2%80%9383_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
     ],
     "note": "Ineligible (Brazilian). Italian champion 1982/83; UEFA Cup quarter-finals (Benfica). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1982–83 UEFA Cup: Quarter-finals). Changed: g 8→9, uG 1→2."
    },
@@ -1627,6 +1684,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.57,
+    "uOppN": 5,
     "ntGP": 5,
     "ntG": 9,
     "ntA": 1,
@@ -1658,7 +1717,8 @@
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Coppa_Italia",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Capocannoniere 1983/84 (20); Italian champion; Cup Winners' Cup won; Euro 1984: 9 goals. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1983–84 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup Winners' Cup: Final). Changed: gp 37→35, uG 3→6."
    },
@@ -1760,6 +1820,8 @@
     "uG": 7,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.06,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1789,7 +1851,8 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). 32 league goals in 1983/84 (from memory); European Cup won; Golden Shoe 1984. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 European Cup: Final). Changed: gp 50→43, g 37→27, uG 5→7. Awards: not found on Wikipedia: league top scorer."
    },
@@ -1805,6 +1868,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.18,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 0,
     "ntA": 2,
@@ -1832,7 +1897,8 @@
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Primeira_Divis%C3%A3o",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup"
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Portuguese champion 1983/84; European Cup quarter-finals (Liverpool). Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
    },
@@ -1848,6 +1914,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.93,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1877,13 +1945,14 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Football_League",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). European and English champion captain. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 European Cup: Final). Changed: gp 46→36, g 9→6, uG 2→0. Awards: not found on Wikipedia: league top scorer."
    },
    {
     "name": "Harald Schumacher",
-    "club": "Köln",
+    "club": "1. FC Köln",
     "lg": "BL",
     "pos": "GK",
     "gp": 37,
@@ -1938,6 +2007,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.46,
+    "uOppN": 0,
     "ntGP": 3,
     "ntG": 0,
     "ntA": 0,
@@ -1968,7 +2039,8 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup_Winners'_Cup"
     ],
     "note": "Position/points in the vote confirmed via search results (RSSSF/Wikipedia/topendsports). Top scorer of the 1983/84 Bundesliga (26, from memory). Moved to Inter in 1984. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup: Third round). Changed: gp 38→35, g 29→28, uG 3→2."
    },
@@ -1984,6 +2056,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.73,
+    "uOppN": 0,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 2,
@@ -2010,7 +2084,8 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1984",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup"
     ],
     "note": "Vote: 9th, 9 points (Wikipedia). French champion 1983/84 and European national-team champion. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup: First round). Changed: gp 40→36, g 12→17, uG 0→1."
    },
@@ -2026,6 +2101,8 @@
     "uG": 4,
     "uA": 0,
     "uS": 3,
+    "uOpp": 1.19,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2054,7 +2131,8 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_FA_Cup",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup"
     ],
     "note": "Vote: 10th, 7 points (Wikipedia). Cup Winners' Cup 1983/84: semi-finals (Juventus). England did not qualify for Euro 1984. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 UEFA Cup Winners' Cup: Semi-finals). Changed: gp 40→42, g 14→17. Awards: not found on Wikipedia: league top scorer."
    },
@@ -2109,6 +2187,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.71,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2135,7 +2215,8 @@
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Serie_A",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_European_Cup",
      "https://en.wikipedia.org/wiki/1983%E2%80%9384_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup_Winners'_Cup"
     ],
     "note": "Ineligible. 1984 European Cup final lost (Liverpool). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1983–84 Roma: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1983–84 European Cup: Final). Changed: gp 33→20, g 6→4."
    }
@@ -2162,6 +2243,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.74,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2189,7 +2272,8 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
     "note": "Vote: 1st, 127 points (Wikipedia). Capocannoniere 1984/85 (18); European Cup won (Heysel), top scorer. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 European Cup: Final). Changed: gp 39→41, g 25→23, uG 7→4."
    },
@@ -2245,6 +2329,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 1.19,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2273,7 +2359,8 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Copa_del_Rey",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup_Winners'_Cup"
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
     "note": "Vote: 3rd, 46 points (Wikipedia). Spanish champion 1984/85; Cup Winners' Cup knocked out in the 1st round (Metz). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1985–86 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 UEFA Cup Winners' Cup: First round). Changed: gp 35→29, uG 0→1."
    },
@@ -2289,6 +2376,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.33,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2333,6 +2422,8 @@
     "uG": 5,
     "uA": 0,
     "uS": 3,
+    "uOpp": 0.6,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2360,7 +2451,8 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup"
     ],
     "note": "Vote: 5th, 13 points (Wikipedia). UEFA Cup 1984/85: semi-finals (Real Madrid). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1984–85 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 UEFA Cup: Semi-finals). Changed: gp 34→35, g 11→17, uG 3→5."
    },
@@ -2376,6 +2468,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 5,
+    "uOpp": 0.73,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2403,7 +2497,9 @@
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Serie_A",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_European_Cup"
     ],
     "note": "Vote: 6th, 12 points (Wikipedia). European champion with Juventus (May 1985), then Roma. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1984–85 Juventus: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 European Cup: Final)."
    },
@@ -2419,6 +2515,8 @@
     "uG": 4,
     "uA": 0,
     "uS": 2,
+    "uOpp": 0.57,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2444,7 +2542,8 @@
      "https://en.wikipedia.org/wiki/1985_Soviet_Top_League",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_European_Cup",
      "https://en.wikipedia.org/wiki/1984%E2%80%9385_Soviet_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1985%E2%80%9386_UEFA_Cup"
     ],
     "note": "Vote: 7th, 10 points (Wikipedia). Soviet calendar-year league 1985: top scorer (record 35 goals, from memory). European Cup 1984/85: quarter-finals (Bordeaux). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1984–85 European Cup: Quarter-finals). Changed: gp 38→39, g 36→39, uG 1→4."
    },
@@ -2537,7 +2636,7 @@
    },
    {
     "name": "Rinat Dasayev",
-    "club": "Spartak Moscovo",
+    "club": "Spartak Moscow",
     "lg": "URS",
     "pos": "GK",
     "gp": 34,

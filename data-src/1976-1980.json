@@ -20,6 +20,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 5,
+        "uOpp": 1,
+        "uOppN": 0,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 0,
@@ -51,7 +53,8 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 BL 34gp/5g, Europe 9gp/0g; 1976/77 BL 33gp/3g, Europe 6gp/1g. CY ≈ 17+16 league games + 5 (QF/SF/F 75/76) + 4 (R1/R2 76/77) European. 91 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 42→43, g 5→6."
       },
@@ -67,6 +70,8 @@
         "uG": 8,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.37,
+        "uOppN": 10,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 0,
@@ -103,7 +108,7 @@
       },
       {
         "name": "Ivo Viktor",
-        "club": "Dukla Praha",
+        "club": "Dukla Prague",
         "lg": "TCH",
         "pos": "GK",
         "gp": 18,
@@ -156,6 +161,8 @@
         "uG": 4,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.74,
+        "uOppN": 5,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -188,7 +195,8 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (search): 1975/76 league 41gp/12g, Europe 11gp/3g; 1976/77 league 38gp/12g, Europe 8gp/4g. Goals in the 1976 UEFA Cup final (2 legs). English champion 1975/76. 32 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1975–76 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1975–76 UEFA Cup: Final). Changed: uG 5→4."
       },
@@ -291,6 +299,8 @@
         "uG": 2,
         "uA": 2,
         "uS": 3,
+        "uOpp": 0.44,
+        "uOppN": 3,
         "ntGP": 1,
         "ntG": 0,
         "ntA": 0,
@@ -322,7 +332,8 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_UEFA_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1976",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Copa_del_General%C3%ADsimo",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Season totals (Simple Wikipedia, search): 1975/76 league 29gp/6g, Europe 9gp/2g; 1976/77 league 30gp/14g, Europe 7gp/5g. UEFA Cup 1975/76: semi-finals. At Euro 76 he (it is thought) played only the SF. 12 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1975–76 UEFA Cup: Semi-finals). Changed: g 15→8, uG 5→2."
       },
@@ -382,6 +393,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 2,
+        "uOpp": 0.62,
+        "uOppN": 1,
         "ntGP": 2,
         "ntG": 0,
         "ntA": 1,
@@ -412,7 +425,8 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Bundesliga",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup"
+          "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL 1975/76 30gp/5g, 1976/77 33gp/6g; European Cup 75/76 5gp/0g (RSSSF via search). Gladbach knocked out in the 75/76 quarter-finals (Real Madrid). German champion 1975/76. 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -428,6 +442,8 @@
         "uG": 10,
         "uA": 1,
         "uS": 5,
+        "uOpp": 1.03,
+        "uOppN": 8,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -459,7 +475,8 @@
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_Bundesliga",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_European_Cup",
           "https://en.wikipedia.org/wiki/1975%E2%80%9376_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL 1975/76 22gp/23g, 1976/77 25gp/28g (RSSSF/DFB). European Cup 75/76: 6gp/5g (Wikipedia) vs 5gp/6g (RSSSF); 76/77 4gp/5g vs 5gp/4g – discrepancy. No longer in the national team (retired in 1974). 9 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1975–76 European Cup: Final). Changed: gp 34→30, g 35→46, uG 9→10."
       },
@@ -568,6 +585,8 @@
         "uG": 5,
         "uA": 2,
         "uS": 4,
+        "uOpp": 0.94,
+        "uOppN": 7,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -596,7 +615,8 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Bundesliga",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Goal in the 1977 European Cup final (from memory). German champion 1976/77. Season totals not verified (search budget exhausted). 74 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1976–77 European Cup: Final); to verify: club, title."
       },
@@ -612,6 +632,8 @@
         "uG": 3,
         "uA": 2,
         "uS": 5,
+        "uOpp": 0.88,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -641,7 +663,10 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup_Winners'_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 Liverpool league 38gp/12g, Europe 8gp/4g (search). Jan–May Liverpool (English and European champions), Aug–Dec Hamburg (BL + Cup Winners' Cup 77/78) – HSV part from memory. lg = Liverpool (more games). 71 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Hamburger SV: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1976–77 European Cup: Final). Changed: gp 42→37, g 14→11, uG 4→3."
       },
@@ -701,6 +726,8 @@
         "uG": 5,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.76,
+        "uOppN": 5,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -730,7 +757,8 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Serie_A",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Italian champion 1976/77 and 1977 UEFA Cup winner (goal in the second leg of the final in Bilbao, from memory). 39 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Final). Changed: gp 36→42, g 20→22, uG 6→5."
       },
@@ -746,6 +774,8 @@
         "uG": 5,
         "uA": 2,
         "uS": 2,
+        "uOpp": 0.64,
+        "uOppN": 6,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -775,7 +805,8 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_La_Liga",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Copa_del_Rey",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 30gp/14g, Europe 7gp/5g (search); 1977/78 from memory. UEFA Cup 76/77: quarter-finals (Athletic). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1976–77 UEFA Cup: Quarter-finals). Changed: gp 36→37, g 13→19, uG 3→5."
       },
@@ -877,6 +908,8 @@
         "uG": 7,
         "uA": 2,
         "uS": 4,
+        "uOpp": 0.72,
+        "uOppN": 0,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -905,7 +938,8 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Belgian_First_Division",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup_Winners'_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). 1976/77 league 34gp/16g, Europe 9gp/7g (search); 1977/78 from memory. Losing finalist in the 1977 Cup Winners' Cup (Hamburg). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); continental competition/stage from the edition page (1976–77 UEFA Cup Winners' Cup: Final); to verify: title. Changed: gp 41→43, g 20→23, uG 5→7. Awards: not found on Wikipedia: league top scorer, cup page."
       },
@@ -1009,6 +1043,8 @@
         "uG": 1,
         "uA": 2,
         "uS": 5,
+        "uOpp": 1,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1036,7 +1072,8 @@
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_Football_League_First_Division",
           "https://en.wikipedia.org/wiki/1976%E2%80%9377_FA_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup"
+          "https://en.wikipedia.org/wiki/1976%E2%80%9377_European_Cup",
+          "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Irish (eligible). Assists in the Rome final (McDermott, corner for Smith) – from memory. 5 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1236,6 +1273,8 @@
         "uG": 5,
         "uA": 1,
         "uS": 5,
+        "uOpp": 0.7,
+        "uOppN": 6,
         "ntGP": 7,
         "ntG": 5,
         "ntA": 2,
@@ -1280,6 +1319,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 3,
+        "uOpp": 1.07,
+        "uOppN": 1,
         "ntGP": 7,
         "ntG": 2,
         "ntA": 2,
@@ -1310,7 +1351,8 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Coppa_Italia",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Italian champion 1977/78; European Cup semi-finals (Club Brugge); Italy 4th at the World Cup. 28 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1977–78 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Semi-finals). Changed: gp 32→33, g 12→11, uG 2→1."
       },
@@ -1458,6 +1500,8 @@
         "uG": 4,
         "uA": 1,
         "uS": 5,
+        "uOpp": 1.16,
+        "uOppN": 3,
         "ntGP": 3,
         "ntG": 1,
         "ntA": 0,
@@ -1488,7 +1532,8 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
           "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Winning goal in the 1978 European Cup final (Club Brugge). Scotland knocked out in the first round (goal vs the Netherlands). 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1977–78 European Cup: Final). Changed: gp 48→51, g 25→24, uG 3→4. Awards: not found on Wikipedia: league top scorer."
       },
@@ -1504,6 +1549,8 @@
         "uG": 4,
         "uA": 1,
         "uS": 3,
+        "uOpp": 0.76,
+        "uOppN": 5,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1531,7 +1578,8 @@
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_European_Cup",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_Bundesliga",
           "https://en.wikipedia.org/wiki/1977%E2%80%9378_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). European Cup semi-finals 77/78 (Liverpool). Denmark not at the World Cup. 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); continental competition/stage from the edition page (1977–78 European Cup: Semi-finals); to verify: club, title."
       },
@@ -1649,6 +1697,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.85,
+        "uOppN": 2,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1694,6 +1744,8 @@
         "uG": 5,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.49,
+        "uOppN": 5,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1783,6 +1835,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 0,
+        "uOpp": 0.85,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1810,7 +1864,8 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Bundesliga",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Right-back (“bananenflanke” crosses) of champions HSV. 27 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage."
       },
@@ -1826,6 +1881,8 @@
         "uG": 0,
         "uA": 1,
         "uS": 1,
+        "uOpp": 0.83,
+        "uOppN": 4,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1854,7 +1911,8 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup_Winners'_Cup",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Coupe_de_France",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Nancy 1978/79 only 18–19gp/12g in the league (injury; search). Saint-Étienne since Jul 1979 (UEFA Cup 79/80 Oct–Dec in gp/uG). 23 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 UEFA Cup Winners' Cup: Second round). Changed: gp 33→19, g 18→12, uG 3→0, uS 0→1. Awards: not found on Wikipedia: cup winner."
       },
@@ -1913,6 +1971,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 5,
+        "uOpp": 1.05,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -1943,7 +2003,8 @@
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Football_League",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_European_Cup",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_FA_Cup",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Transferred from Birmingham in Feb 1979 (the first £1M); only eligible in Europe for the final, where he scored the winner (Malmö). Summer in the NASL (excluded). 13 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1978–79 European Cup: Final). Changed: gp 32→44, g 15→24, uG 3→1. Awards: not found on Wikipedia: league top scorer."
       },
@@ -2035,7 +2096,7 @@
       },
       {
         "name": "Zdeněk Nehoda",
-        "club": "Dukla Praha",
+        "club": "Dukla Prague",
         "lg": "TCH",
         "pos": "FW",
         "gp": 33,
@@ -2045,6 +2106,8 @@
         "uG": 1,
         "uA": 0,
         "uS": 1,
+        "uOpp": 0.86,
+        "uOppN": 3,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2071,7 +2134,8 @@
           "https://en.wikipedia.org/wiki/Zden%C4%9Bk_Nehoda",
           "https://en.wikipedia.org/wiki/1978%E2%80%9379_Czechoslovak_First_League",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1978%E2%80%9379_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Czechoslovak champion 1978/79. UEFA Cup 78/79: knocked out in the 3rd round (Stuttgart) in Dec 1978 (from memory). 8 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: cup page."
       },
@@ -2137,6 +2201,8 @@
         "uG": 5,
         "uA": 2,
         "uS": 3,
+        "uOpp": 1.14,
+        "uOppN": 5,
         "ntGP": 4,
         "ntG": 1,
         "ntA": 2,
@@ -2167,7 +2233,8 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1980%E2%80%9381_European_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). BL top scorer 1979/80 and 1980/81 (from memory). German champion 1979/80; 79/80 UEFA Cup semi-finals. Corner for Hrubesch's decisive goal in the Euro final. 122 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Semi-finals). Changed: g 33→34, ntG 0→1."
       },
@@ -2229,6 +2296,8 @@
         "uG": 5,
         "uA": 2,
         "uS": 2,
+        "uOpp": 0.97,
+        "uOppN": 6,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2257,7 +2326,8 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_French_Division_1",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Coupe_de_France",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup 79/80: quarter-finals (Gladbach); 80/81 Oct–Dec (incl. 5–0 in Hamburg) in gp/uG. France not at the Euro. 33 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1979–80 UEFA Cup: Quarter-finals). Changed: gp 44→40, g 22→21, uG 4→5. Awards: not found on Wikipedia: cup winner."
       },
@@ -2359,6 +2429,8 @@
         "uG": 7,
         "uA": 1,
         "uS": 4,
+        "uOpp": 0.74,
+        "uOppN": 10,
         "ntGP": 3,
         "ntG": 2,
         "ntA": 0,
@@ -2387,7 +2459,8 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup",
           "https://en.wikipedia.org/wiki/UEFA_Euro_1980",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
-          "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+          "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+          "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 European Cup (Forest), 2 goals in the Euro 1980 final (from memory). 18 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1979–80 European Cup: Final). Changed: gp 42→43, g 26→28, uG 6→7, ntGP 2→3."
       },
@@ -2446,6 +2519,8 @@
         "uG": 3,
         "uA": 2,
         "uS": 3,
+        "uOpp": 0.69,
+        "uOppN": 4,
         "ntGP": 4,
         "ntG": 0,
         "ntA": 1,
@@ -2474,7 +2549,8 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_UEFA_Cup",
+          "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). UEFA Cup semi-finals 79/80 (Gladbach). European national-team champion. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },
@@ -2490,6 +2566,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 4,
+        "uOpp": 0.58,
+        "uOppN": 1,
         "ntGP": 0,
         "ntG": 0,
         "ntA": 0,
@@ -2517,7 +2595,8 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Football_League",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_FA_Cup",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup_Winners'_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup_Winners'_Cup",
+          "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 Cup Winners' Cup (missed a penalty vs Valencia); Juventus since Aug 1980. Ireland not at the Euro. 11 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); to verify: club, title, European stage. Awards: not found on Wikipedia: league top scorer."
       },
@@ -2533,6 +2612,8 @@
         "uG": 1,
         "uA": 1,
         "uS": 4,
+        "uOpp": 0.85,
+        "uOppN": 3,
         "ntGP": 4,
         "ntG": 0,
         "ntA": 1,
@@ -2561,7 +2642,8 @@
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_Bundesliga",
           "https://en.wikipedia.org/wiki/1979%E2%80%9380_DFB-Pokal",
           "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup"
+          "https://en.wikipedia.org/wiki/1979%E2%80%9380_European_Cup",
+          "https://en.wikipedia.org/wiki/1980%E2%80%9381_UEFA_Cup"
         ],
         "note": "Position/points confirmed via web search (Wikipedia/RSSSF/topendsports). Losing finalist in the 1980 European Cup; European national-team champion. 10 pts. Statistics: calendar-year split ESTIMATED (share of Jan–Jun / Aug–Dec rounds and European ties by date); WebFetch blocked in this session, so no number was confirmed match by match. Second pass: club statistics not verified (no usable career table); national team counted from the Wikipedia line-ups; to verify: club, title, European stage."
       },

@@ -114,6 +114,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.39,
+    "uOppN": 3,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 1,
@@ -145,7 +147,8 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
     "note": "121 pts. Confirmed: 27 PL goals in 2005/06 (top scorer) and 10 goals in 17 gp in the 2006/07 PL. Jan–Dec split, UCL and assists estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: gp 41→37."
    },
@@ -161,6 +164,8 @@
     "uG": 4,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.92,
+    "uOppN": 4,
     "ntGP": 5,
     "ntG": 0,
     "ntA": 1,
@@ -192,7 +197,8 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
     "note": "73 pts. Confirmed: 2005/06 17 Liga goals + 7 UCL; 2006/07 21 Liga + 2 UCL. Games and Jan–Dec split estimated. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: gp 44→41, g 21→23."
    },
@@ -252,6 +258,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.02,
+    "uOppN": 4,
     "ntGP": 4,
     "ntG": 5,
     "ntA": 0,
@@ -281,7 +289,8 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_Africa_Cup_of_Nations",
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
     "note": "67 pts. AFCON 2006 (Jan–Feb): top scorer, knocked out in the quarter-finals on penalties. Meniscus injury Sep 2006–Feb 2007. Cameroon did not go to the World Cup. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Final). Changed: gp 26→34, uG 3→4."
    },
@@ -297,6 +306,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.22,
+    "uOppN": 0,
     "ntGP": 7,
     "ntG": 5,
     "ntA": 2,
@@ -326,7 +337,8 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
     "note": "29 pts. Bundesliga 2005/06: top scorer and top assister (≈25 g/14 a); Golden Boot at the 2006 World Cup. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Round of 16). Changed: gp 39→35, g 19→29, uG 1→4."
    },
@@ -342,6 +354,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.09,
+    "uOppN": 5,
     "ntGP": 6,
     "ntG": 3,
     "ntA": 0,
@@ -371,7 +385,8 @@
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006_Africa_Cup_of_Nations",
      "https://en.wikipedia.org/wiki/2005%E2%80%9306_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League"
     ],
     "note": "25 pts. Also played the 2006 World Cup (≈2 gp, 1 g, group stage); AFCON 2006 (final lost on penalties) was chosen as the more relevant campaign. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2005–06 UEFA Champions League: Round of 16). Changed: gp 40→41, g 22→24."
    },
@@ -488,6 +503,8 @@
     "uG": 7,
     "uA": 4,
     "uS": 5,
+    "uOpp": 1.19,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -516,13 +533,14 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "444 pts. UCL top scorer 2006/07 (10 g). Did not play the 2007 Copa América. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Final). Changed: gp 42→40, g 19→17."
    },
    {
     "name": "Cristiano Ronaldo",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "W",
     "gp": 44,
@@ -532,6 +550,8 @@
     "uG": 8,
     "uA": 3,
     "uS": 3,
+    "uOpp": 1.04,
+    "uOppN": 8,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -561,7 +581,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "277 pts. Calendar-year numbers (league 31 gp/18 g/6 a; UCL 11 gp/8 g/3 a) from messivsronaldo.app (fan site, match by match), read via a search summary; single source. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Semi-finals). Changed: gp 42→44."
    },
@@ -577,6 +598,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.14,
+    "uOppN": 4,
     "ntGP": 6,
     "ntG": 2,
     "ntA": 2,
@@ -607,7 +630,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "255 pts. Club in the calendar year (league 32 gp/19 g/6 a; UCL 7 gp/4 g/1 a) from messivsronaldo.app. Copa América 2007 (final lost) from memory, assists estimated. Played on the right wing. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 39→35, g 23→19, uG 4→3."
    },
@@ -623,6 +647,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1.04,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -651,7 +677,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "108 pts (RSSSF: 106). Knee surgery Nov 2007. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Semi-finals). Changed: g 18→17."
    },
@@ -667,6 +694,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.14,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -695,7 +724,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "41 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Final). Changed: gp 44→43, g 3→7, uG 1→3."
    },
@@ -711,6 +741,8 @@
     "uG": 6,
     "uA": 0,
     "uS": 1,
+    "uOpp": 1.09,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -739,7 +771,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_La_Liga",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "39 pts. Pichichi 2006/07 (25 goals). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 40→44, g 27→31, uG 4→6."
    },
@@ -755,6 +788,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.04,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -783,7 +818,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "31 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 37→33, g 23→22."
    },
@@ -799,6 +835,8 @@
     "uG": 5,
     "uA": 2,
     "uS": 1,
+    "uOpp": 0.93,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -827,7 +865,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Premier_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "27 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 45→43, g 11→13, uG 4→5."
    },
@@ -843,6 +882,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.95,
+    "uOppN": 4,
     "ntGP": 6,
     "ntG": 6,
     "ntA": 1,
@@ -872,7 +913,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "24 pts. Top scorer of the 2007 Copa América (winner). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Round of 16). Changed: gp 39→40."
    },
@@ -888,6 +930,8 @@
     "uG": 2,
     "uA": 2,
     "uS": 2,
+    "uOpp": 1.06,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -916,7 +960,8 @@
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Serie_A",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2006%E2%80%9307_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League"
     ],
     "note": "20 pts. Capocannoniere and European Golden Shoe 2006/07 (26 goals). Retired from the national team after 2006. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2006–07 UEFA Champions League: Quarter-finals). Changed: gp 41→37, g 26→25, uG 3→2."
    }
@@ -933,7 +978,7 @@
   "rows": [
    {
     "name": "Cristiano Ronaldo",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "W",
     "gp": 43,
@@ -943,6 +988,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 5,
+    "uOpp": 1.25,
+    "uOppN": 2,
     "ntGP": 3,
     "ntG": 1,
     "ntA": 1,
@@ -974,7 +1021,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "446 pts. Club in the calendar year (league 33 gp/26 g/9 a; UCL 11 gp/3 g/1 a) from messivsronaldo.app; Euro 2008 from memory (missed the game against Switzerland). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Final). Changed: gp 44→43."
    },
@@ -990,6 +1038,8 @@
     "uG": 8,
     "uA": 3,
     "uS": 3,
+    "uOpp": 1,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1020,7 +1070,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_La_Liga",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "281 pts. Calendar year (league 27 gp/12 g/13 a; UCL 9 gp/7 g/3 a) from messivsronaldo.app (fan site; single source; another source gives 9 league goals). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Barcelona: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 36→38, g 19→23, uG 7→8."
    },
@@ -1036,6 +1087,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1.37,
+    "uOppN": 3,
     "ntGP": 5,
     "ntG": 2,
     "ntA": 1,
@@ -1066,7 +1119,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "179 pts. Goal in the Euro 2008 final. Muscle injuries in autumn 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2008–09 Liverpool: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 36→38, g 22→26."
    },
@@ -1128,6 +1182,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.04,
+    "uOppN": 3,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 1,
@@ -1158,7 +1214,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "97 pts. Player of Euro 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2007–08 Barcelona: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 44→46, g 5→10, uG 1→4."
    },
@@ -1174,6 +1231,8 @@
     "uG": 2,
     "uA": 5,
     "uS": 5,
+    "uOpp": 0.94,
+    "uOppN": 2,
     "ntGP": 3,
     "ntG": 2,
     "ntA": 1,
@@ -1202,7 +1261,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Russian_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "64 pts. Russian calendar-year league (Mar–Nov 2008). Won the 2007/08 UEFA Cup; uG/uA also include the UCL 2008/09 group stage. Suspended for the first 2 games of the Euro. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Cup: Final). Changed: gp 38→41, g 10→8, uG 3→2."
    },
@@ -1218,6 +1278,8 @@
     "uG": 3,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.52,
+    "uOppN": 1,
     "ntGP": 4,
     "ntG": 4,
     "ntA": 0,
@@ -1248,7 +1310,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Cup"
     ],
     "note": "55 pts. Top scorer of Euro 2008 (injured in the semi-final, missed the final). Valencia knocked out in the UCL 2007/08 group stage; uG includes the 2008/09 UEFA Cup (groups). Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Group stage). Changed: gp 34→35, g 26→21, uG 1→3."
    },
@@ -1264,6 +1327,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.15,
+    "uOppN": 1,
     "ntGP": 3,
     "ntG": 2,
     "ntA": 0,
@@ -1294,7 +1359,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2008",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "30 pts (8th/9th order with Kaká uncertain). Knee injury Feb–May 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Round of 16). Changed: gp 34→38, g 18→19."
    },
@@ -1310,6 +1376,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.75,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1339,7 +1407,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Serie_A",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Cup"
     ],
     "note": "29 pts (The National: 8th with 31). uG includes the 2008/09 UEFA Cup (groups). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Round of 16). Changed: gp 32→38, g 14→15, uG 1→0."
    },
@@ -1355,6 +1424,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.15,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1384,7 +1455,8 @@
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_Premier_League",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2007%E2%80%9308_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League"
     ],
     "note": "28 pts. England did not qualify for Euro 2008. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2008–09 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2007–08 UEFA Champions League: Semi-finals). Changed: gp 44→43, g 20→18, uG 5→6."
    }
@@ -1411,6 +1483,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.15,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1440,13 +1514,14 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "473 pts. Calendar year (league 30 gp/22 g/10 a; UCL 12 gp/6 g/2 a) from messivsronaldo.app (fan site; single source). Right winger until May 2009, then false 9. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 42→43."
    },
    {
     "name": "Cristiano Ronaldo",
-    "club": "Man United / Real Madrid",
+    "club": "Manchester United / Real Madrid",
     "lg": "EPL",
     "pos": "W",
     "gp": 40,
@@ -1456,6 +1531,8 @@
     "uG": 10,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.01,
+    "uOppN": 10,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1485,7 +1562,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "233 pts. Calendar year (league 26 gp/17 g/4 a; UCL 11 gp/10 g/2 a) from messivsronaldo.app. Ankle injury Oct–Nov 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 37→40."
    },
@@ -1501,6 +1579,8 @@
     "uG": 1,
     "uA": 4,
     "uS": 5,
+    "uOpp": 0.93,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1529,7 +1609,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "170 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 45→46, uG 0→1."
    },
@@ -1545,6 +1626,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.49,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1573,7 +1656,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "149 pts. Goal at Stamford Bridge (UCL semi-finals). Thigh injury in autumn 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 30→36, g 3→4."
    },
@@ -1589,6 +1673,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.97,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1617,7 +1703,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_La_Liga",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "75 pts. Goal in the UCL 2009 final; transferred to Inter in Jul 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: gp 46→47, g 24→27."
    },
@@ -1633,6 +1720,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.95,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1661,7 +1750,9 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Serie_A",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Cup",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "58 pts. Continental edition ending in 2009 for Milan = UEFA Cup 2008/09 (knocked out in the round of 32); uG includes the UCL 2009/10 groups with Real. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Cup: Round of 32). Changed: gp 34→33, g 15→13."
    },
@@ -1677,6 +1768,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.3,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1705,13 +1798,14 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Serie_A",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "50 pts. Capocannoniere 2008/09; transferred to Barcelona in Jul 2009. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Round of 16). Changed: gp 37→38, g 22→27."
    },
    {
     "name": "Wayne Rooney",
-    "club": "Man United",
+    "club": "Manchester United",
     "lg": "EPL",
     "pos": "FW",
     "gp": 44,
@@ -1721,6 +1815,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.2,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1749,7 +1845,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "35 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Final). Changed: g 23→22, uG 3→1."
    },
@@ -1765,6 +1862,8 @@
     "uG": 7,
     "uA": 2,
     "uS": 3,
+    "uOpp": 1.02,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1793,7 +1892,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "33 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Semi-finals). Changed: gp 44→37, g 24→25."
    },
@@ -1809,6 +1909,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 2,
+    "uOpp": 1.29,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1837,7 +1939,8 @@
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/2008%E2%80%9309_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League"
     ],
     "note": "32 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 2008–09 Liverpool: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (2008–09 UEFA Champions League: Quarter-finals). Changed: gp 38→43, g 15→17, uG 3→4."
    }

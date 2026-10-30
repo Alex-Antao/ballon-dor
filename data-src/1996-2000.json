@@ -66,6 +66,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.34,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -96,7 +98,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_La_Liga",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup_Winners'_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 143 pts (FF: 141). PSV's 1995/96 UEFA Cup: quarter-finals (Barcelona), Ronaldo's participation uncertain (knee injury). 1996 Olympic Games do not count. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Cup: Quarter-finals). Changed: gp 26→27, g 22→14."
    },
@@ -112,6 +115,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 1,
+    "uOpp": 0.87,
+    "uOppN": 1,
     "ntGP": 5,
     "ntG": 5,
     "ntA": 1,
@@ -142,7 +147,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 107 pts (FF: 109). UCL 1995/96: Blackburn last in the 16-team group stage (before the window). uG = UEFA Cup 1996/97 (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1996–97 Newcastle United: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Champions League: Group stage). Changed: g 27→25."
    },
@@ -158,6 +164,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.99,
+    "uOppN": 4,
     "ntGP": 1,
     "ntG": 0,
     "ntA": 0,
@@ -188,7 +196,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 69 pts (FF: 65). Euro 96: games (1–2) uncertain. 1996 Intercontinental Cup excluded. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Champions League: Final). Changed: gp 36→34, g 11→12."
    },
@@ -204,6 +213,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.49,
+    "uOppN": 4,
     "ntGP": 4,
     "ntG": 3,
     "ntA": 0,
@@ -234,7 +245,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 60 pts. UEFA Cup 1995/96 won (15 goals in the edition; ~5 in the calendar year). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Bayern Munich: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Cup: Final). Changed: gp 38→41, g 19→21, uG 5→8."
    },
@@ -250,6 +262,8 @@
     "uG": 4,
     "uA": 0,
     "uS": 1,
+    "uOpp": 1.25,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 3,
     "ntA": 1,
@@ -279,7 +293,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 38 pts. Sevilla out of the 1995/96 UEFA Cup before the window; Real Madrid without Europe in 1996/97. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Cup: Third round). Changed: gp 33→38, g 19→20, uG 0→4, uS 0→1."
    },
@@ -295,6 +310,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.65,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -324,7 +341,8 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 24 pts. No European knockout competition in 1996 (UEFA Cup 1995/96 lost in the 1st round, Cantona suspended); uG = UCL 1996/97 group. Not called up for Euro 96. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Cup: First round). Changed: gp 40→38, g 16→19, uG 1→2, uT →UEL."
    },
@@ -386,6 +404,8 @@
     "uG": 3,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.66,
+    "uOppN": 3,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 1,
@@ -416,13 +436,15 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_Coupe_de_France",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 20 pts. Cup Winners' Cup 1995/96 won by PSG. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Cup Winners' Cup: Final). Changed: gp 39→38, g 16→15, uG 4→3."
    },
    {
     "name": "Karel Poborský",
-    "club": "Slavia Praga / Manchester United",
+    "club": "Slavia Prague / Manchester United",
     "lg": "CZE",
     "pos": "W",
     "gp": 34,
@@ -432,6 +454,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1,
+    "uOppN": 1,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 1,
@@ -461,7 +485,9 @@
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
      "https://en.wikipedia.org/wiki/1995%E2%80%9396_Czech_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 15 pts. lg CZE = Czech league (first division of the Czech Republic). Slavia champions 1995/96 and UEFA Cup semi-finals 1995/96. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1995–96 Viktoria Žižkov, 1995–96 Slavia Prague: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1995–96 UEFA Cup: Semi-finals). Changed: gp 36→34, g 7→8."
    },
@@ -527,6 +553,8 @@
     "uG": 6,
     "uA": 2,
     "uS": 5,
+    "uOpp": 0.83,
+    "uOppN": 8,
     "ntGP": 6,
     "ntG": 5,
     "ntA": 2,
@@ -557,7 +585,10 @@
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1997_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 222 pts. Cup Winners' Cup 1996/97 won (goal in the final, penalty). Copa América 1997 won. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1997–98 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1996–97 UEFA Cup Winners' Cup: Final). Changed: gp 45→47, g 34→41, uG 5→6."
    },
@@ -573,6 +604,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1.13,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -619,6 +652,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.17,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -648,7 +683,8 @@
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_Serie_A",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 63 pts. UCL 1997 final lost to Dortmund. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1996–97 UEFA Champions League: Final). Changed: gp 41→40, g 8→9, uG 2→4."
    },
@@ -664,6 +700,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.34,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -693,7 +731,8 @@
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 53 pts (another source: 57). Arsenal went out in the 1st round of the 1996/97 UEFA Cup (before the window). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1997–98 Arsenal: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1996–97 UEFA Cup: First round). Changed: gp 32→28, g 18→16."
    },
@@ -709,6 +748,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1.16,
+    "uOppN": 2,
     "ntGP": 6,
     "ntG": 0,
     "ntA": 1,
@@ -756,6 +797,8 @@
     "uG": 1,
     "uA": 3,
     "uS": 5,
+    "uOpp": 1.13,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -785,7 +828,8 @@
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_Bundesliga",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 40 pts. European champion 1997. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1996–97 UEFA Champions League: Final). Changed: gp 40→35, g 9→6, uG 2→1."
    },
@@ -801,6 +845,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1.17,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -892,6 +938,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 1.07,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -921,7 +969,8 @@
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_Bundesliga",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_DFB-Pokal",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 17 pts (RSSSF copy: 15). European champion 1997. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1996–97 UEFA Champions League: Final). Changed: g 2→3, uG 0→1."
    },
@@ -982,6 +1031,8 @@
     "uG": 7,
     "uA": 0,
     "uS": 4,
+    "uOpp": 0.74,
+    "uOppN": 7,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1012,7 +1063,9 @@
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_La_Liga",
      "https://en.wikipedia.org/wiki/1996%E2%80%9397_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 16 pts (tied 10th). Juventus Jan–Jun (champions 1996/97, UCL final lost) and Atlético Aug–Dec; games split ~16/16, lg LL by choice (more goals). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1996–97 UEFA Champions League: Final). Changed: gp 32→33, g 23→22, uG 3→7."
    },
@@ -1079,6 +1132,8 @@
     "uG": 1,
     "uA": 2,
     "uS": 4,
+    "uOpp": 1.08,
+    "uOppN": 1,
     "ntGP": 5,
     "ntG": 2,
     "ntA": 1,
@@ -1109,7 +1164,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 244 pts. Sent off against Saudi Arabia (2-game ban); 2 goals in the final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Champions League: Final). Changed: g 5→6."
    },
@@ -1125,6 +1181,8 @@
     "uG": 1,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.76,
+    "uOppN": 1,
     "ntGP": 7,
     "ntG": 6,
     "ntA": 1,
@@ -1155,7 +1213,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 68 pts. Golden Boot at the 1998 World Cup. Participation in the UCL 1997/98 knockout phase uncertain (substitute). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1998–99 Real Madrid: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Champions League: Final). Changed: gp 36→31, g 14→7, uG 3→1."
    },
@@ -1171,6 +1230,8 @@
     "uG": 4,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.11,
+    "uOppN": 4,
     "ntGP": 7,
     "ntG": 4,
     "ntA": 3,
@@ -1201,7 +1262,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 66 pts. UEFA Cup 1997/98 won (goal in the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1997–98 Inter Milan: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Cup: Final)."
    },
@@ -1217,6 +1279,8 @@
     "uG": 2,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.41,
+    "uOppN": 2,
     "ntGP": 4,
     "ntG": 2,
     "ntA": 0,
@@ -1247,7 +1311,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 51 pts. UEFA Cup 1997/98: knocked out before the window; uG = UEFA Cup 1998/99 (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Cup: Second round). Changed: gp 38→39, g 24→27, uG 3→2."
    },
@@ -1263,6 +1328,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 1,
+    "uOpp": 1.19,
+    "uOppN": 3,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 3,
@@ -1293,7 +1360,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 45 pts. UCL 1997/98: Barça knocked out in the group stage (24 teams). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Champions League: Group stage). Changed: gp 38→39, g 22→18, uS 0→1."
    },
@@ -1309,6 +1377,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.85,
+    "uOppN": 1,
     "ntGP": 5,
     "ntG": 5,
     "ntA": 0,
@@ -1402,6 +1472,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 4,
+    "uOpp": 0.92,
+    "uOppN": 0,
     "ntGP": 6,
     "ntG": 1,
     "ntA": 0,
@@ -1433,7 +1505,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 28 pts (tied 8th). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1997–98 Juventus: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Champions League: Final). Changed: gp 38→31, ntGP 7→6."
    },
@@ -1449,6 +1522,8 @@
     "uG": 2,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.88,
+    "uOppN": 1,
     "ntGP": 7,
     "ntG": 3,
     "ntA": 2,
@@ -1479,7 +1554,8 @@
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup",
      "https://en.wikipedia.org/wiki/1997%E2%80%9398_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 28 pts (tied 8th). Arsenal champions 1997/98 (double). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1997–98 Arsenal: half of the totals); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1997–98 UEFA Cup: First round). Changed: gp 31→33, g 11→14, uG 1→2, ntGP 6→7."
    },
@@ -1495,6 +1571,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 0,
+    "uOpp": 0.8,
+    "uOppN": 1,
     "ntGP": 7,
     "ntG": 0,
     "ntA": 0,
@@ -1592,6 +1670,8 @@
     "uG": 5,
     "uA": 2,
     "uS": 0,
+    "uOpp": 0.99,
+    "uOppN": 5,
     "ntGP": 6,
     "ntG": 5,
     "ntA": 2,
@@ -1622,7 +1702,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1999_Copa_Am%C3%A9rica",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 219 pts. UCL 1998/99: knocked out in the group stage (24 teams); uG = UCL 1999/00 (autumn). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Cup: Second round). Changed: gp 42→43, g 28→30, uG 6→5, uT UCL→UEL."
    },
@@ -1638,6 +1719,8 @@
     "uG": 1,
     "uA": 4,
     "uS": 5,
+    "uOpp": 0.52,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1667,7 +1750,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 154 pts. Treble 1998/99 (2 corners for goals in the final). 1999 Intercontinental Cup excluded. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Champions League: Final). Changed: gp 46→43, g 7→5."
    },
@@ -1683,6 +1767,8 @@
     "uG": 6,
     "uA": 1,
     "uS": 3,
+    "uOpp": 1.14,
+    "uOppN": 6,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1713,7 +1799,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Serie_A",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 64 pts. Dynamo Ukrainian champions 1998/99 and UCL semi-finals 1998/99; Milan Aug–Dec. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (no match page for 1998–99 Dynamo Kyiv: half of the totals); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Champions League: Semi-finals). Changed: gp 35→39, g 28→25, uG 7→6."
    },
@@ -1729,6 +1816,8 @@
     "uG": 4,
     "uA": 1,
     "uS": 0,
+    "uOpp": 1.05,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1758,7 +1847,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Serie_A",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 48 pts. UEFA Cup 1998/99 ended before the window; uG = UCL 1999/00 (autumn). Did not play the 1999 Copa América. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Cup: Second round). Changed: gp 35→37, g 21→19."
    },
@@ -1774,6 +1864,8 @@
     "uG": 3,
     "uA": 3,
     "uS": 0,
+    "uOpp": 0.98,
+    "uOppN": 3,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1803,7 +1895,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_La_Liga",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 38 pts. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Cup: Second round). Changed: g 9→13, uG 2→3, uT UCL→UEL."
    },
@@ -1819,6 +1912,8 @@
     "uG": 5,
     "uA": 1,
     "uS": 5,
+    "uOpp": 0.85,
+    "uOppN": 5,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1848,7 +1943,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_FA_Premier_League",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 36 pts. Suspended for the UCL 1999 final. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Champions League: Final). Changed: g 7→11, uG 2→5."
    },
@@ -1864,6 +1960,8 @@
     "uG": 1,
     "uA": 0,
     "uS": 5,
+    "uOpp": 0.3,
+    "uOppN": 1,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1893,7 +1991,9 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Serie_A",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup_Winners'_Cup",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 33 pts. Cup Winners' Cup 1998/99 won (goal in the final). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Cup Winners' Cup: Final). Changed: gp 26→23, g 17→20, uG 2→1."
    },
@@ -1909,6 +2009,8 @@
     "uG": 0,
     "uA": 3,
     "uS": 5,
+    "uOpp": 0.79,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1938,7 +2040,10 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Serie_A",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Cup_Winners'_Cup",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 30 pts. UEFA Cup 1998/99 won by Parma. Presence at the 1999 Copa América not confirmed (assumed absent). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1998–99 UEFA Cup: Final). Changed: gp 43→39, g 5→6, uG 2→0."
    },
@@ -1954,6 +2059,8 @@
     "uG": 3,
     "uA": 1,
     "uS": 2,
+    "uOpp": 0.83,
+    "uOppN": 0,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -1983,7 +2090,8 @@
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_La_Liga",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1998%E2%80%9399_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 27 pts. Pichichi 1998/99. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1998–99 UEFA Champions League: Quarter-finals). Changed: gp 44→45, g 23→28, uG 4→3."
    },
@@ -2094,6 +2202,8 @@
     "uG": 4,
     "uA": 3,
     "uS": 3,
+    "uOpp": 0.99,
+    "uOppN": 4,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 2,
@@ -2124,7 +2234,9 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2000",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 197 pts. Transfer to Real Madrid in July 2000. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Champions League: Semi-finals). Changed: gp 47→45, g 15→14."
    },
@@ -2140,6 +2252,8 @@
     "uG": 0,
     "uA": 1,
     "uS": 1,
+    "uOpp": 0.9,
+    "uOppN": 0,
     "ntGP": 5,
     "ntG": 1,
     "ntA": 2,
@@ -2170,7 +2284,8 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2000",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 181 pts. Juve knocked out of the 1999/00 UEFA Cup before the window; uG = UCL 2000/01 (headbutt on Kientz, 5-game ban). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Cup: Fourth round). Changed: gp 32→35, uG 1→0, ntG 2→1, uS 0→1."
    },
@@ -2186,6 +2301,8 @@
     "uG": 8,
     "uA": 1,
     "uS": 0,
+    "uOpp": 0.79,
+    "uOppN": 4,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2215,7 +2332,8 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Serie_A",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 85 pts. UCL 1999/00: knocked out in the first group stage. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Champions League: First group stage). Changed: gp 35→41, g 27→32."
    },
@@ -2231,6 +2349,8 @@
     "uG": 7,
     "uA": 3,
     "uS": 4,
+    "uOpp": 1.01,
+    "uOppN": 7,
     "ntGP": 5,
     "ntG": 3,
     "ntA": 1,
@@ -2263,7 +2383,8 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Cup",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2000",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 57 pts. 2000 UEFA Cup final lost on penalties. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Cup: Final). Changed: gp 49→48, g 29→32, uG 8→7, ntGP 6→5."
    },
@@ -2325,6 +2446,8 @@
     "uG": 13,
     "uA": 2,
     "uS": 3,
+    "uOpp": 0.98,
+    "uOppN": 13,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2354,7 +2477,9 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_La_Liga",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 39 pts (tied 5th). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; continental competition/stage from the edition page (1999–2000 UEFA Champions League: Semi-finals); to verify: title. Changed: gp 44→46, g 26→28, uG 8→13."
    },
@@ -2370,6 +2495,8 @@
     "uG": 3,
     "uA": 0,
     "uS": 1,
+    "uOpp": 1.2,
+    "uOppN": 2,
     "ntGP": 0,
     "ntG": 0,
     "ntA": 0,
@@ -2399,7 +2526,9 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Serie_A",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Coppa_Italia",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Cup",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Cup"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 26 pts. Fiorentina in the second group stage of the UCL 1999/00 (=1). Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Champions League: Second group stage). Changed: gp 35→34, g 27→29."
    },
@@ -2415,6 +2544,8 @@
     "uG": 6,
     "uA": 4,
     "uS": 4,
+    "uOpp": 1.2,
+    "uOppN": 4,
     "ntGP": 4,
     "ntG": 2,
     "ntA": 1,
@@ -2445,7 +2576,8 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2000",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Copa_del_Rey",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 22 pts. UCL 2000 final lost. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages (small mismatch with the career table; scaled); games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Champions League: Final). Changed: gp 49→47, g 18→19, uG 5→6, ntG 1→2."
    },
@@ -2461,6 +2593,8 @@
     "uG": 10,
     "uA": 2,
     "uS": 5,
+    "uOpp": 1.09,
+    "uOppN": 0,
     "ntGP": 4,
     "ntG": 1,
     "ntA": 0,
@@ -2491,7 +2625,8 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_Copa_del_Rey",
      "https://en.wikipedia.org/wiki/European_Golden_Shoe",
-     "https://en.wikipedia.org/wiki/UEFA_Euro_2000"
+     "https://en.wikipedia.org/wiki/UEFA_Euro_2000",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 18 pts. Goal in the UCL 2000 final. Missed a penalty in the Euro quarter-final. Second pass: league + Europe for the season ending in the year, from the career table (no season pages with matches to split the calendar year: win S); title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Champions League: Final); to verify: national team. Changed: gp 50→49, g 30→27."
    },
@@ -2553,6 +2688,8 @@
     "uG": 1,
     "uA": 3,
     "uS": 2,
+    "uOpp": 1.3,
+    "uOppN": 1,
     "ntGP": 3,
     "ntG": 0,
     "ntA": 3,
@@ -2583,7 +2720,8 @@
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League",
      "https://en.wikipedia.org/wiki/UEFA_Euro_2000",
      "https://en.wikipedia.org/wiki/1999%E2%80%932000_FA_Cup",
-     "https://en.wikipedia.org/wiki/European_Golden_Shoe"
+     "https://en.wikipedia.org/wiki/European_Golden_Shoe",
+     "https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League"
     ],
     "note": "Statistics estimated from memory (calendar-year split estimated from the seasons); NOT verified on the web because of the search limit. Position/points verified. 10 pts (tied 10th). Man Utd champions 1999/00. Second pass: season totals from the career table; calendar-year goals counted match by match on the season pages; games estimated from the share of the club's games in the year; national team counted from the Wikipedia line-ups; title from the league page; continental competition/stage from the edition page (1999–2000 UEFA Champions League: Quarter-finals). Changed: gp 42→45, g 11→15, uG 3→1."
    },

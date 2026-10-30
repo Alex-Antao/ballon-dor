@@ -66,6 +66,33 @@
   },
   {
    "cfg": [
+    2000,
+    null,
+    0.1
+   ],
+   "hits": 9,
+   "meanRank": 1.875
+  },
+  {
+   "cfg": [
+    2005,
+    10,
+    0.005
+   ],
+   "hits": 9,
+   "meanRank": 1.875
+  },
+  {
+   "cfg": [
+    -25,
+    10,
+    0.02
+   ],
+   "hits": 9,
+   "meanRank": 1.875
+  },
+  {
+   "cfg": [
     1990,
     10,
     0.005
@@ -75,7 +102,7 @@
   },
   {
    "cfg": [
-    2005,
+    2000,
     10,
     0.005
    ],
@@ -87,6 +114,24 @@
     1980,
     null,
     0.005
+   ],
+   "hits": 9,
+   "meanRank": 2.0
+  },
+  {
+   "cfg": [
+    1990,
+    null,
+    0.1
+   ],
+   "hits": 9,
+   "meanRank": 2.0
+  },
+  {
+   "cfg": [
+    -20,
+    10,
+    0.1
    ],
    "hits": 9,
    "meanRank": 2.0
@@ -112,11 +157,38 @@
   {
    "cfg": [
     -10,
+    null,
+    0.1
+   ],
+   "hits": 9,
+   "meanRank": 2.4375
+  },
+  {
+   "cfg": [
+    -10,
+    20,
+    0.1
+   ],
+   "hits": 9,
+   "meanRank": 2.4375
+  },
+  {
+   "cfg": [
+    -10,
     5,
     0.02
    ],
    "hits": 9,
-   "meanRank": 2.5
+   "meanRank": 2.4375
+  },
+  {
+   "cfg": [
+    -10,
+    5,
+    0.1
+   ],
+   "hits": 9,
+   "meanRank": 2.4375
   },
   {
    "cfg": [
@@ -186,24 +258,6 @@
     1980,
     10,
     0.02
-   ],
-   "hits": 8,
-   "meanRank": 1.9375
-  },
-  {
-   "cfg": [
-    2000,
-    null,
-    0.02
-   ],
-   "hits": 8,
-   "meanRank": 1.9375
-  },
-  {
-   "cfg": [
-    2000,
-    null,
-    0.1
    ],
    "hits": 8,
    "meanRank": 1.9375
@@ -212,7 +266,7 @@
    "cfg": [
     -25,
     10,
-    0.02
+    0.005
    ],
    "hits": 8,
    "meanRank": 1.9375
@@ -274,8 +328,26 @@
   {
    "cfg": [
     2000,
-    10,
+    null,
     0.005
+   ],
+   "hits": 8,
+   "meanRank": 2.0
+  },
+  {
+   "cfg": [
+    2000,
+    null,
+    0.02
+   ],
+   "hits": 8,
+   "meanRank": 2.0
+  },
+  {
+   "cfg": [
+    2005,
+    20,
+    0.02
    ],
    "hits": 8,
    "meanRank": 2.0
@@ -285,6 +357,15 @@
     2005,
     5,
     0.005
+   ],
+   "hits": 8,
+   "meanRank": 2.0
+  },
+  {
+   "cfg": [
+    -25,
+    null,
+    0.1
    ],
    "hits": 8,
    "meanRank": 2.0
@@ -301,15 +382,6 @@
   {
    "cfg": [
     1980,
-    null,
-    0.1
-   ],
-   "hits": 8,
-   "meanRank": 2.0625
-  },
-  {
-   "cfg": [
-    1990,
     null,
     0.1
    ],
@@ -327,8 +399,8 @@
   },
   {
    "cfg": [
-    2005,
-    20,
+    2000,
+    10,
     0.02
    ],
    "hits": 8,
@@ -336,9 +408,9 @@
   },
   {
    "cfg": [
-    -20,
+    2005,
     10,
-    0.1
+    0.02
    ],
    "hits": 8,
    "meanRank": 2.0625
@@ -372,18 +444,18 @@
   },
   {
    "cfg": [
-    2000,
-    5,
-    0.02
+    -10,
+    10,
+    0.005
    ],
    "hits": 8,
    "meanRank": 2.125
   },
   {
    "cfg": [
-    2005,
-    10,
-    0.02
+    -10,
+    5,
+    0.005
    ],
    "hits": 8,
    "meanRank": 2.125
@@ -391,6 +463,15 @@
   {
    "cfg": [
     1990,
+    5,
+    0.02
+   ],
+   "hits": 8,
+   "meanRank": 2.1875
+  },
+  {
+   "cfg": [
+    2000,
     5,
     0.02
    ],
@@ -409,38 +490,11 @@
   {
    "cfg": [
     -10,
-    10,
-    0.005
-   ],
-   "hits": 8,
-   "meanRank": 2.25
-  },
-  {
-   "cfg": [
-    -10,
-    5,
-    0.005
-   ],
-   "hits": 8,
-   "meanRank": 2.25
-  },
-  {
-   "cfg": [
-    -25,
-    10,
-    0.1
-   ],
-   "hits": 8,
-   "meanRank": 2.25
-  },
-  {
-   "cfg": [
-    -10,
     20,
     0.02
    ],
    "hits": 8,
-   "meanRank": 2.375
+   "meanRank": 2.25
   },
   {
    "cfg": [
@@ -449,7 +503,7 @@
     0.02
    ],
    "hits": 8,
-   "meanRank": 2.375
+   "meanRank": 2.25
   },
   {
    "cfg": [
@@ -458,34 +512,43 @@
     0.02
    ],
    "hits": 8,
+   "meanRank": 2.25
+  },
+  {
+   "cfg": [
+    -15,
+    10,
+    0.005
+   ],
+   "hits": 8,
+   "meanRank": 2.25
+  },
+  {
+   "cfg": [
+    -25,
+    10,
+    0.1
+   ],
+   "hits": 8,
+   "meanRank": 2.25
+  },
+  {
+   "cfg": [
+    -15,
+    5,
+    0.02
+   ],
+   "hits": 8,
    "meanRank": 2.375
   },
   {
    "cfg": [
     -10,
-    null,
+    10,
     0.1
    ],
    "hits": 8,
-   "meanRank": 2.625
-  },
-  {
-   "cfg": [
-    -10,
-    20,
-    0.1
-   ],
-   "hits": 8,
-   "meanRank": 2.625
-  },
-  {
-   "cfg": [
-    -10,
-    5,
-    0.1
-   ],
-   "hits": 8,
-   "meanRank": 2.625
+   "meanRank": 2.5
   },
   {
    "cfg": [
@@ -570,27 +633,9 @@
   },
   {
    "cfg": [
-    2000,
-    null,
-    0.005
-   ],
-   "hits": 7,
-   "meanRank": 2.0625
-  },
-  {
-   "cfg": [
-    -25,
-    null,
+    -20,
+    20,
     0.1
-   ],
-   "hits": 7,
-   "meanRank": 2.0625
-  },
-  {
-   "cfg": [
-    -25,
-    10,
-    0.005
    ],
    "hits": 7,
    "meanRank": 2.0625
@@ -661,6 +706,15 @@
   {
    "cfg": [
     2000,
+    20,
+    0.02
+   ],
+   "hits": 7,
+   "meanRank": 2.125
+  },
+  {
+   "cfg": [
+    2000,
     5,
     0.005
    ],
@@ -678,9 +732,9 @@
   },
   {
    "cfg": [
-    -20,
-    20,
-    0.1
+    -25,
+    null,
+    0.005
    ],
    "hits": 7,
    "meanRank": 2.125
@@ -741,8 +795,17 @@
   },
   {
    "cfg": [
-    2000,
-    20,
+    -10,
+    null,
+    0.005
+   ],
+   "hits": 7,
+   "meanRank": 2.1875
+  },
+  {
+   "cfg": [
+    -10,
+    null,
     0.02
    ],
    "hits": 7,
@@ -750,9 +813,9 @@
   },
   {
    "cfg": [
-    2000,
-    10,
-    0.02
+    -10,
+    20,
+    0.005
    ],
    "hits": 7,
    "meanRank": 2.1875
@@ -795,33 +858,6 @@
   },
   {
    "cfg": [
-    -10,
-    null,
-    0.005
-   ],
-   "hits": 7,
-   "meanRank": 2.3125
-  },
-  {
-   "cfg": [
-    -10,
-    null,
-    0.02
-   ],
-   "hits": 7,
-   "meanRank": 2.3125
-  },
-  {
-   "cfg": [
-    -10,
-    20,
-    0.005
-   ],
-   "hits": 7,
-   "meanRank": 2.3125
-  },
-  {
-   "cfg": [
     -15,
     null,
     0.005
@@ -849,35 +885,44 @@
   },
   {
    "cfg": [
-    -15,
+    1956,
+    null,
+    0.005
+   ],
+   "hits": 7,
+   "meanRank": 2.375
+  },
+  {
+   "cfg": [
+    1956,
+    null,
+    0.02
+   ],
+   "hits": 7,
+   "meanRank": 2.375
+  },
+  {
+   "cfg": [
+    1956,
+    null,
+    0.1
+   ],
+   "hits": 7,
+   "meanRank": 2.375
+  },
+  {
+   "cfg": [
+    2000,
+    5,
+    0.1
+   ],
+   "hits": 7,
+   "meanRank": 2.375
+  },
+  {
+   "cfg": [
+    2005,
     10,
-    0.005
-   ],
-   "hits": 7,
-   "meanRank": 2.3125
-  },
-  {
-   "cfg": [
-    1956,
-    null,
-    0.005
-   ],
-   "hits": 7,
-   "meanRank": 2.375
-  },
-  {
-   "cfg": [
-    1956,
-    null,
-    0.02
-   ],
-   "hits": 7,
-   "meanRank": 2.375
-  },
-  {
-   "cfg": [
-    1956,
-    null,
     0.1
    ],
    "hits": 7,
@@ -894,17 +939,8 @@
   },
   {
    "cfg": [
-    2000,
+    -25,
     5,
-    0.1
-   ],
-   "hits": 7,
-   "meanRank": 2.4375
-  },
-  {
-   "cfg": [
-    2005,
-    10,
     0.1
    ],
    "hits": 7,
@@ -939,39 +975,12 @@
   },
   {
    "cfg": [
-    -25,
-    5,
-    0.1
-   ],
-   "hits": 7,
-   "meanRank": 2.5
-  },
-  {
-   "cfg": [
-    -15,
-    5,
-    0.02
-   ],
-   "hits": 7,
-   "meanRank": 2.625
-  },
-  {
-   "cfg": [
-    -10,
-    10,
-    0.1
-   ],
-   "hits": 7,
-   "meanRank": 2.6875
-  },
-  {
-   "cfg": [
     2005,
     5,
     0.1
    ],
    "hits": 7,
-   "meanRank": 2.8125
+   "meanRank": 2.5625
   },
   {
    "cfg": [
@@ -1020,6 +1029,15 @@
   },
   {
    "cfg": [
+    1956,
+    20,
+    0.1
+   ],
+   "hits": 6,
+   "meanRank": 2.125
+  },
+  {
+   "cfg": [
     -25,
     null,
     0.02
@@ -1031,19 +1049,28 @@
    "cfg": [
     1956,
     20,
-    0.1
+    0.005
    ],
    "hits": 6,
    "meanRank": 2.1875
   },
   {
    "cfg": [
-    -25,
-    null,
-    0.005
+    1956,
+    20,
+    0.02
    ],
    "hits": 6,
    "meanRank": 2.1875
+  },
+  {
+   "cfg": [
+    -15,
+    5,
+    0.005
+   ],
+   "hits": 6,
+   "meanRank": 2.5
   },
   {
    "cfg": [
@@ -1061,7 +1088,16 @@
     0.1
    ],
    "hits": 6,
-   "meanRank": 2.8125
+   "meanRank": 2.6875
+  },
+  {
+   "cfg": [
+    -15,
+    10,
+    0.1
+   ],
+   "hits": 6,
+   "meanRank": 3.0625
   },
   {
    "cfg": [
@@ -1075,47 +1111,11 @@
   {
    "cfg": [
     -15,
-    10,
-    0.1
-   ],
-   "hits": 6,
-   "meanRank": 3.1875
-  },
-  {
-   "cfg": [
-    1956,
-    20,
-    0.005
-   ],
-   "hits": 5,
-   "meanRank": 2.3125
-  },
-  {
-   "cfg": [
-    1956,
-    20,
-    0.02
-   ],
-   "hits": 5,
-   "meanRank": 2.3125
-  },
-  {
-   "cfg": [
-    -15,
-    5,
-    0.005
-   ],
-   "hits": 5,
-   "meanRank": 2.625
-  },
-  {
-   "cfg": [
-    -15,
     null,
     0.1
    ],
    "hits": 5,
-   "meanRank": 2.8125
+   "meanRank": 2.6875
   },
   {
    "cfg": [
@@ -1136,18 +1136,15 @@
   "backward": [
    "prod",
    "uWin",
-   "uProd",
    "ntStage",
    "ntWin",
-   "wcFinal",
-   "ntProd",
    "contTeam",
    "isAtt",
    "prodXtitle"
   ],
   "backwardRes": [
-   12,
-   1.375
+   13,
+   1.3125
   ],
   "forward": [
    "prod",
@@ -1164,23 +1161,20 @@
   "chosen": [
    "prod",
    "uWin",
-   "uProd",
    "ntStage",
    "ntWin",
-   "wcFinal",
-   "ntProd",
    "contTeam",
    "isAtt",
    "prodXtitle"
   ],
   "cfg": [
-   2005,
-   null,
-   0.005
+   -25,
+   20,
+   0.1
   ],
   "res": [
-   12,
-   1.375
+   14,
+   1.4375
   ],
   "ranks": {
    "2010": 1,
@@ -1188,12 +1182,12 @@
    "2012": 1,
    "2013": 1,
    "2014": 1,
-   "2015": 2,
+   "2015": 1,
    "2016": 1,
    "2017": 1,
-   "2018": 2,
+   "2018": 7,
    "2019": 1,
-   "2021": 4,
+   "2021": 1,
    "2022": 1,
    "2023": 2,
    "2024": 1,
@@ -3334,25 +3328,25 @@
   },
   "2024": {
    "weights": [
-    0.324,
-    0.0578,
-    0.0913,
-    0.1672,
-    0.0797,
+    0.3192,
+    0.0567,
+    0.101,
+    0.1779,
+    0.0828,
     0.0,
-    0.1649,
-    0.0652,
+    0.1711,
+    0.0542,
     0.0,
     3.0,
-    0.0036,
-    0.0,
-    2.4575,
     0.0,
     0.0,
-    0.1088,
-    0.1009,
+    2.4622,
     0.0,
-    0.046
+    0.0,
+    0.1001,
+    0.1171,
+    0.0,
+    0.0474
    ],
    "train": [
     2005,
@@ -3368,25 +3362,25 @@
   },
   "2025": {
    "weights": [
-    0.324,
-    0.0578,
-    0.0913,
-    0.1672,
-    0.0797,
+    0.3192,
+    0.0567,
+    0.101,
+    0.1779,
+    0.0828,
     0.0,
-    0.1649,
-    0.0652,
+    0.1711,
+    0.0542,
     0.0,
     3.0,
-    0.0036,
-    0.0,
-    2.4575,
     0.0,
     0.0,
-    0.1088,
-    0.1009,
+    2.4622,
     0.0,
-    0.046
+    0.0,
+    0.1001,
+    0.1171,
+    0.0,
+    0.0474
    ],
    "train": [
     2005,
@@ -3402,59 +3396,59 @@
   },
   "2026": {
    "weights": [
-    0.3487,
-    0.0798,
-    0.1094,
-    0.1469,
-    0.0625,
-    0.0424,
-    0.1774,
-    0.0871,
-    0.0077,
-    3.0,
-    0.0,
-    0.0115,
-    2.4645,
+    0.2866,
     0.0,
     0.0,
-    0.0895,
-    0.0634,
+    0.0279,
+    0.0349,
+    0.004,
+    0.1137,
+    0.0368,
+    0.0356,
+    2.0935,
     0.0,
-    0.0481
+    0.0,
+    1.7557,
+    0.0,
+    0.0683,
+    0.0938,
+    0.0907,
+    0.0,
+    0.0
    ],
    "train": [
-    2005,
+    2001,
     2025
    ],
    "cfg": [
-    2005,
-    null,
-    0.005
+    -25,
+    10,
+    0.02
    ],
-   "label": "train from 2005, no recency weight, reg 0.005",
-   "rank": 1
+   "label": "train on the last 25 years, half-life 10 years, reg 0.02",
+   "rank": 2
   },
   "2027": {
    "weights": [
-    0.1146,
-    0.0183,
+    0.1224,
+    0.0177,
     0.0,
-    0.0635,
-    0.0269,
-    0.0526,
-    0.055,
-    0.0441,
+    0.0544,
+    0.0344,
+    0.047,
+    0.057,
+    0.0393,
     0.0,
-    0.9221,
+    0.9163,
     0.0,
-    0.0072,
-    0.7677,
+    0.011,
+    0.7631,
     0.0,
-    0.0238,
-    0.0407,
-    0.0011,
+    0.0256,
+    0.0426,
+    0.0018,
     0.0,
-    0.0414
+    0.042
    ],
    "train": [
     1980,
@@ -3469,8 +3463,8 @@
   }
  },
  "nestedWindow": {
-  "hits": 9,
-  "meanRank": 1.8125,
+  "hits": 8,
+  "meanRank": 1.875,
   "ranks": {
    "2010": 6,
    "2011": 1,
@@ -3487,7 +3481,7 @@
    "2023": 2,
    "2024": 1,
    "2025": 2,
-   "2026": 1
+   "2026": 2
   }
  },
  "temporalOld": [
@@ -3527,36 +3521,36 @@
    2026
   ],
   "weights": {
-   "prod": 0.1146,
-   "uStage": 0.0183,
-   "uProd": 0.0635,
-   "ntStage": 0.0269,
-   "ntWin": 0.0526,
-   "wcFinal": 0.055,
-   "ntProd": 0.0441,
-   "contTeam": 0.9221,
-   "uProdRel": 0.0072,
-   "isAtt": 0.7677,
-   "uFinal": 0.0238,
-   "uWinXprod": 0.0407,
-   "ntWinXatt": 0.0011,
-   "prodXtitle": 0.0414
+   "prod": 0.1224,
+   "uStage": 0.0177,
+   "uProd": 0.0544,
+   "ntStage": 0.0344,
+   "ntWin": 0.047,
+   "wcFinal": 0.057,
+   "ntProd": 0.0393,
+   "contTeam": 0.9163,
+   "uProdRel": 0.011,
+   "isAtt": 0.7631,
+   "uFinal": 0.0256,
+   "uWinXprod": 0.0426,
+   "ntWinXatt": 0.0018,
+   "prodXtitle": 0.042
   }
  },
  "memorisedFit": [
   {
    "extra": null,
    "desc": "the 19 criteria only",
-   "inSample": 14,
-   "temporal": 9,
-   "temporalRank": 1.8125
+   "inSample": 15,
+   "temporal": 8,
+   "temporalRank": 1.875
   },
   {
    "extra": "bdoWins",
    "desc": "Ballon d'Or wins before",
    "inSample": 16,
-   "temporal": 7,
-   "temporalRank": 2.375
+   "temporal": 8,
+   "temporalRank": 2.1875
   },
   {
    "extra": "prevWinner",
@@ -3570,77 +3564,77 @@
    "desc": "Podiums in the previous 3 years",
    "inSample": 16,
    "temporal": 8,
-   "temporalRank": 2.1875
+   "temporalRank": 2.3125
   },
   {
    "extra": "topScorer",
    "desc": "Top scorer among the candidates",
-   "inSample": 15,
+   "inSample": 16,
    "temporal": 9,
    "temporalRank": 1.875
   },
   {
    "extra": "uTopScorer",
    "desc": "Top European scorer among the candidates",
-   "inSample": 14,
-   "temporal": 9,
-   "temporalRank": 1.8125
+   "inSample": 15,
+   "temporal": 8,
+   "temporalRank": 1.875
   },
   {
    "extra": "ntTopScorer",
    "desc": "Top national-team tournament scorer among the candidates",
-   "inSample": 14,
-   "temporal": 6,
-   "temporalRank": 2.1875
+   "inSample": 15,
+   "temporal": 5,
+   "temporalRank": 2.25
   },
   {
    "extra": "ntWinMid",
    "desc": "National-team champion who is not an attacker",
-   "inSample": 14,
-   "temporal": 7,
-   "temporalRank": 2.0
+   "inSample": 15,
+   "temporal": 8,
+   "temporalRank": 1.9375
   },
   {
    "extra": "wcFinalMid",
    "desc": "World Cup finalist who is not an attacker",
    "inSample": 16,
-   "temporal": 9,
-   "temporalRank": 1.9375
+   "temporal": 10,
+   "temporalRank": 1.8125
   },
   {
    "extra": "uWinMid",
    "desc": "European champion (UCL) who is not an attacker",
-   "inSample": 14,
-   "temporal": 9,
-   "temporalRank": 1.8125
+   "inSample": 15,
+   "temporal": 8,
+   "temporalRank": 1.9375
   },
   {
    "extra": "double",
    "desc": "European (UCL) and national-team champion in the same year",
-   "inSample": 14,
+   "inSample": 15,
    "temporal": 8,
-   "temporalRank": 2.25
+   "temporalRank": 2.125
   },
   {
    "extra": "leagueUcl",
    "desc": "League and European (UCL) champion in the same year",
-   "inSample": 14,
-   "temporal": 9,
-   "temporalRank": 1.8125
+   "inSample": 15,
+   "temporal": 8,
+   "temporalRank": 1.875
   }
  ],
  "awardStudy": [
   {
    "extra": [],
    "desc": "the 19 criteria only",
-   "inSample": 14,
+   "inSample": 15,
    "old": [
     16,
     49
    ],
    "oldRank": 3.5714285714285716,
-   "hits": 9,
-   "meanRank": 1.8125,
+   "hits": 8,
+   "meanRank": 1.875,
    "ranks": {
     "2010": 6,
     "2011": 1,
@@ -3657,7 +3651,7 @@
     "2023": 2,
     "2024": 1,
     "2025": 2,
-    "2026": 1
+    "2026": 2
    }
   },
   {
@@ -3665,13 +3659,13 @@
     "cup"
    ],
    "desc": "Domestic cup winner",
-   "inSample": 15,
+   "inSample": 16,
    "old": [
     16,
     49
    ],
    "oldRank": 3.5306122448979593,
-   "hits": 8,
+   "hits": 7,
    "meanRank": 2.125,
    "ranks": {
     "2010": 5,
@@ -3686,9 +3680,9 @@
     "2019": 3,
     "2021": 4,
     "2022": 1,
-    "2023": 3,
+    "2023": 2,
     "2024": 1,
-    "2025": 1,
+    "2025": 2,
     "2026": 1
    }
   },
@@ -3697,7 +3691,7 @@
     "trophies"
    ],
    "desc": "Major trophies in the year (league, cup, continental, national team)",
-   "inSample": 15,
+   "inSample": 16,
    "old": [
     17,
     49
@@ -3768,7 +3762,7 @@
    ],
    "oldRank": 3.5714285714285716,
    "hits": 8,
-   "meanRank": 1.9375,
+   "meanRank": 2.0,
    "ranks": {
     "2010": 6,
     "2011": 1,
@@ -3782,7 +3776,7 @@
     "2019": 1,
     "2021": 4,
     "2022": 1,
-    "2023": 2,
+    "2023": 3,
     "2024": 1,
     "2025": 2,
     "2026": 1
@@ -3799,8 +3793,8 @@
     49
    ],
    "oldRank": 3.36734693877551,
-   "hits": 9,
-   "meanRank": 2.5625,
+   "hits": 8,
+   "meanRank": 1.8125,
    "ranks": {
     "2010": 1,
     "2011": 1,
@@ -3814,10 +3808,10 @@
     "2019": 1,
     "2021": 5,
     "2022": 1,
-    "2023": 1,
-    "2024": 4,
-    "2025": 8,
-    "2026": 7
+    "2023": 2,
+    "2024": 2,
+    "2025": 2,
+    "2026": 2
    }
   },
   {
@@ -3825,7 +3819,7 @@
     "ntTop"
    ],
    "desc": "Top scorer of the national-team tournament",
-   "inSample": 14,
+   "inSample": 15,
    "old": [
     17,
     49
@@ -3863,8 +3857,8 @@
     49
    ],
    "oldRank": 3.5714285714285716,
-   "hits": 6,
-   "meanRank": 2.25,
+   "hits": 7,
+   "meanRank": 2.1875,
    "ranks": {
     "2010": 6,
     "2011": 1,
@@ -3879,7 +3873,7 @@
     "2021": 4,
     "2022": 1,
     "2023": 2,
-    "2024": 2,
+    "2024": 1,
     "2025": 2,
     "2026": 3
    }
@@ -3986,9 +3980,9 @@
     "2021": 1,
     "2022": 1,
     "2023": 2,
-    "2024": 3,
-    "2025": 2,
-    "2026": 6
+    "2024": 2,
+    "2025": 6,
+    "2026": 3
    }
   }
  ],
@@ -4026,7 +4020,7 @@
     "oldRank": 3.306122448979592,
     "hits": 9,
     "meanRank": 1.875,
-    "fragile": 18,
+    "fragile": 17,
     "fragileYears": [
      1966,
      1969,
@@ -4044,7 +4038,6 @@
      2010,
      2019,
      2021,
-     2024,
      2026
     ],
     "ranks": {
@@ -4095,7 +4088,7 @@
     ],
     "oldRank": 3.673469387755102,
     "hits": 6,
-    "meanRank": 3.1875,
+    "meanRank": 3.0,
     "fragile": 0,
     "fragileYears": [],
     "ranks": {
@@ -4112,7 +4105,7 @@
      "2021": 6,
      "2022": 1,
      "2023": 2,
-     "2024": 10,
+     "2024": 7,
      "2025": 2,
      "2026": 3
     }
@@ -4147,7 +4140,7 @@
     ],
     "oldRank": 3.6122448979591835,
     "hits": 7,
-    "meanRank": 3.125,
+    "meanRank": 2.875,
     "fragile": 0,
     "fragileYears": [],
     "ranks": {
@@ -4164,9 +4157,9 @@
      "2021": 6,
      "2022": 1,
      "2023": 1,
-     "2024": 7,
-     "2025": 6,
-     "2026": 4
+     "2024": 5,
+     "2025": 5,
+     "2026": 3
     }
    },
    {
@@ -4198,8 +4191,8 @@
      49
     ],
     "oldRank": 3.5714285714285716,
-    "hits": 9,
-    "meanRank": 1.8125,
+    "hits": 8,
+    "meanRank": 1.875,
     "fragile": 12,
     "fragileYears": [
      1963,
@@ -4231,7 +4224,7 @@
      "2023": 2,
      "2024": 1,
      "2025": 2,
-     "2026": 1
+     "2026": 2
     }
    },
    {
@@ -4309,7 +4302,7 @@
     }
    }
   ],
-  "adopted": "V3"
+  "adopted": "V0"
  },
  "nlStudy": {
   "rule": "one variant fixed beforehand (Finals at weight 0.4, not fitted); adopt only if 2010–2026 hits >= without the Finals and the mean rank of the real winner in 2019–2026 is not worse",
@@ -4321,9 +4314,9 @@
      16,
      49
     ],
-    "hits": 9,
-    "meanRank": 1.8125,
-    "lateRank": 1.8571428571428572,
+    "hits": 8,
+    "meanRank": 1.875,
+    "lateRank": 2.0,
     "ranks": {
      "2010": 6,
      "2011": 1,
@@ -4340,7 +4333,7 @@
      "2023": 2,
      "2024": 1,
      "2025": 2,
-     "2026": 1
+     "2026": 2
     }
    },
    {
@@ -4350,9 +4343,9 @@
      16,
      49
     ],
-    "hits": 8,
-    "meanRank": 2.0,
-    "lateRank": 2.2857142857142856,
+    "hits": 9,
+    "meanRank": 1.9375,
+    "lateRank": 2.142857142857143,
     "ranks": {
      "2010": 6,
      "2011": 1,
@@ -4366,8 +4359,8 @@
      "2019": 2,
      "2021": 5,
      "2022": 1,
-     "2023": 2,
-     "2024": 3,
+     "2023": 3,
+     "2024": 1,
      "2025": 2,
      "2026": 1
     }
