@@ -1,7 +1,8 @@
 // Builds the forecast for the next Ballon d'Or (season 2026/27, award in 2027) from live data.
 //   football-data.org: standings, scorers (goals, assists, games) of 7 leagues and the Champions League, CL stages
-//   Wikipedia (verify/ tools): Europa/Conference League stage, domestic cup winners, Golden Shoe, 2027 national-team
-//   tournaments (AFC Asian Cup, Africa Cup of Nations, Gold Cup) and their top scorer / best player
+//   Wikipedia (verify/ tools): Europa/Conference League stage and goals (match boxes, qualifiers left out), domestic
+//   cup winners, Golden Shoe, 2027 national-team tournaments (AFC Asian Cup, Africa Cup of Nations, Gold Cup) and their
+//   top scorer / best player
 // Writes forecast/2027.json (rows in the data-src format plus each model's ranking) and appends forecast/history.json.
 // Usage: node forecast/update.js   (needs FOOTBALL_DATA_TOKEN; FD_FIXTURES=<dir> runs offline from saved responses,
 //        NO_WIKI=1 skips Wikipedia, AS_OF=YYYY-MM-DD overrides the date, FORECAST_OUT=<dir> writes elsewhere)
@@ -206,7 +207,7 @@ function currentClub(W, title) {
   return m ? W.wp.strip(m[1]).trim() : null;
 }
 
-// Wikipedia: Europa/Conference League stage (clubs not in the CL), cup winner, Golden Shoe, 2027 tournaments.
+// Wikipedia: Europa/Conference League stage and goals (clubs not in the CL), cup winner, Golden Shoe, 2027 tournaments.
 // handKept = the club came from candidates.json, so it is checked against the infobox.
 function wiki(W, r, team, notes, warnings, handKept) {
   const club = team.shortName || team.name;
@@ -216,8 +217,18 @@ function wiki(W, r, team, notes, warnings, handKept) {
       if (cur && !sameTeam(cur, team)) warnings.push(`${r.name}: Wikipedia says the current club is ${cur}, not ${team.name} as in candidates.json (transfer?)`);
     }
     if (!r.uT) {
-      const e = W.eu.euStage(`${SEASON}–${String(SEASON + 1).slice(2)}`, YEAR, { link: null, names: [club, team.name] });
-      if (e && !e.none && e.uS != null) { r.uT = e.uT; r.uS = e.uS; r.sources.push('https://en.wikipedia.org/wiki/' + encodeURI(e.edition.replace(/ /g, '_'))); notes.push(`${e.edition}: ${e.reached}`); }
+      // the edition pages link clubs by their short name ("Benfica" for "SL Benfica")
+      const bare = n => n.replace(/\b(FC|CF|SL|SC|AS|AC|SV|SSC|RC|CD|UD|AFC|OSC|SK|BC)\b\.?/g, '').replace(/\s+/g, ' ').trim();
+      const names = [...new Set([club, team.name].flatMap(n => [n, bare(n)]))].filter(n => n.length >= 4);
+      const e = W.eu.euStage(`${SEASON}–${String(SEASON + 1).slice(2)}`, YEAR, { link: null, names });
+      if (e && !e.none && e.level > 0) {
+        const ed = W.wp.rawT(e.edition).title || e.edition;   // "UEFA Europa Conference League" redirects to the new name
+        r.uT = e.uT; r.uS = e.uS; r.sources.push('https://en.wikipedia.org/wiki/' + encodeURI(ed.replace(/ /g, '_')));
+        // football-data.org only covers the Champions League: games and goals in this competition from its match boxes
+        const so = euSoFar(W, ed, r.name, team);
+        Object.assign(r, { gp: r.gp + so.gp, g: r.g + so.g, gpNow: r.gpNow + so.gp, gNow: r.gNow + so.g, uG: so.g });
+        notes.push(`${ed}: ${e.reached.toLowerCase()}, ${so.g} goal${so.g === 1 ? '' : 's'} in the club's ${so.gp} matches so far (Wikipedia match boxes; assists unknown)`);
+      }
     }
     const aw = W.aw.awards(r, YEAR, 'P');
     r.cup = aw.o.cup; r.gs = aw.o.gs;
@@ -271,6 +282,20 @@ function expectLeague(so, played, rounds, share, prior) {
   const rate = (x, p) => (x + K * p) / (so.gp + K);
   return { gp: Math.round(so.gp + rest), g: Math.round(so.g + rest * rate(so.g, prior.g)),
            a: Math.round(so.a == null ? (so.gp + rest) * prior.a : so.a + rest * rate(so.a, prior.a)) };
+}
+// Goals in a Europa/Conference League edition from the match boxes of its league-phase, knockout-phase and final
+// pages (qualifiers left out, as in the data); games = the club's matches played so far.
+function euSoFar(W, ed, name, team) {
+  const seen = new Set(), o = { gp: 0, g: 0 };
+  for (const t of [`${ed} league phase`, `${ed} knockout phase`, `${ed} final`]) {
+    for (const m of W.wp.matches(t)) {
+      const side = sameTeam(m.team1, team) ? m.goals1 : sameTeam(m.team2, team) ? m.goals2 : null;
+      if (side == null || !/\d/.test(m.score) || seen.has(m.date + m.team1 + m.team2)) continue;
+      seen.add(m.date + m.team1 + m.team2); o.gp++;
+      for (const [who, n] of Object.entries(W.wp.scorers(side))) if (samePerson(who, name)) o.g += n;
+    }
+  }
+  return o;
 }
 // This season's rows of a player's Wikipedia career table: { lg: [games, goals], eu: [games, goals] } or null.
 function seasonSoFar(W, title, warnings, name) {

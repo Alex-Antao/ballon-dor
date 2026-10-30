@@ -1,7 +1,7 @@
 // Stage a club reached in a European edition, read from the edition page (distance to the final).
 const W = require('./wp.js');
 
-const ROUND = /preliminary|qualifying|first round|second round|third round|fourth round|round of 32|round of 16|eighth|last 16|last 32|play-off round|knockout round play-offs|group stage|first group|second group|^group [a-h]$|quarter|semi|^finals?$/i;
+const ROUND = /preliminary|qualifying|first round|second round|third round|fourth round|round of 32|round of 16|eighth|last 16|last 32|play-off round|knockout (round|phase) play-offs|group stage|league phase|first group|second group|^group [a-h]$|quarter|semi|^finals?$/i;
 const SKIP = /bracket|goalscorer|scorer|statistic|seed|draw|team|distribution|ranking|notes|references|see also|external|leg$|replay|^play-off$|venue|format|prize|squad/i;
 
 function editions(season, y) {
@@ -35,7 +35,7 @@ function roundSections(title, depth = 0) {
     if (SKIP.test(h.txt) || !ROUND.test(h.txt)) continue;
     let txt = body;
     // group stage / final on another page
-    if (main && (/group/i.test(h.txt) || /^finals?$/i.test(h.txt) || body.length < 1500)) txt += W.raw(main.trim()).slice(0, 1e7);
+    if (main && (/group|league phase/i.test(h.txt) || /^finals?$/i.test(h.txt) || body.length < 1500)) txt += W.raw(main.trim()).slice(0, 1e7);
     for (const m of body.matchAll(/\{\{\s*(?::|#lst:|#section-h:)([^|}#]+)/gi)) txt += W.raw(m[1].trim()).slice(0, 8000);
     // "Group A" belongs to the group stage that contains it
     let name = h.txt;
@@ -101,14 +101,17 @@ function euStage(season, y, club) {
       const nm = secs[reached].name;
       let uS;
       if (fi >= 0 && reached === fi) uS = mentions(champion(ed), club) ? 5 : 4;
-      else uS = fi >= 0 ? Math.max(0, 4 - (fi - reached)) : null;
-      const ko = !/group|qualif|preliminary/i.test(nm);
-      found.push({ uT, uS, edition: ed, reached: nm, ko, rounds: secs.map(s => s.name) });
+      else if (fi >= 0) uS = Math.max(0, 4 - (fi - reached));
+      // edition still running (no final yet): the stage by the round's name
+      else uS = /semi/i.test(nm) ? 3 : /quarter/i.test(nm) ? 2 : /round of 16|eighth|last 16/i.test(nm) ? 1 : 0;
+      // 0 = only the qualifying rounds, 1 = group or league phase, 2 = knockout rounds
+      const level = /qualif|preliminary|^play-off round$/i.test(nm) ? 0 : /group|league phase/i.test(nm) ? 1 : 2;
+      found.push({ uT, uS, edition: ed, reached: nm, ko: level === 2, level, rounds: secs.map(s => s.name) });
       break;
     }
   }
   const order = ['UCL', 'CWC', 'UEL', 'ECL', 'LIB'];
-  found.sort((a, b) => (b.ko - a.ko) || (order.indexOf(a.uT) - order.indexOf(b.uT)));
+  found.sort((a, b) => (b.level - a.level) || (order.indexOf(a.uT) - order.indexOf(b.uT)));
   if (!found.length) return pages >= 2 ? { none: true, pages } : null;   // club absent from the editions checked
   return found[0];
 }
