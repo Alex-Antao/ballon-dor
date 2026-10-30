@@ -3,12 +3,14 @@
 //   Wikipedia (verify/ tools): Europa/Conference League stage and goals (match boxes, qualifiers left out), domestic
 //   cup winners, Golden Shoe, 2027 national-team tournaments (AFC Asian Cup, Africa Cup of Nations, Gold Cup) and their
 //   top scorer / best player
+//   Football API (forecast/football-api.js, optional, key RAPIDAPI_KEY): Europa/Conference League assists
 // Writes forecast/2027.json (rows in the data-src format plus each model's ranking) and appends forecast/history.json.
 // Usage: node forecast/update.js   (needs FOOTBALL_DATA_TOKEN; FD_FIXTURES=<dir> runs offline from saved responses,
 //        NO_WIKI=1 skips Wikipedia, AS_OF=YYYY-MM-DD overrides the date, FORECAST_OUT=<dir> writes elsewhere)
 const fs = require('fs');
 const path = require('path');
 const FD = require('./football-data.js');
+const FA = require('./football-api.js');
 const { YEARS, leagueStrength } = require('../data.js');
 const M = require('../models.js');
 
@@ -173,6 +175,18 @@ async function main() {
     if (wk) r.sources.push('https://en.wikipedia.org/wiki/' + encodeURI(W.aw.titleOf(name, YEAR).replace(/ /g, '_')));
     r.note = notes.join('; ') + '.';
     rows.push(r);
+  }
+
+  // Europa/Conference League assists (and a check of the goals) from the Football API, when its key is set
+  if (W && FA.available()) for (const r of rows.filter(r => r.uT === 'UEL' || r.uT === 'ECL')) {
+    try {
+      const s = await FA.euStats(r.name, r.uT, samePerson);
+      if (!s) { warnings.push(`${r.name}: not found at the Football API (${r.uT} assists unknown)`); continue; }
+      if (s.g !== r.uG) warnings.push(`${r.name}: ${s.g} ${r.uT} goals at the Football API, ${r.uG} in the Wikipedia match boxes`);
+      Object.assign(r, { uA: s.a, uANow: s.a, a: r.a + s.a, aNow: r.aNow == null ? null : r.aNow + s.a });
+      r.note = r.note.replace('(Wikipedia match boxes; assists unknown)', `(Wikipedia match boxes; ${s.a} assist${s.a === 1 ? '' : 's'} from the Football API)`);
+      r.sources.push('https://football-api.yuvron.online');
+    } catch (e) { warnings.push(`${r.name}: Football API not read (${e.message})`); }
   }
 
   // ---------- models ----------

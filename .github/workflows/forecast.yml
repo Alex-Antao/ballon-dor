@@ -34,6 +34,8 @@ jobs:
       - name: Update the forecast
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+          # optional: without it the Europa/Conference League assists stay unknown
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: node forecast/update.js
       - name: Check the forecast
         run: node --test tests/unit/forecast.test.js
