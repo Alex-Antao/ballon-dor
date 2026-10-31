@@ -127,5 +127,134 @@
     43.9921
    ]
   ]
+ },
+ {
+  "date": "2026-10-31",
+  "pred": [
+   [
+    "Lamine Yamal",
+    0.9524
+   ],
+   [
+    "Erling Haaland",
+    0.9391
+   ],
+   [
+    "Harry Kane",
+    0.9363
+   ],
+   [
+    "Raphinha",
+    0.9325
+   ],
+   [
+    "Kylian Mbappé",
+    0.9076
+   ],
+   [
+    "Michael Olise",
+    0.9014
+   ],
+   [
+    "Donyell Malen",
+    0.8785
+   ],
+   [
+    "Fermín López",
+    0.8745
+   ],
+   [
+    "Nico Paz",
+    0.8668
+   ],
+   [
+    "Lautaro Martínez",
+    0.8624
+   ]
+  ],
+  "fair": [
+   [
+    "Raphinha",
+    75.7771
+   ],
+   [
+    "Lamine Yamal",
+    72.7491
+   ],
+   [
+    "Kylian Mbappé",
+    67.4929
+   ],
+   [
+    "Michael Olise",
+    64.202
+   ],
+   [
+    "Erling Haaland",
+    64.1614
+   ],
+   [
+    "Harry Kane",
+    62.0408
+   ],
+   [
+    "Niclas Füllkrug",
+    58.4878
+   ],
+   [
+    "Achraf Hakimi",
+    57.4687
+   ],
+   [
+    "Alexander Isak",
+    56.4567
+   ],
+   [
+    "Yassir Zabiri",
+    56.3019
+   ]
+  ],
+  "mine": [
+   [
+    "Raphinha",
+    63.7883
+   ],
+   [
+    "Lamine Yamal",
+    61.3311
+   ],
+   [
+    "Erling Haaland",
+    55.0872
+   ],
+   [
+    "Michael Olise",
+    54.1577
+   ],
+   [
+    "Kylian Mbappé",
+    53.5851
+   ],
+   [
+    "Harry Kane",
+    52.9636
+   ],
+   [
+    "Fermín López",
+    48.1315
+   ],
+   [
+    "Achraf Hakimi",
+    46.459
+   ],
+   [
+    "Niclas Füllkrug",
+    45.564
+   ],
+   [
+    "Yassir Zabiri",
+    43.9921
+   ]
+  ]
  }
 ]
